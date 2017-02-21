@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-02-14 16:46+0300\n"
+"POT-Creation-Date: 2017-02-21 20:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -19,47 +19,47 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
 
-#: templates/base.j2:33
+#: templates/base.j2:36
 msgid "Feedback"
 msgstr "Reacción"
 
-#: templates/base.j2:43
+#: templates/base.j2:46
 msgid "Login to track your productivity"
 msgstr "Inicia sesión para hacer un seguimiento de tu productividad"
 
-#: templates/base.j2:45
+#: templates/base.j2:48
 msgid "Stats"
 msgstr "Estadísticas"
 
-#: templates/base.j2:55
+#: templates/base.j2:58
 msgid "Login to log your work"
 msgstr "Inicia sesión para registrar tu trabajo"
 
-#: templates/base.j2:57
+#: templates/base.j2:60
 msgid "Worklog"
 msgstr "Registro"
 
-#: templates/base.j2:116
+#: templates/base.j2:119
 msgid "Logout"
 msgstr "Salir"
 
-#: templates/base.j2:167
+#: templates/base.j2:170
 msgid "Sign Up / Login"
 msgstr "Apuntarse / Login"
 
-#: templates/base.j2:170
+#: templates/base.j2:173
 msgid "as Google user"
 msgstr "como usario Google"
 
-#: templates/base.j2:173
+#: templates/base.j2:176
 msgid "as Facebook user"
 msgstr "como usuario Facebook"
 
-#: templates/base.j2:176
+#: templates/base.j2:179
 msgid "as Github user"
 msgstr "como usuario Github"
 
-#: templates/base.j2:193
+#: templates/base.j2:198
 msgid "version"
 msgstr "versión"
 
@@ -217,30 +217,36 @@ msgid "Upcomming features"
 msgstr "Próximas mejoras"
 
 #: templates/news.j2:22
+#, fuzzy
+#| msgid "Febrary"
+msgid "February"
+msgstr "Febrero"
+
+#: templates/news.j2:33
 msgid "October"
 msgstr "Octubre"
 
-#: templates/news.j2:33
+#: templates/news.j2:44
 msgid "May"
 msgstr "Mayo"
 
-#: templates/news.j2:46
+#: templates/news.j2:57
 msgid "March"
 msgstr "Marzo"
 
-#: templates/news.j2:56
+#: templates/news.j2:67
 msgid "Febrary"
 msgstr "Febrero"
 
-#: templates/news.j2:68
+#: templates/news.j2:79
 msgid "December"
 msgstr "Diciembre"
 
-#: templates/news.j2:78
+#: templates/news.j2:89
 msgid "September"
 msgstr "Septiembre"
 
-#: templates/news.j2:91
+#: templates/news.j2:102
 msgid "August"
 msgstr "Agosto"
 

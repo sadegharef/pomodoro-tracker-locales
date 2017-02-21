@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-02-14 16:46+0300\n"
+"POT-Creation-Date: 2017-02-21 20:27+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nb_NO\n"
@@ -19,47 +19,47 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
 
-#: templates/base.j2:33
+#: templates/base.j2:36
 msgid "Feedback"
 msgstr ""
 
-#: templates/base.j2:43
+#: templates/base.j2:46
 msgid "Login to track your productivity"
 msgstr ""
 
-#: templates/base.j2:45
+#: templates/base.j2:48
 msgid "Stats"
 msgstr ""
 
-#: templates/base.j2:55
+#: templates/base.j2:58
 msgid "Login to log your work"
 msgstr ""
 
-#: templates/base.j2:57
+#: templates/base.j2:60
 msgid "Worklog"
 msgstr ""
 
-#: templates/base.j2:116
+#: templates/base.j2:119
 msgid "Logout"
 msgstr ""
 
-#: templates/base.j2:167
+#: templates/base.j2:170
 msgid "Sign Up / Login"
 msgstr ""
 
-#: templates/base.j2:170
+#: templates/base.j2:173
 msgid "as Google user"
 msgstr ""
 
-#: templates/base.j2:173
+#: templates/base.j2:176
 msgid "as Facebook user"
 msgstr ""
 
-#: templates/base.j2:176
+#: templates/base.j2:179
 msgid "as Github user"
 msgstr ""
 
-#: templates/base.j2:193
+#: templates/base.j2:198
 msgid "version"
 msgstr ""
 
@@ -196,30 +196,34 @@ msgid "Upcomming features"
 msgstr ""
 
 #: templates/news.j2:22
-msgid "October"
+msgid "February"
 msgstr ""
 
 #: templates/news.j2:33
+msgid "October"
+msgstr ""
+
+#: templates/news.j2:44
 msgid "May"
 msgstr ""
 
-#: templates/news.j2:46
+#: templates/news.j2:57
 msgid "March"
 msgstr ""
 
-#: templates/news.j2:56
+#: templates/news.j2:67
 msgid "Febrary"
 msgstr ""
 
-#: templates/news.j2:68
+#: templates/news.j2:79
 msgid "December"
 msgstr ""
 
-#: templates/news.j2:78
+#: templates/news.j2:89
 msgid "September"
 msgstr ""
 
-#: templates/news.j2:91
+#: templates/news.j2:102
 msgid "August"
 msgstr ""
 

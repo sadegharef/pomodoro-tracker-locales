@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-02-14 16:46+0300\n"
+"POT-Creation-Date: 2017-02-21 20:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -65,7 +65,6 @@ msgstr "Oluştur"
 
 #: static/tags/feedback/main.tag.html:58
 #, fuzzy
-#| msgid "That you for the feedback! Your message is awaiting moderation."
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Geri bildirim için teşekkürler! Mesajınız yönetici onayını bekliyor."
 
@@ -273,56 +272,57 @@ msgstr "Kapat"
 msgid "Save changes"
 msgstr "Değişiklikleri kaydet"
 
-#: static/tags/pomodoro/timer.tag.html:14
+#: static/tags/pomodoro/timer.tag.html:12
 msgid "Tune the timer"
 msgstr "Zamanlayıcıyı ayarla"
 
-#: static/tags/pomodoro/timer.tag.html:19
+#: static/tags/pomodoro/timer.tag.html:17
 msgid "START"
 msgstr "BAŞLAT"
 
-#: static/tags/pomodoro/timer.tag.html:20
+#: static/tags/pomodoro/timer.tag.html:18
 msgid "RESUME"
 msgstr "DEVAM ET"
 
-#: static/tags/pomodoro/timer.tag.html:21
+#: static/tags/pomodoro/timer.tag.html:19
 msgid "PAUSE"
 msgstr "DURAKLAT"
 
-#: static/tags/pomodoro/timer.tag.html:22
-#: static/tags/pomodoro/timer.tag.html:23
+#: static/tags/pomodoro/timer.tag.html:20
+#: static/tags/pomodoro/timer.tag.html:119
+#: static/tags/pomodoro/timer.tag.html:121
 msgid "STOP"
 msgstr "DURDUR"
 
-#: static/tags/pomodoro/timer.tag.html:24
-msgid "DELAY"
-msgstr "Gecikme"
-
-#: static/tags/pomodoro/timer.tag.html:26
+#: static/tags/pomodoro/timer.tag.html:23
 msgid "SKIP"
 msgstr "GEÇ"
 
-#: static/tags/pomodoro/timer.tag.html:73
+#: static/tags/pomodoro/timer.tag.html:70
 msgid "Pomodoro is finished. Have a break."
 msgstr "Pomodoro tamamlandı. Mola alın."
 
-#: static/tags/pomodoro/timer.tag.html:77
+#: static/tags/pomodoro/timer.tag.html:74
 msgid "Break is over. The next pomodoro will go better!"
 msgstr "Mola bitti. Sıradaki pomodoro daha iyi geçecek!"
 
-#: static/tags/pomodoro/timer.tag.html:117
+#: static/tags/pomodoro/timer.tag.html:114
 msgid "POMODORO"
 msgstr "POMODORO"
 
-#: static/tags/pomodoro/timer.tag.html:118
+#: static/tags/pomodoro/timer.tag.html:115
 msgid "TAKE A SHORT BREAK"
 msgstr "KISA BİR MOLA AL"
 
-#: static/tags/pomodoro/timer.tag.html:119
+#: static/tags/pomodoro/timer.tag.html:116
 msgid "TAKE A LONG BREAK"
 msgstr "UZUN BİR MOLA AL"
 
 #: static/tags/pomodoro/timer.tag.html:123
+msgid "DELAY"
+msgstr "Gecikme"
+
+#: static/tags/pomodoro/timer.tag.html:127
 msgid "The Pomodoro is running"
 msgstr "Pomodoro devam ediyor"
 
@@ -359,10 +359,12 @@ msgid "Try to add some tasks use the form above"
 msgstr "Yukarıdaki formu kullanmak için birkaç görev ekleyin"
 
 #: static/tags/pomodoro/todo/main.tag.html:70
-msgid "Double click/tap to edit items. Drag&Drop/Touch by number to sort items."
+#, fuzzy
+#| msgid "Double click/tap to edit items. Drag&Drop/Touch by number to sort
+#| items."
+msgid "Double click/tap to edit items. Drag&Drop/Touch to sort items."
 msgstr ""
-"Öğeleri düzenlemek için çift tıklayın/dokunun. Numaraya göre sıralamak "
-"için Sürükle&Bırak/Dokun kullanın."
+"Öğeleri düzenlemek için çift tıklayın/dokunun. Sıralamak için Sürükle/Taşı."
 
 #: static/tags/stats/chart.tag.html:6 static/tags/stats/chart.tag.html:8
 #: static/tags/stats/chart.tag.html:27 static/tags/stats/chart.tag.html:29
