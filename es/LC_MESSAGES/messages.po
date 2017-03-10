@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-02-21 20:26+0300\n"
+"POT-Creation-Date: 2017-03-09 18:24+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -24,42 +24,38 @@ msgid "Feedback"
 msgstr "Reacción"
 
 #: templates/base.j2:46
-msgid "Login to track your productivity"
-msgstr "Inicia sesión para hacer un seguimiento de tu productividad"
+msgid "Login to view your stats"
+msgstr "Inicia sesión para registrar tu trabajo"
 
 #: templates/base.j2:48
 msgid "Stats"
 msgstr "Estadísticas"
 
-#: templates/base.j2:58
-msgid "Login to log your work"
-msgstr "Inicia sesión para registrar tu trabajo"
+#: templates/base.j2:53
+msgid "Settings"
+msgstr "Ajustes"
 
-#: templates/base.j2:60
-msgid "Worklog"
-msgstr "Registro"
-
-#: templates/base.j2:119
+#: templates/base.j2:112
 msgid "Logout"
 msgstr "Salir"
 
-#: templates/base.j2:170
+#: templates/base.j2:163
 msgid "Sign Up / Login"
 msgstr "Apuntarse / Login"
 
-#: templates/base.j2:173
+#: templates/base.j2:166
 msgid "as Google user"
 msgstr "como usario Google"
 
-#: templates/base.j2:176
+#: templates/base.j2:169
 msgid "as Facebook user"
 msgstr "como usuario Facebook"
 
-#: templates/base.j2:179
+#: templates/base.j2:172
 msgid "as Github user"
 msgstr "como usuario Github"
 
-#: templates/base.j2:198
+#: templates/base.j2:191
 msgid "version"
 msgstr "versión"
 
@@ -212,41 +208,39 @@ msgstr ""
 "No deberías usar la Técnica Pomodoro para las actividades que haces "
 "durante tu tiempo libre. ¡Disfruta del tiempo libre!"
 
-#: templates/news.j2:11
+#: templates/news.j2:6
 msgid "Upcomming features"
 msgstr "Próximas mejoras"
 
-#: templates/news.j2:22
-#, fuzzy
-#| msgid "Febrary"
+#: templates/news.j2:17
 msgid "February"
 msgstr "Febrero"
 
-#: templates/news.j2:33
+#: templates/news.j2:29
 msgid "October"
 msgstr "Octubre"
 
-#: templates/news.j2:44
+#: templates/news.j2:40
 msgid "May"
 msgstr "Mayo"
 
-#: templates/news.j2:57
+#: templates/news.j2:53
 msgid "March"
 msgstr "Marzo"
 
-#: templates/news.j2:67
+#: templates/news.j2:63
 msgid "Febrary"
 msgstr "Febrero"
 
-#: templates/news.j2:79
+#: templates/news.j2:75
 msgid "December"
 msgstr "Diciembre"
 
-#: templates/news.j2:89
+#: templates/news.j2:85
 msgid "September"
 msgstr "Septiembre"
 
-#: templates/news.j2:102
+#: templates/news.j2:98
 msgid "August"
 msgstr "Agosto"
 
@@ -264,4 +258,10 @@ msgstr "Agosto"
 
 #~ msgid "Your language"
 #~ msgstr "Tu idioma"
+
+#~ msgid "Login to track your productivity"
+#~ msgstr "Inicia sesión para hacer un seguimiento de tu productividad"
+
+#~ msgid "Worklog"
+#~ msgstr "Registro"
 

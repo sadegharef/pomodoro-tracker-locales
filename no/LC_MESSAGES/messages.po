@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-02-21 20:27+0300\n"
+"POT-Creation-Date: 2017-03-09 18:25+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nb_NO\n"
@@ -24,42 +24,38 @@ msgid "Feedback"
 msgstr ""
 
 #: templates/base.j2:46
-msgid "Login to track your productivity"
+msgid "Login to view your stats"
 msgstr ""
 
 #: templates/base.j2:48
 msgid "Stats"
 msgstr ""
 
-#: templates/base.j2:58
-msgid "Login to log your work"
+#: templates/base.j2:53
+msgid "Settings"
 msgstr ""
 
-#: templates/base.j2:60
-msgid "Worklog"
-msgstr ""
-
-#: templates/base.j2:119
+#: templates/base.j2:112
 msgid "Logout"
 msgstr ""
 
-#: templates/base.j2:170
+#: templates/base.j2:163
 msgid "Sign Up / Login"
 msgstr ""
 
-#: templates/base.j2:173
+#: templates/base.j2:166
 msgid "as Google user"
 msgstr ""
 
-#: templates/base.j2:176
+#: templates/base.j2:169
 msgid "as Facebook user"
 msgstr ""
 
-#: templates/base.j2:179
+#: templates/base.j2:172
 msgid "as Github user"
 msgstr ""
 
-#: templates/base.j2:198
+#: templates/base.j2:191
 msgid "version"
 msgstr ""
 
@@ -191,39 +187,48 @@ msgid ""
 "free time. Enjoy free time!"
 msgstr ""
 
-#: templates/news.j2:11
+#: templates/news.j2:6
 msgid "Upcomming features"
 msgstr ""
 
-#: templates/news.j2:22
+#: templates/news.j2:17
 msgid "February"
 msgstr ""
 
-#: templates/news.j2:33
+#: templates/news.j2:29
 msgid "October"
 msgstr ""
 
-#: templates/news.j2:44
+#: templates/news.j2:40
 msgid "May"
 msgstr ""
 
-#: templates/news.j2:57
+#: templates/news.j2:53
 msgid "March"
 msgstr ""
 
-#: templates/news.j2:67
+#: templates/news.j2:63
 msgid "Febrary"
 msgstr ""
 
-#: templates/news.j2:79
+#: templates/news.j2:75
 msgid "December"
 msgstr ""
 
-#: templates/news.j2:89
+#: templates/news.j2:85
 msgid "September"
 msgstr ""
 
-#: templates/news.j2:102
+#: templates/news.j2:98
 msgid "August"
 msgstr ""
+
+#~ msgid "Login to track your productivity"
+#~ msgstr ""
+
+#~ msgid "Login to log your work"
+#~ msgstr ""
+
+#~ msgid "Worklog"
+#~ msgstr ""
 

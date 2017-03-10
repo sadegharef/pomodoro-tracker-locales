@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-02-21 20:26+0300\n"
+"POT-Creation-Date: 2017-03-09 18:24+0300\n"
 "PO-Revision-Date: 2017-02-06 20:20-0200\n"
 "Last-Translator: LUCAS ERNESTO KINDINGER <kindingerlek@hotmail.com>\n"
 "Language: pt_BR\n"
@@ -56,7 +56,7 @@ msgstr "Título"
 #: static/tags/pomodoro/history.tag.html:30
 #: static/tags/pomodoro/todo/main.tag.html:8
 #: static/tags/pomodoro/todo/main.tag.html:48
-#: static/tags/worklog/main.tag.html:27 static/tags/worklog/main.tag.html:44
+#: static/tags/worklog/main.tag.html:31 static/tags/worklog/main.tag.html:48
 msgid "Description"
 msgstr "Descrição"
 
@@ -65,7 +65,6 @@ msgid "Create"
 msgstr "Criar"
 
 #: static/tags/feedback/main.tag.html:58
-#, fuzzy
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Obrigado pelo feedback! Sua mensagem está aguardando por moderação"
 
@@ -78,11 +77,11 @@ msgstr "Atividades"
 #: static/tags/pomodoro/activities.tag.html:43
 #: static/tags/pomodoro/history.tag.html:6
 #: static/tags/pomodoro/history.tag.html:19
-#: static/tags/pomodoro/settings.tag.html:199
 #: static/tags/pomodoro/todo/main.tag.html:7
 #: static/tags/pomodoro/todo/main.tag.html:15
 #: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/worklog/main.tag.html:26 static/tags/worklog/main.tag.html:38
+#: static/tags/settings/misc.tag.html:44 static/tags/worklog/main.tag.html:30
+#: static/tags/worklog/main.tag.html:42
 msgid "Category"
 msgstr "Categoria"
 
@@ -117,7 +116,7 @@ msgstr "Adicionar à lista PARA FAZER"
 
 #: static/tags/pomodoro/activities.tag.html:72
 #: static/tags/pomodoro/history.tag.html:48
-#: static/tags/worklog/main.tag.html:74
+#: static/tags/worklog/main.tag.html:78
 msgid "Double click/tap to edit items."
 msgstr "Clique duplo para editar os itens."
 
@@ -145,7 +144,7 @@ msgid "Add to favorites"
 msgstr "Adicionar aos favoritos"
 
 #: static/tags/pomodoro/history.tag.html:45
-#: static/tags/worklog/main.tag.html:76
+#: static/tags/worklog/main.tag.html:80
 msgid "Records are empty"
 msgstr "Não há registros"
 
@@ -158,120 +157,118 @@ msgid "Preferences"
 msgstr "Preferência"
 
 #: static/tags/pomodoro/settings.tag.html:15
+#: static/tags/settings/main.tag.html:11
 msgid "Timer"
 msgstr "Cronômetro"
 
 #: static/tags/pomodoro/settings.tag.html:18
+#: static/tags/settings/main.tag.html:12
 msgid "Notifications"
 msgstr "Notificações"
 
-#: static/tags/pomodoro/settings.tag.html:21
-msgid "Misc"
-msgstr "Outros"
-
-#: static/tags/pomodoro/settings.tag.html:30
+#: static/tags/pomodoro/settings.tag.html:27
+#: static/tags/settings/timer.tag.html:5
 msgid "Pomodoro duration:"
 msgstr "Duração do pomodoro:"
 
-#: static/tags/pomodoro/settings.tag.html:33
-#: static/tags/pomodoro/settings.tag.html:40
-#: static/tags/pomodoro/settings.tag.html:47
+#: static/tags/pomodoro/settings.tag.html:30
+#: static/tags/pomodoro/settings.tag.html:37
+#: static/tags/pomodoro/settings.tag.html:44
+#: static/tags/settings/timer.tag.html:8 static/tags/settings/timer.tag.html:15
+#: static/tags/settings/timer.tag.html:22
 msgid "in minutes"
 msgstr "em minutos"
 
-#: static/tags/pomodoro/settings.tag.html:37
+#: static/tags/pomodoro/settings.tag.html:34
+#: static/tags/settings/timer.tag.html:12
 msgid "Short break duration:"
 msgstr "Duração da pausa curta"
 
-#: static/tags/pomodoro/settings.tag.html:44
+#: static/tags/pomodoro/settings.tag.html:41
+#: static/tags/settings/timer.tag.html:19
 msgid "Long break duration:"
 msgstr "Duração da pausa longa:"
 
-#: static/tags/pomodoro/settings.tag.html:51
+#: static/tags/pomodoro/settings.tag.html:48
+#: static/tags/settings/timer.tag.html:26
 msgid "Long break delay:"
 msgstr "Atrasp da pausa longa:"
 
-#: static/tags/pomodoro/settings.tag.html:54
+#: static/tags/pomodoro/settings.tag.html:51
+#: static/tags/settings/timer.tag.html:29
 msgid "in pomodoros"
 msgstr "em pomodoros"
 
-#: static/tags/pomodoro/settings.tag.html:63
+#: static/tags/pomodoro/settings.tag.html:60
+#: static/tags/settings/timer.tag.html:38
 msgid "Auto start pomodoros"
 msgstr "Iniciar automaticamente os pomodoros"
 
-#: static/tags/pomodoro/settings.tag.html:73
+#: static/tags/pomodoro/settings.tag.html:70
+#: static/tags/settings/timer.tag.html:48
 msgid "Auto start breaks"
 msgstr "Iniciar automaticamente as pausas"
 
-#: static/tags/pomodoro/settings.tag.html:83
+#: static/tags/pomodoro/settings.tag.html:80
+#: static/tags/settings/notifications.tag.html:7
 msgid "Volume"
 msgstr "Volume"
 
-#: static/tags/pomodoro/settings.tag.html:105
+#: static/tags/pomodoro/settings.tag.html:102
+#: static/tags/settings/notifications.tag.html:29
 msgid "Play alarm sound"
 msgstr "Tocar som do alarme"
 
-#: static/tags/pomodoro/settings.tag.html:115
+#: static/tags/pomodoro/settings.tag.html:112
+#: static/tags/settings/notifications.tag.html:39
 msgid "Play ticking sound"
 msgstr "Tocar som do tic-tac"
 
-#: static/tags/pomodoro/settings.tag.html:125
+#: static/tags/pomodoro/settings.tag.html:122
+#: static/tags/settings/notifications.tag.html:49
 msgid "Enable Web Notifications"
 msgstr "Ativar notificações na página"
 
-#: static/tags/pomodoro/settings.tag.html:135
+#: static/tags/pomodoro/settings.tag.html:132
+#: static/tags/settings/notifications.tag.html:59
 msgid "Enable Browser Alerts"
 msgstr "Ativar alertas no navegador"
 
-#: static/tags/pomodoro/settings.tag.html:136
+#: static/tags/pomodoro/settings.tag.html:133
+#: static/tags/settings/notifications.tag.html:60
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Chamar alertas do navegador quando um pomodoro ou pausa terminar."
 
-#: static/tags/pomodoro/settings.tag.html:142
+#: static/tags/pomodoro/settings.tag.html:139
+#: static/tags/settings/notifications.tag.html:66
 msgid "Hide notificaions"
 msgstr "Esconder notificações"
 
-#: static/tags/pomodoro/settings.tag.html:146
+#: static/tags/pomodoro/settings.tag.html:143
+#: static/tags/settings/notifications.tag.html:70
 msgid "in 2 seconds"
 msgstr "em 2 segundos"
 
-#: static/tags/pomodoro/settings.tag.html:147
+#: static/tags/pomodoro/settings.tag.html:144
+#: static/tags/settings/notifications.tag.html:71
 msgid "in 3 seconds"
 msgstr "em 3 segundos"
 
-#: static/tags/pomodoro/settings.tag.html:148
+#: static/tags/pomodoro/settings.tag.html:145
+#: static/tags/settings/notifications.tag.html:72
 msgid "in 5 seconds"
 msgstr "em 5 segundos"
 
-#: static/tags/pomodoro/settings.tag.html:149
+#: static/tags/pomodoro/settings.tag.html:146
+#: static/tags/settings/notifications.tag.html:73
 msgid "in 10 seconds"
 msgstr "em 10 segundos"
 
-#: static/tags/pomodoro/settings.tag.html:161
-msgid "Date format"
-msgstr "Formato da data:"
-
-#: static/tags/pomodoro/settings.tag.html:174
-msgid "Time format"
-msgstr "Formato das horas:"
-
-#: static/tags/pomodoro/settings.tag.html:188
-msgid "Clear daily history after midnight"
-msgstr "Apagar histórico diariamente, após a meia-noite"
-
-#: static/tags/pomodoro/settings.tag.html:195
-msgid "Categories"
-msgstr "Categorias"
-
-#: static/tags/pomodoro/settings.tag.html:201
-msgid "Add category"
-msgstr "Adicionar Categoria"
-
-#: static/tags/pomodoro/settings.tag.html:220
+#: static/tags/pomodoro/settings.tag.html:157
 msgid "Close"
 msgstr "Fechar"
 
-#: static/tags/pomodoro/settings.tag.html:221
+#: static/tags/pomodoro/settings.tag.html:158
 msgid "Save changes"
 msgstr "Salvar alterações"
 
@@ -323,7 +320,7 @@ msgstr "FAÇA UMA PAUSA LONGA"
 
 #: static/tags/pomodoro/timer.tag.html:123
 msgid "DELAY"
-msgstr ""
+msgstr "DEMORA"
 
 #: static/tags/pomodoro/timer.tag.html:127
 msgid "The Pomodoro is running"
@@ -362,47 +359,60 @@ msgid "Try to add some tasks use the form above"
 msgstr "Experimente adicionar algumas tarefas pelo formulário abaixo"
 
 #: static/tags/pomodoro/todo/main.tag.html:70
-#, fuzzy
-#| msgid "Double click/tap to edit items. Drag&Drop/Touch by number to sort
-#| items."
 msgid "Double click/tap to edit items. Drag&Drop/Touch to sort items."
-msgstr ""
-"Clique duplo para editar os itens. Arraste e Solte para ordená-los"
+msgstr "Clique duplo para editar os itens. Arraste e Solte para ordená-los"
 
-#: static/tags/stats/chart.tag.html:6 static/tags/stats/chart.tag.html:8
-#: static/tags/stats/chart.tag.html:27 static/tags/stats/chart.tag.html:29
-#: static/tags/stats/chart.tag.html:48 static/tags/stats/chart.tag.html:50
-#, fuzzy
+#: static/tags/settings/main.tag.html:10
+msgid "Application"
+msgstr "Aplicação"
+
+#: static/tags/settings/main.tag.html:13
+msgid "Integrations"
+msgstr "Integrações"
+
+#: static/tags/settings/misc.tag.html:6
+msgid "Date format"
+msgstr "Formato da data:"
+
+#: static/tags/settings/misc.tag.html:19
+msgid "Time format"
+msgstr "Formato das horas:"
+
+#: static/tags/settings/misc.tag.html:33
+msgid "Clear daily history after midnight"
+msgstr "Apagar histórico diariamente, após a meia-noite"
+
+#: static/tags/settings/misc.tag.html:40
+msgid "Categories"
+msgstr "Categorias"
+
+#: static/tags/settings/misc.tag.html:46
+msgid "Add category"
+msgstr "Adicionar Categoria"
+
+#: static/tags/worklog/chart.tag.html:5 static/tags/worklog/chart.tag.html:7
 msgid "time"
-msgstr "Cronômetro"
+msgstr "cronômetro"
 
-#: static/tags/stats/chart.tag.html:11 static/tags/stats/chart.tag.html:13
-#: static/tags/stats/chart.tag.html:32 static/tags/stats/chart.tag.html:34
-#: static/tags/stats/chart.tag.html:53 static/tags/stats/chart.tag.html:55
+#: static/tags/worklog/chart.tag.html:10 static/tags/worklog/chart.tag.html:12
 msgid "number"
-msgstr ""
+msgstr "número"
 
-#: static/tags/stats/chart.tag.html:16
-msgid "Last 30 days"
-msgstr "Nos últimos 30 dias"
+#: static/tags/worklog/chart.tag.html:15
+msgid "Activity by days"
+msgstr "Atividade por dias"
 
-#: static/tags/stats/chart.tag.html:20 static/tags/stats/chart.tag.html:41
-#: static/tags/stats/chart.tag.html:62
+#: static/tags/worklog/chart.tag.html:16
+msgid "Activity by weeks"
+msgstr "Atividade por semanas"
+
+#: static/tags/worklog/chart.tag.html:17
+msgid "Activity by months"
+msgstr "Atividade por meses"
+
+#: static/tags/worklog/chart.tag.html:21
 msgid "median"
 msgstr ""
-
-#: static/tags/stats/chart.tag.html:21 static/tags/stats/chart.tag.html:42
-#: static/tags/stats/chart.tag.html:63
-msgid "quantile"
-msgstr ""
-
-#: static/tags/stats/chart.tag.html:37
-msgid "Last 12 weeks"
-msgstr "Últimas 12 semanas"
-
-#: static/tags/stats/chart.tag.html:58
-msgid "Last 6 months"
-msgstr "Últimos 6 Meses"
 
 #: static/tags/worklog/info.tag.html:12
 msgid "Pomodoros"
@@ -420,125 +430,125 @@ msgstr "Dias trabalhados"
 msgid "Average per day"
 msgstr "Média por dia"
 
-#: static/tags/worklog/main.tag.html:25
+#: static/tags/worklog/main.tag.html:29
 msgid "Date"
 msgstr "Data"
 
-#: static/tags/worklog/main.tag.html:28
+#: static/tags/worklog/main.tag.html:32
 msgid "Duration"
 msgstr "Duração"
 
-#: static/tags/worklog/main.tag.html:48 static/tags/worklog/main.tag.html:61
+#: static/tags/worklog/main.tag.html:52 static/tags/worklog/main.tag.html:65
 msgid "Delete"
 msgstr "Apagar"
 
-#: static/tags/worklog/main.tag.html:59
+#: static/tags/worklog/main.tag.html:63
 msgid "Are you sure want to delete"
 msgstr "Tem certeza que deseja apagar"
 
-#: static/tags/worklog/main.tag.html:62 static/tags/worklog/main.tag.html:141
+#: static/tags/worklog/main.tag.html:66 static/tags/worklog/main.tag.html:140
 msgid "Cancel"
 msgstr "Cancelar"
 
-#: static/tags/worklog/main.tag.html:77
+#: static/tags/worklog/main.tag.html:81
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Experimente completar alguns pomodoros ou escolha um período diferente"
 
-#: static/tags/worklog/main.tag.html:81
-msgid "Import/Export"
-msgstr "Importar e Exportar"
-
-#: static/tags/worklog/main.tag.html:85
+#: static/tags/worklog/main.tag.html:88
 msgid "Export the records as CSV"
 msgstr "Exportar registros como CSV"
 
-#: static/tags/worklog/main.tag.html:92
+#: static/tags/worklog/main.tag.html:95
 msgid "Import CSV"
 msgstr "Importar CSV"
 
-#: static/tags/worklog/main.tag.html:140
+#: static/tags/worklog/main.tag.html:139
 msgid "Apply"
-msgstr ""
+msgstr "Aplique"
 
-#: static/tags/worklog/main.tag.html:142
+#: static/tags/worklog/main.tag.html:141
 msgid "Custom"
-msgstr ""
+msgstr "Personalizado"
+
+#: static/tags/worklog/main.tag.html:143
+msgid "January"
+msgstr "Janeiro"
 
 #: static/tags/worklog/main.tag.html:144
-msgid "January"
-msgstr ""
+msgid "February"
+msgstr "Fevereiro"
 
 #: static/tags/worklog/main.tag.html:145
-msgid "February"
-msgstr ""
+msgid "March"
+msgstr "Marcha"
 
 #: static/tags/worklog/main.tag.html:146
-msgid "March"
-msgstr ""
+msgid "April"
+msgstr "Abril"
 
 #: static/tags/worklog/main.tag.html:147
-msgid "April"
-msgstr ""
+msgid "May"
+msgstr "Pode"
 
 #: static/tags/worklog/main.tag.html:148
-msgid "May"
-msgstr ""
+msgid "June"
+msgstr "Junho"
 
 #: static/tags/worklog/main.tag.html:149
-msgid "June"
-msgstr ""
+msgid "July"
+msgstr "Julho"
 
 #: static/tags/worklog/main.tag.html:150
-msgid "July"
-msgstr ""
+msgid "August"
+msgstr "Agosto"
 
 #: static/tags/worklog/main.tag.html:151
-msgid "August"
-msgstr ""
+msgid "September"
+msgstr "Setembro"
 
 #: static/tags/worklog/main.tag.html:152
-msgid "September"
-msgstr ""
+msgid "October"
+msgstr "Outubro"
 
 #: static/tags/worklog/main.tag.html:153
-msgid "October"
-msgstr ""
+msgid "November"
+msgstr "Novembro"
 
 #: static/tags/worklog/main.tag.html:154
-msgid "November"
-msgstr ""
-
-#: static/tags/worklog/main.tag.html:155
 msgid "December"
-msgstr ""
+msgstr "Dezembro"
+
+#: static/tags/worklog/main.tag.html:157
+msgid "Today"
+msgstr "Hoje"
 
 #: static/tags/worklog/main.tag.html:158
-msgid "Today"
-msgstr ""
-
-#: static/tags/worklog/main.tag.html:159
 msgid "Yesterday"
 msgstr "Ontem"
 
-#: static/tags/worklog/main.tag.html:160
-msgid "Last 7 Days"
-msgstr "Nos últimos 7 dias"
+#: static/tags/worklog/main.tag.html:159 static/tags/worklog/main.tag.html:165
+msgid "This Week"
+msgstr "Esta semana"
+
+#: static/tags/worklog/main.tag.html:160 static/tags/worklog/main.tag.html:166
+msgid "This Month"
+msgstr "Este mês"
 
 #: static/tags/worklog/main.tag.html:161
-msgid "Last 30 Days"
-msgstr "Nos últimos 30 dias"
+msgid "This Quarter"
+msgstr "Neste trimestre"
 
 #: static/tags/worklog/main.tag.html:162
-msgid "Last 90 Days"
-msgstr "Nos últimos 90 dias"
+msgid "Last Week"
+msgstr "Semana passada"
 
 #: static/tags/worklog/main.tag.html:163
-msgid "This Week"
-msgstr ""
+msgid "Last Month"
+msgstr "Mês passado"
 
 #: static/tags/worklog/main.tag.html:164
-msgid "This Month"
-msgstr ""
+msgid "Last Quarter"
+msgstr "Ultimo quarto"
 
 #~ msgid "Save (enter)"
 #~ msgstr "Salvar (enter)"
@@ -563,4 +573,25 @@ msgstr ""
 
 #~ msgid "Febrary"
 #~ msgstr ""
+
+#~ msgid "Last 30 days"
+#~ msgstr "Nos últimos 30 dias"
+
+#~ msgid "quantile"
+#~ msgstr ""
+
+#~ msgid "Import/Export"
+#~ msgstr "Importar e Exportar"
+
+#~ msgid "Last 7 Days"
+#~ msgstr "Nos últimos 7 dias"
+
+#~ msgid "Last 30 Days"
+#~ msgstr "Nos últimos 30 dias"
+
+#~ msgid "Last 90 Days"
+#~ msgstr "Nos últimos 90 dias"
+
+#~ msgid "Misc"
+#~ msgstr "Outros"
 
