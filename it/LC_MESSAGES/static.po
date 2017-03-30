@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-03-16 12:56+0300\n"
+"POT-Creation-Date: 2017-03-30 18:24+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -153,12 +153,12 @@ msgid "Preferences"
 msgstr "Preferenze"
 
 #: static/tags/pomodoro/settings.tag.html:15
-#: static/tags/settings/main.tag.html:11
+#: static/tags/settings/main.tag.html:6
 msgid "Timer"
 msgstr "Contaminuti"
 
 #: static/tags/pomodoro/settings.tag.html:18
-#: static/tags/settings/main.tag.html:12
+#: static/tags/settings/main.tag.html:7
 msgid "Notifications"
 msgstr "Notifiche"
 
@@ -261,6 +261,7 @@ msgid "in 10 seconds"
 msgstr "in 10 secondi"
 
 #: static/tags/pomodoro/settings.tag.html:157
+#: static/tags/settings/integrations/telegram.tag.html:19
 msgid "Close"
 msgstr "Vicino"
 
@@ -358,19 +359,11 @@ msgstr ""
 msgid "Double click/tap to edit items. Drag&Drop/Touch to sort items."
 msgstr "Doppio click/tap per modificare gli elementi"
 
-#: static/tags/settings/integrations.tag.html:6
-msgid "Connect"
-msgstr "La connessione"
-
-#: static/tags/settings/integrations.tag.html:7
-msgid "Disconnect"
-msgstr "Disconnessione"
-
-#: static/tags/settings/main.tag.html:10
+#: static/tags/settings/main.tag.html:5
 msgid "Application"
 msgstr "Applicazione"
 
-#: static/tags/settings/main.tag.html:13
+#: static/tags/settings/main.tag.html:8
 msgid "Integrations"
 msgstr "Integrazioni"
 
@@ -393,6 +386,68 @@ msgstr "Categorie"
 #: static/tags/settings/misc.tag.html:48
 msgid "Add category"
 msgstr "Aggiungere categoria"
+
+#: static/tags/settings/integrations/main.tag.html:12
+msgid "Connect"
+msgstr "La connessione"
+
+#: static/tags/settings/integrations/main.tag.html:13
+msgid "Disconnect"
+msgstr "Disconnessione"
+
+#: static/tags/settings/integrations/main.tag.html:33
+msgid "Integration with Google"
+msgstr ""
+
+#: static/tags/settings/integrations/main.tag.html:33
+msgid "Login to the service using Google authentication."
+msgstr ""
+
+#: static/tags/settings/integrations/main.tag.html:34
+msgid "Integration with Facebook"
+msgstr ""
+
+#: static/tags/settings/integrations/main.tag.html:34
+msgid "Login to the service using Facebook authentication."
+msgstr ""
+
+#: static/tags/settings/integrations/main.tag.html:35
+msgid "Integration with Github"
+msgstr ""
+
+#: static/tags/settings/integrations/main.tag.html:35
+msgid "Login to the service using Github authentication."
+msgstr ""
+
+#: static/tags/settings/integrations/main.tag.html:40
+msgid "Enable Telegram Bot"
+msgstr ""
+
+#: static/tags/settings/integrations/main.tag.html:40
+msgid "Get notifications, check history"
+msgstr ""
+
+#: static/tags/settings/integrations/telegram.tag.html:7
+msgid "Connect Telegram Bot"
+msgstr ""
+
+#: static/tags/settings/integrations/telegram.tag.html:11
+msgid "Add"
+msgstr ""
+
+#: static/tags/settings/integrations/telegram.tag.html:11
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr ""
+
+#: static/tags/settings/integrations/telegram.tag.html:13
+msgid "Code:"
+msgstr ""
+
+#: static/tags/settings/integrations/telegram.tag.html:20
+msgid "Register"
+msgstr ""
 
 #: static/tags/stats/chart.tag.html:5 static/tags/stats/chart.tag.html:7
 msgid "time"
