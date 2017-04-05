@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-03-30 18:24+0300\n"
+"POT-Creation-Date: 2017-04-05 17:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -80,7 +80,7 @@ msgstr "Actividades"
 #: static/tags/pomodoro/todo/main.tag.html:7
 #: static/tags/pomodoro/todo/main.tag.html:15
 #: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:46 static/tags/stats/main.tag.html:30
+#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:30
 #: static/tags/stats/main.tag.html:43
 msgid "Category"
 msgstr "Categoría"
@@ -375,15 +375,21 @@ msgstr "Formato de Fecha"
 msgid "Time format"
 msgstr "Formato de Hora"
 
-#: static/tags/settings/misc.tag.html:35
+#: static/tags/settings/misc.tag.html:32
+#, fuzzy
+#| msgid "time"
+msgid "Time zone"
+msgstr "tiempo"
+
+#: static/tags/settings/misc.tag.html:45
 msgid "Clear daily history after midnight"
 msgstr "Borrar diariamente el histórico después de medianoche"
 
-#: static/tags/settings/misc.tag.html:42
+#: static/tags/settings/misc.tag.html:52
 msgid "Categories"
 msgstr "Categorías"
 
-#: static/tags/settings/misc.tag.html:48
+#: static/tags/settings/misc.tag.html:58
 msgid "Add category"
 msgstr "Añadir categoría"
 
@@ -585,11 +591,11 @@ msgstr "Hoy"
 msgid "Yesterday"
 msgstr "Ayer"
 
-#: static/tags/stats/main.tag.html:160 static/tags/stats/main.tag.html:166
+#: static/tags/stats/main.tag.html:160
 msgid "This Week"
 msgstr "Esta Semana"
 
-#: static/tags/stats/main.tag.html:161 static/tags/stats/main.tag.html:167
+#: static/tags/stats/main.tag.html:161
 msgid "This Month"
 msgstr "Este Mes"
 
@@ -608,6 +614,14 @@ msgstr "El mes pasado"
 #: static/tags/stats/main.tag.html:165
 msgid "Last Quarter"
 msgstr "Último cuarto"
+
+#: static/tags/stats/main.tag.html:166
+msgid "Last 90 days"
+msgstr ""
+
+#: static/tags/stats/main.tag.html:167
+msgid "Last 180 days"
+msgstr ""
 
 #~ msgid "Last 30 days"
 #~ msgstr "Últimos 30 días"

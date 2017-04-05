@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-03-30 18:24+0300\n"
+"POT-Creation-Date: 2017-04-05 17:19+0300\n"
 "PO-Revision-Date: 2017-02-06 20:20-0200\n"
 "Last-Translator: LUCAS ERNESTO KINDINGER <kindingerlek@hotmail.com>\n"
 "Language: pt_BR\n"
@@ -210,38 +210,34 @@ msgstr ""
 "em seu tempo livre. Aproveite seu tempo livre!"
 
 #: templates/news.j2:6
-msgid "Upcomming features"
-msgstr "Funcionalidades que estão por vir"
-
-#: templates/news.j2:17
 msgid "February"
 msgstr "Fevereiro"
 
-#: templates/news.j2:29
+#: templates/news.j2:18
 msgid "October"
 msgstr "Outubro"
 
-#: templates/news.j2:40
+#: templates/news.j2:29
 msgid "May"
 msgstr "Maio"
 
-#: templates/news.j2:53
+#: templates/news.j2:42
 msgid "March"
 msgstr "Março"
 
-#: templates/news.j2:63
+#: templates/news.j2:52
 msgid "Febrary"
 msgstr "Fevereiro"
 
-#: templates/news.j2:75
+#: templates/news.j2:64
 msgid "December"
 msgstr "Dezembro"
 
-#: templates/news.j2:85
+#: templates/news.j2:74
 msgid "September"
 msgstr "Setembro"
 
-#: templates/news.j2:98
+#: templates/news.j2:87
 msgid "August"
 msgstr "Agosto"
 
@@ -274,4 +270,7 @@ msgstr "Agosto"
 
 #~ msgid "Worklog"
 #~ msgstr "Registro de Trabalho"
+
+#~ msgid "Upcomming features"
+#~ msgstr "Funcionalidades que estão por vir"
 

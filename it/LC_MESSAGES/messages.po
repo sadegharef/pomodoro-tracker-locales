@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-03-30 18:24+0300\n"
+"POT-Creation-Date: 2017-04-05 17:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -188,38 +188,34 @@ msgid ""
 msgstr ""
 
 #: templates/news.j2:6
-msgid "Upcomming features"
-msgstr "Prossime funzionalità"
-
-#: templates/news.j2:17
 msgid "February"
 msgstr "Febbraio"
 
-#: templates/news.j2:29
+#: templates/news.j2:18
 msgid "October"
 msgstr "Ottobre"
 
-#: templates/news.j2:40
+#: templates/news.j2:29
 msgid "May"
 msgstr "Maggio"
 
-#: templates/news.j2:53
+#: templates/news.j2:42
 msgid "March"
 msgstr "Marzo"
 
-#: templates/news.j2:63
+#: templates/news.j2:52
 msgid "Febrary"
 msgstr "Febbraio"
 
-#: templates/news.j2:75
+#: templates/news.j2:64
 msgid "December"
 msgstr "Dicembre"
 
-#: templates/news.j2:85
+#: templates/news.j2:74
 msgid "September"
 msgstr "Settembre"
 
-#: templates/news.j2:98
+#: templates/news.j2:87
 msgid "August"
 msgstr "Agosto"
 
@@ -249,4 +245,7 @@ msgstr "Agosto"
 
 #~ msgid "Worklog"
 #~ msgstr ""
+
+#~ msgid "Upcomming features"
+#~ msgstr "Prossime funzionalità"
 

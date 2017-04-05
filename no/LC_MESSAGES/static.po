@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-03-30 18:24+0300\n"
+"POT-Creation-Date: 2017-04-05 17:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nb_NO\n"
@@ -80,7 +80,7 @@ msgstr ""
 #: static/tags/pomodoro/todo/main.tag.html:7
 #: static/tags/pomodoro/todo/main.tag.html:15
 #: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:46 static/tags/stats/main.tag.html:30
+#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:30
 #: static/tags/stats/main.tag.html:43
 msgid "Category"
 msgstr ""
@@ -375,15 +375,19 @@ msgstr ""
 msgid "Time format"
 msgstr ""
 
-#: static/tags/settings/misc.tag.html:35
+#: static/tags/settings/misc.tag.html:32
+msgid "Time zone"
+msgstr ""
+
+#: static/tags/settings/misc.tag.html:45
 msgid "Clear daily history after midnight"
 msgstr ""
 
-#: static/tags/settings/misc.tag.html:42
+#: static/tags/settings/misc.tag.html:52
 msgid "Categories"
 msgstr ""
 
-#: static/tags/settings/misc.tag.html:48
+#: static/tags/settings/misc.tag.html:58
 msgid "Add category"
 msgstr ""
 
@@ -585,11 +589,11 @@ msgstr ""
 msgid "Yesterday"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:160 static/tags/stats/main.tag.html:166
+#: static/tags/stats/main.tag.html:160
 msgid "This Week"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:161 static/tags/stats/main.tag.html:167
+#: static/tags/stats/main.tag.html:161
 msgid "This Month"
 msgstr ""
 
@@ -607,6 +611,14 @@ msgstr ""
 
 #: static/tags/stats/main.tag.html:165
 msgid "Last Quarter"
+msgstr ""
+
+#: static/tags/stats/main.tag.html:166
+msgid "Last 90 days"
+msgstr ""
+
+#: static/tags/stats/main.tag.html:167
+msgid "Last 180 days"
 msgstr ""
 
 #~ msgid "That you for the feedback! Your message is awaiting moderation."
