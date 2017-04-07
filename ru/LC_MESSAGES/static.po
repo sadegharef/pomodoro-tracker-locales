@@ -443,7 +443,7 @@ msgstr "Подключить Telegram бота"
 
 #: static/tags/settings/integrations/telegram.tag.html:11
 msgid "Add"
-msgstr "Добавте"
+msgstr "Добавьте"
 
 #: static/tags/settings/integrations/telegram.tag.html:11
 msgid ""
@@ -621,11 +621,11 @@ msgstr "Прошлый квартал"
 
 #: static/tags/stats/main.tag.html:166
 msgid "Last 90 days"
-msgstr ""
+msgstr "Последние 90 дней"
 
 #: static/tags/stats/main.tag.html:167
 msgid "Last 180 days"
-msgstr ""
+msgstr "Последние 180 дней"
 
 #~ msgid "Pomodoro"
 #~ msgstr "Помидор"
