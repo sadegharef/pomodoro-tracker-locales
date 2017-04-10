@@ -191,7 +191,7 @@ msgstr "次のポモドーロはより効果的になるでしょう"
 
 #: templates/index.j2:62
 msgid "Login to the service and track your progress"
-msgstr ログインして進捗を確認する"
+msgstr "ログインして進捗を確認する"
 
 #: templates/index.j2:63
 msgid ""
