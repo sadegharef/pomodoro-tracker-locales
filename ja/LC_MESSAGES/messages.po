@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-11 16:00+0300\n"
+"POT-Creation-Date: 2017-04-11 16:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -39,23 +39,23 @@ msgstr "設定"
 msgid "Logout"
 msgstr "ログアウト"
 
-#: templates/base.j2:163
+#: templates/base.j2:168
 msgid "Sign Up / Login"
 msgstr "ユーザー登録 / ログイン"
 
-#: templates/base.j2:166
+#: templates/base.j2:171
 msgid "as Google user"
 msgstr "Googleアカウントでログインする"
 
-#: templates/base.j2:169
+#: templates/base.j2:174
 msgid "as Facebook user"
 msgstr "Facebookアカウントでログインする"
 
-#: templates/base.j2:172
+#: templates/base.j2:177
 msgid "as Github user"
 msgstr "Githubアカウントでログインする"
 
-#: templates/base.j2:191
+#: templates/base.j2:196
 msgid "version"
 msgstr "バージョン"
 
@@ -187,39 +187,39 @@ msgid ""
 "free time. Enjoy free time!"
 msgstr "ポモドーロテクニックは余暇の活動には使用しないでください。自由な時間を楽しみましょう！"
 
-#: templates/news.j2:6
+#: templates/news.j2:16
 msgid "April"
 msgstr "4月"
 
-#: templates/news.j2:16
+#: templates/news.j2:27
 msgid "February"
 msgstr "2月"
 
-#: templates/news.j2:28
+#: templates/news.j2:39
 msgid "October"
 msgstr "10月"
 
-#: templates/news.j2:39
+#: templates/news.j2:50
 msgid "May"
 msgstr "5月"
 
-#: templates/news.j2:52
+#: templates/news.j2:63
 msgid "March"
 msgstr "3月"
 
-#: templates/news.j2:62
+#: templates/news.j2:73
 msgid "Febrary"
 msgstr "2月"
 
-#: templates/news.j2:74
+#: templates/news.j2:85
 msgid "December"
 msgstr "12月"
 
-#: templates/news.j2:84
+#: templates/news.j2:95
 msgid "September"
 msgstr "9月"
 
-#: templates/news.j2:97
+#: templates/news.j2:108
 msgid "August"
 msgstr "8月"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-11 16:00+0300\n"
+"POT-Creation-Date: 2017-04-11 16:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -40,23 +40,23 @@ msgstr "Настройки"
 msgid "Logout"
 msgstr "Выход"
 
-#: templates/base.j2:163
+#: templates/base.j2:168
 msgid "Sign Up / Login"
 msgstr "Регистрация / Вход"
 
-#: templates/base.j2:166
+#: templates/base.j2:171
 msgid "as Google user"
 msgstr "используя Google"
 
-#: templates/base.j2:169
+#: templates/base.j2:174
 msgid "as Facebook user"
 msgstr "используя Facebook"
 
-#: templates/base.j2:172
+#: templates/base.j2:177
 msgid "as Github user"
 msgstr "используя Github"
 
-#: templates/base.j2:191
+#: templates/base.j2:196
 msgid "version"
 msgstr "Версия"
 
@@ -206,39 +206,39 @@ msgstr ""
 "Техника «Помидора» не должна использоваться для занятий в ваше свободное "
 "время. Наслаждайтесь вашим временем!"
 
-#: templates/news.j2:6
+#: templates/news.j2:16
 msgid "April"
 msgstr ""
 
-#: templates/news.j2:16
+#: templates/news.j2:27
 msgid "February"
 msgstr "Февраль"
 
-#: templates/news.j2:28
+#: templates/news.j2:39
 msgid "October"
 msgstr "Октябрь"
 
-#: templates/news.j2:39
+#: templates/news.j2:50
 msgid "May"
 msgstr "Май"
 
-#: templates/news.j2:52
+#: templates/news.j2:63
 msgid "March"
 msgstr "Март"
 
-#: templates/news.j2:62
+#: templates/news.j2:73
 msgid "Febrary"
 msgstr "Февраль"
 
-#: templates/news.j2:74
+#: templates/news.j2:85
 msgid "December"
 msgstr "Декабрь"
 
-#: templates/news.j2:84
+#: templates/news.j2:95
 msgid "September"
 msgstr "Сентябрь"
 
-#: templates/news.j2:97
+#: templates/news.j2:108
 msgid "August"
 msgstr "Август"
 

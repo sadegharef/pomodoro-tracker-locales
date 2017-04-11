@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-11 16:00+0300\n"
+"POT-Creation-Date: 2017-04-11 16:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -428,7 +428,6 @@ msgstr ""
 
 #: static/tags/settings/integrations/telegram.tag.html:13
 #, fuzzy
-#| msgid "Code:"
 msgid "Code"
 msgstr "Code:"
 
