@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-05 17:19+0300\n"
+"POT-Creation-Date: 2017-04-11 15:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -56,7 +56,7 @@ msgstr ""
 #: static/tags/pomodoro/history.tag.html:30
 #: static/tags/pomodoro/todo/main.tag.html:8
 #: static/tags/pomodoro/todo/main.tag.html:48
-#: static/tags/stats/main.tag.html:31 static/tags/stats/main.tag.html:49
+#: static/tags/stats/main.tag.html:33 static/tags/stats/main.tag.html:51
 msgid "Description"
 msgstr ""
 
@@ -80,8 +80,8 @@ msgstr ""
 #: static/tags/pomodoro/todo/main.tag.html:7
 #: static/tags/pomodoro/todo/main.tag.html:15
 #: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:30
-#: static/tags/stats/main.tag.html:43
+#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:32
+#: static/tags/stats/main.tag.html:45
 msgid "Category"
 msgstr ""
 
@@ -115,7 +115,7 @@ msgid "Add to TODO"
 msgstr ""
 
 #: static/tags/pomodoro/activities.tag.html:72
-#: static/tags/pomodoro/history.tag.html:48 static/tags/stats/main.tag.html:79
+#: static/tags/pomodoro/history.tag.html:48 static/tags/stats/main.tag.html:81
 msgid "Double click/tap to edit items."
 msgstr ""
 
@@ -140,7 +140,7 @@ msgstr ""
 msgid "Add to favorites"
 msgstr ""
 
-#: static/tags/pomodoro/history.tag.html:45 static/tags/stats/main.tag.html:81
+#: static/tags/pomodoro/history.tag.html:45 static/tags/stats/main.tag.html:83
 msgid "Records are empty"
 msgstr ""
 
@@ -162,111 +162,9 @@ msgstr ""
 msgid "Notifications"
 msgstr ""
 
-#: static/tags/pomodoro/settings.tag.html:27
-#: static/tags/settings/timer.tag.html:5
-msgid "Pomodoro duration:"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:30
-#: static/tags/pomodoro/settings.tag.html:37
-#: static/tags/pomodoro/settings.tag.html:44
-#: static/tags/settings/timer.tag.html:8 static/tags/settings/timer.tag.html:15
-#: static/tags/settings/timer.tag.html:22
-msgid "in minutes"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:34
-#: static/tags/settings/timer.tag.html:12
-msgid "Short break duration:"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:41
-#: static/tags/settings/timer.tag.html:19
-msgid "Long break duration:"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:48
-#: static/tags/settings/timer.tag.html:26
-msgid "Long break delay:"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:51
-#: static/tags/settings/timer.tag.html:29
-msgid "in pomodoros"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:60
-#: static/tags/settings/timer.tag.html:38
-msgid "Auto start pomodoros"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:70
-#: static/tags/settings/timer.tag.html:48
-msgid "Auto start breaks"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:80
-#: static/tags/settings/notifications.tag.html:7
-msgid "Volume"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:102
-#: static/tags/settings/notifications.tag.html:29
-msgid "Play alarm sound"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:112
-#: static/tags/settings/notifications.tag.html:39
-msgid "Play ticking sound"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:122
-#: static/tags/settings/notifications.tag.html:49
-msgid "Enable Web Notifications"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:132
-#: static/tags/settings/notifications.tag.html:59
-msgid "Enable Browser Alerts"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:133
-#: static/tags/settings/notifications.tag.html:60
-msgid "Raise browser alert when pomodoro/break is over"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:139
-#: static/tags/settings/notifications.tag.html:66
-msgid "Hide notificaions"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:143
-#: static/tags/settings/notifications.tag.html:70
-msgid "in 2 seconds"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:144
-#: static/tags/settings/notifications.tag.html:71
-msgid "in 3 seconds"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:145
-#: static/tags/settings/notifications.tag.html:72
-msgid "in 5 seconds"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:146
-#: static/tags/settings/notifications.tag.html:73
-msgid "in 10 seconds"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:157
+#: static/tags/pomodoro/settings.tag.html:42
 #: static/tags/settings/integrations/telegram.tag.html:19
 msgid "Close"
-msgstr ""
-
-#: static/tags/pomodoro/settings.tag.html:158
-msgid "Save changes"
 msgstr ""
 
 #: static/tags/pomodoro/timer.tag.html:11
@@ -391,6 +289,87 @@ msgstr ""
 msgid "Add category"
 msgstr ""
 
+#: static/tags/settings/notifications.tag.html:7
+msgid "Volume"
+msgstr ""
+
+#: static/tags/settings/notifications.tag.html:29
+msgid "Play alarm sound"
+msgstr ""
+
+#: static/tags/settings/notifications.tag.html:39
+msgid "Play ticking sound"
+msgstr ""
+
+#: static/tags/settings/notifications.tag.html:49
+msgid "Enable Web Notifications"
+msgstr ""
+
+#: static/tags/settings/notifications.tag.html:59
+msgid "Enable Browser Alerts"
+msgstr ""
+
+#: static/tags/settings/notifications.tag.html:60
+msgid "Raise browser alert when pomodoro/break is over"
+msgstr ""
+
+#: static/tags/settings/notifications.tag.html:66
+msgid "Hide notificaions"
+msgstr ""
+
+#: static/tags/settings/notifications.tag.html:70
+msgid "in 2 seconds"
+msgstr ""
+
+#: static/tags/settings/notifications.tag.html:71
+msgid "in 3 seconds"
+msgstr ""
+
+#: static/tags/settings/notifications.tag.html:72
+msgid "in 5 seconds"
+msgstr ""
+
+#: static/tags/settings/notifications.tag.html:73
+msgid "in 10 seconds"
+msgstr ""
+
+#: static/tags/settings/timer.tag.html:5
+msgid "Pomodoro duration:"
+msgstr ""
+
+#: static/tags/settings/timer.tag.html:8 static/tags/settings/timer.tag.html:15
+#: static/tags/settings/timer.tag.html:22
+msgid "in minutes"
+msgstr ""
+
+#: static/tags/settings/timer.tag.html:12
+msgid "Short break duration:"
+msgstr ""
+
+#: static/tags/settings/timer.tag.html:19
+msgid "Long break duration:"
+msgstr ""
+
+#: static/tags/settings/timer.tag.html:26
+msgid "Long break delay:"
+msgstr ""
+
+#: static/tags/settings/timer.tag.html:29
+msgid "in pomodoros"
+msgstr ""
+
+#: static/tags/settings/timer.tag.html:38
+msgid "Auto start pomodoros"
+msgstr ""
+
+#: static/tags/settings/timer.tag.html:47
+msgid "Don`t start next pomodoro if TODO is empty"
+msgstr ""
+
+#: static/tags/settings/timer.tag.html:57
+msgid "Auto start breaks"
+msgstr ""
+
 #: static/tags/settings/integrations/main.tag.html:12
 msgid "Connect"
 msgstr ""
@@ -423,11 +402,11 @@ msgstr ""
 msgid "Login to the service using Github authentication."
 msgstr ""
 
-#: static/tags/settings/integrations/main.tag.html:40
+#: static/tags/settings/integrations/main.tag.html:36
 msgid "Enable Telegram Bot"
 msgstr ""
 
-#: static/tags/settings/integrations/main.tag.html:40
+#: static/tags/settings/integrations/main.tag.html:36
 msgid "Get notifications, check history"
 msgstr ""
 
@@ -446,7 +425,7 @@ msgid ""
 msgstr ""
 
 #: static/tags/settings/integrations/telegram.tag.html:13
-msgid "Code:"
+msgid "Code"
 msgstr ""
 
 #: static/tags/settings/integrations/telegram.tag.html:20
@@ -493,131 +472,131 @@ msgstr ""
 msgid "Average per day"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:29
+#: static/tags/stats/main.tag.html:31
 msgid "Date"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:32
+#: static/tags/stats/main.tag.html:34
 msgid "Duration"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:53 static/tags/stats/main.tag.html:66
+#: static/tags/stats/main.tag.html:55 static/tags/stats/main.tag.html:68
 msgid "Delete"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:64
+#: static/tags/stats/main.tag.html:66
 msgid "Are you sure want to delete"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:67 static/tags/stats/main.tag.html:141
+#: static/tags/stats/main.tag.html:69 static/tags/stats/main.tag.html:145
 msgid "Cancel"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:82
+#: static/tags/stats/main.tag.html:84
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:89
+#: static/tags/stats/main.tag.html:91
 msgid "Export the records as CSV"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:96
+#: static/tags/stats/main.tag.html:98
 msgid "Import CSV"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:140
+#: static/tags/stats/main.tag.html:144
 msgid "Apply"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:142
+#: static/tags/stats/main.tag.html:146
 msgid "Custom"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:144
+#: static/tags/stats/main.tag.html:148
 msgid "January"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:145
+#: static/tags/stats/main.tag.html:149
 msgid "February"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:146
+#: static/tags/stats/main.tag.html:150
 msgid "March"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:147
+#: static/tags/stats/main.tag.html:151
 msgid "April"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:148
+#: static/tags/stats/main.tag.html:152
 msgid "May"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:149
+#: static/tags/stats/main.tag.html:153
 msgid "June"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:150
+#: static/tags/stats/main.tag.html:154
 msgid "July"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:151
+#: static/tags/stats/main.tag.html:155
 msgid "August"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:152
+#: static/tags/stats/main.tag.html:156
 msgid "September"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:153
+#: static/tags/stats/main.tag.html:157
 msgid "October"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:154
+#: static/tags/stats/main.tag.html:158
 msgid "November"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:155
+#: static/tags/stats/main.tag.html:159
 msgid "December"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:158
+#: static/tags/stats/main.tag.html:162
 msgid "Today"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:159
+#: static/tags/stats/main.tag.html:163
 msgid "Yesterday"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:160
+#: static/tags/stats/main.tag.html:164
 msgid "This Week"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:161
+#: static/tags/stats/main.tag.html:165
 msgid "This Month"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:162
+#: static/tags/stats/main.tag.html:166
 msgid "This Quarter"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:163
+#: static/tags/stats/main.tag.html:167
 msgid "Last Week"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:164
+#: static/tags/stats/main.tag.html:168
 msgid "Last Month"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:165
+#: static/tags/stats/main.tag.html:169
 msgid "Last Quarter"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:166
+#: static/tags/stats/main.tag.html:170
 msgid "Last 90 days"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:167
+#: static/tags/stats/main.tag.html:171
 msgid "Last 180 days"
 msgstr ""
 
@@ -682,5 +661,14 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Misc"
+#~ msgstr ""
+
+#~ msgid "Save changes"
+#~ msgstr ""
+
+#~ msgid "Don"
+#~ msgstr ""
+
+#~ msgid "Code:"
 #~ msgstr ""
 

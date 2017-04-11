@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-05 17:19+0300\n"
+"POT-Creation-Date: 2017-04-11 15:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: fr\n"
@@ -212,35 +212,39 @@ msgstr ""
 "libre!"
 
 #: templates/news.j2:6
+msgid "April"
+msgstr ""
+
+#: templates/news.j2:16
 #, fuzzy
 msgid "February"
 msgstr "Février"
 
-#: templates/news.j2:18
+#: templates/news.j2:28
 msgid "October"
 msgstr ""
 
-#: templates/news.j2:29
+#: templates/news.j2:39
 msgid "May"
 msgstr "Mai"
 
-#: templates/news.j2:42
+#: templates/news.j2:52
 msgid "March"
 msgstr "Mars"
 
-#: templates/news.j2:52
+#: templates/news.j2:62
 msgid "Febrary"
 msgstr "Février"
 
-#: templates/news.j2:64
+#: templates/news.j2:74
 msgid "December"
 msgstr "Décembre"
 
-#: templates/news.j2:74
+#: templates/news.j2:84
 msgid "September"
 msgstr "Septembre"
 
-#: templates/news.j2:87
+#: templates/news.j2:97
 msgid "August"
 msgstr "Août"
 
