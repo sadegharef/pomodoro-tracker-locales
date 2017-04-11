@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-05 17:19+0300\n"
+"POT-Creation-Date: 2017-04-11 16:00+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -69,22 +69,14 @@ msgid ""
 "any task. For many people, time is an enemy. The anxiety triggered by "
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
-msgstr ""
-"ポモドーロ・テクニックは、あらゆるタスクに適用可能な時間管理術です。"
-"多くの人々にとって、時間は敵であるとみなされています。"
-"特に、締め切りが迫っているとき、時計の針が刻む音は私達を不安にさせます。"
-"その不安から仕事や勉強を効率的にこなすことが出来なくなってしまいます。"
+msgstr "ポモドーロ・テクニックは、あらゆるタスクに適用可能な時間管理術です。多くの人々にとって、時間は敵であるとみなされています。特に、締め切りが迫っているとき、時計の針が刻む音は私達を不安にさせます。その不安から仕事や勉強を効率的にこなすことが出来なくなってしまいます。"
 
 #: templates/index.j2:24
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
-msgstr ""
-"ポモドーロ・テクニックを使うことで、やりたいことをやりたい方法で成し遂げる為の"
-"強力な味方として時間を利用することが出来ます。"
-"そして、仕事や勉強の仕方を絶え間なく改善することが可能になります。"
-""
+msgstr "ポモドーロ・テクニックを使うことで、やりたいことをやりたい方法で成し遂げる為の強力な味方として時間を利用することが出来ます。そして、仕事や勉強の仕方を絶え間なく改善することが可能になります。"
 
 #: templates/index.j2:28
 msgid "The Goals"
@@ -95,9 +87,7 @@ msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
 "following:"
-msgstr ""
-"ポモドーロ・テクニックは、（あなた自身と他のチームメンバーの）生産性を"
-"向上させるためのシンプルなツールとプロセスを提供します。"
+msgstr "ポモドーロ・テクニックは、（あなた自身と他のチームメンバーの）生産性を向上させるためのシンプルなツールとプロセスを提供します。"
 
 #: templates/index.j2:31
 msgid "Alleviate anxiety linked to becoming"
@@ -163,9 +153,7 @@ msgstr "（3-5分）の短時間休憩"
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
-msgstr ""
-"タスクが完了するまで、ポモドーロ単位で、集中作業と短時間休憩を繰り返し、"
-"4 ポモドーロおきに（15-30分の）長めの休憩をとりましょう。"
+msgstr "タスクが完了するまで、ポモドーロ単位で、集中作業と短時間休憩を繰り返し、4 ポモドーロおきに（15-30分の）長めの休憩をとりましょう。"
 
 #: templates/index.j2:56
 msgid "Rules & Tips"
@@ -197,39 +185,41 @@ msgstr "ログインして進捗を確認する"
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
-msgstr ""
-"ポモドーロテクニックは余暇の活動には使用しないでください。"
-"自由な時間を楽しみましょう！"
+msgstr "ポモドーロテクニックは余暇の活動には使用しないでください。自由な時間を楽しみましょう！"
 
 #: templates/news.j2:6
+msgid "April"
+msgstr "4月"
+
+#: templates/news.j2:16
 msgid "February"
 msgstr "2月"
 
-#: templates/news.j2:18
+#: templates/news.j2:28
 msgid "October"
 msgstr "10月"
 
-#: templates/news.j2:29
+#: templates/news.j2:39
 msgid "May"
 msgstr "5月"
 
-#: templates/news.j2:42
+#: templates/news.j2:52
 msgid "March"
 msgstr "3月"
 
-#: templates/news.j2:52
+#: templates/news.j2:62
 msgid "Febrary"
 msgstr "2月"
 
-#: templates/news.j2:64
+#: templates/news.j2:74
 msgid "December"
 msgstr "12月"
 
-#: templates/news.j2:74
+#: templates/news.j2:84
 msgid "September"
 msgstr "9月"
 
-#: templates/news.j2:87
+#: templates/news.j2:97
 msgid "August"
 msgstr "8月"
 
