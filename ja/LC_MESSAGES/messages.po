@@ -1,0 +1,268 @@
+# Japanese translations for pomodoro.
+# Copyright (C) 2016 ORGANIZATION
+# This file is distributed under the same license as the pomodoro project.
+# aliyome <aliyome+github@gmail.com>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pomodoro 0.7.16\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-04-05 17:19+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: aliyome <aliyome+github@gmail.com>\n"
+"Language: ja\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: templates/base.j2:36
+msgid "Feedback"
+msgstr "フィードバック"
+
+#: templates/base.j2:46
+msgid "Login to view your stats"
+msgstr "ログインして統計情報を表示する"
+
+#: templates/base.j2:48
+msgid "Stats"
+msgstr "統計"
+
+#: templates/base.j2:53
+msgid "Settings"
+msgstr "設定"
+
+#: templates/base.j2:112
+msgid "Logout"
+msgstr "ログアウト"
+
+#: templates/base.j2:163
+msgid "Sign Up / Login"
+msgstr "ユーザー登録 / ログイン"
+
+#: templates/base.j2:166
+msgid "as Google user"
+msgstr "Googleアカウントでログインする"
+
+#: templates/base.j2:169
+msgid "as Facebook user"
+msgstr "Facebookアカウントでログインする"
+
+#: templates/base.j2:172
+msgid "as Github user"
+msgstr "Githubアカウントでログインする"
+
+#: templates/base.j2:191
+msgid "version"
+msgstr "バージョン"
+
+#: templates/index.j2:22
+msgid "What is it?"
+msgstr "Pomodoro Trackerとは"
+
+#: templates/index.j2:23
+msgid ""
+"The Pomodoro Technique is a time management method that can be used for "
+"any task. For many people, time is an enemy. The anxiety triggered by "
+"“the ticking clock”, especially when it involves a deadline, leads to "
+"ineffective work and study habits which in turn lead to procrastination."
+msgstr ""
+"ポモドーロ・テクニックは、あらゆるタスクに適用可能な時間管理術です。"
+"多くの人々にとって、時間は敵であるとみなされています。"
+"特に、締め切りが迫っているとき、時計の針が刻む音は私達を不安にさせます。"
+"その不安から仕事や勉強を効率的にこなすことが出来なくなってしまいます。"
+
+#: templates/index.j2:24
+msgid ""
+"The aim of the Pomodoro Technique is to use time as a valuable ally in "
+"accomplishing what we want to do in the way we want to do it, and to "
+"enable us to improve continually the way we work or study."
+msgstr ""
+"ポモドーロ・テクニックを使うことで、やりたいことをやりたい方法で成し遂げる為の"
+"強力な味方として時間を利用することが出来ます。"
+"そして、仕事や勉強の仕方を絶え間なく改善することが可能になります。"
+""
+
+#: templates/index.j2:28
+msgid "The Goals"
+msgstr "ゴール"
+
+#: templates/index.j2:29
+msgid ""
+"The Pomodoro Technique will provide a simple tool/process for improving "
+"productivity (your own and that of your team members) which can do the "
+"following:"
+msgstr ""
+"ポモドーロ・テクニックは、（あなた自身と他のチームメンバーの）生産性を"
+"向上させるためのシンプルなツールとプロセスを提供します。"
+
+#: templates/index.j2:31
+msgid "Alleviate anxiety linked to becoming"
+msgstr "迫りくる不安を和らげます"
+
+#: templates/index.j2:32
+msgid "Enhance focus and concentration by cutting down on interruptions"
+msgstr "作業の割り込みを断ち切ることで集中力を向上させます"
+
+#: templates/index.j2:33
+msgid "Increase awareness of your decisions"
+msgstr "決断力を向上させます"
+
+#: templates/index.j2:34
+msgid "Boost motivation and keep it constant"
+msgstr "モチベーションを高い状態に保ちます"
+
+#: templates/index.j2:35
+msgid "Bolster the determination to achieve your goals"
+msgstr "目標達成の決心をより強固にします"
+
+#: templates/index.j2:36
+msgid "Refine the estimation process, both in qualitative and quantitative terms "
+msgstr "定性的および定量的な見積もりの精度を改善します"
+
+#: templates/index.j2:37
+msgid "Improve your work or study process"
+msgstr "仕事や学習の効果を高めます"
+
+#: templates/index.j2:38
+msgid ""
+"Strengthen your resolve to keep on applying yourself in the face of "
+"complex situations"
+msgstr "複雑な状況に立ち向かう時に最大限の力を引き出せるようになります"
+
+#: templates/index.j2:44
+msgid "The Basics"
+msgstr "基本"
+
+#: templates/index.j2:45
+msgid ""
+"At the beginning of each day select the tasks you need to complete and "
+"put them on the TODO list above."
+msgstr "その日に完了させたいタスクを選択し、上部のTODOリストに移動してください。"
+
+#: templates/index.j2:46
+msgid "Start working:"
+msgstr "作業を開始する"
+
+#: templates/index.j2:48
+msgid "Start the Pomodoro timer"
+msgstr "ポモドーロ・タイマーを開始する"
+
+#: templates/index.j2:49
+msgid "Work until the Pomodoro rings"
+msgstr "タイマーが鳴るまでの作業"
+
+#: templates/index.j2:50
+msgid "Take a short break (3-5 minutes)"
+msgstr "（3-5分）の短時間休憩"
+
+#: templates/index.j2:52
+msgid ""
+"Keep on working, Pomodoro after Pomodoro, until the task at hand is "
+"finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
+msgstr ""
+"タスクが完了するまで、ポモドーロ単位で、集中作業と短時間休憩を繰り返し、"
+"4 ポモドーロおきに（15-30分の）長めの休憩をとりましょう。"
+
+#: templates/index.j2:56
+msgid "Rules & Tips"
+msgstr "ルールとヒント"
+
+#: templates/index.j2:58
+msgid "If a task takes more than 5–7 Pomodoros, break it down"
+msgstr "1つのタスクが5-7ポモドーロ以上の場合は、タスクをもっと細かくしましょう"
+
+#: templates/index.j2:59
+msgid ""
+"If it takes less than one Pomodoro, add it up, and combine  it with "
+"another task"
+msgstr "タスクが1ポモドーロ未満の場合は、他のタスクもまとめて行いましょう"
+
+#: templates/index.j2:60
+msgid "Once a Pomodoro begins, it has to ring"
+msgstr "開始したポモドーロは、タイマーが鳴るまで集中して作業し続けてください"
+
+#: templates/index.j2:61
+msgid "The next Pomodoro will go better"
+msgstr "次のポモドーロはより効果的になるでしょう"
+
+#: templates/index.j2:62
+msgid "Login to the service and track your progress"
+msgstr "ログインして進捗を確認する"
+
+#: templates/index.j2:63
+msgid ""
+"The Pomodoro Technique shouldn’t be used for activities you do in your "
+"free time. Enjoy free time!"
+msgstr ""
+"ポモドーロテクニックは余暇の活動には使用しないでください。"
+"自由な時間を楽しみましょう！"
+
+#: templates/news.j2:6
+msgid "February"
+msgstr "2月"
+
+#: templates/news.j2:18
+msgid "October"
+msgstr "10月"
+
+#: templates/news.j2:29
+msgid "May"
+msgstr "5月"
+
+#: templates/news.j2:42
+msgid "March"
+msgstr "3月"
+
+#: templates/news.j2:52
+msgid "Febrary"
+msgstr "2月"
+
+#: templates/news.j2:64
+msgid "December"
+msgstr "12月"
+
+#: templates/news.j2:74
+msgid "September"
+msgstr "9月"
+
+#: templates/news.j2:87
+msgid "August"
+msgstr "8月"
+
+#~ msgid "Admin"
+#~ msgstr "管理"
+
+#~ msgid "Spain"
+#~ msgstr "スペイン語"
+
+#~ msgid "English"
+#~ msgstr "英語"
+
+#~ msgid "Italian"
+#~ msgstr "イタリア語"
+
+#~ msgid "Russian"
+#~ msgstr "ロシア語"
+
+#~ msgid "Spanish"
+#~ msgstr "スペイン語"
+
+#~ msgid "Your language"
+#~ msgstr "あなたの言語"
+
+#~ msgid "Login to track your productivity"
+#~ msgstr "ログインして生産性の記録を残しましょう"
+
+#~ msgid "Login to log your work"
+#~ msgstr "ログインして作業記録を残しましょう"
+
+#~ msgid "Worklog"
+#~ msgstr "作業ログ"
+
+#~ msgid "Upcomming features"
+#~ msgstr "今後の機能"
+
