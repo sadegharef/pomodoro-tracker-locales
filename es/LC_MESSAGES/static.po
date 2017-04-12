@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-11 16:38+0300\n"
+"POT-Creation-Date: 2017-04-12 19:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -18,6 +18,16 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+
+#: static/stores/todo.coffee:117
+#, fuzzy
+#| msgid "The list is empty"
+msgid "Great work! TODO list is empty."
+msgstr "La lista está vacía"
+
+#: static/tags/loading.tag.html:3
+msgid "LOADING"
+msgstr ""
 
 #: static/tags/profile.tag.html:5
 msgid "Joined at"
@@ -307,30 +317,36 @@ msgid "Enable Web Notifications"
 msgstr "Activar Notificaciones Web"
 
 #: static/tags/settings/notifications.tag.html:59
+#, fuzzy
+#| msgid "Enable Web Notifications"
+msgid "Enable Telegram Notifications"
+msgstr "Activar Notificaciones Web"
+
+#: static/tags/settings/notifications.tag.html:69
 msgid "Enable Browser Alerts"
 msgstr "Activar Alertas de Navegador"
 
-#: static/tags/settings/notifications.tag.html:60
+#: static/tags/settings/notifications.tag.html:70
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Destacar alertas del navegador cuando termina pomodoro/descanso"
 
-#: static/tags/settings/notifications.tag.html:66
+#: static/tags/settings/notifications.tag.html:76
 msgid "Hide notificaions"
 msgstr "Ocultar notificaciones"
 
-#: static/tags/settings/notifications.tag.html:70
+#: static/tags/settings/notifications.tag.html:80
 msgid "in 2 seconds"
 msgstr "en 2 segundos"
 
-#: static/tags/settings/notifications.tag.html:71
+#: static/tags/settings/notifications.tag.html:81
 msgid "in 3 seconds"
 msgstr "en 3 segundos"
 
-#: static/tags/settings/notifications.tag.html:72
+#: static/tags/settings/notifications.tag.html:82
 msgid "in 5 seconds"
 msgstr "en 5 segundos"
 
-#: static/tags/settings/notifications.tag.html:73
+#: static/tags/settings/notifications.tag.html:83
 msgid "in 10 seconds"
 msgstr "en 10 segundos"
 

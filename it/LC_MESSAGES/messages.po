@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-11 16:38+0300\n"
+"POT-Creation-Date: 2017-04-12 19:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -35,27 +35,27 @@ msgstr "Statistiche"
 msgid "Settings"
 msgstr "Impostazioni"
 
-#: templates/base.j2:112
+#: templates/base.j2:117
 msgid "Logout"
 msgstr "Esci"
 
-#: templates/base.j2:168
+#: templates/base.j2:173
 msgid "Sign Up / Login"
 msgstr "Registrati / Entra"
 
-#: templates/base.j2:171
+#: templates/base.j2:176
 msgid "as Google user"
 msgstr "come utente Google"
 
-#: templates/base.j2:174
+#: templates/base.j2:179
 msgid "as Facebook user"
 msgstr "come utente Facebook"
 
-#: templates/base.j2:177
+#: templates/base.j2:182
 msgid "as Github user"
 msgstr "come utente Github"
 
-#: templates/base.j2:196
+#: templates/base.j2:201
 msgid "version"
 msgstr "versione"
 
@@ -191,35 +191,35 @@ msgstr ""
 msgid "April"
 msgstr ""
 
-#: templates/news.j2:27
+#: templates/news.j2:28
 msgid "February"
 msgstr "Febbraio"
 
-#: templates/news.j2:39
+#: templates/news.j2:40
 msgid "October"
 msgstr "Ottobre"
 
-#: templates/news.j2:50
+#: templates/news.j2:51
 msgid "May"
 msgstr "Maggio"
 
-#: templates/news.j2:63
+#: templates/news.j2:64
 msgid "March"
 msgstr "Marzo"
 
-#: templates/news.j2:73
+#: templates/news.j2:74
 msgid "Febrary"
 msgstr "Febbraio"
 
-#: templates/news.j2:85
+#: templates/news.j2:86
 msgid "December"
 msgstr "Dicembre"
 
-#: templates/news.j2:95
+#: templates/news.j2:96
 msgid "September"
 msgstr "Settembre"
 
-#: templates/news.j2:108
+#: templates/news.j2:109
 msgid "August"
 msgstr "Agosto"
 

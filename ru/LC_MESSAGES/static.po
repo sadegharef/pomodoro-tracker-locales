@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-11 16:38+0300\n"
+"POT-Creation-Date: 2017-04-12 19:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -19,6 +19,14 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+
+#: static/stores/todo.coffee:117
+msgid "Great work! TODO list is empty."
+msgstr "Отличная работа! Список задач пуст."
+
+#: static/tags/loading.tag.html:3
+msgid "LOADING"
+msgstr "ЗАГРУЗКА"
 
 #: static/tags/profile.tag.html:5
 msgid "Joined at"
@@ -310,30 +318,36 @@ msgid "Enable Web Notifications"
 msgstr "Включить оповещения в браузере"
 
 #: static/tags/settings/notifications.tag.html:59
+#, fuzzy
+#| msgid "Enable Web Notifications"
+msgid "Enable Telegram Notifications"
+msgstr "Включить оповещения в браузере"
+
+#: static/tags/settings/notifications.tag.html:69
 msgid "Enable Browser Alerts"
 msgstr "Включить всплывающие окна"
 
-#: static/tags/settings/notifications.tag.html:60
+#: static/tags/settings/notifications.tag.html:70
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Вызывать всплывающее окно с предупреждением, когда помидор/перерыв окончен"
 
-#: static/tags/settings/notifications.tag.html:66
+#: static/tags/settings/notifications.tag.html:76
 msgid "Hide notificaions"
 msgstr "Прятать оповещения"
 
-#: static/tags/settings/notifications.tag.html:70
+#: static/tags/settings/notifications.tag.html:80
 msgid "in 2 seconds"
 msgstr "через 2 секунды"
 
-#: static/tags/settings/notifications.tag.html:71
+#: static/tags/settings/notifications.tag.html:81
 msgid "in 3 seconds"
 msgstr "через 3 секунды"
 
-#: static/tags/settings/notifications.tag.html:72
+#: static/tags/settings/notifications.tag.html:82
 msgid "in 5 seconds"
 msgstr "через 5 секунд"
 
-#: static/tags/settings/notifications.tag.html:73
+#: static/tags/settings/notifications.tag.html:83
 msgid "in 10 seconds"
 msgstr "через 10 секунд"
 
