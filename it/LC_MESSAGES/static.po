@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-12 19:08+0300\n"
+"POT-Creation-Date: 2017-04-13 22:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -21,7 +21,6 @@ msgstr ""
 
 #: static/stores/todo.coffee:117
 #, fuzzy
-#| msgid "The list is empty"
 msgid "Great work! TODO list is empty."
 msgstr "La lista è vuota"
 
@@ -66,7 +65,7 @@ msgstr "Titolo"
 #: static/tags/pomodoro/history.tag.html:30
 #: static/tags/pomodoro/todo/main.tag.html:8
 #: static/tags/pomodoro/todo/main.tag.html:48
-#: static/tags/stats/main.tag.html:33 static/tags/stats/main.tag.html:51
+#: static/tags/stats/main.tag.html:34 static/tags/stats/main.tag.html:49
 msgid "Description"
 msgstr "Descrizione"
 
@@ -90,8 +89,8 @@ msgstr "Attività"
 #: static/tags/pomodoro/todo/main.tag.html:7
 #: static/tags/pomodoro/todo/main.tag.html:15
 #: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:32
-#: static/tags/stats/main.tag.html:45
+#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:33
+#: static/tags/stats/main.tag.html:43
 msgid "Category"
 msgstr "Categoria"
 
@@ -104,36 +103,51 @@ msgstr "Breve descrizione"
 msgid "Add Activity"
 msgstr "Aggiungi attività"
 
-#: static/tags/pomodoro/activities.tag.html:51
-#: static/tags/pomodoro/activities.tag.html:58
-#: static/tags/pomodoro/todo/main.tag.html:58
-msgid "Remove"
-msgstr "Rimuovi"
+#: static/tags/pomodoro/activities.tag.html:54
+msgid "Mark as daily task"
+msgstr "Marchia come atività giornaliera"
+
+#: static/tags/pomodoro/activities.tag.html:55
+#: static/tags/pomodoro/history.tag.html:38
+msgid "Add to TODO"
+msgstr "Aggiungi ai TODO"
+
+#: static/tags/pomodoro/activities.tag.html:56
+#: static/tags/pomodoro/history.tag.html:39
+#: static/tags/pomodoro/todo/main.tag.html:56
+#: static/tags/stats/main.tag.html:63
+#, fuzzy
+msgid "Edit"
+msgstr "mediano"
 
 #: static/tags/pomodoro/activities.tag.html:60
 #: static/tags/pomodoro/todo/main.tag.html:60
 msgid "Add more"
 msgstr "Aggiungi"
 
-#: static/tags/pomodoro/activities.tag.html:63
-msgid "Mark as daily task"
-msgstr "Marchia come atività giornaliera"
+#: static/tags/pomodoro/activities.tag.html:62
+#: static/tags/pomodoro/todo/main.tag.html:63
+msgid "Remove"
+msgstr "Rimuovi"
 
-#: static/tags/pomodoro/activities.tag.html:66
-#: static/tags/pomodoro/history.tag.html:38
-msgid "Add to TODO"
-msgstr "Aggiungi ai TODO"
-
-#: static/tags/pomodoro/activities.tag.html:72
-#: static/tags/pomodoro/history.tag.html:48 static/tags/stats/main.tag.html:81
-msgid "Double click/tap to edit items."
+#: static/tags/pomodoro/activities.tag.html:69
+#: static/tags/pomodoro/history.tag.html:52
+#: static/tags/pomodoro/todo/main.tag.html:76
+#: static/tags/stats/main.tag.html:88
+#, fuzzy
+msgid "Click/tap to edit items."
 msgstr "Doppio click/tap per modificare gli elementi"
 
-#: static/tags/pomodoro/activities.tag.html:74
+#: static/tags/pomodoro/activities.tag.html:70
+#: static/tags/pomodoro/todo/main.tag.html:77
+msgid "Click on a number to add more."
+msgstr ""
+
+#: static/tags/pomodoro/activities.tag.html:73
 msgid "The list is empty"
 msgstr "La lista è vuota"
 
-#: static/tags/pomodoro/activities.tag.html:75
+#: static/tags/pomodoro/activities.tag.html:74
 msgid "Try to mark TODO as activity or use the form above"
 msgstr "Prova a segnare TODO come attività o usa il modulo di cui sopra"
 
@@ -147,14 +161,15 @@ msgid "no description"
 msgstr "nessuna descrizione"
 
 #: static/tags/pomodoro/history.tag.html:37
-msgid "Add to favorites"
-msgstr "Aggiungi ai preferiti"
+#: static/tags/pomodoro/todo/main.tag.html:54
+msgid "Pin to favorites"
+msgstr ""
 
-#: static/tags/pomodoro/history.tag.html:45 static/tags/stats/main.tag.html:83
+#: static/tags/pomodoro/history.tag.html:49 static/tags/stats/main.tag.html:90
 msgid "Records are empty"
 msgstr "I record sono vuoti"
 
-#: static/tags/pomodoro/history.tag.html:46
+#: static/tags/pomodoro/history.tag.html:50
 msgid "Try to complete some pomodoros above"
 msgstr "Prova a completare alcuni pomodori sopra"
 
@@ -243,28 +258,25 @@ msgstr ""
 msgid "Favorites"
 msgstr ""
 
-#: static/tags/pomodoro/todo/main.tag.html:51
+#: static/tags/pomodoro/todo/main.tag.html:55
 msgid "Mark as done"
 msgstr ""
 
-#: static/tags/pomodoro/todo/main.tag.html:52
-msgid "Pin to favorites"
-msgstr ""
-
-#: static/tags/pomodoro/todo/main.tag.html:56
+#: static/tags/pomodoro/todo/main.tag.html:59
 msgid "Drag/Move to sort"
 msgstr ""
 
-#: static/tags/pomodoro/todo/main.tag.html:66
+#: static/tags/pomodoro/todo/main.tag.html:70
 msgid "TODO list is empty"
 msgstr ""
 
-#: static/tags/pomodoro/todo/main.tag.html:67
+#: static/tags/pomodoro/todo/main.tag.html:71
 msgid "Try to add some tasks use the form above"
 msgstr ""
 
-#: static/tags/pomodoro/todo/main.tag.html:70
-msgid "Double click/tap to edit items. Drag&Drop/Touch to sort items."
+#: static/tags/pomodoro/todo/main.tag.html:78
+#, fuzzy
+msgid "Drag&Drop/Touch to sort items."
 msgstr "Doppio click/tap per modificare gli elementi"
 
 #: static/tags/settings/main.tag.html:5
@@ -318,7 +330,6 @@ msgstr "Attiva notifiche web"
 
 #: static/tags/settings/notifications.tag.html:59
 #, fuzzy
-#| msgid "Enable Web Notifications"
 msgid "Enable Telegram Notifications"
 msgstr "Attiva notifiche web"
 
@@ -489,131 +500,132 @@ msgstr "Giorni di lavoro"
 msgid "Average per day"
 msgstr "Medio al giorno"
 
-#: static/tags/stats/main.tag.html:31
+#: static/tags/stats/main.tag.html:35
+#, fuzzy
+msgid "Time"
+msgstr "tempo"
+
+#: static/tags/stats/main.tag.html:36
 msgid "Date"
 msgstr "Data"
 
-#: static/tags/stats/main.tag.html:34
-msgid "Duration"
-msgstr "Durata"
-
-#: static/tags/stats/main.tag.html:55 static/tags/stats/main.tag.html:68
+#: static/tags/stats/main.tag.html:58 static/tags/stats/main.tag.html:71
 msgid "Delete"
 msgstr "Cancella"
 
-#: static/tags/stats/main.tag.html:66
+#: static/tags/stats/main.tag.html:69
 msgid "Are you sure want to delete"
 msgstr "Sei sicuro di volere eliminare"
 
-#: static/tags/stats/main.tag.html:69 static/tags/stats/main.tag.html:145
+#: static/tags/stats/main.tag.html:72 static/tags/stats/main.tag.html:153
 msgid "Cancel"
 msgstr "Cancella"
 
-#: static/tags/stats/main.tag.html:84
+#: static/tags/stats/main.tag.html:91
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Prova a completare alcuni Pomodori o scegliere un periodo diverso"
 
-#: static/tags/stats/main.tag.html:91
+#: static/tags/stats/main.tag.html:98
 msgid "Export the records as CSV"
 msgstr "Esportare i record come CSV"
 
-#: static/tags/stats/main.tag.html:98
+#: static/tags/stats/main.tag.html:105
 msgid "Import CSV"
 msgstr "Importa CVS"
 
-#: static/tags/stats/main.tag.html:144
+#: static/tags/stats/main.tag.html:152
 msgid "Apply"
 msgstr "Applicare"
 
-#: static/tags/stats/main.tag.html:146
+#: static/tags/stats/main.tag.html:154
 msgid "Custom"
 msgstr "Specifica"
 
-#: static/tags/stats/main.tag.html:148
+#: static/tags/stats/main.tag.html:156
 msgid "January"
 msgstr "Gennaio"
 
-#: static/tags/stats/main.tag.html:149
+#: static/tags/stats/main.tag.html:157
 msgid "February"
 msgstr "Febbraio"
 
-#: static/tags/stats/main.tag.html:150
+#: static/tags/stats/main.tag.html:158
 msgid "March"
 msgstr "Marzo"
 
-#: static/tags/stats/main.tag.html:151
+#: static/tags/stats/main.tag.html:159
 msgid "April"
 msgstr "Aprile"
 
-#: static/tags/stats/main.tag.html:152
+#: static/tags/stats/main.tag.html:160
 msgid "May"
 msgstr "Può"
 
-#: static/tags/stats/main.tag.html:153
+#: static/tags/stats/main.tag.html:161
 msgid "June"
 msgstr "Giugno"
 
-#: static/tags/stats/main.tag.html:154
+#: static/tags/stats/main.tag.html:162
 msgid "July"
 msgstr "Luglio"
 
-#: static/tags/stats/main.tag.html:155
+#: static/tags/stats/main.tag.html:163
 msgid "August"
 msgstr "Agosto"
 
-#: static/tags/stats/main.tag.html:156
+#: static/tags/stats/main.tag.html:164
 msgid "September"
 msgstr "Settembre"
 
-#: static/tags/stats/main.tag.html:157
+#: static/tags/stats/main.tag.html:165
 msgid "October"
 msgstr "Ottobre"
 
-#: static/tags/stats/main.tag.html:158
+#: static/tags/stats/main.tag.html:166
 msgid "November"
 msgstr "Novembre"
 
-#: static/tags/stats/main.tag.html:159
+#: static/tags/stats/main.tag.html:167
 msgid "December"
 msgstr "Dicembre"
 
-#: static/tags/stats/main.tag.html:162
+#: static/tags/stats/main.tag.html:170
 msgid "Today"
 msgstr "Oggi"
 
-#: static/tags/stats/main.tag.html:163
+#: static/tags/stats/main.tag.html:171
 msgid "Yesterday"
 msgstr "Ieri"
 
-#: static/tags/stats/main.tag.html:164
+#: static/tags/stats/main.tag.html:172
 msgid "This Week"
 msgstr "Questa settimana"
 
-#: static/tags/stats/main.tag.html:165
+#: static/tags/stats/main.tag.html:173
 msgid "This Month"
 msgstr "Questo mese"
 
-#: static/tags/stats/main.tag.html:166
+#: static/tags/stats/main.tag.html:174
 msgid "This Quarter"
 msgstr "In questo trimestre"
 
-#: static/tags/stats/main.tag.html:167
+#: static/tags/stats/main.tag.html:175
 msgid "Last Week"
 msgstr "La settimana scorsa"
 
-#: static/tags/stats/main.tag.html:168
+#: static/tags/stats/main.tag.html:176
 msgid "Last Month"
 msgstr "Lo scorso mese"
 
-#: static/tags/stats/main.tag.html:169
+#: static/tags/stats/main.tag.html:177
 msgid "Last Quarter"
 msgstr "Ultimo quarto"
 
-#: static/tags/stats/main.tag.html:170
+#: static/tags/stats/main.tag.html:178
 msgid "Last 90 days"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:171
+#: static/tags/stats/main.tag.html:179
 msgid "Last 180 days"
 msgstr ""
 
@@ -676,4 +688,13 @@ msgstr ""
 
 #~ msgid "Code:"
 #~ msgstr ""
+
+#~ msgid "Add to favorites"
+#~ msgstr "Aggiungi ai preferiti"
+
+#~ msgid "Duration"
+#~ msgstr "Durata"
+
+#~ msgid "Double click/tap to edit items."
+#~ msgstr "Doppio click/tap per modificare gli elementi"
 

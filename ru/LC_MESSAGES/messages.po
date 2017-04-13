@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-12 19:08+0300\n"
+"POT-Creation-Date: 2017-04-13 22:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -208,7 +208,7 @@ msgstr ""
 
 #: templates/news.j2:16
 msgid "April"
-msgstr ""
+msgstr "Апрель"
 
 #: templates/news.j2:28
 msgid "February"

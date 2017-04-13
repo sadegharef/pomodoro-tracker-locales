@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-12 19:08+0300\n"
+"POT-Creation-Date: 2017-04-13 22:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nb_NO\n"
@@ -64,7 +64,7 @@ msgstr ""
 #: static/tags/pomodoro/history.tag.html:30
 #: static/tags/pomodoro/todo/main.tag.html:8
 #: static/tags/pomodoro/todo/main.tag.html:48
-#: static/tags/stats/main.tag.html:33 static/tags/stats/main.tag.html:51
+#: static/tags/stats/main.tag.html:34 static/tags/stats/main.tag.html:49
 msgid "Description"
 msgstr ""
 
@@ -88,8 +88,8 @@ msgstr ""
 #: static/tags/pomodoro/todo/main.tag.html:7
 #: static/tags/pomodoro/todo/main.tag.html:15
 #: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:32
-#: static/tags/stats/main.tag.html:45
+#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:33
+#: static/tags/stats/main.tag.html:43
 msgid "Category"
 msgstr ""
 
@@ -102,10 +102,20 @@ msgstr ""
 msgid "Add Activity"
 msgstr ""
 
-#: static/tags/pomodoro/activities.tag.html:51
-#: static/tags/pomodoro/activities.tag.html:58
-#: static/tags/pomodoro/todo/main.tag.html:58
-msgid "Remove"
+#: static/tags/pomodoro/activities.tag.html:54
+msgid "Mark as daily task"
+msgstr ""
+
+#: static/tags/pomodoro/activities.tag.html:55
+#: static/tags/pomodoro/history.tag.html:38
+msgid "Add to TODO"
+msgstr ""
+
+#: static/tags/pomodoro/activities.tag.html:56
+#: static/tags/pomodoro/history.tag.html:39
+#: static/tags/pomodoro/todo/main.tag.html:56
+#: static/tags/stats/main.tag.html:63
+msgid "Edit"
 msgstr ""
 
 #: static/tags/pomodoro/activities.tag.html:60
@@ -113,25 +123,28 @@ msgstr ""
 msgid "Add more"
 msgstr ""
 
-#: static/tags/pomodoro/activities.tag.html:63
-msgid "Mark as daily task"
+#: static/tags/pomodoro/activities.tag.html:62
+#: static/tags/pomodoro/todo/main.tag.html:63
+msgid "Remove"
 msgstr ""
 
-#: static/tags/pomodoro/activities.tag.html:66
-#: static/tags/pomodoro/history.tag.html:38
-msgid "Add to TODO"
+#: static/tags/pomodoro/activities.tag.html:69
+#: static/tags/pomodoro/history.tag.html:52
+#: static/tags/pomodoro/todo/main.tag.html:76
+#: static/tags/stats/main.tag.html:88
+msgid "Click/tap to edit items."
 msgstr ""
 
-#: static/tags/pomodoro/activities.tag.html:72
-#: static/tags/pomodoro/history.tag.html:48 static/tags/stats/main.tag.html:81
-msgid "Double click/tap to edit items."
+#: static/tags/pomodoro/activities.tag.html:70
+#: static/tags/pomodoro/todo/main.tag.html:77
+msgid "Click on a number to add more."
 msgstr ""
 
-#: static/tags/pomodoro/activities.tag.html:74
+#: static/tags/pomodoro/activities.tag.html:73
 msgid "The list is empty"
 msgstr ""
 
-#: static/tags/pomodoro/activities.tag.html:75
+#: static/tags/pomodoro/activities.tag.html:74
 msgid "Try to mark TODO as activity or use the form above"
 msgstr ""
 
@@ -145,14 +158,15 @@ msgid "no description"
 msgstr ""
 
 #: static/tags/pomodoro/history.tag.html:37
-msgid "Add to favorites"
+#: static/tags/pomodoro/todo/main.tag.html:54
+msgid "Pin to favorites"
 msgstr ""
 
-#: static/tags/pomodoro/history.tag.html:45 static/tags/stats/main.tag.html:83
+#: static/tags/pomodoro/history.tag.html:49 static/tags/stats/main.tag.html:90
 msgid "Records are empty"
 msgstr ""
 
-#: static/tags/pomodoro/history.tag.html:46
+#: static/tags/pomodoro/history.tag.html:50
 msgid "Try to complete some pomodoros above"
 msgstr ""
 
@@ -241,28 +255,24 @@ msgstr ""
 msgid "Favorites"
 msgstr ""
 
-#: static/tags/pomodoro/todo/main.tag.html:51
+#: static/tags/pomodoro/todo/main.tag.html:55
 msgid "Mark as done"
 msgstr ""
 
-#: static/tags/pomodoro/todo/main.tag.html:52
-msgid "Pin to favorites"
-msgstr ""
-
-#: static/tags/pomodoro/todo/main.tag.html:56
+#: static/tags/pomodoro/todo/main.tag.html:59
 msgid "Drag/Move to sort"
 msgstr ""
 
-#: static/tags/pomodoro/todo/main.tag.html:66
+#: static/tags/pomodoro/todo/main.tag.html:70
 msgid "TODO list is empty"
 msgstr ""
 
-#: static/tags/pomodoro/todo/main.tag.html:67
+#: static/tags/pomodoro/todo/main.tag.html:71
 msgid "Try to add some tasks use the form above"
 msgstr ""
 
-#: static/tags/pomodoro/todo/main.tag.html:70
-msgid "Double click/tap to edit items. Drag&Drop/Touch to sort items."
+#: static/tags/pomodoro/todo/main.tag.html:78
+msgid "Drag&Drop/Touch to sort items."
 msgstr ""
 
 #: static/tags/settings/main.tag.html:5
@@ -484,131 +494,131 @@ msgstr ""
 msgid "Average per day"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:31
+#: static/tags/stats/main.tag.html:35
+msgid "Time"
+msgstr ""
+
+#: static/tags/stats/main.tag.html:36
 msgid "Date"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:34
-msgid "Duration"
-msgstr ""
-
-#: static/tags/stats/main.tag.html:55 static/tags/stats/main.tag.html:68
+#: static/tags/stats/main.tag.html:58 static/tags/stats/main.tag.html:71
 msgid "Delete"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:66
+#: static/tags/stats/main.tag.html:69
 msgid "Are you sure want to delete"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:69 static/tags/stats/main.tag.html:145
+#: static/tags/stats/main.tag.html:72 static/tags/stats/main.tag.html:153
 msgid "Cancel"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:84
+#: static/tags/stats/main.tag.html:91
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:91
+#: static/tags/stats/main.tag.html:98
 msgid "Export the records as CSV"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:98
+#: static/tags/stats/main.tag.html:105
 msgid "Import CSV"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:144
+#: static/tags/stats/main.tag.html:152
 msgid "Apply"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:146
+#: static/tags/stats/main.tag.html:154
 msgid "Custom"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:148
+#: static/tags/stats/main.tag.html:156
 msgid "January"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:149
+#: static/tags/stats/main.tag.html:157
 msgid "February"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:150
+#: static/tags/stats/main.tag.html:158
 msgid "March"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:151
+#: static/tags/stats/main.tag.html:159
 msgid "April"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:152
+#: static/tags/stats/main.tag.html:160
 msgid "May"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:153
+#: static/tags/stats/main.tag.html:161
 msgid "June"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:154
+#: static/tags/stats/main.tag.html:162
 msgid "July"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:155
+#: static/tags/stats/main.tag.html:163
 msgid "August"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:156
+#: static/tags/stats/main.tag.html:164
 msgid "September"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:157
+#: static/tags/stats/main.tag.html:165
 msgid "October"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:158
+#: static/tags/stats/main.tag.html:166
 msgid "November"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:159
+#: static/tags/stats/main.tag.html:167
 msgid "December"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:162
+#: static/tags/stats/main.tag.html:170
 msgid "Today"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:163
+#: static/tags/stats/main.tag.html:171
 msgid "Yesterday"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:164
+#: static/tags/stats/main.tag.html:172
 msgid "This Week"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:165
+#: static/tags/stats/main.tag.html:173
 msgid "This Month"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:166
+#: static/tags/stats/main.tag.html:174
 msgid "This Quarter"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:167
+#: static/tags/stats/main.tag.html:175
 msgid "Last Week"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:168
+#: static/tags/stats/main.tag.html:176
 msgid "Last Month"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:169
+#: static/tags/stats/main.tag.html:177
 msgid "Last Quarter"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:170
+#: static/tags/stats/main.tag.html:178
 msgid "Last 90 days"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:171
+#: static/tags/stats/main.tag.html:179
 msgid "Last 180 days"
 msgstr ""
 
@@ -655,5 +665,20 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Code:"
+#~ msgstr ""
+
+#~ msgid "Add to favorites"
+#~ msgstr ""
+
+#~ msgid "Double click/tap to edit items. Drag&Drop/Touch to sort items."
+#~ msgstr ""
+
+#~ msgid "Duration"
+#~ msgstr ""
+
+#~ msgid "Double click/tap to edit items."
+#~ msgstr ""
+
+#~ msgid "Click/tap to edit items. Drag&Drop/Touch to sort items."
 #~ msgstr ""
 
