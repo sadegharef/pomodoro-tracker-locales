@@ -141,7 +141,7 @@ msgstr "Kлик/тап для редактирования."
 #: static/tags/pomodoro/activities.tag.html:70
 #: static/tags/pomodoro/todo/main.tag.html:77
 msgid "Click on a number to add more."
-msgstr "Кликните на номер для добавления"
+msgstr "Кликните на номер для добавления."
 
 #: static/tags/pomodoro/activities.tag.html:73
 msgid "The list is empty"
