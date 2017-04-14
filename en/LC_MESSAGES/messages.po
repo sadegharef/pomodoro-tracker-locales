@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-13 22:28+0300\n"
+"POT-Creation-Date: 2017-04-14 12:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -59,11 +59,11 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: templates/index.j2:22
+#: templates/index.j2:37
 msgid "What is it?"
 msgstr ""
 
-#: templates/index.j2:23
+#: templates/index.j2:38
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
 "any task. For many people, time is an enemy. The anxiety triggered by "
@@ -71,117 +71,117 @@ msgid ""
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
 
-#: templates/index.j2:24
+#: templates/index.j2:39
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr ""
 
-#: templates/index.j2:28
+#: templates/index.j2:45
 msgid "The Goals"
 msgstr ""
 
-#: templates/index.j2:29
+#: templates/index.j2:46
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
 
-#: templates/index.j2:31
+#: templates/index.j2:48
 msgid "Alleviate anxiety linked to becoming"
 msgstr ""
 
-#: templates/index.j2:32
+#: templates/index.j2:49
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr ""
 
-#: templates/index.j2:33
+#: templates/index.j2:50
 msgid "Increase awareness of your decisions"
 msgstr ""
 
-#: templates/index.j2:34
+#: templates/index.j2:51
 msgid "Boost motivation and keep it constant"
 msgstr ""
 
-#: templates/index.j2:35
+#: templates/index.j2:52
 msgid "Bolster the determination to achieve your goals"
 msgstr ""
 
-#: templates/index.j2:36
+#: templates/index.j2:53
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
 msgstr ""
 
-#: templates/index.j2:37
+#: templates/index.j2:54
 msgid "Improve your work or study process"
 msgstr ""
 
-#: templates/index.j2:38
+#: templates/index.j2:55
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
 msgstr ""
 
-#: templates/index.j2:44
+#: templates/index.j2:62
 msgid "The Basics"
 msgstr ""
 
-#: templates/index.j2:45
+#: templates/index.j2:63
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
 
-#: templates/index.j2:46
+#: templates/index.j2:64
 msgid "Start working:"
 msgstr ""
 
-#: templates/index.j2:48
+#: templates/index.j2:66
 msgid "Start the Pomodoro timer"
 msgstr ""
 
-#: templates/index.j2:49
+#: templates/index.j2:67
 msgid "Work until the Pomodoro rings"
 msgstr ""
 
-#: templates/index.j2:50
+#: templates/index.j2:68
 msgid "Take a short break (3-5 minutes)"
 msgstr ""
 
-#: templates/index.j2:52
+#: templates/index.j2:70
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
 msgstr ""
 
-#: templates/index.j2:56
+#: templates/index.j2:76
 msgid "Rules & Tips"
 msgstr ""
 
-#: templates/index.j2:58
+#: templates/index.j2:78
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr ""
 
-#: templates/index.j2:59
+#: templates/index.j2:79
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
 msgstr ""
 
-#: templates/index.j2:60
+#: templates/index.j2:80
 msgid "Once a Pomodoro begins, it has to ring"
 msgstr ""
 
-#: templates/index.j2:61
+#: templates/index.j2:81
 msgid "The next Pomodoro will go better"
 msgstr ""
 
-#: templates/index.j2:62
+#: templates/index.j2:82
 msgid "Login to the service and track your progress"
 msgstr ""
 
-#: templates/index.j2:63
+#: templates/index.j2:83
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
@@ -191,35 +191,35 @@ msgstr ""
 msgid "April"
 msgstr ""
 
-#: templates/news.j2:28
+#: templates/news.j2:29
 msgid "February"
 msgstr ""
 
-#: templates/news.j2:40
+#: templates/news.j2:41
 msgid "October"
 msgstr ""
 
-#: templates/news.j2:51
+#: templates/news.j2:52
 msgid "May"
 msgstr ""
 
-#: templates/news.j2:64
+#: templates/news.j2:65
 msgid "March"
 msgstr ""
 
-#: templates/news.j2:74
+#: templates/news.j2:75
 msgid "Febrary"
 msgstr ""
 
-#: templates/news.j2:86
+#: templates/news.j2:87
 msgid "December"
 msgstr ""
 
-#: templates/news.j2:96
+#: templates/news.j2:97
 msgid "September"
 msgstr ""
 
-#: templates/news.j2:109
+#: templates/news.j2:110
 msgid "August"
 msgstr ""
 

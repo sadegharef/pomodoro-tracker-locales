@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-13 22:28+0300\n"
+"POT-Creation-Date: 2017-04-14 12:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -173,6 +173,14 @@ msgstr "Записей не найдено"
 msgid "Try to complete some pomodoros above"
 msgstr "Попробуйте выполнить несколько помидоров"
 
+#: static/tags/pomodoro/history.tag.html:55
+msgid "You are not signed."
+msgstr "Вы не авторизированы."
+
+#: static/tags/pomodoro/history.tag.html:56
+msgid "Work history won`t be saved."
+msgstr "История не будет сохранена."
+
 #: static/tags/pomodoro/settings.tag.html:8
 msgid "Preferences"
 msgstr "Настройки"
@@ -276,8 +284,7 @@ msgstr "Попробуйте добавить задачи используя ф
 
 #: static/tags/pomodoro/todo/main.tag.html:78
 msgid "Drag&Drop/Touch to sort items."
-msgstr ""
-"Перетаскивайте для сортировки."
+msgstr "Перетаскивайте для сортировки."
 
 #: static/tags/settings/main.tag.html:5
 msgid "Application"

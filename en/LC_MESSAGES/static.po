@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-13 22:28+0300\n"
+"POT-Creation-Date: 2017-04-14 12:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -168,6 +168,14 @@ msgstr ""
 
 #: static/tags/pomodoro/history.tag.html:50
 msgid "Try to complete some pomodoros above"
+msgstr ""
+
+#: static/tags/pomodoro/history.tag.html:55
+msgid "You are not signed."
+msgstr ""
+
+#: static/tags/pomodoro/history.tag.html:56
+msgid "Work history won`t be saved."
 msgstr ""
 
 #: static/tags/pomodoro/settings.tag.html:8
