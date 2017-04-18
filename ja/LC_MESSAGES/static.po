@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-18 11:22+0300\n"
+"POT-Creation-Date: 2017-04-18 23:17+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -234,8 +234,8 @@ msgid "PAUSE"
 msgstr "一時停止"
 
 #: static/tags/pomodoro/timer.tag.html:18
-#: static/tags/pomodoro/timer.tag.html:115
-#: static/tags/pomodoro/timer.tag.html:117
+#: static/tags/pomodoro/timer.tag.html:121
+#: static/tags/pomodoro/timer.tag.html:123
 msgid "STOP"
 msgstr "停止"
 
@@ -243,31 +243,39 @@ msgstr "停止"
 msgid "SKIP"
 msgstr "スキップ"
 
-#: static/tags/pomodoro/timer.tag.html:66
-msgid "Pomodoro is finished. Have a break."
+#: static/tags/pomodoro/timer.tag.html:72
+#, fuzzy
+#| msgid "Pomodoro is finished. Have a break."
+msgid "Pomodoro is finished. Have a short break."
 msgstr "ポモドーロ終了です、休憩しましょう。"
 
-#: static/tags/pomodoro/timer.tag.html:70
+#: static/tags/pomodoro/timer.tag.html:74
+#, fuzzy
+#| msgid "Pomodoro is finished. Have a break."
+msgid "Pomodoro is finished. Have a long break."
+msgstr "ポモドーロ終了です、休憩しましょう。"
+
+#: static/tags/pomodoro/timer.tag.html:79
 msgid "Break is over. The next pomodoro will go better!"
 msgstr "休憩終了です。次のポモドーロも頑張りましょう！"
 
-#: static/tags/pomodoro/timer.tag.html:110
+#: static/tags/pomodoro/timer.tag.html:116
 msgid "POMODORO"
 msgstr "ポモドーロ"
 
-#: static/tags/pomodoro/timer.tag.html:111
+#: static/tags/pomodoro/timer.tag.html:117
 msgid "TAKE A SHORT BREAK"
 msgstr "短時間休憩"
 
-#: static/tags/pomodoro/timer.tag.html:112
+#: static/tags/pomodoro/timer.tag.html:118
 msgid "TAKE A LONG BREAK"
 msgstr "長時間休憩"
 
-#: static/tags/pomodoro/timer.tag.html:119
+#: static/tags/pomodoro/timer.tag.html:125
 msgid "DELAY"
 msgstr "遅れ"
 
-#: static/tags/pomodoro/timer.tag.html:123
+#: static/tags/pomodoro/timer.tag.html:129
 msgid "The Pomodoro is running"
 msgstr "ポモドーロ中"
 

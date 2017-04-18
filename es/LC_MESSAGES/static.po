@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-18 11:22+0300\n"
+"POT-Creation-Date: 2017-04-18 23:17+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -235,8 +235,8 @@ msgid "PAUSE"
 msgstr "PAUSA"
 
 #: static/tags/pomodoro/timer.tag.html:18
-#: static/tags/pomodoro/timer.tag.html:115
-#: static/tags/pomodoro/timer.tag.html:117
+#: static/tags/pomodoro/timer.tag.html:121
+#: static/tags/pomodoro/timer.tag.html:123
 msgid "STOP"
 msgstr "PARAR"
 
@@ -244,31 +244,39 @@ msgstr "PARAR"
 msgid "SKIP"
 msgstr "OMITIR"
 
-#: static/tags/pomodoro/timer.tag.html:66
-msgid "Pomodoro is finished. Have a break."
+#: static/tags/pomodoro/timer.tag.html:72
+#, fuzzy
+#| msgid "Pomodoro is finished. Have a break."
+msgid "Pomodoro is finished. Have a short break."
 msgstr "Pomodoro finalizado. Toma un descanso."
 
-#: static/tags/pomodoro/timer.tag.html:70
+#: static/tags/pomodoro/timer.tag.html:74
+#, fuzzy
+#| msgid "Pomodoro is finished. Have a break."
+msgid "Pomodoro is finished. Have a long break."
+msgstr "Pomodoro finalizado. Toma un descanso."
+
+#: static/tags/pomodoro/timer.tag.html:79
 msgid "Break is over. The next pomodoro will go better!"
 msgstr "Fin del descanso. ¡El siguiente pomodoro será mejor! "
 
-#: static/tags/pomodoro/timer.tag.html:110
+#: static/tags/pomodoro/timer.tag.html:116
 msgid "POMODORO"
 msgstr "POMODORO"
 
-#: static/tags/pomodoro/timer.tag.html:111
+#: static/tags/pomodoro/timer.tag.html:117
 msgid "TAKE A SHORT BREAK"
 msgstr "TOMA UN DESCANSO CORTO"
 
-#: static/tags/pomodoro/timer.tag.html:112
+#: static/tags/pomodoro/timer.tag.html:118
 msgid "TAKE A LONG BREAK"
 msgstr "TOMA UN DESCANSO LARGO"
 
-#: static/tags/pomodoro/timer.tag.html:119
+#: static/tags/pomodoro/timer.tag.html:125
 msgid "DELAY"
 msgstr "Retrasar"
 
-#: static/tags/pomodoro/timer.tag.html:123
+#: static/tags/pomodoro/timer.tag.html:129
 msgid "The Pomodoro is running"
 msgstr "El Pomodoro está corriendo"
 
