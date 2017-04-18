@@ -1,4 +1,4 @@
-# Norwegian Bokmål (Norway) translations for pomodoro.
+# Vietnamese translations for pomodoro.
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the pomodoro project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
@@ -6,14 +6,14 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: pomodoro 1.4.8\n"
+"Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-04-18 11:22+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: nb_NO\n"
-"Language-Team: nb_NO <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: vi\n"
+"Language-Team: vi <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -65,7 +65,6 @@ msgstr ""
 msgid "like"
 msgid_plural "likes"
 msgstr[0] ""
-msgstr[1] ""
 
 #: static/tags/feedback/main.tag.html:49
 msgid "Write your ideas here"
@@ -635,64 +634,4 @@ msgstr ""
 #: static/tags/stats/main.tag.html:168
 msgid "Last 180 days"
 msgstr ""
-
-#~ msgid "That you for the feedback! Your message is awaiting moderation."
-#~ msgstr ""
-
-#~ msgid "Febrary"
-#~ msgstr ""
-
-#~ msgid ""
-#~ msgstr ""
-
-#~ msgid "Last 30 days"
-#~ msgstr ""
-
-#~ msgid "quantile"
-#~ msgstr ""
-
-#~ msgid "Last 12 weeks"
-#~ msgstr ""
-
-#~ msgid "Last 6 months"
-#~ msgstr ""
-
-#~ msgid "Import/Export"
-#~ msgstr ""
-
-#~ msgid "Last 7 Days"
-#~ msgstr ""
-
-#~ msgid "Last 30 Days"
-#~ msgstr ""
-
-#~ msgid "Last 90 Days"
-#~ msgstr ""
-
-#~ msgid "Misc"
-#~ msgstr ""
-
-#~ msgid "Save changes"
-#~ msgstr ""
-
-#~ msgid "Don"
-#~ msgstr ""
-
-#~ msgid "Code:"
-#~ msgstr ""
-
-#~ msgid "Add to favorites"
-#~ msgstr ""
-
-#~ msgid "Double click/tap to edit items. Drag&Drop/Touch to sort items."
-#~ msgstr ""
-
-#~ msgid "Duration"
-#~ msgstr ""
-
-#~ msgid "Double click/tap to edit items."
-#~ msgstr ""
-
-#~ msgid "Click/tap to edit items. Drag&Drop/Touch to sort items."
-#~ msgstr ""
 

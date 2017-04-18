@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-14 12:58+0300\n"
+"POT-Creation-Date: 2017-04-18 11:22+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -19,43 +19,43 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
 
-#: templates/base.j2:36
+#: templates/base.j2:37
 msgid "Feedback"
 msgstr ""
 
-#: templates/base.j2:46
+#: templates/base.j2:47
 msgid "Login to view your stats"
 msgstr ""
 
-#: templates/base.j2:48
+#: templates/base.j2:49
 msgid "Stats"
 msgstr ""
 
-#: templates/base.j2:53
+#: templates/base.j2:54
 msgid "Settings"
 msgstr ""
 
-#: templates/base.j2:117
+#: templates/base.j2:118
 msgid "Logout"
 msgstr ""
 
-#: templates/base.j2:173
+#: templates/base.j2:174
 msgid "Sign Up / Login"
 msgstr ""
 
-#: templates/base.j2:176
+#: templates/base.j2:177
 msgid "as Google user"
 msgstr ""
 
-#: templates/base.j2:179
+#: templates/base.j2:180
 msgid "as Facebook user"
 msgstr ""
 
-#: templates/base.j2:182
+#: templates/base.j2:183
 msgid "as Github user"
 msgstr ""
 
-#: templates/base.j2:201
+#: templates/base.j2:202
 msgid "version"
 msgstr ""
 

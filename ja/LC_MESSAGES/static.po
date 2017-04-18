@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-14 12:58+0300\n"
+"POT-Creation-Date: 2017-04-18 11:22+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -32,48 +32,66 @@ msgstr "ロード"
 msgid "Joined at"
 msgstr "参加する"
 
+#: static/tags/remove-item.tag.html:5
+msgid "Are you sure want to delete"
+msgstr "削除してよろしいですか？"
+
+#: static/tags/pomodoro/history.tag.html:46 static/tags/remove-item.tag.html:7
+#: static/tags/stats/main.tag.html:67
+msgid "Delete"
+msgstr "削除"
+
+#: static/tags/feedback/main.tag.html:96 static/tags/remove-item.tag.html:8
+#: static/tags/stats/main.tag.html:142
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: static/tags/remove-item.tag.html:20
+msgid "record"
+msgstr ""
+
 #: static/tags/feedback/main.tag.html:6
 msgid "New"
 msgstr "新着"
 
-#: static/tags/feedback/main.tag.html:7
+#: static/tags/feedback/main.tag.html:7 static/tags/feedback/main.tag.html:95
 msgid "Done"
 msgstr "完了"
 
-#: static/tags/feedback/main.tag.html:32
+#: static/tags/feedback/main.tag.html:36
 msgid "Like"
 msgstr "いいね"
 
-#: static/tags/feedback/main.tag.html:33
+#: static/tags/feedback/main.tag.html:37
 msgid "like"
 msgid_plural "likes"
 msgstr[0] "いいね"
 msgstr[1] "いいね"
 
-#: static/tags/feedback/main.tag.html:45
+#: static/tags/feedback/main.tag.html:49
 msgid "Write your ideas here"
 msgstr "あなたのアイデアを書いてください"
 
-#: static/tags/feedback/main.tag.html:49
+#: static/tags/feedback/main.tag.html:53
 msgid "Title"
 msgstr "タイトル"
 
-#: static/tags/feedback/main.tag.html:52
+#: static/tags/feedback/main.tag.html:56
 #: static/tags/pomodoro/activities.tag.html:14
 #: static/tags/pomodoro/activities.tag.html:48
 #: static/tags/pomodoro/history.tag.html:7
 #: static/tags/pomodoro/history.tag.html:30
 #: static/tags/pomodoro/todo/main.tag.html:8
 #: static/tags/pomodoro/todo/main.tag.html:48
-#: static/tags/stats/main.tag.html:34 static/tags/stats/main.tag.html:49
+#: static/tags/stats/main.tag.html:35 static/tags/stats/main.tag.html:50
 msgid "Description"
 msgstr "説明"
 
-#: static/tags/feedback/main.tag.html:54
+#: static/tags/feedback/main.tag.html:58
 msgid "Create"
 msgstr "作成"
 
-#: static/tags/feedback/main.tag.html:58
+#: static/tags/feedback/main.tag.html:62
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "フィードバックをいただきありがとうございます！あなたのメッセージは承認待ちです。"
 
@@ -89,8 +107,8 @@ msgstr "アクティビティ"
 #: static/tags/pomodoro/todo/main.tag.html:7
 #: static/tags/pomodoro/todo/main.tag.html:15
 #: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:33
-#: static/tags/stats/main.tag.html:43
+#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:34
+#: static/tags/stats/main.tag.html:44
 msgid "Category"
 msgstr "カテゴリー"
 
@@ -115,7 +133,7 @@ msgstr "TODOに追加する"
 #: static/tags/pomodoro/activities.tag.html:56
 #: static/tags/pomodoro/history.tag.html:39
 #: static/tags/pomodoro/todo/main.tag.html:56
-#: static/tags/stats/main.tag.html:63
+#: static/tags/stats/main.tag.html:58
 #, fuzzy
 msgid "Edit"
 msgstr "平均"
@@ -125,28 +143,28 @@ msgstr "平均"
 msgid "Add more"
 msgstr "もう一回"
 
-#: static/tags/pomodoro/activities.tag.html:62
+#: static/tags/pomodoro/activities.tag.html:65
 #: static/tags/pomodoro/todo/main.tag.html:63
 msgid "Remove"
 msgstr "削除"
 
-#: static/tags/pomodoro/activities.tag.html:69
-#: static/tags/pomodoro/history.tag.html:52
+#: static/tags/pomodoro/activities.tag.html:72
+#: static/tags/pomodoro/history.tag.html:58
 #: static/tags/pomodoro/todo/main.tag.html:76
-#: static/tags/stats/main.tag.html:88
+#: static/tags/stats/main.tag.html:74
 msgid "Click/tap to edit items."
 msgstr "アイテムを編集するには、ダブルクリックまたはタップしてください。"
 
-#: static/tags/pomodoro/activities.tag.html:70
+#: static/tags/pomodoro/activities.tag.html:73
 #: static/tags/pomodoro/todo/main.tag.html:77
 msgid "Click on a number to add more."
 msgstr "追加する番号をクリックしてください。"
 
-#: static/tags/pomodoro/activities.tag.html:73
+#: static/tags/pomodoro/activities.tag.html:76
 msgid "The list is empty"
 msgstr "リストは空です。"
 
-#: static/tags/pomodoro/activities.tag.html:74
+#: static/tags/pomodoro/activities.tag.html:77
 msgid "Try to mark TODO as activity or use the form above"
 msgstr "TODOをアクティビティとしてマークするか、上記のフォームを使用してください。"
 
@@ -164,19 +182,19 @@ msgstr "説明無し"
 msgid "Pin to favorites"
 msgstr "お気に入りに追加"
 
-#: static/tags/pomodoro/history.tag.html:49 static/tags/stats/main.tag.html:90
+#: static/tags/pomodoro/history.tag.html:55 static/tags/stats/main.tag.html:76
 msgid "Records are empty"
 msgstr "レコードが空です"
 
-#: static/tags/pomodoro/history.tag.html:50
+#: static/tags/pomodoro/history.tag.html:56
 msgid "Try to complete some pomodoros above"
 msgstr "上記のポモドーロを完了してください"
 
-#: static/tags/pomodoro/history.tag.html:55
+#: static/tags/pomodoro/history.tag.html:61
 msgid "You are not signed."
 msgstr ""
 
-#: static/tags/pomodoro/history.tag.html:56
+#: static/tags/pomodoro/history.tag.html:62
 msgid "Work history won`t be saved."
 msgstr ""
 
@@ -508,131 +526,119 @@ msgstr "稼働日数"
 msgid "Average per day"
 msgstr "1日平均"
 
-#: static/tags/stats/main.tag.html:35
+#: static/tags/stats/main.tag.html:36
 msgid "Time"
 msgstr "時間"
 
-#: static/tags/stats/main.tag.html:36
+#: static/tags/stats/main.tag.html:37
 msgid "Date"
 msgstr "日付"
 
-#: static/tags/stats/main.tag.html:58 static/tags/stats/main.tag.html:71
-msgid "Delete"
-msgstr "削除"
-
-#: static/tags/stats/main.tag.html:69
-msgid "Are you sure want to delete"
-msgstr "削除してよろしいですか？"
-
-#: static/tags/stats/main.tag.html:72 static/tags/stats/main.tag.html:153
-msgid "Cancel"
-msgstr "キャンセル"
-
-#: static/tags/stats/main.tag.html:91
+#: static/tags/stats/main.tag.html:77
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "ポモドーロを完了するか、別の期間をえらんでください。"
 
-#: static/tags/stats/main.tag.html:98
+#: static/tags/stats/main.tag.html:84
 msgid "Export the records as CSV"
 msgstr "CSV出力"
 
-#: static/tags/stats/main.tag.html:105
+#: static/tags/stats/main.tag.html:91
 msgid "Import CSV"
 msgstr "CSV入力"
 
-#: static/tags/stats/main.tag.html:152
+#: static/tags/stats/main.tag.html:141
 msgid "Apply"
 msgstr "適用"
 
-#: static/tags/stats/main.tag.html:154
+#: static/tags/stats/main.tag.html:143
 msgid "Custom"
 msgstr "カスタム"
 
-#: static/tags/stats/main.tag.html:156
+#: static/tags/stats/main.tag.html:145
 msgid "January"
 msgstr "1月"
 
-#: static/tags/stats/main.tag.html:157
+#: static/tags/stats/main.tag.html:146
 msgid "February"
 msgstr "2月"
 
-#: static/tags/stats/main.tag.html:158
+#: static/tags/stats/main.tag.html:147
 msgid "March"
 msgstr "3月"
 
-#: static/tags/stats/main.tag.html:159
+#: static/tags/stats/main.tag.html:148
 msgid "April"
 msgstr "4月"
 
-#: static/tags/stats/main.tag.html:160
+#: static/tags/stats/main.tag.html:149
 msgid "May"
 msgstr "5月"
 
-#: static/tags/stats/main.tag.html:161
+#: static/tags/stats/main.tag.html:150
 msgid "June"
 msgstr "6月"
 
-#: static/tags/stats/main.tag.html:162
+#: static/tags/stats/main.tag.html:151
 msgid "July"
 msgstr "7月"
 
-#: static/tags/stats/main.tag.html:163
+#: static/tags/stats/main.tag.html:152
 msgid "August"
 msgstr "8月"
 
-#: static/tags/stats/main.tag.html:164
+#: static/tags/stats/main.tag.html:153
 msgid "September"
 msgstr "9月"
 
-#: static/tags/stats/main.tag.html:165
+#: static/tags/stats/main.tag.html:154
 msgid "October"
 msgstr "10月"
 
-#: static/tags/stats/main.tag.html:166
+#: static/tags/stats/main.tag.html:155
 msgid "November"
 msgstr "11月"
 
-#: static/tags/stats/main.tag.html:167
+#: static/tags/stats/main.tag.html:156
 msgid "December"
 msgstr "12月"
 
-#: static/tags/stats/main.tag.html:170
+#: static/tags/stats/main.tag.html:159
 msgid "Today"
 msgstr "今日"
 
-#: static/tags/stats/main.tag.html:171
+#: static/tags/stats/main.tag.html:160
 msgid "Yesterday"
 msgstr "昨日"
 
-#: static/tags/stats/main.tag.html:172
+#: static/tags/stats/main.tag.html:161
 msgid "This Week"
 msgstr "今週"
 
-#: static/tags/stats/main.tag.html:173
+#: static/tags/stats/main.tag.html:162
 msgid "This Month"
 msgstr "今月"
 
-#: static/tags/stats/main.tag.html:174
+#: static/tags/stats/main.tag.html:163
 msgid "This Quarter"
 msgstr "現在の四半期"
 
-#: static/tags/stats/main.tag.html:175
+#: static/tags/stats/main.tag.html:164
 msgid "Last Week"
 msgstr "先週"
 
-#: static/tags/stats/main.tag.html:176
+#: static/tags/stats/main.tag.html:165
 msgid "Last Month"
 msgstr "先月"
 
-#: static/tags/stats/main.tag.html:177
+#: static/tags/stats/main.tag.html:166
 msgid "Last Quarter"
 msgstr "前の四半期"
 
-#: static/tags/stats/main.tag.html:178
+#: static/tags/stats/main.tag.html:167
 msgid "Last 90 days"
 msgstr "過去90日間"
 
-#: static/tags/stats/main.tag.html:179
+#: static/tags/stats/main.tag.html:168
 msgid "Last 180 days"
 msgstr "過去180日間"
 
