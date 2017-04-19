@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-18 23:17+0300\n"
+"POT-Creation-Date: 2017-04-19 14:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -106,7 +106,7 @@ msgstr ""
 #: static/tags/pomodoro/todo/main.tag.html:7
 #: static/tags/pomodoro/todo/main.tag.html:15
 #: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:34
+#: static/tags/settings/misc.tag.html:69 static/tags/stats/main.tag.html:34
 #: static/tags/stats/main.tag.html:44
 msgid "Category"
 msgstr ""
@@ -313,27 +313,43 @@ msgstr ""
 msgid "Integrations"
 msgstr ""
 
-#: static/tags/settings/misc.tag.html:6
+#: static/tags/settings/misc.tag.html:7
+msgid "Theme"
+msgstr ""
+
+#: static/tags/settings/misc.tag.html:10
+msgid "light"
+msgstr ""
+
+#: static/tags/settings/misc.tag.html:11
+msgid "dark"
+msgstr ""
+
+#: static/tags/settings/misc.tag.html:12
+msgid "auto"
+msgstr ""
+
+#: static/tags/settings/misc.tag.html:19
 msgid "Date format"
 msgstr ""
 
-#: static/tags/settings/misc.tag.html:21
+#: static/tags/settings/misc.tag.html:34
 msgid "Time format"
 msgstr ""
 
-#: static/tags/settings/misc.tag.html:32
+#: static/tags/settings/misc.tag.html:45
 msgid "Time zone"
 msgstr ""
 
-#: static/tags/settings/misc.tag.html:45
+#: static/tags/settings/misc.tag.html:58
 msgid "Clear daily history after midnight"
 msgstr ""
 
-#: static/tags/settings/misc.tag.html:52
+#: static/tags/settings/misc.tag.html:65
 msgid "Categories"
 msgstr ""
 
-#: static/tags/settings/misc.tag.html:58
+#: static/tags/settings/misc.tag.html:71
 msgid "Add category"
 msgstr ""
 

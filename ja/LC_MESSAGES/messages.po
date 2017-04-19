@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-18 23:17+0300\n"
+"POT-Creation-Date: 2017-04-19 14:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -191,35 +191,35 @@ msgstr "ポモドーロテクニックは余暇の活動には使用しないで
 msgid "April"
 msgstr "4月"
 
-#: templates/news.j2:29
+#: templates/news.j2:30
 msgid "February"
 msgstr "2月"
 
-#: templates/news.j2:41
+#: templates/news.j2:42
 msgid "October"
 msgstr "10月"
 
-#: templates/news.j2:52
+#: templates/news.j2:53
 msgid "May"
 msgstr "5月"
 
-#: templates/news.j2:65
+#: templates/news.j2:66
 msgid "March"
 msgstr "3月"
 
-#: templates/news.j2:75
+#: templates/news.j2:76
 msgid "Febrary"
 msgstr "2月"
 
-#: templates/news.j2:87
+#: templates/news.j2:88
 msgid "December"
 msgstr "12月"
 
-#: templates/news.j2:97
+#: templates/news.j2:98
 msgid "September"
 msgstr "9月"
 
-#: templates/news.j2:110
+#: templates/news.j2:111
 msgid "August"
 msgstr "8月"
 

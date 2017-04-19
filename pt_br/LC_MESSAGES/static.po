@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-18 23:17+0300\n"
+"POT-Creation-Date: 2017-04-19 14:48+0300\n"
 "PO-Revision-Date: 2017-02-06 20:20-0200\n"
 "Last-Translator: LUCAS ERNESTO KINDINGER <kindingerlek@hotmail.com>\n"
 "Language: pt_BR\n"
@@ -107,7 +107,7 @@ msgstr "Atividades"
 #: static/tags/pomodoro/todo/main.tag.html:7
 #: static/tags/pomodoro/todo/main.tag.html:15
 #: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:34
+#: static/tags/settings/misc.tag.html:69 static/tags/stats/main.tag.html:34
 #: static/tags/stats/main.tag.html:44
 msgid "Category"
 msgstr "Categoria"
@@ -247,13 +247,11 @@ msgstr "IGNORAR"
 
 #: static/tags/pomodoro/timer.tag.html:72
 #, fuzzy
-#| msgid "Pomodoro is finished. Have a break."
 msgid "Pomodoro is finished. Have a short break."
 msgstr "O pomodoro terminou. Faça uma pausa."
 
 #: static/tags/pomodoro/timer.tag.html:74
 #, fuzzy
-#| msgid "Pomodoro is finished. Have a break."
 msgid "Pomodoro is finished. Have a long break."
 msgstr "O pomodoro terminou. Faça uma pausa."
 
@@ -322,28 +320,48 @@ msgstr "Aplicação"
 msgid "Integrations"
 msgstr "Integrações"
 
-#: static/tags/settings/misc.tag.html:6
+#: static/tags/settings/misc.tag.html:7
+#, fuzzy
+#| msgid "time"
+msgid "Theme"
+msgstr "cronômetro"
+
+#: static/tags/settings/misc.tag.html:10
+msgid "light"
+msgstr ""
+
+#: static/tags/settings/misc.tag.html:11
+msgid "dark"
+msgstr ""
+
+#: static/tags/settings/misc.tag.html:12
+#, fuzzy
+#| msgid "Custom"
+msgid "auto"
+msgstr "Personalizado"
+
+#: static/tags/settings/misc.tag.html:19
 msgid "Date format"
 msgstr "Formato da data:"
 
-#: static/tags/settings/misc.tag.html:21
+#: static/tags/settings/misc.tag.html:34
 msgid "Time format"
 msgstr "Formato das horas:"
 
-#: static/tags/settings/misc.tag.html:32
+#: static/tags/settings/misc.tag.html:45
 #, fuzzy
 msgid "Time zone"
 msgstr "cronômetro"
 
-#: static/tags/settings/misc.tag.html:45
+#: static/tags/settings/misc.tag.html:58
 msgid "Clear daily history after midnight"
 msgstr "Apagar histórico diariamente, após a meia-noite"
 
-#: static/tags/settings/misc.tag.html:52
+#: static/tags/settings/misc.tag.html:65
 msgid "Categories"
 msgstr "Categorias"
 
-#: static/tags/settings/misc.tag.html:58
+#: static/tags/settings/misc.tag.html:71
 msgid "Add category"
 msgstr "Adicionar Categoria"
 

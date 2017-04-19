@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-18 23:17+0300\n"
+"POT-Creation-Date: 2017-04-19 14:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -108,7 +108,7 @@ msgstr "Избранное"
 #: static/tags/pomodoro/todo/main.tag.html:7
 #: static/tags/pomodoro/todo/main.tag.html:15
 #: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:34
+#: static/tags/settings/misc.tag.html:69 static/tags/stats/main.tag.html:34
 #: static/tags/stats/main.tag.html:44
 msgid "Category"
 msgstr "Категория"
@@ -135,9 +135,8 @@ msgstr "Добавить в список задач"
 #: static/tags/pomodoro/history.tag.html:39
 #: static/tags/pomodoro/todo/main.tag.html:56
 #: static/tags/stats/main.tag.html:58
-#, fuzzy
 msgid "Edit"
-msgstr "медиана"
+msgstr "Редактировать"
 
 #: static/tags/pomodoro/activities.tag.html:60
 #: static/tags/pomodoro/todo/main.tag.html:60
@@ -316,27 +315,43 @@ msgstr "Приложение"
 msgid "Integrations"
 msgstr "Сервисы"
 
-#: static/tags/settings/misc.tag.html:6
+#: static/tags/settings/misc.tag.html:7
+msgid "Theme"
+msgstr "Тема оформления"
+
+#: static/tags/settings/misc.tag.html:10
+msgid "light"
+msgstr "светлая"
+
+#: static/tags/settings/misc.tag.html:11
+msgid "dark"
+msgstr "темная"
+
+#: static/tags/settings/misc.tag.html:12
+msgid "auto"
+msgstr "автоматически"
+
+#: static/tags/settings/misc.tag.html:19
 msgid "Date format"
 msgstr "Формат даты"
 
-#: static/tags/settings/misc.tag.html:21
+#: static/tags/settings/misc.tag.html:34
 msgid "Time format"
 msgstr "Формат времени"
 
-#: static/tags/settings/misc.tag.html:32
+#: static/tags/settings/misc.tag.html:45
 msgid "Time zone"
 msgstr "Часовой пояс"
 
-#: static/tags/settings/misc.tag.html:45
+#: static/tags/settings/misc.tag.html:58
 msgid "Clear daily history after midnight"
 msgstr "Очищать историю задач после полуночи"
 
-#: static/tags/settings/misc.tag.html:52
+#: static/tags/settings/misc.tag.html:65
 msgid "Categories"
 msgstr "Категории"
 
-#: static/tags/settings/misc.tag.html:58
+#: static/tags/settings/misc.tag.html:71
 msgid "Add category"
 msgstr "Добавить категорию"
 
@@ -357,9 +372,8 @@ msgid "Enable Web Notifications"
 msgstr "Включить оповещения в браузере"
 
 #: static/tags/settings/notifications.tag.html:59
-#, fuzzy
 msgid "Enable Telegram Notifications"
-msgstr "Включить оповещения в браузере"
+msgstr "Включить оповещения в Телеграмме"
 
 #: static/tags/settings/notifications.tag.html:69
 msgid "Enable Browser Alerts"
@@ -529,9 +543,8 @@ msgid "Average per day"
 msgstr "Среднее/день"
 
 #: static/tags/stats/main.tag.html:36
-#, fuzzy
 msgid "Time"
-msgstr "время"
+msgstr "Время"
 
 #: static/tags/stats/main.tag.html:37
 msgid "Date"

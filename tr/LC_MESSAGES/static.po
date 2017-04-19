@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-18 23:17+0300\n"
+"POT-Creation-Date: 2017-04-19 14:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -20,13 +20,12 @@ msgstr ""
 "Generated-By: Babel 2.3.4\n"
 
 #: static/stores/todo.coffee:117
-#, fuzzy
 msgid "Great work! TODO list is empty."
-msgstr "Liste boş"
+msgstr "Harika iş! TODO listesi boş."
 
 #: static/tags/loading.tag.html:3
 msgid "LOADING"
-msgstr ""
+msgstr "YÜKLENIYOR"
 
 #: static/tags/profile.tag.html:5
 msgid "Joined at"
@@ -48,7 +47,7 @@ msgstr "İptal"
 
 #: static/tags/remove-item.tag.html:20
 msgid "record"
-msgstr ""
+msgstr "rekor"
 
 #: static/tags/feedback/main.tag.html:6
 msgid "New"
@@ -106,7 +105,7 @@ msgstr "Aktiviteler"
 #: static/tags/pomodoro/todo/main.tag.html:7
 #: static/tags/pomodoro/todo/main.tag.html:15
 #: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:34
+#: static/tags/settings/misc.tag.html:69 static/tags/stats/main.tag.html:34
 #: static/tags/stats/main.tag.html:44
 msgid "Category"
 msgstr "Kategori"
@@ -133,9 +132,8 @@ msgstr "Yapılacaklara ekle"
 #: static/tags/pomodoro/history.tag.html:39
 #: static/tags/pomodoro/todo/main.tag.html:56
 #: static/tags/stats/main.tag.html:58
-#, fuzzy
 msgid "Edit"
-msgstr "medyan"
+msgstr "Düzenlemek"
 
 #: static/tags/pomodoro/activities.tag.html:60
 #: static/tags/pomodoro/todo/main.tag.html:60
@@ -151,14 +149,13 @@ msgstr "Sil"
 #: static/tags/pomodoro/history.tag.html:58
 #: static/tags/pomodoro/todo/main.tag.html:76
 #: static/tags/stats/main.tag.html:74
-#, fuzzy
 msgid "Click/tap to edit items."
 msgstr "Öğeleri düzenlemek için çift tıklayın/dokunun."
 
 #: static/tags/pomodoro/activities.tag.html:73
 #: static/tags/pomodoro/todo/main.tag.html:77
 msgid "Click on a number to add more."
-msgstr ""
+msgstr "Daha fazla eklemek için bir numarayı tıklayın."
 
 #: static/tags/pomodoro/activities.tag.html:76
 msgid "The list is empty"
@@ -192,11 +189,11 @@ msgstr "Yukarıdaki pomodorolardan bazılarını tamamlamayı deneyin"
 
 #: static/tags/pomodoro/history.tag.html:61
 msgid "You are not signed."
-msgstr ""
+msgstr "Sen imzalanmadın"
 
 #: static/tags/pomodoro/history.tag.html:62
 msgid "Work history won`t be saved."
-msgstr ""
+msgstr "İş geçmişi kurtarılamaz."
 
 #: static/tags/pomodoro/settings.tag.html:8
 msgid "Preferences"
@@ -244,14 +241,10 @@ msgid "SKIP"
 msgstr "GEÇ"
 
 #: static/tags/pomodoro/timer.tag.html:72
-#, fuzzy
-#| msgid "Pomodoro is finished. Have a break."
 msgid "Pomodoro is finished. Have a short break."
 msgstr "Pomodoro tamamlandı. Mola alın."
 
 #: static/tags/pomodoro/timer.tag.html:74
-#, fuzzy
-#| msgid "Pomodoro is finished. Have a break."
 msgid "Pomodoro is finished. Have a long break."
 msgstr "Pomodoro tamamlandı. Mola alın."
 
@@ -308,7 +301,6 @@ msgid "Try to add some tasks use the form above"
 msgstr "Yukarıdaki formu kullanmak için birkaç görev ekleyin"
 
 #: static/tags/pomodoro/todo/main.tag.html:78
-#, fuzzy
 msgid "Drag&Drop/Touch to sort items."
 msgstr ""
 "Öğeleri düzenlemek için çift tıklayın/dokunun. Sıralamak için "
@@ -322,28 +314,43 @@ msgstr "Uygulama"
 msgid "Integrations"
 msgstr "Entegrasyonlar"
 
-#: static/tags/settings/misc.tag.html:6
+#: static/tags/settings/misc.tag.html:7
+msgid "Theme"
+msgstr "Tema"
+
+#: static/tags/settings/misc.tag.html:10
+msgid "light"
+msgstr "Işık"
+
+#: static/tags/settings/misc.tag.html:11
+msgid "dark"
+msgstr "karanlık"
+
+#: static/tags/settings/misc.tag.html:12
+msgid "auto"
+msgstr "oto"
+
+#: static/tags/settings/misc.tag.html:19
 msgid "Date format"
 msgstr "Tarih biçimi"
 
-#: static/tags/settings/misc.tag.html:21
+#: static/tags/settings/misc.tag.html:34
 msgid "Time format"
 msgstr "Saat biçimi"
 
-#: static/tags/settings/misc.tag.html:32
-#, fuzzy
-msgid "Time zone"
-msgstr "zaman"
-
 #: static/tags/settings/misc.tag.html:45
+msgid "Time zone"
+msgstr "Saat dilimi"
+
+#: static/tags/settings/misc.tag.html:58
 msgid "Clear daily history after midnight"
 msgstr "Gece yarısından sonra günlük geçmişi temizle"
 
-#: static/tags/settings/misc.tag.html:52
+#: static/tags/settings/misc.tag.html:65
 msgid "Categories"
 msgstr "Kategoriler"
 
-#: static/tags/settings/misc.tag.html:58
+#: static/tags/settings/misc.tag.html:71
 msgid "Add category"
 msgstr "Kategori ekle"
 
@@ -364,9 +371,8 @@ msgid "Enable Web Notifications"
 msgstr "Web Bildirimlerini Etkinleştir"
 
 #: static/tags/settings/notifications.tag.html:59
-#, fuzzy
 msgid "Enable Telegram Notifications"
-msgstr "Web Bildirimlerini Etkinleştir"
+msgstr "Telgraf Bildirimlerini Etkinleştir"
 
 #: static/tags/settings/notifications.tag.html:69
 msgid "Enable Browser Alerts"
@@ -427,7 +433,7 @@ msgstr "Pomodoroları otomatik başlat"
 
 #: static/tags/settings/timer.tag.html:47
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr ""
+msgstr "TODO boşsa, bir sonraki pomodoroya başlamayın"
 
 #: static/tags/settings/timer.tag.html:57
 msgid "Auto start breaks"
@@ -536,9 +542,8 @@ msgid "Average per day"
 msgstr "Günlük ortalama"
 
 #: static/tags/stats/main.tag.html:36
-#, fuzzy
 msgid "Time"
-msgstr "zaman"
+msgstr "Zaman"
 
 #: static/tags/stats/main.tag.html:37
 msgid "Date"
@@ -646,11 +651,11 @@ msgstr "Son çeyrek"
 
 #: static/tags/stats/main.tag.html:167
 msgid "Last 90 days"
-msgstr ""
+msgstr "Son 90 günde"
 
 #: static/tags/stats/main.tag.html:168
 msgid "Last 180 days"
-msgstr ""
+msgstr "Son 180 günde"
 
 #~ msgid "Save (enter)"
 #~ msgstr "Kaydet (enter)"

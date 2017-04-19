@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-18 23:17+0300\n"
+"POT-Creation-Date: 2017-04-19 14:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -20,13 +20,12 @@ msgstr ""
 "Generated-By: Babel 2.3.4\n"
 
 #: static/stores/todo.coffee:117
-#, fuzzy
 msgid "Great work! TODO list is empty."
 msgstr "La lista está vacía"
 
 #: static/tags/loading.tag.html:3
 msgid "LOADING"
-msgstr ""
+msgstr "CARGANDO"
 
 #: static/tags/profile.tag.html:5
 msgid "Joined at"
@@ -48,7 +47,7 @@ msgstr "Cancelar"
 
 #: static/tags/remove-item.tag.html:20
 msgid "record"
-msgstr ""
+msgstr "grabar"
 
 #: static/tags/feedback/main.tag.html:6
 msgid "New"
@@ -107,7 +106,7 @@ msgstr "Actividades"
 #: static/tags/pomodoro/todo/main.tag.html:7
 #: static/tags/pomodoro/todo/main.tag.html:15
 #: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:56 static/tags/stats/main.tag.html:34
+#: static/tags/settings/misc.tag.html:69 static/tags/stats/main.tag.html:34
 #: static/tags/stats/main.tag.html:44
 msgid "Category"
 msgstr "Categoría"
@@ -134,9 +133,8 @@ msgstr "Añadir a TODO"
 #: static/tags/pomodoro/history.tag.html:39
 #: static/tags/pomodoro/todo/main.tag.html:56
 #: static/tags/stats/main.tag.html:58
-#, fuzzy
 msgid "Edit"
-msgstr "mediana"
+msgstr "Editar"
 
 #: static/tags/pomodoro/activities.tag.html:60
 #: static/tags/pomodoro/todo/main.tag.html:60
@@ -152,14 +150,13 @@ msgstr "Eliminar"
 #: static/tags/pomodoro/history.tag.html:58
 #: static/tags/pomodoro/todo/main.tag.html:76
 #: static/tags/stats/main.tag.html:74
-#, fuzzy
 msgid "Click/tap to edit items."
-msgstr "Doble click/tap para editar elementos."
+msgstr "Click/tap para editar elementos."
 
 #: static/tags/pomodoro/activities.tag.html:73
 #: static/tags/pomodoro/todo/main.tag.html:77
 msgid "Click on a number to add more."
-msgstr ""
+msgstr "Click/tap en un número para agregar más"
 
 #: static/tags/pomodoro/activities.tag.html:76
 msgid "The list is empty"
@@ -193,11 +190,11 @@ msgstr "Intenta completar algunos pomodoros de arriba"
 
 #: static/tags/pomodoro/history.tag.html:61
 msgid "You are not signed."
-msgstr ""
+msgstr "No estás firmado"
 
 #: static/tags/pomodoro/history.tag.html:62
 msgid "Work history won`t be saved."
-msgstr ""
+msgstr "La historia de trabajo no será salvada."
 
 #: static/tags/pomodoro/settings.tag.html:8
 msgid "Preferences"
@@ -246,13 +243,11 @@ msgstr "OMITIR"
 
 #: static/tags/pomodoro/timer.tag.html:72
 #, fuzzy
-#| msgid "Pomodoro is finished. Have a break."
 msgid "Pomodoro is finished. Have a short break."
 msgstr "Pomodoro finalizado. Toma un descanso."
 
 #: static/tags/pomodoro/timer.tag.html:74
 #, fuzzy
-#| msgid "Pomodoro is finished. Have a break."
 msgid "Pomodoro is finished. Have a long break."
 msgstr "Pomodoro finalizado. Toma un descanso."
 
@@ -321,28 +316,43 @@ msgstr "Aplicación"
 msgid "Integrations"
 msgstr "Integraciones"
 
-#: static/tags/settings/misc.tag.html:6
+#: static/tags/settings/misc.tag.html:7
+msgid "Theme"
+msgstr "Tema"
+
+#: static/tags/settings/misc.tag.html:10
+msgid "light"
+msgstr "ligero"
+
+#: static/tags/settings/misc.tag.html:11
+msgid "dark"
+msgstr "oscuro"
+
+#: static/tags/settings/misc.tag.html:12
+msgid "auto"
+msgstr "automático"
+
+#: static/tags/settings/misc.tag.html:19
 msgid "Date format"
 msgstr "Formato de Fecha"
 
-#: static/tags/settings/misc.tag.html:21
+#: static/tags/settings/misc.tag.html:34
 msgid "Time format"
 msgstr "Formato de Hora"
 
-#: static/tags/settings/misc.tag.html:32
-#, fuzzy
-msgid "Time zone"
-msgstr "tiempo"
-
 #: static/tags/settings/misc.tag.html:45
+msgid "Time zone"
+msgstr "el huso horario"
+
+#: static/tags/settings/misc.tag.html:58
 msgid "Clear daily history after midnight"
 msgstr "Borrar diariamente el histórico después de medianoche"
 
-#: static/tags/settings/misc.tag.html:52
+#: static/tags/settings/misc.tag.html:65
 msgid "Categories"
 msgstr "Categorías"
 
-#: static/tags/settings/misc.tag.html:58
+#: static/tags/settings/misc.tag.html:71
 msgid "Add category"
 msgstr "Añadir categoría"
 
@@ -363,9 +373,8 @@ msgid "Enable Web Notifications"
 msgstr "Activar Notificaciones Web"
 
 #: static/tags/settings/notifications.tag.html:59
-#, fuzzy
 msgid "Enable Telegram Notifications"
-msgstr "Activar Notificaciones Web"
+msgstr "Habilitar notificaciones de telegrama"
 
 #: static/tags/settings/notifications.tag.html:69
 msgid "Enable Browser Alerts"
@@ -426,7 +435,7 @@ msgstr "Inicio automático de pomodoros"
 
 #: static/tags/settings/timer.tag.html:47
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr ""
+msgstr "No comience el pomodoro siguiente si TODO está vacío"
 
 #: static/tags/settings/timer.tag.html:57
 msgid "Auto start breaks"
@@ -535,9 +544,8 @@ msgid "Average per day"
 msgstr "Media por día"
 
 #: static/tags/stats/main.tag.html:36
-#, fuzzy
 msgid "Time"
-msgstr "tiempo"
+msgstr "Tiempo"
 
 #: static/tags/stats/main.tag.html:37
 msgid "Date"
