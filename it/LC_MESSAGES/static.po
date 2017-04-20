@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-19 14:48+0300\n"
+"POT-Creation-Date: 2017-04-20 15:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -319,7 +319,6 @@ msgstr "Integrazioni"
 
 #: static/tags/settings/misc.tag.html:7
 #, fuzzy
-#| msgid "time"
 msgid "Theme"
 msgstr "tempo"
 
@@ -333,7 +332,6 @@ msgstr ""
 
 #: static/tags/settings/misc.tag.html:12
 #, fuzzy
-#| msgid "Custom"
 msgid "auto"
 msgstr "Specifica"
 
