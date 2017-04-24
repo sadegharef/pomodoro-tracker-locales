@@ -21,12 +21,11 @@ msgstr ""
 
 #: templates/base.j2:37
 msgid "Feedback"
-msgstr "Assistance / Suggestions"
+msgstr "Réaction"
 
 #: templates/base.j2:47
-#, fuzzy
 msgid "Login to view your stats"
-msgstr "Connectez-vous pour consigner votre travail"
+msgstr "Connectez-vous pour afficher vos statistiques"
 
 #: templates/base.j2:49
 msgid "Stats"
@@ -34,7 +33,7 @@ msgstr "Stats"
 
 #: templates/base.j2:54
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 #: templates/base.j2:118
 msgid "Logout"
@@ -188,7 +187,6 @@ msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Si une tâche prend plus de 5-7 Pomodoros, fractionnez-la"
 
 #: templates/index.j2:79
-#, fuzzy
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
@@ -217,16 +215,15 @@ msgstr ""
 
 #: templates/news.j2:16
 msgid "April"
-msgstr ""
+msgstr "Avril"
 
 #: templates/news.j2:30
-#, fuzzy
 msgid "February"
 msgstr "Février"
 
 #: templates/news.j2:42
 msgid "October"
-msgstr ""
+msgstr "Octobre"
 
 #: templates/news.j2:53
 msgid "May"

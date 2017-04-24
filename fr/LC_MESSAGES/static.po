@@ -21,29 +21,29 @@ msgstr ""
 
 #: static/stores/todo.coffee:117
 msgid "Great work! TODO list is empty."
-msgstr ""
+msgstr "Bon travail! La liste TODO est vide."
 
 #: static/tags/loading.tag.html:3
 msgid "LOADING"
-msgstr ""
+msgstr "CHARGEMENT"
 
 #: static/tags/profile.tag.html:5
 msgid "Joined at"
-msgstr ""
+msgstr "Rejoint à"
 
 #: static/tags/remove-item.tag.html:5
 msgid "Are you sure want to delete"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer"
 
 #: static/tags/pomodoro/history.tag.html:46 static/tags/remove-item.tag.html:7
 #: static/tags/stats/main.tag.html:67
 msgid "Delete"
-msgstr ""
+msgstr "Effacer"
 
 #: static/tags/feedback/main.tag.html:96 static/tags/remove-item.tag.html:8
 #: static/tags/stats/main.tag.html:142
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: static/tags/remove-item.tag.html:20
 msgid "record"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: static/tags/feedback/main.tag.html:6
 msgid "New"
-msgstr ""
+msgstr "Nouveau"
 
 #: static/tags/feedback/main.tag.html:7 static/tags/feedback/main.tag.html:95
 msgid "Done"
@@ -59,7 +59,7 @@ msgstr ""
 
 #: static/tags/feedback/main.tag.html:36
 msgid "Like"
-msgstr ""
+msgstr "Comme"
 
 #: static/tags/feedback/main.tag.html:37
 msgid "like"
@@ -69,11 +69,11 @@ msgstr[1] ""
 
 #: static/tags/feedback/main.tag.html:49
 msgid "Write your ideas here"
-msgstr ""
+msgstr "Écrivez vos idées ici"
 
 #: static/tags/feedback/main.tag.html:53
 msgid "Title"
-msgstr ""
+msgstr "Titre"
 
 #: static/tags/feedback/main.tag.html:56
 #: static/tags/pomodoro/activities.tag.html:14
@@ -84,19 +84,19 @@ msgstr ""
 #: static/tags/pomodoro/todo/main.tag.html:48
 #: static/tags/stats/main.tag.html:35 static/tags/stats/main.tag.html:50
 msgid "Description"
-msgstr ""
+msgstr "La description"
 
 #: static/tags/feedback/main.tag.html:58
 msgid "Create"
-msgstr ""
+msgstr "Créer"
 
 #: static/tags/feedback/main.tag.html:62
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr ""
+msgstr "Merci pour votre retour! Votre message attend une modération."
 
 #: static/tags/pomodoro/activities.tag.html:7
 msgid "Activities"
-msgstr ""
+msgstr "Activités"
 
 #: static/tags/pomodoro/activities.tag.html:13
 #: static/tags/pomodoro/activities.tag.html:20
@@ -109,62 +109,62 @@ msgstr ""
 #: static/tags/settings/misc.tag.html:69 static/tags/stats/main.tag.html:34
 #: static/tags/stats/main.tag.html:44
 msgid "Category"
-msgstr ""
+msgstr "Catégorie"
 
 #: static/tags/pomodoro/activities.tag.html:25
 #: static/tags/pomodoro/todo/main.tag.html:21
 msgid "Short description"
-msgstr ""
+msgstr "Brève description"
 
 #: static/tags/pomodoro/activities.tag.html:27
 msgid "Add Activity"
-msgstr ""
+msgstr "Ajouter une activité"
 
 #: static/tags/pomodoro/activities.tag.html:54
 msgid "Mark as daily task"
-msgstr ""
+msgstr "Marquer comme tâche quotidienne"
 
 #: static/tags/pomodoro/activities.tag.html:55
 #: static/tags/pomodoro/history.tag.html:38
 msgid "Add to TODO"
-msgstr ""
+msgstr "Ajouter à TODO"
 
 #: static/tags/pomodoro/activities.tag.html:56
 #: static/tags/pomodoro/history.tag.html:39
 #: static/tags/pomodoro/todo/main.tag.html:56
 #: static/tags/stats/main.tag.html:58
 msgid "Edit"
-msgstr ""
+msgstr "Éditer"
 
 #: static/tags/pomodoro/activities.tag.html:60
 #: static/tags/pomodoro/todo/main.tag.html:60
 msgid "Add more"
-msgstr ""
+msgstr "Ajouter plus"
 
 #: static/tags/pomodoro/activities.tag.html:65
 #: static/tags/pomodoro/todo/main.tag.html:63
 msgid "Remove"
-msgstr ""
+msgstr "Supprimer"
 
 #: static/tags/pomodoro/activities.tag.html:72
 #: static/tags/pomodoro/history.tag.html:58
 #: static/tags/pomodoro/todo/main.tag.html:76
 #: static/tags/stats/main.tag.html:74
 msgid "Click/tap to edit items."
-msgstr ""
+msgstr "Cliquez / tapez pour modifier les éléments."
 
 #: static/tags/pomodoro/activities.tag.html:73
 #: static/tags/pomodoro/todo/main.tag.html:77
 msgid "Click on a number to add more."
-msgstr ""
+msgstr "Cliquez sur un nombre pour ajouter plus."
 
 #: static/tags/pomodoro/activities.tag.html:76
 msgid "The list is empty"
-msgstr ""
+msgstr "La liste est vide"
 
 #: static/tags/pomodoro/activities.tag.html:77
 msgid "Try to mark TODO as activity or use the form above"
-msgstr ""
+msgstr "Essayez de marquer TODO comme activité ou utiliser le formulaire ci-dessus"
 
 #: static/tags/pomodoro/history.tag.html:8
 msgid "DONE"
@@ -173,32 +173,32 @@ msgstr ""
 #: static/tags/pomodoro/history.tag.html:27
 #: static/tags/pomodoro/todo/main.tag.html:45
 msgid "no description"
-msgstr ""
+msgstr "Pas de description"
 
 #: static/tags/pomodoro/history.tag.html:37
 #: static/tags/pomodoro/todo/main.tag.html:54
 msgid "Pin to favorites"
-msgstr ""
+msgstr "Pin aux favoris"
 
 #: static/tags/pomodoro/history.tag.html:55 static/tags/stats/main.tag.html:76
 msgid "Records are empty"
-msgstr ""
+msgstr "Pas d'enregistrements"
 
 #: static/tags/pomodoro/history.tag.html:56
 msgid "Try to complete some pomodoros above"
-msgstr ""
+msgstr "Essayez de compléter certains pomodoros ci-dessus"
 
 #: static/tags/pomodoro/history.tag.html:61
 msgid "You are not signed."
-msgstr ""
+msgstr "Vous n'êtes pas signé."
 
 #: static/tags/pomodoro/history.tag.html:62
 msgid "Work history won`t be saved."
-msgstr ""
+msgstr "L'histoire de travail ne sera pas enregistrée."
 
 #: static/tags/pomodoro/settings.tag.html:8
 msgid "Preferences"
-msgstr ""
+msgstr "Préférences"
 
 #: static/tags/pomodoro/settings.tag.html:15
 #: static/tags/settings/main.tag.html:6
@@ -221,11 +221,11 @@ msgstr ""
 
 #: static/tags/pomodoro/timer.tag.html:15
 msgid "START"
-msgstr ""
+msgstr "DÉBUT"
 
 #: static/tags/pomodoro/timer.tag.html:16
 msgid "RESUME"
-msgstr ""
+msgstr "REPRENDRE"
 
 #: static/tags/pomodoro/timer.tag.html:17
 msgid "PAUSE"
@@ -235,11 +235,11 @@ msgstr ""
 #: static/tags/pomodoro/timer.tag.html:121
 #: static/tags/pomodoro/timer.tag.html:123
 msgid "STOP"
-msgstr ""
+msgstr "ARRÊTEZ"
 
 #: static/tags/pomodoro/timer.tag.html:19
 msgid "SKIP"
-msgstr ""
+msgstr "SAUTER"
 
 #: static/tags/pomodoro/timer.tag.html:72
 msgid "Pomodoro is finished. Have a short break."
