@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-20 15:58+0300\n"
+"POT-Creation-Date: 2017-04-25 17:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -214,35 +214,35 @@ msgstr ""
 msgid "April"
 msgstr "Апрель"
 
-#: templates/news.j2:30
+#: templates/news.j2:31
 msgid "February"
 msgstr "Февраль"
 
-#: templates/news.j2:42
+#: templates/news.j2:43
 msgid "October"
 msgstr "Октябрь"
 
-#: templates/news.j2:53
+#: templates/news.j2:54
 msgid "May"
 msgstr "Май"
 
-#: templates/news.j2:66
+#: templates/news.j2:67
 msgid "March"
 msgstr "Март"
 
-#: templates/news.j2:76
+#: templates/news.j2:77
 msgid "Febrary"
 msgstr "Февраль"
 
-#: templates/news.j2:88
+#: templates/news.j2:89
 msgid "December"
 msgstr "Декабрь"
 
-#: templates/news.j2:98
+#: templates/news.j2:99
 msgid "September"
 msgstr "Сентябрь"
 
-#: templates/news.j2:111
+#: templates/news.j2:112
 msgid "August"
 msgstr "Август"
 

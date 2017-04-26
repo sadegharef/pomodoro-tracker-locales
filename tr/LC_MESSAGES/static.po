@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-20 15:58+0300\n"
+"POT-Creation-Date: 2017-04-25 17:42+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
 
-#: static/stores/todo.coffee:117
+#: static/stores/todo.coffee:119
 msgid "Great work! TODO list is empty."
 msgstr "Harika iş! TODO listesi boş."
 
@@ -48,6 +48,43 @@ msgstr "İptal"
 #: static/tags/remove-item.tag.html:20
 msgid "record"
 msgstr "rekor"
+
+#: static/tags/stats.tag.html:4 static/tags/stats.tag.html:30
+msgid "year"
+msgid_plural "years"
+msgstr[0] "yil"
+
+#: static/tags/stats.tag.html:8 static/tags/stats.tag.html:34
+msgid "month"
+msgid_plural "months"
+msgstr[0] "ay"
+
+#: static/tags/stats.tag.html:12 static/tags/stats.tag.html:38
+msgid "day"
+msgid_plural "days"
+msgstr[0] "gün"
+
+#: static/tags/stats.tag.html:16
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "saat"
+
+#: static/tags/stats.tag.html:20
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "dakika"
+
+#: static/tags/stats.tag.html:23
+msgid "registered users spend on completing pomodoros today."
+msgstr "kayıtlı kullanıcılar bugün pomodoros'u tamamlamak için harcıyorlar"
+
+#: static/tags/stats.tag.html:42
+msgid "registered users spend on completing pomodoros"
+msgstr "kayıtlı kullanıcılar pomodoros tamamlamaya harcıyor"
+
+#: static/tags/stats.tag.html:45
+msgid "for all time"
+msgstr "tüm zamanlar için"
 
 #: static/tags/feedback/main.tag.html:6
 msgid "New"
@@ -165,6 +202,10 @@ msgstr "Liste boş"
 msgid "Try to mark TODO as activity or use the form above"
 msgstr "Görevi aktivite olarak işaretleyin veya yukarıdaki formu kullanın"
 
+#: static/tags/pomodoro/activities.tag.html:126
+msgid "TODO list was updated."
+msgstr ""
+
 #: static/tags/pomodoro/history.tag.html:8
 msgid "DONE"
 msgstr "TAMAMLANDI"
@@ -231,8 +272,8 @@ msgid "PAUSE"
 msgstr "DURAKLAT"
 
 #: static/tags/pomodoro/timer.tag.html:18
-#: static/tags/pomodoro/timer.tag.html:121
-#: static/tags/pomodoro/timer.tag.html:123
+#: static/tags/pomodoro/timer.tag.html:136
+#: static/tags/pomodoro/timer.tag.html:138
 msgid "STOP"
 msgstr "DURDUR"
 
@@ -240,35 +281,35 @@ msgstr "DURDUR"
 msgid "SKIP"
 msgstr "GEÇ"
 
-#: static/tags/pomodoro/timer.tag.html:72
+#: static/tags/pomodoro/timer.tag.html:85
 msgid "Pomodoro is finished. Have a short break."
 msgstr "Pomodoro tamamlandı. Mola alın."
 
-#: static/tags/pomodoro/timer.tag.html:74
+#: static/tags/pomodoro/timer.tag.html:87
 msgid "Pomodoro is finished. Have a long break."
 msgstr "Pomodoro tamamlandı. Mola alın."
 
-#: static/tags/pomodoro/timer.tag.html:79
+#: static/tags/pomodoro/timer.tag.html:92
 msgid "Break is over. The next pomodoro will go better!"
 msgstr "Mola bitti. Sıradaki pomodoro daha iyi geçecek!"
 
-#: static/tags/pomodoro/timer.tag.html:116
+#: static/tags/pomodoro/timer.tag.html:131
 msgid "POMODORO"
 msgstr "POMODORO"
 
-#: static/tags/pomodoro/timer.tag.html:117
+#: static/tags/pomodoro/timer.tag.html:132
 msgid "TAKE A SHORT BREAK"
 msgstr "KISA BİR MOLA AL"
 
-#: static/tags/pomodoro/timer.tag.html:118
+#: static/tags/pomodoro/timer.tag.html:133
 msgid "TAKE A LONG BREAK"
 msgstr "UZUN BİR MOLA AL"
 
-#: static/tags/pomodoro/timer.tag.html:125
+#: static/tags/pomodoro/timer.tag.html:140
 msgid "DELAY"
 msgstr "GECIKME"
 
-#: static/tags/pomodoro/timer.tag.html:129
+#: static/tags/pomodoro/timer.tag.html:144
 msgid "The Pomodoro is running"
 msgstr "Pomodoro devam ediyor"
 
