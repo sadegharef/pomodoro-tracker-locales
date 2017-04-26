@@ -87,11 +87,11 @@ msgstr[2] "минут"
 
 #: static/tags/stats.tag.html:23
 msgid "registered users spend on completing pomodoros today."
-msgstr "помидоров пользователи сервиса выполнили сегодня"
+msgstr "пользователи сервиса потратили сегодня"
 
 #: static/tags/stats.tag.html:42
 msgid "registered users spend on completing pomodoros"
-msgstr "помидоров пользователя сервиса выполнили"
+msgstr "пользователи сервиса потратили на задачи"
 
 #: static/tags/stats.tag.html:45
 msgid "for all time"
