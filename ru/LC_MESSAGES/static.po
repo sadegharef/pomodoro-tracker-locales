@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-25 17:41+0300\n"
+"POT-Creation-Date: 2017-05-01 16:05-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -42,7 +42,7 @@ msgid "Delete"
 msgstr "Удалить"
 
 #: static/tags/feedback/main.tag.html:96 static/tags/remove-item.tag.html:8
-#: static/tags/stats/main.tag.html:142
+#: static/tags/stats/main.tag.html:144
 msgid "Cancel"
 msgstr "Отмена"
 
@@ -217,7 +217,7 @@ msgstr "Попробуйте добавить задачу в избраное �
 
 #: static/tags/pomodoro/activities.tag.html:126
 msgid "TODO list was updated."
-msgstr ""
+msgstr "Список задач был обновлен."
 
 #: static/tags/pomodoro/history.tag.html:8
 msgid "DONE"
@@ -613,101 +613,111 @@ msgstr "Экспорт записей в CSV"
 msgid "Import CSV"
 msgstr "Импорт CSV"
 
-#: static/tags/stats/main.tag.html:141
+#: static/tags/stats/main.tag.html:92
+#, fuzzy
+#| msgid "Remove"
+msgid "Remove all"
+msgstr "Удалить"
+
+#: static/tags/stats/main.tag.html:143
 msgid "Apply"
 msgstr "Применить"
 
-#: static/tags/stats/main.tag.html:143
+#: static/tags/stats/main.tag.html:145
 msgid "Custom"
 msgstr "Выбрать"
 
-#: static/tags/stats/main.tag.html:145
+#: static/tags/stats/main.tag.html:147
 msgid "January"
 msgstr "Январь"
 
-#: static/tags/stats/main.tag.html:146
+#: static/tags/stats/main.tag.html:148
 msgid "February"
 msgstr "Февраль"
 
-#: static/tags/stats/main.tag.html:147
+#: static/tags/stats/main.tag.html:149
 msgid "March"
 msgstr "Март"
 
-#: static/tags/stats/main.tag.html:148
+#: static/tags/stats/main.tag.html:150
 msgid "April"
 msgstr "Апрель"
 
-#: static/tags/stats/main.tag.html:149
+#: static/tags/stats/main.tag.html:151
 msgid "May"
 msgstr "Май"
 
-#: static/tags/stats/main.tag.html:150
+#: static/tags/stats/main.tag.html:152
 msgid "June"
 msgstr "Июнь"
 
-#: static/tags/stats/main.tag.html:151
+#: static/tags/stats/main.tag.html:153
 msgid "July"
 msgstr "Июль"
 
-#: static/tags/stats/main.tag.html:152
+#: static/tags/stats/main.tag.html:154
 msgid "August"
 msgstr "Август"
 
-#: static/tags/stats/main.tag.html:153
+#: static/tags/stats/main.tag.html:155
 msgid "September"
 msgstr "Сентябрь"
 
-#: static/tags/stats/main.tag.html:154
+#: static/tags/stats/main.tag.html:156
 msgid "October"
 msgstr "Октябрь"
 
-#: static/tags/stats/main.tag.html:155
+#: static/tags/stats/main.tag.html:157
 msgid "November"
 msgstr "Ноябрь"
 
-#: static/tags/stats/main.tag.html:156
+#: static/tags/stats/main.tag.html:158
 msgid "December"
 msgstr "Декабрь"
 
-#: static/tags/stats/main.tag.html:159
+#: static/tags/stats/main.tag.html:161
 msgid "Today"
 msgstr "Сегодня"
 
-#: static/tags/stats/main.tag.html:160
+#: static/tags/stats/main.tag.html:162
 msgid "Yesterday"
 msgstr "Вчера"
 
-#: static/tags/stats/main.tag.html:161
+#: static/tags/stats/main.tag.html:163
 msgid "This Week"
 msgstr "Эта неделя"
 
-#: static/tags/stats/main.tag.html:162
+#: static/tags/stats/main.tag.html:164
 msgid "This Month"
 msgstr "Этот месяц"
 
-#: static/tags/stats/main.tag.html:163
+#: static/tags/stats/main.tag.html:165
 msgid "This Quarter"
 msgstr "Этот квартал"
 
-#: static/tags/stats/main.tag.html:164
+#: static/tags/stats/main.tag.html:166
 msgid "Last Week"
 msgstr "Прошлая неделя"
 
-#: static/tags/stats/main.tag.html:165
+#: static/tags/stats/main.tag.html:167
 msgid "Last Month"
 msgstr "Прошлый месяц"
 
-#: static/tags/stats/main.tag.html:166
+#: static/tags/stats/main.tag.html:168
 msgid "Last Quarter"
 msgstr "Прошлый квартал"
 
-#: static/tags/stats/main.tag.html:167
+#: static/tags/stats/main.tag.html:169
 msgid "Last 90 days"
 msgstr "Последние 90 дней"
 
-#: static/tags/stats/main.tag.html:168
+#: static/tags/stats/main.tag.html:170
 msgid "Last 180 days"
 msgstr "Последние 180 дней"
+
+#: static/tags/stats/main.tag.html:212
+msgid "all records"
+msgstr "все записи"
 
 #~ msgid "Pomodoro"
 #~ msgstr "Помидор"

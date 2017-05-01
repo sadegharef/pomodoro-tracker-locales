@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-25 17:42+0300\n"
+"POT-Creation-Date: 2017-05-01 16:06-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -41,7 +41,7 @@ msgid "Delete"
 msgstr "削除"
 
 #: static/tags/feedback/main.tag.html:96 static/tags/remove-item.tag.html:8
-#: static/tags/stats/main.tag.html:142
+#: static/tags/stats/main.tag.html:144
 msgid "Cancel"
 msgstr "キャンセル"
 
@@ -608,101 +608,113 @@ msgstr "CSV出力"
 msgid "Import CSV"
 msgstr "CSV入力"
 
-#: static/tags/stats/main.tag.html:141
+#: static/tags/stats/main.tag.html:92
+#, fuzzy
+#| msgid "Remove"
+msgid "Remove all"
+msgstr "削除"
+
+#: static/tags/stats/main.tag.html:143
 msgid "Apply"
 msgstr "適用"
 
-#: static/tags/stats/main.tag.html:143
+#: static/tags/stats/main.tag.html:145
 msgid "Custom"
 msgstr "カスタム"
 
-#: static/tags/stats/main.tag.html:145
+#: static/tags/stats/main.tag.html:147
 msgid "January"
 msgstr "1月"
 
-#: static/tags/stats/main.tag.html:146
+#: static/tags/stats/main.tag.html:148
 msgid "February"
 msgstr "2月"
 
-#: static/tags/stats/main.tag.html:147
+#: static/tags/stats/main.tag.html:149
 msgid "March"
 msgstr "3月"
 
-#: static/tags/stats/main.tag.html:148
+#: static/tags/stats/main.tag.html:150
 msgid "April"
 msgstr "4月"
 
-#: static/tags/stats/main.tag.html:149
+#: static/tags/stats/main.tag.html:151
 msgid "May"
 msgstr "5月"
 
-#: static/tags/stats/main.tag.html:150
+#: static/tags/stats/main.tag.html:152
 msgid "June"
 msgstr "6月"
 
-#: static/tags/stats/main.tag.html:151
+#: static/tags/stats/main.tag.html:153
 msgid "July"
 msgstr "7月"
 
-#: static/tags/stats/main.tag.html:152
+#: static/tags/stats/main.tag.html:154
 msgid "August"
 msgstr "8月"
 
-#: static/tags/stats/main.tag.html:153
+#: static/tags/stats/main.tag.html:155
 msgid "September"
 msgstr "9月"
 
-#: static/tags/stats/main.tag.html:154
+#: static/tags/stats/main.tag.html:156
 msgid "October"
 msgstr "10月"
 
-#: static/tags/stats/main.tag.html:155
+#: static/tags/stats/main.tag.html:157
 msgid "November"
 msgstr "11月"
 
-#: static/tags/stats/main.tag.html:156
+#: static/tags/stats/main.tag.html:158
 msgid "December"
 msgstr "12月"
 
-#: static/tags/stats/main.tag.html:159
+#: static/tags/stats/main.tag.html:161
 msgid "Today"
 msgstr "今日"
 
-#: static/tags/stats/main.tag.html:160
+#: static/tags/stats/main.tag.html:162
 msgid "Yesterday"
 msgstr "昨日"
 
-#: static/tags/stats/main.tag.html:161
+#: static/tags/stats/main.tag.html:163
 msgid "This Week"
 msgstr "今週"
 
-#: static/tags/stats/main.tag.html:162
+#: static/tags/stats/main.tag.html:164
 msgid "This Month"
 msgstr "今月"
 
-#: static/tags/stats/main.tag.html:163
+#: static/tags/stats/main.tag.html:165
 msgid "This Quarter"
 msgstr "現在の四半期"
 
-#: static/tags/stats/main.tag.html:164
+#: static/tags/stats/main.tag.html:166
 msgid "Last Week"
 msgstr "先週"
 
-#: static/tags/stats/main.tag.html:165
+#: static/tags/stats/main.tag.html:167
 msgid "Last Month"
 msgstr "先月"
 
-#: static/tags/stats/main.tag.html:166
+#: static/tags/stats/main.tag.html:168
 msgid "Last Quarter"
 msgstr "前の四半期"
 
-#: static/tags/stats/main.tag.html:167
+#: static/tags/stats/main.tag.html:169
 msgid "Last 90 days"
 msgstr "過去90日間"
 
-#: static/tags/stats/main.tag.html:168
+#: static/tags/stats/main.tag.html:170
 msgid "Last 180 days"
 msgstr "過去180日間"
+
+#: static/tags/stats/main.tag.html:212
+#, fuzzy
+#| msgid "record"
+msgid "all records"
+msgstr "記録"
 
 #~ msgid "Save (enter)"
 #~ msgstr "保存 (enter)"

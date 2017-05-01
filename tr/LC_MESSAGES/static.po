@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-25 17:42+0300\n"
+"POT-Creation-Date: 2017-05-01 16:06-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -41,7 +41,7 @@ msgid "Delete"
 msgstr "Sil"
 
 #: static/tags/feedback/main.tag.html:96 static/tags/remove-item.tag.html:8
-#: static/tags/stats/main.tag.html:142
+#: static/tags/stats/main.tag.html:144
 msgid "Cancel"
 msgstr "İptal"
 
@@ -602,101 +602,113 @@ msgstr "Kayıtları CSV olarak dışarı aktar"
 msgid "Import CSV"
 msgstr "CSV'yi içeri aktar"
 
-#: static/tags/stats/main.tag.html:141
+#: static/tags/stats/main.tag.html:92
+#, fuzzy
+#| msgid "Remove"
+msgid "Remove all"
+msgstr "Sil"
+
+#: static/tags/stats/main.tag.html:143
 msgid "Apply"
 msgstr "Uygulamak"
 
-#: static/tags/stats/main.tag.html:143
+#: static/tags/stats/main.tag.html:145
 msgid "Custom"
 msgstr "Seçmek"
 
-#: static/tags/stats/main.tag.html:145
+#: static/tags/stats/main.tag.html:147
 msgid "January"
 msgstr "Ocak"
 
-#: static/tags/stats/main.tag.html:146
+#: static/tags/stats/main.tag.html:148
 msgid "February"
 msgstr "Şubat"
 
-#: static/tags/stats/main.tag.html:147
+#: static/tags/stats/main.tag.html:149
 msgid "March"
 msgstr "Mart"
 
-#: static/tags/stats/main.tag.html:148
+#: static/tags/stats/main.tag.html:150
 msgid "April"
 msgstr "Nisan"
 
-#: static/tags/stats/main.tag.html:149
+#: static/tags/stats/main.tag.html:151
 msgid "May"
 msgstr "Mayis"
 
-#: static/tags/stats/main.tag.html:150
+#: static/tags/stats/main.tag.html:152
 msgid "June"
 msgstr "Haziran"
 
-#: static/tags/stats/main.tag.html:151
+#: static/tags/stats/main.tag.html:153
 msgid "July"
 msgstr "Temmuz"
 
-#: static/tags/stats/main.tag.html:152
+#: static/tags/stats/main.tag.html:154
 msgid "August"
 msgstr "Ağustos"
 
-#: static/tags/stats/main.tag.html:153
+#: static/tags/stats/main.tag.html:155
 msgid "September"
 msgstr "Eylül"
 
-#: static/tags/stats/main.tag.html:154
+#: static/tags/stats/main.tag.html:156
 msgid "October"
 msgstr "Ekim"
 
-#: static/tags/stats/main.tag.html:155
+#: static/tags/stats/main.tag.html:157
 msgid "November"
 msgstr "Kasim"
 
-#: static/tags/stats/main.tag.html:156
+#: static/tags/stats/main.tag.html:158
 msgid "December"
 msgstr "Aralik"
 
-#: static/tags/stats/main.tag.html:159
+#: static/tags/stats/main.tag.html:161
 msgid "Today"
 msgstr "Bugün"
 
-#: static/tags/stats/main.tag.html:160
+#: static/tags/stats/main.tag.html:162
 msgid "Yesterday"
 msgstr "Dün"
 
-#: static/tags/stats/main.tag.html:161
+#: static/tags/stats/main.tag.html:163
 msgid "This Week"
 msgstr "Bu Hafta"
 
-#: static/tags/stats/main.tag.html:162
+#: static/tags/stats/main.tag.html:164
 msgid "This Month"
 msgstr "Bu Ay"
 
-#: static/tags/stats/main.tag.html:163
+#: static/tags/stats/main.tag.html:165
 msgid "This Quarter"
 msgstr "Bu çeyrek"
 
-#: static/tags/stats/main.tag.html:164
+#: static/tags/stats/main.tag.html:166
 msgid "Last Week"
 msgstr "Geçen hafta"
 
-#: static/tags/stats/main.tag.html:165
+#: static/tags/stats/main.tag.html:167
 msgid "Last Month"
 msgstr "Geçen ay"
 
-#: static/tags/stats/main.tag.html:166
+#: static/tags/stats/main.tag.html:168
 msgid "Last Quarter"
 msgstr "Son çeyrek"
 
-#: static/tags/stats/main.tag.html:167
+#: static/tags/stats/main.tag.html:169
 msgid "Last 90 days"
 msgstr "Son 90 günde"
 
-#: static/tags/stats/main.tag.html:168
+#: static/tags/stats/main.tag.html:170
 msgid "Last 180 days"
 msgstr "Son 180 günde"
+
+#: static/tags/stats/main.tag.html:212
+#, fuzzy
+#| msgid "record"
+msgid "all records"
+msgstr "rekor"
 
 #~ msgid "Save (enter)"
 #~ msgstr "Kaydet (enter)"

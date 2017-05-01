@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-25 17:41+0300\n"
+"POT-Creation-Date: 2017-05-01 16:06-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -41,7 +41,7 @@ msgid "Delete"
 msgstr ""
 
 #: static/tags/feedback/main.tag.html:96 static/tags/remove-item.tag.html:8
-#: static/tags/stats/main.tag.html:142
+#: static/tags/stats/main.tag.html:144
 msgid "Cancel"
 msgstr ""
 
@@ -606,100 +606,108 @@ msgstr ""
 msgid "Import CSV"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:141
-msgid "Apply"
+#: static/tags/stats/main.tag.html:92
+msgid "Remove all"
 msgstr ""
 
 #: static/tags/stats/main.tag.html:143
-msgid "Custom"
+msgid "Apply"
 msgstr ""
 
 #: static/tags/stats/main.tag.html:145
-msgid "January"
-msgstr ""
-
-#: static/tags/stats/main.tag.html:146
-msgid "February"
+msgid "Custom"
 msgstr ""
 
 #: static/tags/stats/main.tag.html:147
-msgid "March"
+msgid "January"
 msgstr ""
 
 #: static/tags/stats/main.tag.html:148
-msgid "April"
+msgid "February"
 msgstr ""
 
 #: static/tags/stats/main.tag.html:149
-msgid "May"
+msgid "March"
 msgstr ""
 
 #: static/tags/stats/main.tag.html:150
-msgid "June"
+msgid "April"
 msgstr ""
 
 #: static/tags/stats/main.tag.html:151
-msgid "July"
+msgid "May"
 msgstr ""
 
 #: static/tags/stats/main.tag.html:152
-msgid "August"
+msgid "June"
 msgstr ""
 
 #: static/tags/stats/main.tag.html:153
-msgid "September"
+msgid "July"
 msgstr ""
 
 #: static/tags/stats/main.tag.html:154
-msgid "October"
+msgid "August"
 msgstr ""
 
 #: static/tags/stats/main.tag.html:155
-msgid "November"
+msgid "September"
 msgstr ""
 
 #: static/tags/stats/main.tag.html:156
+msgid "October"
+msgstr ""
+
+#: static/tags/stats/main.tag.html:157
+msgid "November"
+msgstr ""
+
+#: static/tags/stats/main.tag.html:158
 msgid "December"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:159
+#: static/tags/stats/main.tag.html:161
 msgid "Today"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:160
+#: static/tags/stats/main.tag.html:162
 msgid "Yesterday"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:161
+#: static/tags/stats/main.tag.html:163
 msgid "This Week"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:162
+#: static/tags/stats/main.tag.html:164
 msgid "This Month"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:163
+#: static/tags/stats/main.tag.html:165
 msgid "This Quarter"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:164
+#: static/tags/stats/main.tag.html:166
 msgid "Last Week"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:165
+#: static/tags/stats/main.tag.html:167
 msgid "Last Month"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:166
+#: static/tags/stats/main.tag.html:168
 msgid "Last Quarter"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:167
+#: static/tags/stats/main.tag.html:169
 msgid "Last 90 days"
 msgstr ""
 
-#: static/tags/stats/main.tag.html:168
+#: static/tags/stats/main.tag.html:170
 msgid "Last 180 days"
+msgstr ""
+
+#: static/tags/stats/main.tag.html:212
+msgid "all records"
 msgstr ""
 
 #~ msgid "Save (enter)"

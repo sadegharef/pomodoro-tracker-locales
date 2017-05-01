@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-25 17:42+0300\n"
+"POT-Creation-Date: 2017-05-01 16:06-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -55,11 +55,11 @@ msgstr "Facebook üzerinden"
 msgid "as Github user"
 msgstr "Github üzerinden"
 
-#: templates/base.j2:204
+#: templates/base.j2:205
 msgid "version"
 msgstr "sürüm"
 
-#: templates/base.j2:205
+#: templates/base.j2:206
 msgid "Privacy Policy"
 msgstr "Gizlilik Politikası"
 

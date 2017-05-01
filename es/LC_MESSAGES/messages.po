@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-25 17:42+0300\n"
+"POT-Creation-Date: 2017-05-01 16:06-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -55,11 +55,11 @@ msgstr "como usuario Facebook"
 msgid "as Github user"
 msgstr "como usuario Github"
 
-#: templates/base.j2:204
+#: templates/base.j2:205
 msgid "version"
 msgstr "versión"
 
-#: templates/base.j2:205
+#: templates/base.j2:206
 msgid "Privacy Policy"
 msgstr "Política de privacidad"
 
