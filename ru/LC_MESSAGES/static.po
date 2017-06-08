@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-05-01 16:05-0700\n"
+"POT-Creation-Date: 2017-06-08 13:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -20,702 +20,513 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
 
-#: static/stores/todo.coffee:119
 msgid "Great work! TODO list is empty."
 msgstr "Отличная работа! Список задач пуст."
 
-#: static/tags/loading.tag.html:3
 msgid "LOADING"
 msgstr "ЗАГРУЗКА"
 
-#: static/tags/profile.tag.html:5
 msgid "Joined at"
 msgstr "Зарегистрирован"
 
-#: static/tags/remove-item.tag.html:5
 msgid "Are you sure want to delete"
 msgstr "Вы уверены, что хотите удалить"
 
-#: static/tags/pomodoro/history.tag.html:46 static/tags/remove-item.tag.html:7
-#: static/tags/stats/main.tag.html:67
 msgid "Delete"
 msgstr "Удалить"
 
-#: static/tags/feedback/main.tag.html:96 static/tags/remove-item.tag.html:8
-#: static/tags/stats/main.tag.html:144
 msgid "Cancel"
 msgstr "Отмена"
 
-#: static/tags/remove-item.tag.html:20
 msgid "record"
 msgstr "запись"
 
-#: static/tags/stats.tag.html:4 static/tags/stats.tag.html:30
 msgid "year"
 msgid_plural "years"
 msgstr[0] "год"
 msgstr[1] "года"
 msgstr[2] "лет"
 
-#: static/tags/stats.tag.html:8 static/tags/stats.tag.html:34
 msgid "month"
 msgid_plural "months"
 msgstr[0] "месяц"
 msgstr[1] "месяца"
 msgstr[2] "месяцев"
 
-#: static/tags/stats.tag.html:12 static/tags/stats.tag.html:38
 msgid "day"
 msgid_plural "days"
 msgstr[0] "день"
 msgstr[1] "дня"
 msgstr[2] "дней"
 
-#: static/tags/stats.tag.html:16
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "час"
 msgstr[1] "часа"
 msgstr[2] "часов"
 
-#: static/tags/stats.tag.html:20
 msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "минута"
 msgstr[1] "минуты"
 msgstr[2] "минут"
 
-#: static/tags/stats.tag.html:23
 msgid "registered users spend on completing pomodoros today."
 msgstr "пользователи сервиса потратили сегодня"
 
-#: static/tags/stats.tag.html:42
 msgid "registered users spend on completing pomodoros"
 msgstr "пользователи сервиса потратили на задачи"
 
-#: static/tags/stats.tag.html:45
 msgid "for all time"
 msgstr "за все время"
 
-#: static/tags/feedback/main.tag.html:6
 msgid "New"
 msgstr "Новое"
 
-#: static/tags/feedback/main.tag.html:7 static/tags/feedback/main.tag.html:95
 msgid "Done"
 msgstr "Сделано"
 
-#: static/tags/feedback/main.tag.html:36
 msgid "Like"
 msgstr "Плюс один"
 
-#: static/tags/feedback/main.tag.html:37
 msgid "like"
 msgid_plural "likes"
 msgstr[0] "плюс"
 msgstr[1] "плюса"
 msgstr[2] "плюсов"
 
-#: static/tags/feedback/main.tag.html:49
 msgid "Write your ideas here"
 msgstr "Новый отзыв/предложение"
 
-#: static/tags/feedback/main.tag.html:53
 msgid "Title"
 msgstr "Заголовок"
 
-#: static/tags/feedback/main.tag.html:56
-#: static/tags/pomodoro/activities.tag.html:14
-#: static/tags/pomodoro/activities.tag.html:48
-#: static/tags/pomodoro/history.tag.html:7
-#: static/tags/pomodoro/history.tag.html:30
-#: static/tags/pomodoro/todo/main.tag.html:8
-#: static/tags/pomodoro/todo/main.tag.html:48
-#: static/tags/stats/main.tag.html:35 static/tags/stats/main.tag.html:50
 msgid "Description"
 msgstr "Описание"
 
-#: static/tags/feedback/main.tag.html:58
 msgid "Create"
 msgstr "Добавить"
 
-#: static/tags/feedback/main.tag.html:62
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Спасибо за отзыв/предложение! Ваше сообщение ожидает модерации."
 
-#: static/tags/pomodoro/activities.tag.html:7
 msgid "Activities"
 msgstr "Избранное"
 
-#: static/tags/pomodoro/activities.tag.html:13
-#: static/tags/pomodoro/activities.tag.html:20
-#: static/tags/pomodoro/activities.tag.html:43
-#: static/tags/pomodoro/history.tag.html:6
-#: static/tags/pomodoro/history.tag.html:19
-#: static/tags/pomodoro/todo/main.tag.html:7
-#: static/tags/pomodoro/todo/main.tag.html:15
-#: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:69 static/tags/stats/main.tag.html:34
-#: static/tags/stats/main.tag.html:44
 msgid "Category"
 msgstr "Категория"
 
-#: static/tags/pomodoro/activities.tag.html:25
-#: static/tags/pomodoro/todo/main.tag.html:21
 msgid "Short description"
 msgstr "Короткое описание"
 
-#: static/tags/pomodoro/activities.tag.html:27
 msgid "Add Activity"
 msgstr "Добавить в избранное"
 
-#: static/tags/pomodoro/activities.tag.html:54
 msgid "Mark as daily task"
 msgstr "Повторять ежедневно"
 
-#: static/tags/pomodoro/activities.tag.html:55
-#: static/tags/pomodoro/history.tag.html:38
 msgid "Add to TODO"
 msgstr "Добавить в список задач"
 
-#: static/tags/pomodoro/activities.tag.html:56
-#: static/tags/pomodoro/history.tag.html:39
-#: static/tags/pomodoro/todo/main.tag.html:56
-#: static/tags/stats/main.tag.html:58
 msgid "Edit"
 msgstr "Редактировать"
 
-#: static/tags/pomodoro/activities.tag.html:60
-#: static/tags/pomodoro/todo/main.tag.html:60
 msgid "Add more"
 msgstr "Добавить"
 
-#: static/tags/pomodoro/activities.tag.html:65
-#: static/tags/pomodoro/todo/main.tag.html:63
 msgid "Remove"
 msgstr "Удалить"
 
-#: static/tags/pomodoro/activities.tag.html:72
-#: static/tags/pomodoro/history.tag.html:58
-#: static/tags/pomodoro/todo/main.tag.html:76
-#: static/tags/stats/main.tag.html:74
 msgid "Click/tap to edit items."
 msgstr "Kлик/тап для редактирования."
 
-#: static/tags/pomodoro/activities.tag.html:73
-#: static/tags/pomodoro/todo/main.tag.html:77
 msgid "Click on a number to add more."
 msgstr "Кликните на номер для добавления."
 
-#: static/tags/pomodoro/activities.tag.html:76
 msgid "The list is empty"
 msgstr "Список пуст."
 
-#: static/tags/pomodoro/activities.tag.html:77
 msgid "Try to mark TODO as activity or use the form above"
 msgstr "Попробуйте добавить задачу в избраное или используйте форму выше."
 
-#: static/tags/pomodoro/activities.tag.html:126
 msgid "TODO list was updated."
 msgstr "Список задач был обновлен."
 
-#: static/tags/pomodoro/history.tag.html:8
 msgid "DONE"
 msgstr "Сделано"
 
-#: static/tags/pomodoro/history.tag.html:27
-#: static/tags/pomodoro/todo/main.tag.html:45
 msgid "no description"
 msgstr "без описания"
 
-#: static/tags/pomodoro/history.tag.html:37
-#: static/tags/pomodoro/todo/main.tag.html:54
 msgid "Pin to favorites"
 msgstr "Добавить в избранное"
 
-#: static/tags/pomodoro/history.tag.html:55 static/tags/stats/main.tag.html:76
 msgid "Records are empty"
 msgstr "Записей не найдено"
 
-#: static/tags/pomodoro/history.tag.html:56
 msgid "Try to complete some pomodoros above"
 msgstr "Попробуйте выполнить несколько помидоров"
 
-#: static/tags/pomodoro/history.tag.html:61
 msgid "You are not signed."
 msgstr "Вы не авторизированы."
 
-#: static/tags/pomodoro/history.tag.html:62
 msgid "Work history won`t be saved."
 msgstr "История не будет сохранена."
 
-#: static/tags/pomodoro/settings.tag.html:8
 msgid "Preferences"
 msgstr "Настройки"
 
-#: static/tags/pomodoro/settings.tag.html:15
-#: static/tags/settings/main.tag.html:6
 msgid "Timer"
 msgstr "Таймер"
 
-#: static/tags/pomodoro/settings.tag.html:18
-#: static/tags/settings/main.tag.html:7
 msgid "Notifications"
 msgstr "Оповещения"
 
-#: static/tags/pomodoro/settings.tag.html:42
-#: static/tags/settings/integrations/telegram.tag.html:19
 msgid "Close"
 msgstr "Закрыть"
 
-#: static/tags/pomodoro/timer.tag.html:11
 msgid "Tune the timer"
 msgstr "Настройки"
 
-#: static/tags/pomodoro/timer.tag.html:15
 msgid "START"
 msgstr "СТАРТ"
 
-#: static/tags/pomodoro/timer.tag.html:16
 msgid "RESUME"
 msgstr "ПРОДОЛЖИТЬ"
 
-#: static/tags/pomodoro/timer.tag.html:17
 msgid "PAUSE"
 msgstr "ПАУЗА"
 
-#: static/tags/pomodoro/timer.tag.html:18
-#: static/tags/pomodoro/timer.tag.html:136
-#: static/tags/pomodoro/timer.tag.html:138
 msgid "STOP"
 msgstr "СТОП"
 
-#: static/tags/pomodoro/timer.tag.html:19
 msgid "SKIP"
 msgstr "ПРОПУСТИТЬ"
 
-#: static/tags/pomodoro/timer.tag.html:85
 msgid "Pomodoro is finished. Have a short break."
 msgstr "Помидор окончен. Сделайте короткий перерыв."
 
-#: static/tags/pomodoro/timer.tag.html:87
 msgid "Pomodoro is finished. Have a long break."
 msgstr "Помидор окончен. Сделайте длинный перерыв."
 
-#: static/tags/pomodoro/timer.tag.html:92
 msgid "Break is over. The next pomodoro will go better!"
 msgstr "Перерыв окончен. Следующий помидор будет лучше!"
 
-#: static/tags/pomodoro/timer.tag.html:131
 msgid "POMODORO"
 msgstr "ПОМИДОР"
 
-#: static/tags/pomodoro/timer.tag.html:132
 msgid "TAKE A SHORT BREAK"
 msgstr "КОРОТКИЙ ПЕРЕРЫВ"
 
-#: static/tags/pomodoro/timer.tag.html:133
 msgid "TAKE A LONG BREAK"
 msgstr "ДЛИННЫЙ ПЕРЕРЫВ"
 
-#: static/tags/pomodoro/timer.tag.html:140
 msgid "DELAY"
 msgstr "ЗАДЕРЖКА"
 
-#: static/tags/pomodoro/timer.tag.html:144
 msgid "The Pomodoro is running"
 msgstr "Помидор запущен"
 
-#: static/tags/pomodoro/todo/main.tag.html:10
 msgid "TODO"
 msgstr "Задачи"
 
-#: static/tags/pomodoro/todo/main.tag.html:23
 msgid "Add TODO"
 msgstr "Добавить задачу"
 
-#: static/tags/pomodoro/todo/main.tag.html:26
 msgid "Favorites"
 msgstr "Избранное"
 
-#: static/tags/pomodoro/todo/main.tag.html:55
 msgid "Mark as done"
 msgstr "Отметить как выполненное"
 
-#: static/tags/pomodoro/todo/main.tag.html:59
 msgid "Drag/Move to sort"
 msgstr "Перетащите для сортировки"
 
-#: static/tags/pomodoro/todo/main.tag.html:70
 msgid "TODO list is empty"
 msgstr "Список задач пуст"
 
-#: static/tags/pomodoro/todo/main.tag.html:71
 msgid "Try to add some tasks use the form above"
 msgstr "Попробуйте добавить задачи используя форму выше."
 
-#: static/tags/pomodoro/todo/main.tag.html:78
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Перетаскивайте для сортировки."
 
-#: static/tags/settings/main.tag.html:5
 msgid "Application"
 msgstr "Приложение"
 
-#: static/tags/settings/main.tag.html:8
 msgid "Integrations"
 msgstr "Сервисы"
 
-#: static/tags/settings/misc.tag.html:7
 msgid "Theme"
 msgstr "Тема оформления"
 
-#: static/tags/settings/misc.tag.html:10
 msgid "light"
 msgstr "светлая"
 
-#: static/tags/settings/misc.tag.html:11
 msgid "dark"
 msgstr "темная"
 
-#: static/tags/settings/misc.tag.html:12
 msgid "auto"
 msgstr "автоматически"
 
-#: static/tags/settings/misc.tag.html:19
 msgid "Date format"
 msgstr "Формат даты"
 
-#: static/tags/settings/misc.tag.html:34
 msgid "Time format"
 msgstr "Формат времени"
 
-#: static/tags/settings/misc.tag.html:45
 msgid "Time zone"
 msgstr "Часовой пояс"
 
-#: static/tags/settings/misc.tag.html:58
 msgid "Clear daily history after midnight"
 msgstr "Очищать историю задач после полуночи"
 
-#: static/tags/settings/misc.tag.html:65
 msgid "Categories"
 msgstr "Категории"
 
-#: static/tags/settings/misc.tag.html:71
 msgid "Add category"
 msgstr "Добавить категорию"
 
-#: static/tags/settings/notifications.tag.html:7
+msgid "Send Daily Reports on"
+msgstr ""
+
+msgid "Send reports on email: "
+msgstr ""
+
+msgid "Send reports on telegram"
+msgstr ""
+
 msgid "Volume"
 msgstr "Громкость"
 
-#: static/tags/settings/notifications.tag.html:29
 msgid "Play alarm sound"
 msgstr "Проигрывать финишный звук"
 
-#: static/tags/settings/notifications.tag.html:39
 msgid "Play ticking sound"
 msgstr "Проигрывать тикающий звук"
 
-#: static/tags/settings/notifications.tag.html:49
 msgid "Enable Web Notifications"
 msgstr "Включить оповещения в браузере"
 
-#: static/tags/settings/notifications.tag.html:59
 msgid "Enable Telegram Notifications"
 msgstr "Включить оповещения в Телеграмме"
 
-#: static/tags/settings/notifications.tag.html:69
 msgid "Enable Browser Alerts"
 msgstr "Включить всплывающие окна"
 
-#: static/tags/settings/notifications.tag.html:70
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Вызывать всплывающее окно с предупреждением, когда помидор/перерыв окончен"
 
-#: static/tags/settings/notifications.tag.html:76
 msgid "Hide notificaions"
 msgstr "Прятать оповещения"
 
-#: static/tags/settings/notifications.tag.html:80
 msgid "in 2 seconds"
 msgstr "через 2 секунды"
 
-#: static/tags/settings/notifications.tag.html:81
 msgid "in 3 seconds"
 msgstr "через 3 секунды"
 
-#: static/tags/settings/notifications.tag.html:82
 msgid "in 5 seconds"
 msgstr "через 5 секунд"
 
-#: static/tags/settings/notifications.tag.html:83
 msgid "in 10 seconds"
 msgstr "через 10 секунд"
 
-#: static/tags/settings/timer.tag.html:5
 msgid "Pomodoro duration:"
 msgstr "Продолжительность помидора:"
 
-#: static/tags/settings/timer.tag.html:8 static/tags/settings/timer.tag.html:15
-#: static/tags/settings/timer.tag.html:22
 msgid "in minutes"
 msgstr "в минутах"
 
-#: static/tags/settings/timer.tag.html:12
 msgid "Short break duration:"
 msgstr "Продолжительность короткого перерыва:"
 
-#: static/tags/settings/timer.tag.html:19
 msgid "Long break duration:"
 msgstr "Продолжительность длинного перерыва:"
 
-#: static/tags/settings/timer.tag.html:26
 msgid "Long break delay:"
 msgstr "Длинный перерыв"
 
-#: static/tags/settings/timer.tag.html:29
 msgid "in pomodoros"
 msgstr "в помидорах"
 
-#: static/tags/settings/timer.tag.html:38
 msgid "Auto start pomodoros"
 msgstr "Автостарт для помидора"
 
-#: static/tags/settings/timer.tag.html:47
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "Не начинать следующий помидор если список задач пуст"
 
-#: static/tags/settings/timer.tag.html:57
 msgid "Auto start breaks"
 msgstr "Автостарт для перерыва"
 
-#: static/tags/settings/integrations/main.tag.html:12
 msgid "Connect"
 msgstr "Подключить"
 
-#: static/tags/settings/integrations/main.tag.html:13
 msgid "Disconnect"
 msgstr "Отключить"
 
-#: static/tags/settings/integrations/main.tag.html:33
 msgid "Integration with Google"
 msgstr "Интеграция с Google"
 
-#: static/tags/settings/integrations/main.tag.html:33
 msgid "Login to the service using Google authentication."
 msgstr "Вход на сервис используя Google"
 
-#: static/tags/settings/integrations/main.tag.html:34
 msgid "Integration with Facebook"
 msgstr "Интеграция с Facebook"
 
-#: static/tags/settings/integrations/main.tag.html:34
 msgid "Login to the service using Facebook authentication."
 msgstr "Вход на сервис используя Facebook"
 
-#: static/tags/settings/integrations/main.tag.html:35
 msgid "Integration with Github"
 msgstr "Интеграция с Github"
 
-#: static/tags/settings/integrations/main.tag.html:35
 msgid "Login to the service using Github authentication."
 msgstr "Вход на сервис используя Github"
 
-#: static/tags/settings/integrations/main.tag.html:36
 msgid "Enable Telegram Bot"
 msgstr "Интеграция с Telegram"
 
-#: static/tags/settings/integrations/main.tag.html:36
 msgid "Get notifications, check history"
 msgstr "Получение оповещений, проверка истории"
 
-#: static/tags/settings/integrations/telegram.tag.html:7
 msgid "Connect Telegram Bot"
 msgstr "Подключить Telegram бота"
 
-#: static/tags/settings/integrations/telegram.tag.html:11
 msgid "Add"
 msgstr "Добавьте"
 
-#: static/tags/settings/integrations/telegram.tag.html:11
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
 msgstr "в ваш telegram, напишите `/start` и введите полученный код в поле ниже"
 
-#: static/tags/settings/integrations/telegram.tag.html:13
 msgid "Code"
 msgstr "Код"
 
-#: static/tags/settings/integrations/telegram.tag.html:20
 msgid "Register"
 msgstr "Зарегистрировать"
 
-#: static/tags/stats/chart.tag.html:5 static/tags/stats/chart.tag.html:7
 msgid "time"
 msgstr "время"
 
-#: static/tags/stats/chart.tag.html:10 static/tags/stats/chart.tag.html:12
 msgid "number"
 msgstr "кол-во"
 
-#: static/tags/stats/chart.tag.html:15
 msgid "Activity by days"
 msgstr "Активность по дням"
 
-#: static/tags/stats/chart.tag.html:16
 msgid "Activity by weeks"
 msgstr "Активность по неделям"
 
-#: static/tags/stats/chart.tag.html:17
 msgid "Activity by months"
 msgstr "Активность по месяцам"
 
-#: static/tags/stats/chart.tag.html:21
 msgid "median"
 msgstr "медиана"
 
-#: static/tags/stats/info.tag.html:12
 msgid "Pomodoros"
 msgstr "Помидоры"
 
-#: static/tags/stats/info.tag.html:27
 msgid "Time spent"
 msgstr "Время"
 
-#: static/tags/stats/info.tag.html:42
 msgid "Work days"
 msgstr "Рабочие дни"
 
-#: static/tags/stats/info.tag.html:57
 msgid "Average per day"
 msgstr "Среднее/день"
 
-#: static/tags/stats/main.tag.html:36
 msgid "Time"
 msgstr "Время"
 
-#: static/tags/stats/main.tag.html:37
 msgid "Date"
 msgstr "Дата"
 
-#: static/tags/stats/main.tag.html:77
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Попробуйте выполнить несколько помидоров или выберите другой период"
 
-#: static/tags/stats/main.tag.html:84
 msgid "Export the records as CSV"
 msgstr "Экспорт записей в CSV"
 
-#: static/tags/stats/main.tag.html:91
 msgid "Import CSV"
 msgstr "Импорт CSV"
 
-#: static/tags/stats/main.tag.html:92
 #, fuzzy
-#| msgid "Remove"
 msgid "Remove all"
 msgstr "Удалить"
 
-#: static/tags/stats/main.tag.html:143
 msgid "Apply"
 msgstr "Применить"
 
-#: static/tags/stats/main.tag.html:145
 msgid "Custom"
 msgstr "Выбрать"
 
-#: static/tags/stats/main.tag.html:147
 msgid "January"
 msgstr "Январь"
 
-#: static/tags/stats/main.tag.html:148
 msgid "February"
 msgstr "Февраль"
 
-#: static/tags/stats/main.tag.html:149
 msgid "March"
 msgstr "Март"
 
-#: static/tags/stats/main.tag.html:150
 msgid "April"
 msgstr "Апрель"
 
-#: static/tags/stats/main.tag.html:151
 msgid "May"
 msgstr "Май"
 
-#: static/tags/stats/main.tag.html:152
 msgid "June"
 msgstr "Июнь"
 
-#: static/tags/stats/main.tag.html:153
 msgid "July"
 msgstr "Июль"
 
-#: static/tags/stats/main.tag.html:154
 msgid "August"
 msgstr "Август"
 
-#: static/tags/stats/main.tag.html:155
 msgid "September"
 msgstr "Сентябрь"
 
-#: static/tags/stats/main.tag.html:156
 msgid "October"
 msgstr "Октябрь"
 
-#: static/tags/stats/main.tag.html:157
 msgid "November"
 msgstr "Ноябрь"
 
-#: static/tags/stats/main.tag.html:158
 msgid "December"
 msgstr "Декабрь"
 
-#: static/tags/stats/main.tag.html:161
 msgid "Today"
 msgstr "Сегодня"
 
-#: static/tags/stats/main.tag.html:162
 msgid "Yesterday"
 msgstr "Вчера"
 
-#: static/tags/stats/main.tag.html:163
 msgid "This Week"
 msgstr "Эта неделя"
 
-#: static/tags/stats/main.tag.html:164
 msgid "This Month"
 msgstr "Этот месяц"
 
-#: static/tags/stats/main.tag.html:165
 msgid "This Quarter"
 msgstr "Этот квартал"
 
-#: static/tags/stats/main.tag.html:166
 msgid "Last Week"
 msgstr "Прошлая неделя"
 
-#: static/tags/stats/main.tag.html:167
 msgid "Last Month"
 msgstr "Прошлый месяц"
 
-#: static/tags/stats/main.tag.html:168
 msgid "Last Quarter"
 msgstr "Прошлый квартал"
 
-#: static/tags/stats/main.tag.html:169
 msgid "Last 90 days"
 msgstr "Последние 90 дней"
 
-#: static/tags/stats/main.tag.html:170
 msgid "Last 180 days"
 msgstr "Последние 180 дней"
 
-#: static/tags/stats/main.tag.html:212
 msgid "all records"
 msgstr "все записи"
 

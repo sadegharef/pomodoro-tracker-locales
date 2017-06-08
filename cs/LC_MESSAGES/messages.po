@@ -1,59 +1,60 @@
-# Italian translations for pomodoro.
-# Copyright (C) 2016 ORGANIZATION
+# Czech translations for pomodoro.
+# Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the pomodoro project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: pomodoro 0.7.16\n"
+"Project-Id-Version: pomodoro 1.12.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-06-08 13:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: it\n"
-"Language-Team: it <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
 
 msgid "Feedback"
-msgstr "Commento"
+msgstr ""
 
 msgid "Login to view your stats"
-msgstr "Entra per salvare il tuo lavoro"
+msgstr ""
 
 msgid "Stats"
-msgstr "Statistiche"
+msgstr ""
 
 msgid "Settings"
-msgstr "Impostazioni"
+msgstr ""
 
 msgid "Logout"
-msgstr "Esci"
+msgstr ""
 
 msgid "Sign Up / Login"
-msgstr "Registrati / Entra"
+msgstr ""
 
 msgid "as Google user"
-msgstr "come utente Google"
+msgstr ""
 
 msgid "as Facebook user"
-msgstr "come utente Facebook"
+msgstr ""
 
 msgid "as Github user"
-msgstr "come utente Github"
+msgstr ""
 
 msgid "version"
-msgstr "versione"
+msgstr ""
 
 msgid "Privacy Policy"
 msgstr ""
 
 msgid "What is it?"
-msgstr "Cosa è questo?"
+msgstr ""
 
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
@@ -69,7 +70,7 @@ msgid ""
 msgstr ""
 
 msgid "The Goals"
-msgstr "Gli obbiettivi"
+msgstr ""
 
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
@@ -104,7 +105,7 @@ msgid ""
 msgstr ""
 
 msgid "The Basics"
-msgstr "Le basi"
+msgstr ""
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -112,16 +113,16 @@ msgid ""
 msgstr ""
 
 msgid "Start working:"
-msgstr "Inizia a lavorare:"
+msgstr ""
 
 msgid "Start the Pomodoro timer"
-msgstr "Avvia il contaminuti Pomodoro"
+msgstr ""
 
 msgid "Work until the Pomodoro rings"
-msgstr "Lavora fino a che il Pomodoro squilla"
+msgstr ""
 
 msgid "Take a short break (3-5 minutes)"
-msgstr "Prendi una breve pausa (3-5 minuti)"
+msgstr ""
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -129,10 +130,10 @@ msgid ""
 msgstr ""
 
 msgid "Rules & Tips"
-msgstr "Regole & Suggerimenti"
+msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr "Se un'attività dura più di 5-6 Pomodori, scomponila"
+msgstr ""
 
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
@@ -157,56 +158,26 @@ msgid "April"
 msgstr ""
 
 msgid "February"
-msgstr "Febbraio"
+msgstr ""
 
 msgid "October"
-msgstr "Ottobre"
+msgstr ""
 
 msgid "May"
-msgstr "Maggio"
+msgstr ""
 
 msgid "March"
-msgstr "Marzo"
+msgstr ""
 
 msgid "Febrary"
-msgstr "Febbraio"
+msgstr ""
 
 msgid "December"
-msgstr "Dicembre"
+msgstr ""
 
 msgid "September"
-msgstr "Settembre"
+msgstr ""
 
 msgid "August"
-msgstr "Agosto"
-
-#~ msgid "Admin"
-#~ msgstr "Amministratore"
-
-#~ msgid "Spain"
-#~ msgstr "Spagna"
-
-#~ msgid "English"
-#~ msgstr "Inglese"
-
-#~ msgid "Italian"
-#~ msgstr ""
-
-#~ msgid "Russian"
-#~ msgstr "Russo"
-
-#~ msgid "Spanish"
-#~ msgstr "Spagnolo"
-
-#~ msgid "Your language"
-#~ msgstr "La tua lingua"
-
-#~ msgid "Login to track your productivity"
-#~ msgstr "Entra per tracciare la tua produttività"
-
-#~ msgid "Worklog"
-#~ msgstr ""
-
-#~ msgid "Upcomming features"
-#~ msgstr "Prossime funzionalità"
+msgstr ""
 

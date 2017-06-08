@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-05-01 16:06-0700\n"
+"POT-Creation-Date: 2017-06-08 13:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -19,694 +19,504 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
 
-#: static/stores/todo.coffee:119
 msgid "Great work! TODO list is empty."
 msgstr "Harika iş! TODO listesi boş."
 
-#: static/tags/loading.tag.html:3
 msgid "LOADING"
 msgstr "YÜKLENIYOR"
 
-#: static/tags/profile.tag.html:5
 msgid "Joined at"
 msgstr "Katıldığı tarih:"
 
-#: static/tags/remove-item.tag.html:5
 msgid "Are you sure want to delete"
 msgstr "Silmek istediğine emin misin"
 
-#: static/tags/pomodoro/history.tag.html:46 static/tags/remove-item.tag.html:7
-#: static/tags/stats/main.tag.html:67
 msgid "Delete"
 msgstr "Sil"
 
-#: static/tags/feedback/main.tag.html:96 static/tags/remove-item.tag.html:8
-#: static/tags/stats/main.tag.html:144
 msgid "Cancel"
 msgstr "İptal"
 
-#: static/tags/remove-item.tag.html:20
 msgid "record"
 msgstr "rekor"
 
-#: static/tags/stats.tag.html:4 static/tags/stats.tag.html:30
 msgid "year"
 msgid_plural "years"
 msgstr[0] "yil"
 
-#: static/tags/stats.tag.html:8 static/tags/stats.tag.html:34
 msgid "month"
 msgid_plural "months"
 msgstr[0] "ay"
 
-#: static/tags/stats.tag.html:12 static/tags/stats.tag.html:38
 msgid "day"
 msgid_plural "days"
 msgstr[0] "gün"
 
-#: static/tags/stats.tag.html:16
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "saat"
 
-#: static/tags/stats.tag.html:20
 msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "dakika"
 
-#: static/tags/stats.tag.html:23
 msgid "registered users spend on completing pomodoros today."
 msgstr "kayıtlı kullanıcılar bugün pomodoros'u tamamlamak için harcıyorlar"
 
-#: static/tags/stats.tag.html:42
 msgid "registered users spend on completing pomodoros"
 msgstr "kayıtlı kullanıcılar pomodoros tamamlamaya harcıyor"
 
-#: static/tags/stats.tag.html:45
 msgid "for all time"
 msgstr "tüm zamanlar için"
 
-#: static/tags/feedback/main.tag.html:6
 msgid "New"
 msgstr "Yeni"
 
-#: static/tags/feedback/main.tag.html:7 static/tags/feedback/main.tag.html:95
 msgid "Done"
 msgstr ""
 
-#: static/tags/feedback/main.tag.html:36
 msgid "Like"
 msgstr "Beğen"
 
-#: static/tags/feedback/main.tag.html:37
 msgid "like"
 msgid_plural "likes"
 msgstr[0] "beğen"
 
-#: static/tags/feedback/main.tag.html:49
 msgid "Write your ideas here"
 msgstr "Fikirlerinizi buraya yazın"
 
-#: static/tags/feedback/main.tag.html:53
 msgid "Title"
 msgstr "Başlık"
 
-#: static/tags/feedback/main.tag.html:56
-#: static/tags/pomodoro/activities.tag.html:14
-#: static/tags/pomodoro/activities.tag.html:48
-#: static/tags/pomodoro/history.tag.html:7
-#: static/tags/pomodoro/history.tag.html:30
-#: static/tags/pomodoro/todo/main.tag.html:8
-#: static/tags/pomodoro/todo/main.tag.html:48
-#: static/tags/stats/main.tag.html:35 static/tags/stats/main.tag.html:50
 msgid "Description"
 msgstr "Açıklama"
 
-#: static/tags/feedback/main.tag.html:58
 msgid "Create"
 msgstr "Oluştur"
 
-#: static/tags/feedback/main.tag.html:62
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Geri bildirim için teşekkürler! Mesajınız yönetici onayını bekliyor."
 
-#: static/tags/pomodoro/activities.tag.html:7
 msgid "Activities"
 msgstr "Aktiviteler"
 
-#: static/tags/pomodoro/activities.tag.html:13
-#: static/tags/pomodoro/activities.tag.html:20
-#: static/tags/pomodoro/activities.tag.html:43
-#: static/tags/pomodoro/history.tag.html:6
-#: static/tags/pomodoro/history.tag.html:19
-#: static/tags/pomodoro/todo/main.tag.html:7
-#: static/tags/pomodoro/todo/main.tag.html:15
-#: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:69 static/tags/stats/main.tag.html:34
-#: static/tags/stats/main.tag.html:44
 msgid "Category"
 msgstr "Kategori"
 
-#: static/tags/pomodoro/activities.tag.html:25
-#: static/tags/pomodoro/todo/main.tag.html:21
 msgid "Short description"
 msgstr "Kısa açıklama"
 
-#: static/tags/pomodoro/activities.tag.html:27
 msgid "Add Activity"
 msgstr "Aktiviteyi ekle"
 
-#: static/tags/pomodoro/activities.tag.html:54
 msgid "Mark as daily task"
 msgstr "Günlük iş olarak işaretle"
 
-#: static/tags/pomodoro/activities.tag.html:55
-#: static/tags/pomodoro/history.tag.html:38
 msgid "Add to TODO"
 msgstr "Yapılacaklara ekle"
 
-#: static/tags/pomodoro/activities.tag.html:56
-#: static/tags/pomodoro/history.tag.html:39
-#: static/tags/pomodoro/todo/main.tag.html:56
-#: static/tags/stats/main.tag.html:58
 msgid "Edit"
 msgstr "Düzenlemek"
 
-#: static/tags/pomodoro/activities.tag.html:60
-#: static/tags/pomodoro/todo/main.tag.html:60
 msgid "Add more"
 msgstr "Tekrar ekle"
 
-#: static/tags/pomodoro/activities.tag.html:65
-#: static/tags/pomodoro/todo/main.tag.html:63
 msgid "Remove"
 msgstr "Sil"
 
-#: static/tags/pomodoro/activities.tag.html:72
-#: static/tags/pomodoro/history.tag.html:58
-#: static/tags/pomodoro/todo/main.tag.html:76
-#: static/tags/stats/main.tag.html:74
 msgid "Click/tap to edit items."
 msgstr "Öğeleri düzenlemek için çift tıklayın/dokunun."
 
-#: static/tags/pomodoro/activities.tag.html:73
-#: static/tags/pomodoro/todo/main.tag.html:77
 msgid "Click on a number to add more."
 msgstr "Daha fazla eklemek için bir numarayı tıklayın."
 
-#: static/tags/pomodoro/activities.tag.html:76
 msgid "The list is empty"
 msgstr "Liste boş"
 
-#: static/tags/pomodoro/activities.tag.html:77
 msgid "Try to mark TODO as activity or use the form above"
 msgstr "Görevi aktivite olarak işaretleyin veya yukarıdaki formu kullanın"
 
-#: static/tags/pomodoro/activities.tag.html:126
 msgid "TODO list was updated."
 msgstr ""
 
-#: static/tags/pomodoro/history.tag.html:8
 msgid "DONE"
 msgstr "TAMAMLANDI"
 
-#: static/tags/pomodoro/history.tag.html:27
-#: static/tags/pomodoro/todo/main.tag.html:45
 msgid "no description"
 msgstr "açıklama yok"
 
-#: static/tags/pomodoro/history.tag.html:37
-#: static/tags/pomodoro/todo/main.tag.html:54
 msgid "Pin to favorites"
 msgstr "Favorilere ekle"
 
-#: static/tags/pomodoro/history.tag.html:55 static/tags/stats/main.tag.html:76
 msgid "Records are empty"
 msgstr "Kayıtlar boş"
 
-#: static/tags/pomodoro/history.tag.html:56
 msgid "Try to complete some pomodoros above"
 msgstr "Yukarıdaki pomodorolardan bazılarını tamamlamayı deneyin"
 
-#: static/tags/pomodoro/history.tag.html:61
 msgid "You are not signed."
 msgstr "Sen imzalanmadın"
 
-#: static/tags/pomodoro/history.tag.html:62
 msgid "Work history won`t be saved."
 msgstr "İş geçmişi kurtarılamaz."
 
-#: static/tags/pomodoro/settings.tag.html:8
 msgid "Preferences"
 msgstr "Tercihler"
 
-#: static/tags/pomodoro/settings.tag.html:15
-#: static/tags/settings/main.tag.html:6
 msgid "Timer"
 msgstr "Zamanlayıcı"
 
-#: static/tags/pomodoro/settings.tag.html:18
-#: static/tags/settings/main.tag.html:7
 msgid "Notifications"
 msgstr "Bildirimler"
 
-#: static/tags/pomodoro/settings.tag.html:42
-#: static/tags/settings/integrations/telegram.tag.html:19
 msgid "Close"
 msgstr "Kapat"
 
-#: static/tags/pomodoro/timer.tag.html:11
 msgid "Tune the timer"
 msgstr "Zamanlayıcıyı ayarla"
 
-#: static/tags/pomodoro/timer.tag.html:15
 msgid "START"
 msgstr "BAŞLAT"
 
-#: static/tags/pomodoro/timer.tag.html:16
 msgid "RESUME"
 msgstr "DEVAM ET"
 
-#: static/tags/pomodoro/timer.tag.html:17
 msgid "PAUSE"
 msgstr "DURAKLAT"
 
-#: static/tags/pomodoro/timer.tag.html:18
-#: static/tags/pomodoro/timer.tag.html:136
-#: static/tags/pomodoro/timer.tag.html:138
 msgid "STOP"
 msgstr "DURDUR"
 
-#: static/tags/pomodoro/timer.tag.html:19
 msgid "SKIP"
 msgstr "GEÇ"
 
-#: static/tags/pomodoro/timer.tag.html:85
 msgid "Pomodoro is finished. Have a short break."
 msgstr "Pomodoro tamamlandı. Mola alın."
 
-#: static/tags/pomodoro/timer.tag.html:87
 msgid "Pomodoro is finished. Have a long break."
 msgstr "Pomodoro tamamlandı. Mola alın."
 
-#: static/tags/pomodoro/timer.tag.html:92
 msgid "Break is over. The next pomodoro will go better!"
 msgstr "Mola bitti. Sıradaki pomodoro daha iyi geçecek!"
 
-#: static/tags/pomodoro/timer.tag.html:131
 msgid "POMODORO"
 msgstr "POMODORO"
 
-#: static/tags/pomodoro/timer.tag.html:132
 msgid "TAKE A SHORT BREAK"
 msgstr "KISA BİR MOLA AL"
 
-#: static/tags/pomodoro/timer.tag.html:133
 msgid "TAKE A LONG BREAK"
 msgstr "UZUN BİR MOLA AL"
 
-#: static/tags/pomodoro/timer.tag.html:140
 msgid "DELAY"
 msgstr "GECIKME"
 
-#: static/tags/pomodoro/timer.tag.html:144
 msgid "The Pomodoro is running"
 msgstr "Pomodoro devam ediyor"
 
-#: static/tags/pomodoro/todo/main.tag.html:10
 msgid "TODO"
 msgstr "Yapılacaklar"
 
-#: static/tags/pomodoro/todo/main.tag.html:23
 msgid "Add TODO"
 msgstr "Yapılacaklara ekle"
 
-#: static/tags/pomodoro/todo/main.tag.html:26
 msgid "Favorites"
 msgstr "Favoriler"
 
-#: static/tags/pomodoro/todo/main.tag.html:55
 msgid "Mark as done"
 msgstr "Tamamlandı olarak işaretle"
 
-#: static/tags/pomodoro/todo/main.tag.html:59
 msgid "Drag/Move to sort"
 msgstr "Sıralamak için Sürükle/Taşı"
 
-#: static/tags/pomodoro/todo/main.tag.html:70
 msgid "TODO list is empty"
 msgstr "Yapılacaklar listesi boş"
 
-#: static/tags/pomodoro/todo/main.tag.html:71
 msgid "Try to add some tasks use the form above"
 msgstr "Yukarıdaki formu kullanmak için birkaç görev ekleyin"
 
-#: static/tags/pomodoro/todo/main.tag.html:78
 msgid "Drag&Drop/Touch to sort items."
 msgstr ""
 "Öğeleri düzenlemek için çift tıklayın/dokunun. Sıralamak için "
 "Sürükle/Taşı."
 
-#: static/tags/settings/main.tag.html:5
 msgid "Application"
 msgstr "Uygulama"
 
-#: static/tags/settings/main.tag.html:8
 msgid "Integrations"
 msgstr "Entegrasyonlar"
 
-#: static/tags/settings/misc.tag.html:7
 msgid "Theme"
 msgstr "Tema"
 
-#: static/tags/settings/misc.tag.html:10
 msgid "light"
 msgstr "Işık"
 
-#: static/tags/settings/misc.tag.html:11
 msgid "dark"
 msgstr "karanlık"
 
-#: static/tags/settings/misc.tag.html:12
 msgid "auto"
 msgstr "oto"
 
-#: static/tags/settings/misc.tag.html:19
 msgid "Date format"
 msgstr "Tarih biçimi"
 
-#: static/tags/settings/misc.tag.html:34
 msgid "Time format"
 msgstr "Saat biçimi"
 
-#: static/tags/settings/misc.tag.html:45
 msgid "Time zone"
 msgstr "Saat dilimi"
 
-#: static/tags/settings/misc.tag.html:58
 msgid "Clear daily history after midnight"
 msgstr "Gece yarısından sonra günlük geçmişi temizle"
 
-#: static/tags/settings/misc.tag.html:65
 msgid "Categories"
 msgstr "Kategoriler"
 
-#: static/tags/settings/misc.tag.html:71
 msgid "Add category"
 msgstr "Kategori ekle"
 
-#: static/tags/settings/notifications.tag.html:7
+msgid "Send Daily Reports on"
+msgstr ""
+
+msgid "Send reports on email: "
+msgstr ""
+
+msgid "Send reports on telegram"
+msgstr ""
+
 msgid "Volume"
 msgstr "Ses"
 
-#: static/tags/settings/notifications.tag.html:29
 msgid "Play alarm sound"
 msgstr "Alarm sesi çal"
 
-#: static/tags/settings/notifications.tag.html:39
 msgid "Play ticking sound"
 msgstr "Tıkırtı sesi çal"
 
-#: static/tags/settings/notifications.tag.html:49
 msgid "Enable Web Notifications"
 msgstr "Web Bildirimlerini Etkinleştir"
 
-#: static/tags/settings/notifications.tag.html:59
 msgid "Enable Telegram Notifications"
 msgstr "Telgraf Bildirimlerini Etkinleştir"
 
-#: static/tags/settings/notifications.tag.html:69
 msgid "Enable Browser Alerts"
 msgstr "Tarayıcı Uyarılarını Etkinleştir"
 
-#: static/tags/settings/notifications.tag.html:70
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Pomodoro/Mola bittiğinde tarayıcıdan uyarı ver"
 
-#: static/tags/settings/notifications.tag.html:76
 msgid "Hide notificaions"
 msgstr "Bildirimleri gizle"
 
-#: static/tags/settings/notifications.tag.html:80
 msgid "in 2 seconds"
 msgstr "2 saniye içerisinde"
 
-#: static/tags/settings/notifications.tag.html:81
 msgid "in 3 seconds"
 msgstr "3 saniye içerisinde"
 
-#: static/tags/settings/notifications.tag.html:82
 msgid "in 5 seconds"
 msgstr "5 saniye içerisinde"
 
-#: static/tags/settings/notifications.tag.html:83
 msgid "in 10 seconds"
 msgstr "10 saniye içerisinde"
 
-#: static/tags/settings/timer.tag.html:5
 msgid "Pomodoro duration:"
 msgstr "Pomodoro süresi:"
 
-#: static/tags/settings/timer.tag.html:8 static/tags/settings/timer.tag.html:15
-#: static/tags/settings/timer.tag.html:22
 msgid "in minutes"
 msgstr "dakika"
 
-#: static/tags/settings/timer.tag.html:12
 msgid "Short break duration:"
 msgstr "Kısa mola süresi:"
 
-#: static/tags/settings/timer.tag.html:19
 msgid "Long break duration:"
 msgstr "Uzun mola süresi:"
 
-#: static/tags/settings/timer.tag.html:26
 msgid "Long break delay:"
 msgstr "Uzun mola gecikmesi:"
 
-#: static/tags/settings/timer.tag.html:29
 msgid "in pomodoros"
 msgstr "pomodoro"
 
-#: static/tags/settings/timer.tag.html:38
 msgid "Auto start pomodoros"
 msgstr "Pomodoroları otomatik başlat"
 
-#: static/tags/settings/timer.tag.html:47
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "TODO boşsa, bir sonraki pomodoroya başlamayın"
 
-#: static/tags/settings/timer.tag.html:57
 msgid "Auto start breaks"
 msgstr "Molaları otomatik başlat"
 
-#: static/tags/settings/integrations/main.tag.html:12
 msgid "Connect"
 msgstr "Bağlayın"
 
-#: static/tags/settings/integrations/main.tag.html:13
 msgid "Disconnect"
 msgstr "Bağlantısını kesin"
 
-#: static/tags/settings/integrations/main.tag.html:33
 msgid "Integration with Google"
 msgstr ""
 
-#: static/tags/settings/integrations/main.tag.html:33
 msgid "Login to the service using Google authentication."
 msgstr ""
 
-#: static/tags/settings/integrations/main.tag.html:34
 msgid "Integration with Facebook"
 msgstr ""
 
-#: static/tags/settings/integrations/main.tag.html:34
 msgid "Login to the service using Facebook authentication."
 msgstr ""
 
-#: static/tags/settings/integrations/main.tag.html:35
 msgid "Integration with Github"
 msgstr ""
 
-#: static/tags/settings/integrations/main.tag.html:35
 msgid "Login to the service using Github authentication."
 msgstr ""
 
-#: static/tags/settings/integrations/main.tag.html:36
 msgid "Enable Telegram Bot"
 msgstr ""
 
-#: static/tags/settings/integrations/main.tag.html:36
 msgid "Get notifications, check history"
 msgstr ""
 
-#: static/tags/settings/integrations/telegram.tag.html:7
 msgid "Connect Telegram Bot"
 msgstr ""
 
-#: static/tags/settings/integrations/telegram.tag.html:11
 msgid "Add"
 msgstr ""
 
-#: static/tags/settings/integrations/telegram.tag.html:11
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
 msgstr ""
 
-#: static/tags/settings/integrations/telegram.tag.html:13
 msgid "Code"
 msgstr ""
 
-#: static/tags/settings/integrations/telegram.tag.html:20
 msgid "Register"
 msgstr ""
 
-#: static/tags/stats/chart.tag.html:5 static/tags/stats/chart.tag.html:7
 msgid "time"
 msgstr "zaman"
 
-#: static/tags/stats/chart.tag.html:10 static/tags/stats/chart.tag.html:12
 msgid "number"
 msgstr "saymak"
 
-#: static/tags/stats/chart.tag.html:15
 msgid "Activity by days"
 msgstr "Günlere göre etkinlik"
 
-#: static/tags/stats/chart.tag.html:16
 msgid "Activity by weeks"
 msgstr "Haftaya göre etkinlik"
 
-#: static/tags/stats/chart.tag.html:17
 msgid "Activity by months"
 msgstr "Aylara göre faaliyet"
 
-#: static/tags/stats/chart.tag.html:21
 msgid "median"
 msgstr "medyan"
 
-#: static/tags/stats/info.tag.html:12
 msgid "Pomodoros"
 msgstr "Pomodoro"
 
-#: static/tags/stats/info.tag.html:27
 msgid "Time spent"
 msgstr "Harcanan süre"
 
-#: static/tags/stats/info.tag.html:42
 msgid "Work days"
 msgstr "Çalışılan gün"
 
-#: static/tags/stats/info.tag.html:57
 msgid "Average per day"
 msgstr "Günlük ortalama"
 
-#: static/tags/stats/main.tag.html:36
 msgid "Time"
 msgstr "Zaman"
 
-#: static/tags/stats/main.tag.html:37
 msgid "Date"
 msgstr "Tarih"
 
-#: static/tags/stats/main.tag.html:77
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Birkaç pomodoro bitirmeyi deneyin veya farklı bir zaman aralığı seçin"
 
-#: static/tags/stats/main.tag.html:84
 msgid "Export the records as CSV"
 msgstr "Kayıtları CSV olarak dışarı aktar"
 
-#: static/tags/stats/main.tag.html:91
 msgid "Import CSV"
 msgstr "CSV'yi içeri aktar"
 
-#: static/tags/stats/main.tag.html:92
 #, fuzzy
-#| msgid "Remove"
 msgid "Remove all"
 msgstr "Sil"
 
-#: static/tags/stats/main.tag.html:143
 msgid "Apply"
 msgstr "Uygulamak"
 
-#: static/tags/stats/main.tag.html:145
 msgid "Custom"
 msgstr "Seçmek"
 
-#: static/tags/stats/main.tag.html:147
 msgid "January"
 msgstr "Ocak"
 
-#: static/tags/stats/main.tag.html:148
 msgid "February"
 msgstr "Şubat"
 
-#: static/tags/stats/main.tag.html:149
 msgid "March"
 msgstr "Mart"
 
-#: static/tags/stats/main.tag.html:150
 msgid "April"
 msgstr "Nisan"
 
-#: static/tags/stats/main.tag.html:151
 msgid "May"
 msgstr "Mayis"
 
-#: static/tags/stats/main.tag.html:152
 msgid "June"
 msgstr "Haziran"
 
-#: static/tags/stats/main.tag.html:153
 msgid "July"
 msgstr "Temmuz"
 
-#: static/tags/stats/main.tag.html:154
 msgid "August"
 msgstr "Ağustos"
 
-#: static/tags/stats/main.tag.html:155
 msgid "September"
 msgstr "Eylül"
 
-#: static/tags/stats/main.tag.html:156
 msgid "October"
 msgstr "Ekim"
 
-#: static/tags/stats/main.tag.html:157
 msgid "November"
 msgstr "Kasim"
 
-#: static/tags/stats/main.tag.html:158
 msgid "December"
 msgstr "Aralik"
 
-#: static/tags/stats/main.tag.html:161
 msgid "Today"
 msgstr "Bugün"
 
-#: static/tags/stats/main.tag.html:162
 msgid "Yesterday"
 msgstr "Dün"
 
-#: static/tags/stats/main.tag.html:163
 msgid "This Week"
 msgstr "Bu Hafta"
 
-#: static/tags/stats/main.tag.html:164
 msgid "This Month"
 msgstr "Bu Ay"
 
-#: static/tags/stats/main.tag.html:165
 msgid "This Quarter"
 msgstr "Bu çeyrek"
 
-#: static/tags/stats/main.tag.html:166
 msgid "Last Week"
 msgstr "Geçen hafta"
 
-#: static/tags/stats/main.tag.html:167
 msgid "Last Month"
 msgstr "Geçen ay"
 
-#: static/tags/stats/main.tag.html:168
 msgid "Last Quarter"
 msgstr "Son çeyrek"
 
-#: static/tags/stats/main.tag.html:169
 msgid "Last 90 days"
 msgstr "Son 90 günde"
 
-#: static/tags/stats/main.tag.html:170
 msgid "Last 180 days"
 msgstr "Son 180 günde"
 
-#: static/tags/stats/main.tag.html:212
 #, fuzzy
-#| msgid "record"
 msgid "all records"
 msgstr "rekor"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-05-01 16:06-0700\n"
+"POT-Creation-Date: 2017-06-08 13:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: fr\n"
@@ -19,55 +19,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
 
-#: templates/base.j2:37
 msgid "Feedback"
 msgstr "Réaction"
 
-#: templates/base.j2:47
 msgid "Login to view your stats"
 msgstr "Connectez-vous pour afficher vos statistiques"
 
-#: templates/base.j2:49
 msgid "Stats"
 msgstr "Stats"
 
-#: templates/base.j2:54
 msgid "Settings"
 msgstr "Paramètres"
 
-#: templates/base.j2:118
 msgid "Logout"
 msgstr "Déconnexion"
 
-#: templates/base.j2:174
 msgid "Sign Up / Login"
 msgstr "Inscription / Connexion"
 
-#: templates/base.j2:177
 msgid "as Google user"
 msgstr "avec votre compte Google"
 
-#: templates/base.j2:180
 msgid "as Facebook user"
 msgstr "avec votre compte Facebook"
 
-#: templates/base.j2:183
 msgid "as Github user"
 msgstr "avec votre compte GitHub"
 
-#: templates/base.j2:205
 msgid "version"
 msgstr "version"
 
-#: templates/base.j2:206
 msgid "Privacy Policy"
 msgstr ""
 
-#: templates/index.j2:37
 msgid "What is it?"
 msgstr "Qu'est-ce que la technique Pomodoro?"
 
-#: templates/index.j2:38
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
 "any task. For many people, time is an enemy. The anxiety triggered by "
@@ -80,7 +67,6 @@ msgstr ""
 "lorsque l'on a une date-butoir à respecter, entraîne l’inefficacité et la"
 " procrastination."
 
-#: templates/index.j2:39
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
@@ -91,11 +77,9 @@ msgstr ""
 " faire, de la façon dont nous voulons le faire, nous donnant le pouvoir "
 "d’améliorer continuellement notre façon de travailler ou d'étudier."
 
-#: templates/index.j2:45
 msgid "The Goals"
 msgstr "Objectifs"
 
-#: templates/index.j2:46
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
@@ -105,35 +89,27 @@ msgstr ""
 "votre productivité (ainsi que celle de vos collègues) ce qui vous "
 "permettra de:"
 
-#: templates/index.j2:48
 msgid "Alleviate anxiety linked to becoming"
 msgstr "Soulager l’anxiété découlant du devenir"
 
-#: templates/index.j2:49
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Améliorer l’attention et la concentration en réduisant les interruptions"
 
-#: templates/index.j2:50
 msgid "Increase awareness of your decisions"
 msgstr "Accroître la compréhension des conséquences de vos décisions"
 
-#: templates/index.j2:51
 msgid "Boost motivation and keep it constant"
 msgstr "Consolider votre motivation et la conserver à un haut niveau"
 
-#: templates/index.j2:52
 msgid "Bolster the determination to achieve your goals"
 msgstr "Soutenir la détermination à atteindre vos objectifs"
 
-#: templates/index.j2:53
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
 msgstr "Affiner le processus d’estimation, qualitativement et quantitativement "
 
-#: templates/index.j2:54
 msgid "Improve your work or study process"
 msgstr "Améliorer votre technique de travail ou d’étude"
 
-#: templates/index.j2:55
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
@@ -141,11 +117,9 @@ msgstr ""
 "Renforcer votre détermination et votre courage face à des situations "
 "complexes"
 
-#: templates/index.j2:62
 msgid "The Basics"
 msgstr "Le b.a.-ba"
 
-#: templates/index.j2:63
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
@@ -153,23 +127,18 @@ msgstr ""
 "Au début de la journée, choisissez les tâches que vous planifiez "
 "d’effectuer et ajoutez-les dans la liste « Choses à faire » (TODO)."
 
-#: templates/index.j2:64
 msgid "Start working:"
 msgstr "Commencez à travailler:"
 
-#: templates/index.j2:66
 msgid "Start the Pomodoro timer"
 msgstr "Démarrez la minuterie Pomodoro"
 
-#: templates/index.j2:67
 msgid "Work until the Pomodoro rings"
 msgstr "Travaillez jusqu’à ce que la sonnerie retentisse"
 
-#: templates/index.j2:68
 msgid "Take a short break (3-5 minutes)"
 msgstr "Faites une courte pause (3-5 minutes)"
 
-#: templates/index.j2:70
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
@@ -178,33 +147,26 @@ msgstr ""
 "soit terminée. Après chaque série de 4 Pomodoros, faites une pause plus "
 "longue (15–30 minutes)."
 
-#: templates/index.j2:76
 msgid "Rules & Tips"
 msgstr "Règles et conseils"
 
-#: templates/index.j2:78
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Si une tâche prend plus de 5-7 Pomodoros, fractionnez-la"
 
-#: templates/index.j2:79
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
 msgstr "Si cette tâche demande moins d’un Pomodoro, consolidez-la avec d'autres"
 
-#: templates/index.j2:80
 msgid "Once a Pomodoro begins, it has to ring"
 msgstr "Un Pomodoro entamé doit sonner"
 
-#: templates/index.j2:81
 msgid "The next Pomodoro will go better"
 msgstr "Le prochain Pomodoro sera meilleur"
 
-#: templates/index.j2:82
 msgid "Login to the service and track your progress"
 msgstr "Connectez-vous et suivez vos progrès"
 
-#: templates/index.j2:83
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
@@ -213,39 +175,30 @@ msgstr ""
 "auquelles vous consacrez votre temps libre. Profitez de votre temps "
 "libre!"
 
-#: templates/news.j2:16
 msgid "April"
 msgstr "Avril"
 
-#: templates/news.j2:31
 msgid "February"
 msgstr "Février"
 
-#: templates/news.j2:43
 msgid "October"
 msgstr "Octobre"
 
-#: templates/news.j2:54
 msgid "May"
 msgstr "Mai"
 
-#: templates/news.j2:67
 msgid "March"
 msgstr "Mars"
 
-#: templates/news.j2:77
 msgid "Febrary"
 msgstr "Février"
 
-#: templates/news.j2:89
 msgid "December"
 msgstr "Décembre"
 
-#: templates/news.j2:99
 msgid "September"
 msgstr "Septembre"
 
-#: templates/news.j2:112
 msgid "August"
 msgstr "Août"
 

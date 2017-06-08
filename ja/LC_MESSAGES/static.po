@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-05-01 16:06-0700\n"
+"POT-Creation-Date: 2017-06-08 13:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -19,520 +19,375 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
 
-#: static/stores/todo.coffee:119
 msgid "Great work! TODO list is empty."
 msgstr "リストは空です。"
 
-#: static/tags/loading.tag.html:3
 msgid "LOADING"
 msgstr "ロード"
 
-#: static/tags/profile.tag.html:5
 msgid "Joined at"
 msgstr "参加する"
 
-#: static/tags/remove-item.tag.html:5
 msgid "Are you sure want to delete"
 msgstr "削除してよろしいですか？"
 
-#: static/tags/pomodoro/history.tag.html:46 static/tags/remove-item.tag.html:7
-#: static/tags/stats/main.tag.html:67
 msgid "Delete"
 msgstr "削除"
 
-#: static/tags/feedback/main.tag.html:96 static/tags/remove-item.tag.html:8
-#: static/tags/stats/main.tag.html:144
 msgid "Cancel"
 msgstr "キャンセル"
 
-#: static/tags/remove-item.tag.html:20
 msgid "record"
 msgstr "記録"
 
-#: static/tags/stats.tag.html:4 static/tags/stats.tag.html:30
 msgid "year"
 msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
 
-#: static/tags/stats.tag.html:8 static/tags/stats.tag.html:34
 msgid "month"
 msgid_plural "months"
 msgstr[0] ""
 msgstr[1] ""
 
-#: static/tags/stats.tag.html:12 static/tags/stats.tag.html:38
 msgid "day"
 msgid_plural "days"
 msgstr[0] ""
 msgstr[1] ""
 
-#: static/tags/stats.tag.html:16
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] ""
 msgstr[1] ""
 
-#: static/tags/stats.tag.html:20
 msgid "minute"
 msgid_plural "minutes"
 msgstr[0] ""
 msgstr[1] ""
 
-#: static/tags/stats.tag.html:23
 msgid "registered users spend on completing pomodoros today."
 msgstr ""
 
-#: static/tags/stats.tag.html:42
 msgid "registered users spend on completing pomodoros"
 msgstr ""
 
-#: static/tags/stats.tag.html:45
 msgid "for all time"
 msgstr ""
 
-#: static/tags/feedback/main.tag.html:6
 msgid "New"
 msgstr "新着"
 
-#: static/tags/feedback/main.tag.html:7 static/tags/feedback/main.tag.html:95
 msgid "Done"
 msgstr "完了"
 
-#: static/tags/feedback/main.tag.html:36
 msgid "Like"
 msgstr "いいね"
 
-#: static/tags/feedback/main.tag.html:37
 msgid "like"
 msgid_plural "likes"
 msgstr[0] "いいね"
 msgstr[1] "いいね"
 
-#: static/tags/feedback/main.tag.html:49
 msgid "Write your ideas here"
 msgstr "あなたのアイデアを書いてください"
 
-#: static/tags/feedback/main.tag.html:53
 msgid "Title"
 msgstr "タイトル"
 
-#: static/tags/feedback/main.tag.html:56
-#: static/tags/pomodoro/activities.tag.html:14
-#: static/tags/pomodoro/activities.tag.html:48
-#: static/tags/pomodoro/history.tag.html:7
-#: static/tags/pomodoro/history.tag.html:30
-#: static/tags/pomodoro/todo/main.tag.html:8
-#: static/tags/pomodoro/todo/main.tag.html:48
-#: static/tags/stats/main.tag.html:35 static/tags/stats/main.tag.html:50
 msgid "Description"
 msgstr "説明"
 
-#: static/tags/feedback/main.tag.html:58
 msgid "Create"
 msgstr "作成"
 
-#: static/tags/feedback/main.tag.html:62
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "フィードバックをいただきありがとうございます！あなたのメッセージは承認待ちです。"
 
-#: static/tags/pomodoro/activities.tag.html:7
 msgid "Activities"
 msgstr "アクティビティ"
 
-#: static/tags/pomodoro/activities.tag.html:13
-#: static/tags/pomodoro/activities.tag.html:20
-#: static/tags/pomodoro/activities.tag.html:43
-#: static/tags/pomodoro/history.tag.html:6
-#: static/tags/pomodoro/history.tag.html:19
-#: static/tags/pomodoro/todo/main.tag.html:7
-#: static/tags/pomodoro/todo/main.tag.html:15
-#: static/tags/pomodoro/todo/main.tag.html:41
-#: static/tags/settings/misc.tag.html:69 static/tags/stats/main.tag.html:34
-#: static/tags/stats/main.tag.html:44
 msgid "Category"
 msgstr "カテゴリー"
 
-#: static/tags/pomodoro/activities.tag.html:25
-#: static/tags/pomodoro/todo/main.tag.html:21
 msgid "Short description"
 msgstr "簡単な説明"
 
-#: static/tags/pomodoro/activities.tag.html:27
 msgid "Add Activity"
 msgstr "アクティビティの追加"
 
-#: static/tags/pomodoro/activities.tag.html:54
 msgid "Mark as daily task"
 msgstr "毎日のタスクとして登録する"
 
-#: static/tags/pomodoro/activities.tag.html:55
-#: static/tags/pomodoro/history.tag.html:38
 msgid "Add to TODO"
 msgstr "TODOに追加する"
 
-#: static/tags/pomodoro/activities.tag.html:56
-#: static/tags/pomodoro/history.tag.html:39
-#: static/tags/pomodoro/todo/main.tag.html:56
-#: static/tags/stats/main.tag.html:58
 msgid "Edit"
 msgstr "編集"
 
-#: static/tags/pomodoro/activities.tag.html:60
-#: static/tags/pomodoro/todo/main.tag.html:60
 msgid "Add more"
 msgstr "もう一回"
 
-#: static/tags/pomodoro/activities.tag.html:65
-#: static/tags/pomodoro/todo/main.tag.html:63
 msgid "Remove"
 msgstr "削除"
 
-#: static/tags/pomodoro/activities.tag.html:72
-#: static/tags/pomodoro/history.tag.html:58
-#: static/tags/pomodoro/todo/main.tag.html:76
-#: static/tags/stats/main.tag.html:74
 msgid "Click/tap to edit items."
 msgstr "アイテムを編集するには、ダブルクリックまたはタップしてください。"
 
-#: static/tags/pomodoro/activities.tag.html:73
-#: static/tags/pomodoro/todo/main.tag.html:77
 msgid "Click on a number to add more."
 msgstr "追加する番号をクリックしてください。"
 
-#: static/tags/pomodoro/activities.tag.html:76
 msgid "The list is empty"
 msgstr "リストは空です。"
 
-#: static/tags/pomodoro/activities.tag.html:77
 msgid "Try to mark TODO as activity or use the form above"
 msgstr "TODOをアクティビティとしてマークするか、上記のフォームを使用してください。"
 
-#: static/tags/pomodoro/activities.tag.html:126
 msgid "TODO list was updated."
 msgstr ""
 
-#: static/tags/pomodoro/history.tag.html:8
 msgid "DONE"
 msgstr "完了"
 
-#: static/tags/pomodoro/history.tag.html:27
-#: static/tags/pomodoro/todo/main.tag.html:45
 msgid "no description"
 msgstr "説明無し"
 
-#: static/tags/pomodoro/history.tag.html:37
-#: static/tags/pomodoro/todo/main.tag.html:54
 msgid "Pin to favorites"
 msgstr "お気に入りに追加"
 
-#: static/tags/pomodoro/history.tag.html:55 static/tags/stats/main.tag.html:76
 msgid "Records are empty"
 msgstr "レコードが空です"
 
-#: static/tags/pomodoro/history.tag.html:56
 msgid "Try to complete some pomodoros above"
 msgstr "上記のポモドーロを完了してください"
 
-#: static/tags/pomodoro/history.tag.html:61
 msgid "You are not signed."
 msgstr "あなたは署名されていません。"
 
-#: static/tags/pomodoro/history.tag.html:62
 msgid "Work history won`t be saved."
 msgstr "仕事の歴史は保存されません。"
 
-#: static/tags/pomodoro/settings.tag.html:8
 msgid "Preferences"
 msgstr "設定"
 
-#: static/tags/pomodoro/settings.tag.html:15
-#: static/tags/settings/main.tag.html:6
 msgid "Timer"
 msgstr "タイマー"
 
-#: static/tags/pomodoro/settings.tag.html:18
-#: static/tags/settings/main.tag.html:7
 msgid "Notifications"
 msgstr "通知"
 
-#: static/tags/pomodoro/settings.tag.html:42
-#: static/tags/settings/integrations/telegram.tag.html:19
 msgid "Close"
 msgstr "閉じる"
 
-#: static/tags/pomodoro/timer.tag.html:11
 msgid "Tune the timer"
 msgstr "タイマーを調整する"
 
-#: static/tags/pomodoro/timer.tag.html:15
 msgid "START"
 msgstr "開始"
 
-#: static/tags/pomodoro/timer.tag.html:16
 msgid "RESUME"
 msgstr "再開"
 
-#: static/tags/pomodoro/timer.tag.html:17
 msgid "PAUSE"
 msgstr "一時停止"
 
-#: static/tags/pomodoro/timer.tag.html:18
-#: static/tags/pomodoro/timer.tag.html:136
-#: static/tags/pomodoro/timer.tag.html:138
 msgid "STOP"
 msgstr "停止"
 
-#: static/tags/pomodoro/timer.tag.html:19
 msgid "SKIP"
 msgstr "スキップ"
 
-#: static/tags/pomodoro/timer.tag.html:85
 msgid "Pomodoro is finished. Have a short break."
 msgstr "ポモドーロ終了です、休憩しましょう。"
 
-#: static/tags/pomodoro/timer.tag.html:87
 msgid "Pomodoro is finished. Have a long break."
 msgstr "ポモドーロ終了です、休憩しましょう。"
 
-#: static/tags/pomodoro/timer.tag.html:92
 msgid "Break is over. The next pomodoro will go better!"
 msgstr "休憩終了です。次のポモドーロも頑張りましょう！"
 
-#: static/tags/pomodoro/timer.tag.html:131
 msgid "POMODORO"
 msgstr "ポモドーロ"
 
-#: static/tags/pomodoro/timer.tag.html:132
 msgid "TAKE A SHORT BREAK"
 msgstr "短時間休憩"
 
-#: static/tags/pomodoro/timer.tag.html:133
 msgid "TAKE A LONG BREAK"
 msgstr "長時間休憩"
 
-#: static/tags/pomodoro/timer.tag.html:140
 msgid "DELAY"
 msgstr "遅れ"
 
-#: static/tags/pomodoro/timer.tag.html:144
 msgid "The Pomodoro is running"
 msgstr "ポモドーロ中"
 
-#: static/tags/pomodoro/todo/main.tag.html:10
 msgid "TODO"
 msgstr "TODO"
 
-#: static/tags/pomodoro/todo/main.tag.html:23
 msgid "Add TODO"
 msgstr "TODOの追加"
 
-#: static/tags/pomodoro/todo/main.tag.html:26
 msgid "Favorites"
 msgstr "お気に入り"
 
-#: static/tags/pomodoro/todo/main.tag.html:55
 msgid "Mark as done"
 msgstr "完了にする"
 
-#: static/tags/pomodoro/todo/main.tag.html:59
 msgid "Drag/Move to sort"
 msgstr "ドラッグで並べ替え"
 
-#: static/tags/pomodoro/todo/main.tag.html:70
 msgid "TODO list is empty"
 msgstr "TODOリストが空です"
 
-#: static/tags/pomodoro/todo/main.tag.html:71
 msgid "Try to add some tasks use the form above"
 msgstr "上のフォームに入力してタスクを追加してください"
 
-#: static/tags/pomodoro/todo/main.tag.html:78
 msgid "Drag&Drop/Touch to sort items."
 msgstr "項目を編集するにはダブルクリックまたはタップしてください。ドラッグ＆ドロップで項目の並べ替えができます。"
 
-#: static/tags/settings/main.tag.html:5
 msgid "Application"
 msgstr "基本設定"
 
-#: static/tags/settings/main.tag.html:8
 msgid "Integrations"
 msgstr "連携機能"
 
-#: static/tags/settings/misc.tag.html:7
 msgid "Theme"
 msgstr "テーマ"
 
-#: static/tags/settings/misc.tag.html:10
 msgid "light"
 msgstr "光"
 
-#: static/tags/settings/misc.tag.html:11
 msgid "dark"
 msgstr "ダーク"
 
-#: static/tags/settings/misc.tag.html:12
 msgid "auto"
 msgstr "自動の"
 
-#: static/tags/settings/misc.tag.html:19
 msgid "Date format"
 msgstr "日付の表示形式"
 
-#: static/tags/settings/misc.tag.html:34
 msgid "Time format"
 msgstr "時間の表示形式"
 
-#: static/tags/settings/misc.tag.html:45
 msgid "Time zone"
 msgstr "タイムゾーン"
 
-#: static/tags/settings/misc.tag.html:58
 msgid "Clear daily history after midnight"
 msgstr "履歴を毎日クリアする"
 
-#: static/tags/settings/misc.tag.html:65
 msgid "Categories"
 msgstr "カテゴリー"
 
-#: static/tags/settings/misc.tag.html:71
 msgid "Add category"
 msgstr "カテゴリの追加"
 
-#: static/tags/settings/notifications.tag.html:7
+msgid "Send Daily Reports on"
+msgstr ""
+
+msgid "Send reports on email: "
+msgstr ""
+
+msgid "Send reports on telegram"
+msgstr ""
+
 msgid "Volume"
 msgstr "音量"
 
-#: static/tags/settings/notifications.tag.html:29
 msgid "Play alarm sound"
 msgstr "アラームを再生する"
 
-#: static/tags/settings/notifications.tag.html:39
 msgid "Play ticking sound"
 msgstr "チクタク音を再生する"
 
-#: static/tags/settings/notifications.tag.html:49
 msgid "Enable Web Notifications"
 msgstr "Web通知機能を有効にする"
 
-#: static/tags/settings/notifications.tag.html:59
 msgid "Enable Telegram Notifications"
 msgstr "テレグラム通知を有効にする"
 
-#: static/tags/settings/notifications.tag.html:69
 msgid "Enable Browser Alerts"
 msgstr "ブラウザーアラートを有効にする"
 
-#: static/tags/settings/notifications.tag.html:70
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "ポモドーロ/休憩が終わるとブラウザーアラートが表示されます"
 
-#: static/tags/settings/notifications.tag.html:76
 msgid "Hide notificaions"
 msgstr "通知が隠れるまで"
 
-#: static/tags/settings/notifications.tag.html:80
 msgid "in 2 seconds"
 msgstr "2秒"
 
-#: static/tags/settings/notifications.tag.html:81
 msgid "in 3 seconds"
 msgstr "3秒"
 
-#: static/tags/settings/notifications.tag.html:82
 msgid "in 5 seconds"
 msgstr "5秒"
 
-#: static/tags/settings/notifications.tag.html:83
 msgid "in 10 seconds"
 msgstr "10秒"
 
-#: static/tags/settings/timer.tag.html:5
 msgid "Pomodoro duration:"
 msgstr "ポモドーロの間隔"
 
-#: static/tags/settings/timer.tag.html:8 static/tags/settings/timer.tag.html:15
-#: static/tags/settings/timer.tag.html:22
 msgid "in minutes"
 msgstr "分単位"
 
-#: static/tags/settings/timer.tag.html:12
 msgid "Short break duration:"
 msgstr "短い休憩時間："
 
-#: static/tags/settings/timer.tag.html:19
 msgid "Long break duration:"
 msgstr "長い休憩時間："
 
-#: static/tags/settings/timer.tag.html:26
 msgid "Long break delay:"
 msgstr "長い休憩までの回数"
 
-#: static/tags/settings/timer.tag.html:29
 msgid "in pomodoros"
 msgstr "ポモドーロ"
 
-#: static/tags/settings/timer.tag.html:38
 msgid "Auto start pomodoros"
 msgstr "ポモドーロを自動的に開始する"
 
-#: static/tags/settings/timer.tag.html:47
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "TODOが空の場合、次のポモドーロを開始しないでください"
 
-#: static/tags/settings/timer.tag.html:57
 msgid "Auto start breaks"
 msgstr "休憩時間を自動的に開始する"
 
-#: static/tags/settings/integrations/main.tag.html:12
 msgid "Connect"
 msgstr "連携"
 
-#: static/tags/settings/integrations/main.tag.html:13
 msgid "Disconnect"
 msgstr "連携解除"
 
-#: static/tags/settings/integrations/main.tag.html:33
 msgid "Integration with Google"
 msgstr "Googleアカウントとの連携"
 
-#: static/tags/settings/integrations/main.tag.html:33
 msgid "Login to the service using Google authentication."
 msgstr "Googleアカウントでログインする"
 
-#: static/tags/settings/integrations/main.tag.html:34
 msgid "Integration with Facebook"
 msgstr "Facebookアカウントとの連携"
 
-#: static/tags/settings/integrations/main.tag.html:34
 msgid "Login to the service using Facebook authentication."
 msgstr "Facebookアカウントでログインする"
 
-#: static/tags/settings/integrations/main.tag.html:35
 msgid "Integration with Github"
 msgstr "Githubアカウントとの連携"
 
-#: static/tags/settings/integrations/main.tag.html:35
 msgid "Login to the service using Github authentication."
 msgstr "Githubアカウントでログインする"
 
-#: static/tags/settings/integrations/main.tag.html:36
 msgid "Enable Telegram Bot"
 msgstr "Telegram Botを有効にする"
 
-#: static/tags/settings/integrations/main.tag.html:36
 msgid "Get notifications, check history"
 msgstr "通知と履歴の確認"
 
-#: static/tags/settings/integrations/telegram.tag.html:7
 msgid "Connect Telegram Bot"
 msgstr "Telegram Botとの連携"
 
-#: static/tags/settings/integrations/telegram.tag.html:11
 msgid "Add"
 msgstr ""
 
-#: static/tags/settings/integrations/telegram.tag.html:11
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
@@ -540,179 +395,134 @@ msgstr ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
 
-#: static/tags/settings/integrations/telegram.tag.html:13
 msgid "Code"
 msgstr "暗号"
 
-#: static/tags/settings/integrations/telegram.tag.html:20
 msgid "Register"
 msgstr "登録"
 
-#: static/tags/stats/chart.tag.html:5 static/tags/stats/chart.tag.html:7
 msgid "time"
 msgstr "時間数"
 
-#: static/tags/stats/chart.tag.html:10 static/tags/stats/chart.tag.html:12
 msgid "number"
 msgstr "単位数"
 
-#: static/tags/stats/chart.tag.html:15
 msgid "Activity by days"
 msgstr "日別"
 
-#: static/tags/stats/chart.tag.html:16
 msgid "Activity by weeks"
 msgstr "週別"
 
-#: static/tags/stats/chart.tag.html:17
 msgid "Activity by months"
 msgstr "月別"
 
-#: static/tags/stats/chart.tag.html:21
 msgid "median"
 msgstr "平均"
 
-#: static/tags/stats/info.tag.html:12
 msgid "Pomodoros"
 msgstr "ポモドーロ"
 
-#: static/tags/stats/info.tag.html:27
 msgid "Time spent"
 msgstr "時間"
 
-#: static/tags/stats/info.tag.html:42
 msgid "Work days"
 msgstr "稼働日数"
 
-#: static/tags/stats/info.tag.html:57
 msgid "Average per day"
 msgstr "1日平均"
 
-#: static/tags/stats/main.tag.html:36
 msgid "Time"
 msgstr "時間"
 
-#: static/tags/stats/main.tag.html:37
 msgid "Date"
 msgstr "日付"
 
-#: static/tags/stats/main.tag.html:77
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "ポモドーロを完了するか、別の期間をえらんでください。"
 
-#: static/tags/stats/main.tag.html:84
 msgid "Export the records as CSV"
 msgstr "CSV出力"
 
-#: static/tags/stats/main.tag.html:91
 msgid "Import CSV"
 msgstr "CSV入力"
 
-#: static/tags/stats/main.tag.html:92
 #, fuzzy
-#| msgid "Remove"
 msgid "Remove all"
 msgstr "削除"
 
-#: static/tags/stats/main.tag.html:143
 msgid "Apply"
 msgstr "適用"
 
-#: static/tags/stats/main.tag.html:145
 msgid "Custom"
 msgstr "カスタム"
 
-#: static/tags/stats/main.tag.html:147
 msgid "January"
 msgstr "1月"
 
-#: static/tags/stats/main.tag.html:148
 msgid "February"
 msgstr "2月"
 
-#: static/tags/stats/main.tag.html:149
 msgid "March"
 msgstr "3月"
 
-#: static/tags/stats/main.tag.html:150
 msgid "April"
 msgstr "4月"
 
-#: static/tags/stats/main.tag.html:151
 msgid "May"
 msgstr "5月"
 
-#: static/tags/stats/main.tag.html:152
 msgid "June"
 msgstr "6月"
 
-#: static/tags/stats/main.tag.html:153
 msgid "July"
 msgstr "7月"
 
-#: static/tags/stats/main.tag.html:154
 msgid "August"
 msgstr "8月"
 
-#: static/tags/stats/main.tag.html:155
 msgid "September"
 msgstr "9月"
 
-#: static/tags/stats/main.tag.html:156
 msgid "October"
 msgstr "10月"
 
-#: static/tags/stats/main.tag.html:157
 msgid "November"
 msgstr "11月"
 
-#: static/tags/stats/main.tag.html:158
 msgid "December"
 msgstr "12月"
 
-#: static/tags/stats/main.tag.html:161
 msgid "Today"
 msgstr "今日"
 
-#: static/tags/stats/main.tag.html:162
 msgid "Yesterday"
 msgstr "昨日"
 
-#: static/tags/stats/main.tag.html:163
 msgid "This Week"
 msgstr "今週"
 
-#: static/tags/stats/main.tag.html:164
 msgid "This Month"
 msgstr "今月"
 
-#: static/tags/stats/main.tag.html:165
 msgid "This Quarter"
 msgstr "現在の四半期"
 
-#: static/tags/stats/main.tag.html:166
 msgid "Last Week"
 msgstr "先週"
 
-#: static/tags/stats/main.tag.html:167
 msgid "Last Month"
 msgstr "先月"
 
-#: static/tags/stats/main.tag.html:168
 msgid "Last Quarter"
 msgstr "前の四半期"
 
-#: static/tags/stats/main.tag.html:169
 msgid "Last 90 days"
 msgstr "過去90日間"
 
-#: static/tags/stats/main.tag.html:170
 msgid "Last 180 days"
 msgstr "過去180日間"
 
-#: static/tags/stats/main.tag.html:212
 #, fuzzy
-#| msgid "record"
 msgid "all records"
 msgstr "記録"
 
