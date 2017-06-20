@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-08 13:52+0300\n"
+"POT-Creation-Date: 2017-06-20 13:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nb_NO\n"
@@ -178,6 +178,51 @@ msgid "September"
 msgstr ""
 
 msgid "August"
+msgstr ""
+
+msgid "You spent"
+msgstr ""
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "and"
+msgstr ""
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "on"
+msgstr ""
+
+msgid "pomodoro"
+msgid_plural "pomodoros"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Of those"
+msgstr ""
+
+msgid "were"
+msgstr ""
+
+msgid "The next Pomodoro will go better."
+msgstr ""
+
+msgid "There are completed tasks"
+msgstr ""
+
+msgid "Please don't send me these awesome daily reports"
+msgstr ""
+
+msgid "here's your daily report for"
+msgstr ""
+
+msgid "The next Pomodoro will go better!"
 msgstr ""
 
 #~ msgid "Login to track your productivity"
