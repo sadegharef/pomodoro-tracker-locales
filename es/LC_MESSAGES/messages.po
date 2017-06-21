@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-21 13:14+0300\n"
+"POT-Creation-Date: 2017-06-21 13:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -174,6 +174,9 @@ msgstr ""
 "No deberías usar la Técnica Pomodoro para las actividades que haces "
 "durante tu tiempo libre. ¡Disfruta del tiempo libre!"
 
+msgid "June"
+msgstr "Junio"
+
 msgid "April"
 msgstr "Abril"
 
@@ -263,3 +266,4 @@ msgstr ""
 
 #~ msgid "Upcomming features"
 #~ msgstr "Próximas mejoras"
+

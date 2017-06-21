@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-21 13:14+0300\n"
+"POT-Creation-Date: 2017-06-21 13:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -153,6 +153,9 @@ msgid ""
 "free time. Enjoy free time!"
 msgstr "ポモドーロテクニックは余暇の活動には使用しないでください。自由な時間を楽しみましょう！"
 
+msgid "June"
+msgstr "6月"
+
 msgid "April"
 msgstr "4月"
 
@@ -251,3 +254,4 @@ msgstr ""
 
 #~ msgid "Upcomming features"
 #~ msgstr "今後の機能"
+
