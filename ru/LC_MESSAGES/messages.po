@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-20 13:08+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-06-21 13:14+0300\n"
+"PO-Revision-Date: 2017-06-21 13:06+0300\n"
+"Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
 "Language-Team: ru <LL@li.org>\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
@@ -232,9 +232,6 @@ msgstr "Из них"
 msgid "were"
 msgstr "были"
 
-msgid "The next Pomodoro will go better."
-msgstr "Следующий «помидор» будет лучше"
-
 msgid "There are completed tasks"
 msgstr "Выполненные задачи"
 
@@ -243,9 +240,6 @@ msgstr "Пожалуйста, не присылайте мне эти прекр
 
 msgid "here's your daily report for"
 msgstr "твой ежедневный отчет за"
-
-msgid "The next Pomodoro will go better!"
-msgstr "Следующий «помидор» будет лучше"
 
 #~ msgid "Your language"
 #~ msgstr ""

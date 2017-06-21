@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-20 13:08+0300\n"
+"POT-Creation-Date: 2017-06-21 13:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -231,11 +231,6 @@ msgstr ""
 msgid "were"
 msgstr ""
 
-#, fuzzy
-#| msgid "The next Pomodoro will go better"
-msgid "The next Pomodoro will go better."
-msgstr "El siguiente Pomodoro será mejor"
-
 msgid "There are completed tasks"
 msgstr ""
 
@@ -244,11 +239,6 @@ msgstr ""
 
 msgid "here's your daily report for"
 msgstr ""
-
-#, fuzzy
-#| msgid "The next Pomodoro will go better"
-msgid "The next Pomodoro will go better!"
-msgstr "El siguiente Pomodoro será mejor"
 
 #~ msgid "English"
 #~ msgstr "Inglés"
@@ -273,4 +263,3 @@ msgstr "El siguiente Pomodoro será mejor"
 
 #~ msgid "Upcomming features"
 #~ msgstr "Próximas mejoras"
-

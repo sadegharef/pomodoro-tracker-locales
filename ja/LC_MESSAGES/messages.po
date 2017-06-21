@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-20 13:08+0300\n"
+"POT-Creation-Date: 2017-06-21 13:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -210,11 +210,6 @@ msgstr ""
 msgid "were"
 msgstr ""
 
-#, fuzzy
-#| msgid "The next Pomodoro will go better"
-msgid "The next Pomodoro will go better."
-msgstr "次のポモドーロはより効果的になるでしょう"
-
 msgid "There are completed tasks"
 msgstr ""
 
@@ -223,11 +218,6 @@ msgstr ""
 
 msgid "here's your daily report for"
 msgstr ""
-
-#, fuzzy
-#| msgid "The next Pomodoro will go better"
-msgid "The next Pomodoro will go better!"
-msgstr "次のポモドーロはより効果的になるでしょう"
 
 #~ msgid "Admin"
 #~ msgstr "管理"
@@ -261,4 +251,3 @@ msgstr "次のポモドーロはより効果的になるでしょう"
 
 #~ msgid "Upcomming features"
 #~ msgstr "今後の機能"
-
