@@ -72,7 +72,7 @@ msgstr[1] "минуты"
 msgstr[2] "минут"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr "пользователи сервиса потратили сегодня"
+msgstr "пользователи сервиса работали сегодня"
 
 msgid "registered users spend on completing pomodoros"
 msgstr "пользователи сервиса потратили на задачи"
