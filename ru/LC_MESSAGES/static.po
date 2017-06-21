@@ -288,13 +288,13 @@ msgid "Add category"
 msgstr "Добавить категорию"
 
 msgid "Send Daily Reports on"
-msgstr ""
+msgstr "Отправлять отчеты в"
 
 msgid "Send reports on email: "
-msgstr ""
+msgstr "Отправлять отчеты на email: "
 
 msgid "Send reports on telegram"
-msgstr ""
+msgstr "Отправлять отчеты на телеграм"
 
 msgid "Volume"
 msgstr "Громкость"

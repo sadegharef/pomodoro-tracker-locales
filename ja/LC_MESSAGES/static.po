@@ -42,37 +42,37 @@ msgstr "記録"
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "年"
+msgstr[1] "年々"
 
 msgid "month"
 msgid_plural "months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "月"
+msgstr[1] "数ヶ月"
 
 msgid "day"
 msgid_plural "days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "日"
+msgstr[1] "月日"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "時"
+msgstr[1] "時間"
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "分"
+msgstr[1] "分"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
+msgstr "登録ユーザーは今日のポモドーロを完了するのに費やす"
 
 msgid "registered users spend on completing pomodoros"
-msgstr ""
+msgstr "登録ユーザーはポモドーロを完了するのに費やす"
 
 msgid "for all time"
-msgstr ""
+msgstr "いつでも"
 
 msgid "New"
 msgstr "新着"
@@ -143,7 +143,7 @@ msgid "Try to mark TODO as activity or use the form above"
 msgstr "TODOをアクティビティとしてマークするか、上記のフォームを使用してください。"
 
 msgid "TODO list was updated."
-msgstr ""
+msgstr "TODOリストが更新されました"
 
 msgid "DONE"
 msgstr "完了"
@@ -281,13 +281,13 @@ msgid "Add category"
 msgstr "カテゴリの追加"
 
 msgid "Send Daily Reports on"
-msgstr ""
+msgstr "毎日のレポートを送信する"
 
 msgid "Send reports on email: "
-msgstr ""
+msgstr "電子メールでレポートを送信する"
 
 msgid "Send reports on telegram"
-msgstr ""
+msgstr "電報に関するレポートを送信する"
 
 msgid "Volume"
 msgstr "音量"
@@ -386,14 +386,13 @@ msgid "Connect Telegram Bot"
 msgstr "Telegram Botとの連携"
 
 msgid "Add"
-msgstr ""
+msgstr "追加"
 
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
 msgstr ""
-"to your telegram, type `/start` and enter a code from the bot to field "
-"bellow"
+"あなたの電報に `/ start`と打ち込んでボットのコードを以下のフィールドに入力してください"
 
 msgid "Code"
 msgstr "暗号"

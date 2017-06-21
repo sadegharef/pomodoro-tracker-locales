@@ -23,7 +23,7 @@ msgid "Great work! TODO list is empty."
 msgstr "La lista è vuota"
 
 msgid "LOADING"
-msgstr ""
+msgstr "CARICAMENTO"
 
 msgid "Joined at"
 msgstr "Iscritto a"
@@ -38,7 +38,7 @@ msgid "Cancel"
 msgstr "Cancella"
 
 msgid "record"
-msgstr ""
+msgstr "record"
 
 msgid "year"
 msgid_plural "years"
@@ -66,13 +66,13 @@ msgstr[0] "minuto"
 msgstr[1] "minuti"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
+msgstr "gli utenti registrati spendono oggi sul completamento dei pomodori."
 
 msgid "registered users spend on completing pomodoros"
-msgstr ""
+msgstr "gli utenti registrati spendono sul completamento dei pomodori"
 
 msgid "for all time"
-msgstr ""
+msgstr "per tutto il tempo"
 
 msgid "New"
 msgstr "Nuovo"
@@ -121,9 +121,8 @@ msgstr "Marchia come atività giornaliera"
 msgid "Add to TODO"
 msgstr "Aggiungi ai TODO"
 
-#, fuzzy
 msgid "Edit"
-msgstr "mediano"
+msgstr "Modifica"
 
 msgid "Add more"
 msgstr "Aggiungi"
@@ -131,12 +130,11 @@ msgstr "Aggiungi"
 msgid "Remove"
 msgstr "Rimuovi"
 
-#, fuzzy
 msgid "Click/tap to edit items."
 msgstr "Doppio click/tap per modificare gli elementi"
 
 msgid "Click on a number to add more."
-msgstr ""
+msgstr "Fai clic su un numero per aggiungere altro."
 
 msgid "The list is empty"
 msgstr "La lista è vuota"
@@ -145,7 +143,7 @@ msgid "Try to mark TODO as activity or use the form above"
 msgstr "Prova a segnare TODO come attività o usa il modulo di cui sopra"
 
 msgid "TODO list was updated."
-msgstr ""
+msgstr "L'elenco TODO è stato aggiornato"
 
 msgid "DONE"
 msgstr "FATTO"
@@ -154,7 +152,7 @@ msgid "no description"
 msgstr "nessuna descrizione"
 
 msgid "Pin to favorites"
-msgstr ""
+msgstr "Pin ai preferiti"
 
 msgid "Records are empty"
 msgstr "I record sono vuoti"
@@ -163,10 +161,10 @@ msgid "Try to complete some pomodoros above"
 msgstr "Prova a completare alcuni pomodori sopra"
 
 msgid "You are not signed."
-msgstr ""
+msgstr "Non sei firmato"
 
 msgid "Work history won`t be saved."
-msgstr ""
+msgstr "La storia del lavoro non sarà salvata."
 
 msgid "Preferences"
 msgstr "Preferenze"
@@ -184,40 +182,40 @@ msgid "Tune the timer"
 msgstr "Tune il timer"
 
 msgid "START"
-msgstr ""
+msgstr "INIZIO"
 
 msgid "RESUME"
-msgstr ""
+msgstr "RIMETTERSI"
 
 msgid "PAUSE"
-msgstr ""
+msgstr "PAUSA"
 
 msgid "STOP"
-msgstr ""
+msgstr "STOP"
 
 msgid "SKIP"
-msgstr ""
+msgstr "SALTA"
 
 msgid "Pomodoro is finished. Have a short break."
-msgstr ""
+msgstr "Pomodoro è finito. Avere una breve pausa."
 
 msgid "Pomodoro is finished. Have a long break."
-msgstr ""
+msgstr "Pomodoro è finito. Avere una lunga pausa."
 
 msgid "Break is over. The next pomodoro will go better!"
-msgstr ""
+msgstr "La pausa è finita. Il prossimo pomodoro andrà meglio!"
 
 msgid "POMODORO"
-msgstr ""
+msgstr "POMODORO"
 
 msgid "TAKE A SHORT BREAK"
-msgstr ""
+msgstr "PRENDI UNA BREVE PAUSA"
 
 msgid "TAKE A LONG BREAK"
-msgstr ""
+msgstr "PRENDI UNA LUNGA PAUSA"
 
 msgid "DELAY"
-msgstr ""
+msgstr "RITARDO"
 
 msgid "The Pomodoro is running"
 msgstr ""
@@ -309,7 +307,7 @@ msgstr "Attiva notifiche web"
 
 #, fuzzy
 msgid "Enable Telegram Notifications"
-msgstr "Attiva notifiche web"
+msgstr "Attiva notifiche Telegram"
 
 msgid "Enable Browser Alerts"
 msgstr "Attivare gli avvisi del browser"
