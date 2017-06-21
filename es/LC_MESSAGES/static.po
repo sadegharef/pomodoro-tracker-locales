@@ -66,10 +66,10 @@ msgstr[0] "minuto"
 msgstr[1] "minutos"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
+msgstr "usuarios registrados gastan en completar pomodoros hoy."
 
 msgid "registered users spend on completing pomodoros"
-msgstr "ssuarios registrados gastan en completar pomodoros hoy"
+msgstr "usuarios registrados gastan en completar pomodoros"
 
 msgid "for all time"
 msgstr "para todo el tiempo"
@@ -281,13 +281,13 @@ msgid "Add category"
 msgstr "Añadir categoría"
 
 msgid "Send Daily Reports on"
-msgstr ""
+msgstr "Enviar informes diarios sobre"
 
 msgid "Send reports on email: "
-msgstr ""
+msgstr "Enviar informes por email: "
 
 msgid "Send reports on telegram"
-msgstr ""
+msgstr "Enviar informes por Telegram"
 
 msgid "Volume"
 msgstr "Volumen"
@@ -503,7 +503,7 @@ msgid "This Month"
 msgstr "Este Mes"
 
 msgid "This Quarter"
-msgstr ""
+msgstr "Este cuarto"
 
 msgid "Last Week"
 msgstr "La semana pasada"
@@ -520,9 +520,8 @@ msgstr "Últimos 90 días"
 msgid "Last 180 days"
 msgstr "Últimos 180 días"
 
-#, fuzzy
 msgid "all records"
-msgstr "grabar"
+msgstr "todos los registros"
 
 #~ msgid "Last 30 days"
 #~ msgstr "Últimos 30 días"

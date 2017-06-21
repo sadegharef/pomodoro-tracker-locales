@@ -38,55 +38,55 @@ msgid "Cancel"
 msgstr "Annuler"
 
 msgid "record"
-msgstr ""
+msgstr "record"
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "an"
+msgstr[1] "années"
 
 msgid "month"
 msgid_plural "months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "mois"
+msgstr[1] "mois"
 
 msgid "day"
 msgid_plural "days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "jour"
+msgstr[1] "journées"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "heure"
+msgstr[1] "heures"
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "minute"
+msgstr[1] "minutes"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
+msgstr "les utilisateurs enregistrés passent à compléter les pomodoros aujourd'hui."
 
 msgid "registered users spend on completing pomodoros"
-msgstr ""
+msgstr "les utilisateurs enregistrés passent à compléter les pomodoros"
 
 msgid "for all time"
-msgstr ""
+msgstr "pour toujours"
 
 msgid "New"
 msgstr "Nouveau"
 
 msgid "Done"
-msgstr ""
+msgstr "terminé"
 
 msgid "Like"
 msgstr "Comme"
 
 msgid "like"
 msgid_plural "likes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "comme"
+msgstr[1] "aime"
 
 msgid "Write your ideas here"
 msgstr "Écrivez vos idées ici"
@@ -170,7 +170,7 @@ msgid "Preferences"
 msgstr "Préférences"
 
 msgid "Timer"
-msgstr ""
+msgstr "Minuteur"
 
 msgid "Notifications"
 msgstr ""
