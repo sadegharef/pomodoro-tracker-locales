@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-21 13:30+0300\n"
+"POT-Creation-Date: 2017-06-22 14:30+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -202,6 +202,10 @@ msgstr "Сентябрь"
 msgid "August"
 msgstr "Август"
 
+#, python-format
+msgid "%s here's your Daily report for %s"
+msgstr "%s, твой ежедневный отчет за %s"
+
 msgid "You spent"
 msgstr "Вы потратили"
 
@@ -239,10 +243,7 @@ msgid "There are completed tasks"
 msgstr "Выполненные задачи"
 
 msgid "Please don't send me these awesome daily reports"
-msgstr "Пожалуйста, не присылайте мне эти прекрасные отчеты"
-
-msgid "here's your daily report for"
-msgstr "твой ежедневный отчет за"
+msgstr "Пожалуйста, не присылайте мне эти замечательные отчеты"
 
 #~ msgid "Your language"
 #~ msgstr ""
@@ -270,4 +271,7 @@ msgstr "твой ежедневный отчет за"
 
 #~ msgid "Upcomming features"
 #~ msgstr "В разработке"
+
+#~ msgid "here's your daily report for"
+#~ msgstr "твой ежедневный отчет за"
 

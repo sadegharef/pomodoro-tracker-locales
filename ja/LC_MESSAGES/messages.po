@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-21 13:30+0300\n"
+"POT-Creation-Date: 2017-06-22 14:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -183,6 +183,10 @@ msgstr "9月"
 msgid "August"
 msgstr "8月"
 
+#, fuzzy, python-format
+msgid "%s here's your Daily report for %s"
+msgstr "あなたの毎日のレポートはここにあります"
+
 msgid "You spent"
 msgstr "あなたが過ごした"
 
@@ -219,9 +223,6 @@ msgstr "完了したタスクがあります"
 msgid "Please don't send me these awesome daily reports"
 msgstr "これらのすばらしい日報を私に送らないでください"
 
-msgid "here's your daily report for"
-msgstr "あなたの毎日のレポートはここにあります"
-
 #~ msgid "Admin"
 #~ msgstr "管理"
 
@@ -254,4 +255,7 @@ msgstr "あなたの毎日のレポートはここにあります"
 
 #~ msgid "Upcomming features"
 #~ msgstr "今後の機能"
+
+#~ msgid "here's your daily report for"
+#~ msgstr "あなたの毎日のレポートはここにあります"
 

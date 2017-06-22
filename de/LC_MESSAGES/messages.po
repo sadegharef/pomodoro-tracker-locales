@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-21 13:30+0300\n"
+"POT-Creation-Date: 2017-06-22 14:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -183,6 +183,10 @@ msgstr ""
 msgid "August"
 msgstr ""
 
+#, python-format
+msgid "%s here's your Daily report for %s"
+msgstr ""
+
 msgid "You spent"
 msgstr ""
 
@@ -219,9 +223,6 @@ msgstr ""
 msgid "Please don't send me these awesome daily reports"
 msgstr ""
 
-msgid "here's your daily report for"
-msgstr ""
-
 #~ msgid "Admin"
 #~ msgstr ""
 
@@ -256,5 +257,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Upcomming features"
+#~ msgstr ""
+
+#~ msgid "%s here's your Daily report for"
+#~ msgstr ""
+
+#~ msgid "here's your daily report for"
 #~ msgstr ""
 

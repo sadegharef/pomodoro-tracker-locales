@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-21 13:30+0300\n"
+"POT-Creation-Date: 2017-06-22 14:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -204,24 +204,28 @@ msgstr "Septiembre"
 msgid "August"
 msgstr "Agosto"
 
+#, python-format
+msgid "%s here's your Daily report for %s"
+msgstr "%s aquí es su informe diario para %s"
+
 msgid "You spent"
-msgstr ""
+msgstr "Gastaste"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "hora"
+msgstr[1] "horas"
 
 msgid "and"
-msgstr ""
+msgstr "y"
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "minuto"
+msgstr[1] "minutos"
 
 msgid "on"
-msgstr ""
+msgstr "en"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
@@ -229,19 +233,16 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "Of those"
-msgstr ""
+msgstr "De aquellos"
 
 msgid "were"
-msgstr ""
+msgstr "fueron"
 
 msgid "There are completed tasks"
-msgstr ""
+msgstr "Hay tareas completadas"
 
 msgid "Please don't send me these awesome daily reports"
-msgstr ""
-
-msgid "here's your daily report for"
-msgstr ""
+msgstr "Por favor, no me envíe estos impresionantes informes diarios"
 
 #~ msgid "English"
 #~ msgstr "Inglés"
@@ -266,4 +267,10 @@ msgstr ""
 
 #~ msgid "Upcomming features"
 #~ msgstr "Próximas mejoras"
+
+#~ msgid "%s here's your Daily report for"
+#~ msgstr ""
+
+#~ msgid "here's your daily report for"
+#~ msgstr ""
 
