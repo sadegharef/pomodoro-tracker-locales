@@ -204,7 +204,7 @@ msgstr "Август"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr "%s, твой ежедневный отчет за %s"
+msgstr "%s, ваш ежедневный отчет за %s"
 
 msgid "You spent"
 msgstr "Вы потратили"
@@ -271,7 +271,3 @@ msgstr "Пожалуйста, не присылайте мне эти замеч
 
 #~ msgid "Upcomming features"
 #~ msgstr "В разработке"
-
-#~ msgid "here's your daily report for"
-#~ msgstr "твой ежедневный отчет за"
-
