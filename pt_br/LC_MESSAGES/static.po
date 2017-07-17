@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-22 14:30+0300\n"
+"POT-Creation-Date: 2017-07-17 11:27+0300\n"
 "PO-Revision-Date: 2017-02-06 20:20-0200\n"
 "Last-Translator: LUCAS ERNESTO KINDINGER <kindingerlek@hotmail.com>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.4.0\n"
 
 msgid "Great work! TODO list is empty."
 msgstr "A lista está vazia"
@@ -73,6 +73,15 @@ msgstr ""
 
 msgid "for all time"
 msgstr ""
+
+msgid "Sort by"
+msgstr "Ordenar por"
+
+msgid "rating"
+msgstr "avaliação"
+
+msgid "created"
+msgstr "criada"
 
 msgid "New"
 msgstr "Novo"
@@ -587,4 +596,7 @@ msgstr ""
 
 #~ msgid "Double click/tap to edit items."
 #~ msgstr "Clique duplo para editar os itens."
+
+#~ msgid "Sort by:"
+#~ msgstr ""
 

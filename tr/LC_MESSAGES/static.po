@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-22 14:30+0300\n"
+"POT-Creation-Date: 2017-07-17 11:27+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.4.0\n"
 
 msgid "Great work! TODO list is empty."
 msgstr "Harika iş! TODO listesi boş."
@@ -68,6 +68,16 @@ msgstr "kayıtlı kullanıcılar pomodoros tamamlamaya harcıyor"
 
 msgid "for all time"
 msgstr "tüm zamanlar için"
+
+msgid "Sort by"
+msgstr ""
+
+msgid "rating"
+msgstr ""
+
+#, fuzzy
+msgid "created"
+msgstr "Oluştur"
 
 msgid "New"
 msgstr "Yeni"
@@ -582,4 +592,7 @@ msgstr "rekor"
 
 #~ msgid "Double click/tap to edit items."
 #~ msgstr "Öğeleri düzenlemek için çift tıklayın/dokunun."
+
+#~ msgid "Sort by:"
+#~ msgstr ""
 

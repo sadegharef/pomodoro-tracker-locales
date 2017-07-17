@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-22 14:30+0300\n"
+"POT-Creation-Date: 2017-07-17 11:27+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.4.0\n"
 
 msgid "Feedback"
 msgstr "Geri Bildirim"
@@ -173,36 +173,6 @@ msgstr ""
 "Pomodoro tekniği boş vakitlerinizde yaptığınız aktivitelerinizde "
 "kullanılmamalıdır. Boş zamanlarınızın tadını çıkarın!"
 
-msgid "June"
-msgstr "Haziran"
-
-msgid "April"
-msgstr "Nisan"
-
-msgid "February"
-msgstr "Şubat ayı"
-
-msgid "October"
-msgstr "Ekim"
-
-msgid "May"
-msgstr "Mayıs"
-
-msgid "March"
-msgstr "Mart"
-
-msgid "Febrary"
-msgstr "Şubat"
-
-msgid "December"
-msgstr "Aralık"
-
-msgid "September"
-msgstr "Eylül"
-
-msgid "August"
-msgstr "Ağustos"
-
 #, python-format
 msgid "%s here's your Daily report for %s"
 msgstr ""
@@ -281,4 +251,34 @@ msgstr ""
 
 #~ msgid "here's your daily report for"
 #~ msgstr ""
+
+#~ msgid "June"
+#~ msgstr "Haziran"
+
+#~ msgid "April"
+#~ msgstr "Nisan"
+
+#~ msgid "February"
+#~ msgstr "Şubat ayı"
+
+#~ msgid "October"
+#~ msgstr "Ekim"
+
+#~ msgid "May"
+#~ msgstr "Mayıs"
+
+#~ msgid "March"
+#~ msgstr "Mart"
+
+#~ msgid "Febrary"
+#~ msgstr "Şubat"
+
+#~ msgid "December"
+#~ msgstr "Aralık"
+
+#~ msgid "September"
+#~ msgstr "Eylül"
+
+#~ msgid "August"
+#~ msgstr "Ağustos"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-22 14:30+0300\n"
+"POT-Creation-Date: 2017-07-17 11:27+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.4.0\n"
 
 msgid "Great work! TODO list is empty."
 msgstr "La lista è vuota"
@@ -73,6 +73,16 @@ msgstr "gli utenti registrati spendono sul completamento dei pomodori"
 
 msgid "for all time"
 msgstr "per tutto il tempo"
+
+msgid "Sort by"
+msgstr ""
+
+msgid "rating"
+msgstr ""
+
+#, fuzzy
+msgid "created"
+msgstr "Crea"
 
 msgid "New"
 msgstr "Nuovo"
@@ -599,5 +609,8 @@ msgstr ""
 #~ msgstr "Doppio click/tap per modificare gli elementi"
 
 #~ msgid "Pomodoro is finished. Have a break."
+#~ msgstr ""
+
+#~ msgid "Sort by:"
 #~ msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-22 14:30+0300\n"
+"POT-Creation-Date: 2017-07-17 11:27+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: fr\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.4.0\n"
 
 msgid "Feedback"
 msgstr "Réaction"
@@ -175,36 +175,6 @@ msgstr ""
 "auquelles vous consacrez votre temps libre. Profitez de votre temps "
 "libre!"
 
-msgid "June"
-msgstr "Juin"
-
-msgid "April"
-msgstr "Avril"
-
-msgid "February"
-msgstr "Février"
-
-msgid "October"
-msgstr "Octobre"
-
-msgid "May"
-msgstr "Mai"
-
-msgid "March"
-msgstr "Mars"
-
-msgid "Febrary"
-msgstr "Février"
-
-msgid "December"
-msgstr "Décembre"
-
-msgid "September"
-msgstr "Septembre"
-
-msgid "August"
-msgstr "Août"
-
 #, python-format
 msgid "%s here's your Daily report for %s"
 msgstr ""
@@ -280,4 +250,34 @@ msgstr ""
 
 #~ msgid "here's your daily report for"
 #~ msgstr ""
+
+#~ msgid "June"
+#~ msgstr "Juin"
+
+#~ msgid "April"
+#~ msgstr "Avril"
+
+#~ msgid "February"
+#~ msgstr "Février"
+
+#~ msgid "October"
+#~ msgstr "Octobre"
+
+#~ msgid "May"
+#~ msgstr "Mai"
+
+#~ msgid "March"
+#~ msgstr "Mars"
+
+#~ msgid "Febrary"
+#~ msgstr "Février"
+
+#~ msgid "December"
+#~ msgstr "Décembre"
+
+#~ msgid "September"
+#~ msgstr "Septembre"
+
+#~ msgid "August"
+#~ msgstr "Août"
 

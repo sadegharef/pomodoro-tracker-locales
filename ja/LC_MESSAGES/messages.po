@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-22 14:30+0300\n"
+"POT-Creation-Date: 2017-07-17 11:27+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.4.0\n"
 
 msgid "Feedback"
 msgstr "フィードバック"
@@ -153,36 +153,6 @@ msgid ""
 "free time. Enjoy free time!"
 msgstr "ポモドーロテクニックは余暇の活動には使用しないでください。自由な時間を楽しみましょう！"
 
-msgid "June"
-msgstr "6月"
-
-msgid "April"
-msgstr "4月"
-
-msgid "February"
-msgstr "2月"
-
-msgid "October"
-msgstr "10月"
-
-msgid "May"
-msgstr "5月"
-
-msgid "March"
-msgstr "3月"
-
-msgid "Febrary"
-msgstr "2月"
-
-msgid "December"
-msgstr "12月"
-
-msgid "September"
-msgstr "9月"
-
-msgid "August"
-msgstr "8月"
-
 #, fuzzy, python-format
 msgid "%s here's your Daily report for %s"
 msgstr "あなたの毎日のレポートはここにあります"
@@ -258,4 +228,34 @@ msgstr "これらのすばらしい日報を私に送らないでください"
 
 #~ msgid "here's your daily report for"
 #~ msgstr "あなたの毎日のレポートはここにあります"
+
+#~ msgid "June"
+#~ msgstr "6月"
+
+#~ msgid "April"
+#~ msgstr "4月"
+
+#~ msgid "February"
+#~ msgstr "2月"
+
+#~ msgid "October"
+#~ msgstr "10月"
+
+#~ msgid "May"
+#~ msgstr "5月"
+
+#~ msgid "March"
+#~ msgstr "3月"
+
+#~ msgid "Febrary"
+#~ msgstr "2月"
+
+#~ msgid "December"
+#~ msgstr "12月"
+
+#~ msgid "September"
+#~ msgstr "9月"
+
+#~ msgid "August"
+#~ msgstr "8月"
 

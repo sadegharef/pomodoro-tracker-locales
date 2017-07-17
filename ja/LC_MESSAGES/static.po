@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-22 14:30+0300\n"
+"POT-Creation-Date: 2017-07-17 11:27+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.4.0\n"
 
 msgid "Great work! TODO list is empty."
 msgstr "リストは空です。"
@@ -73,6 +73,16 @@ msgstr "登録ユーザーはポモドーロを完了するのに費やす"
 
 msgid "for all time"
 msgstr "いつでも"
+
+msgid "Sort by"
+msgstr ""
+
+msgid "rating"
+msgstr ""
+
+#, fuzzy
+msgid "created"
+msgstr "作成"
 
 msgid "New"
 msgstr "新着"
@@ -598,4 +608,7 @@ msgstr "記録"
 
 #~ msgid "Double click/tap to edit items."
 #~ msgstr "アイテムを編集するには、ダブルクリックまたはタップしてください。"
+
+#~ msgid "Sort by:"
+#~ msgstr ""
 

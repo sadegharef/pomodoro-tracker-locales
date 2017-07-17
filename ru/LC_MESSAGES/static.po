@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-22 14:30+0300\n"
+"POT-Creation-Date: 2017-07-17 11:27+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.4.0\n"
 
 msgid "Great work! TODO list is empty."
 msgstr "Отличная работа! Список задач пуст."
@@ -79,6 +79,15 @@ msgstr "пользователи сервиса потратили на зада
 
 msgid "for all time"
 msgstr "за все время"
+
+msgid "Sort by"
+msgstr "Сортировать по"
+
+msgid "rating"
+msgstr "рейтинг"
+
+msgid "created"
+msgstr "создан"
 
 msgid "New"
 msgstr "Новое"
