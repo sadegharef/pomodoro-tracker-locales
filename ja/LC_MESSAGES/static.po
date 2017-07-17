@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-17 11:27+0300\n"
+"POT-Creation-Date: 2017-07-17 17:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -306,6 +306,11 @@ msgid "Play alarm sound"
 msgstr "アラームを再生する"
 
 msgid "Play ticking sound"
+msgstr "チクタク音を再生する"
+
+#, fuzzy
+#| msgid "Play ticking sound"
+msgid "Play ticking sound while breaks"
 msgstr "チクタク音を再生する"
 
 msgid "Enable Web Notifications"

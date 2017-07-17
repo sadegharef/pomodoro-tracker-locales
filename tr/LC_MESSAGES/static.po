@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-17 11:27+0300\n"
+"POT-Creation-Date: 2017-07-17 17:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -302,6 +302,11 @@ msgid "Play alarm sound"
 msgstr "Alarm sesi çal"
 
 msgid "Play ticking sound"
+msgstr "Tıkırtı sesi çal"
+
+#, fuzzy
+#| msgid "Play ticking sound"
+msgid "Play ticking sound while breaks"
 msgstr "Tıkırtı sesi çal"
 
 msgid "Enable Web Notifications"

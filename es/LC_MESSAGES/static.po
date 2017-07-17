@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-17 11:27+0300\n"
+"POT-Creation-Date: 2017-07-17 17:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -75,14 +75,13 @@ msgid "for all time"
 msgstr "para todo el tiempo"
 
 msgid "Sort by"
-msgstr ""
+msgstr "Ordenar por"
 
 msgid "rating"
-msgstr ""
+msgstr "valuación"
 
-#, fuzzy
 msgid "created"
-msgstr "Crear"
+msgstr "fecha"
 
 msgid "New"
 msgstr "Nuevo"
@@ -153,7 +152,7 @@ msgid "Try to mark TODO as activity or use the form above"
 msgstr "Intenta marcar TODO como actividad o usa el formulario de arriba"
 
 msgid "TODO list was updated."
-msgstr ""
+msgstr "Se actualizó la lista TODO"
 
 msgid "DONE"
 msgstr "HECHO"
@@ -306,6 +305,11 @@ msgid "Play alarm sound"
 msgstr "Sonar alarma"
 
 msgid "Play ticking sound"
+msgstr "Escuchar ticks de reloj"
+
+#, fuzzy
+#| msgid "Play ticking sound"
+msgid "Play ticking sound while breaks"
 msgstr "Escuchar ticks de reloj"
 
 msgid "Enable Web Notifications"
