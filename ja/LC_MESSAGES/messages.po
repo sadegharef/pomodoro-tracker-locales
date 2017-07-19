@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-17 17:53+0300\n"
+"POT-Creation-Date: 2017-07-19 11:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -51,6 +51,9 @@ msgstr "バージョン"
 
 msgid "Privacy Policy"
 msgstr "個人情報保護方針"
+
+msgid "Support the Project"
+msgstr ""
 
 msgid "What is it?"
 msgstr "Pomodoro Trackerとは"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-17 17:52+0300\n"
+"POT-Creation-Date: 2017-07-19 11:48+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -52,6 +52,9 @@ msgstr "Версия"
 
 msgid "Privacy Policy"
 msgstr "Политика конфиденциальности"
+
+msgid "Support the Project"
+msgstr "Поддержать проект"
 
 msgid "What is it?"
 msgstr "Что это?"

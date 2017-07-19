@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-17 17:53+0300\n"
+"POT-Creation-Date: 2017-07-19 11:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -51,6 +51,9 @@ msgstr "sürüm"
 
 msgid "Privacy Policy"
 msgstr "Gizlilik Politikası"
+
+msgid "Support the Project"
+msgstr "Projeye destek"
 
 msgid "What is it?"
 msgstr "Bu nedir?"
