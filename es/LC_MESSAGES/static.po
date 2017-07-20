@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-19 11:48+0300\n"
+"POT-Creation-Date: 2017-07-20 21:44+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -427,6 +427,9 @@ msgstr "Actividad por semanas"
 msgid "Activity by months"
 msgstr "Actividad por meses"
 
+msgid "average"
+msgstr "promedio"
+
 msgid "median"
 msgstr "mediana"
 
@@ -439,7 +442,9 @@ msgstr "Tiempo empleado"
 msgid "Work days"
 msgstr "Días de trabajo"
 
-msgid "Average per day"
+#, fuzzy
+#| msgid "Average per day"
+msgid "Median per day"
 msgstr "Media por día"
 
 msgid "Time"
