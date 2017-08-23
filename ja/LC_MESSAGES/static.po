@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-20 21:44+0300\n"
+"POT-Creation-Date: 2017-08-23 15:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -75,14 +75,13 @@ msgid "for all time"
 msgstr "いつでも"
 
 msgid "Sort by"
-msgstr ""
+msgstr "並び替え"
 
 msgid "rating"
-msgstr ""
+msgstr "評価"
 
-#, fuzzy
 msgid "created"
-msgstr "作成"
+msgstr "作成した"
 
 msgid "New"
 msgstr "新着"
@@ -191,6 +190,9 @@ msgstr "閉じる"
 msgid "Tune the timer"
 msgstr "タイマーを調整する"
 
+msgid "Toggle fullscreen"
+msgstr "フルスクリーン切り替え"
+
 msgid "START"
 msgstr "開始"
 
@@ -281,8 +283,11 @@ msgstr "時間の表示形式"
 msgid "Time zone"
 msgstr "タイムゾーン"
 
-msgid "Clear daily history after midnight"
-msgstr "履歴を毎日クリアする"
+msgid "Daily history"
+msgstr "毎日の歴史"
+
+msgid "Clear daily history"
+msgstr "明日の歴史"
 
 msgid "Categories"
 msgstr "カテゴリー"
@@ -290,8 +295,8 @@ msgstr "カテゴリー"
 msgid "Add category"
 msgstr "カテゴリの追加"
 
-msgid "Send Daily Reports on"
-msgstr "毎日のレポートを送信する"
+msgid "Send Daily Reports"
+msgstr "日報を送る"
 
 msgid "Send reports on email: "
 msgstr "電子メールでレポートを送信する"

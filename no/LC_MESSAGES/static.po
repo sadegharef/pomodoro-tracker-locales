@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-20 21:44+0300\n"
+"POT-Creation-Date: 2017-08-23 15:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nb_NO\n"
@@ -190,6 +190,9 @@ msgstr ""
 msgid "Tune the timer"
 msgstr ""
 
+msgid "Toggle fullscreen"
+msgstr ""
+
 msgid "START"
 msgstr ""
 
@@ -280,7 +283,10 @@ msgstr ""
 msgid "Time zone"
 msgstr ""
 
-msgid "Clear daily history after midnight"
+msgid "Daily history"
+msgstr ""
+
+msgid "Clear daily history"
 msgstr ""
 
 msgid "Categories"
@@ -289,7 +295,7 @@ msgstr ""
 msgid "Add category"
 msgstr ""
 
-msgid "Send Daily Reports on"
+msgid "Send Daily Reports"
 msgstr ""
 
 msgid "Send reports on email: "
@@ -604,5 +610,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Average per day"
+#~ msgstr ""
+
+#~ msgid "Clear daily history after midnight"
+#~ msgstr ""
+
+#~ msgid "Send Daily Reports on"
 #~ msgstr ""
 

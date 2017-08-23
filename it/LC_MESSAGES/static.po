@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-20 21:44+0300\n"
+"POT-Creation-Date: 2017-08-23 15:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -75,14 +75,13 @@ msgid "for all time"
 msgstr "per tutto il tempo"
 
 msgid "Sort by"
-msgstr ""
+msgstr "Ordina per"
 
 msgid "rating"
-msgstr ""
+msgstr "valutazione"
 
-#, fuzzy
 msgid "created"
-msgstr "Crea"
+msgstr "creato"
 
 msgid "New"
 msgstr "Nuovo"
@@ -191,6 +190,9 @@ msgstr "Vicino"
 msgid "Tune the timer"
 msgstr "Tune il timer"
 
+msgid "Toggle fullscreen"
+msgstr "Passare a schermo intero"
+
 msgid "START"
 msgstr "INIZIO"
 
@@ -285,7 +287,12 @@ msgstr "Formato Orario"
 msgid "Time zone"
 msgstr "tempo"
 
-msgid "Clear daily history after midnight"
+msgid "Daily history"
+msgstr ""
+
+#, fuzzy
+#| msgid "Clear daily history after midnight"
+msgid "Clear daily history"
 msgstr "Storia quotidiana chiaro dopo la mezzanotte"
 
 msgid "Categories"
@@ -294,7 +301,7 @@ msgstr "Categorie"
 msgid "Add category"
 msgstr "Aggiungere categoria"
 
-msgid "Send Daily Reports on"
+msgid "Send Daily Reports"
 msgstr ""
 
 msgid "Send reports on email: "
@@ -618,5 +625,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Sort by:"
+#~ msgstr ""
+
+#~ msgid "Send Daily Reports on"
 #~ msgstr ""
 

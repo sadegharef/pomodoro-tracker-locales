@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-20 21:44+0300\n"
+"POT-Creation-Date: 2017-08-23 15:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -70,20 +70,19 @@ msgid "for all time"
 msgstr "tüm zamanlar için"
 
 msgid "Sort by"
-msgstr ""
+msgstr "Göre sırala"
 
 msgid "rating"
-msgstr ""
+msgstr "değerlendirme"
 
-#, fuzzy
 msgid "created"
-msgstr "Oluştur"
+msgstr "oluşturulan"
 
 msgid "New"
 msgstr "Yeni"
 
 msgid "Done"
-msgstr ""
+msgstr "Tamam"
 
 msgid "Like"
 msgstr "Beğen"
@@ -147,7 +146,7 @@ msgid "Try to mark TODO as activity or use the form above"
 msgstr "Görevi aktivite olarak işaretleyin veya yukarıdaki formu kullanın"
 
 msgid "TODO list was updated."
-msgstr ""
+msgstr "TODO listesi güncellendi"
 
 msgid "DONE"
 msgstr "TAMAMLANDI"
@@ -184,6 +183,9 @@ msgstr "Kapat"
 
 msgid "Tune the timer"
 msgstr "Zamanlayıcıyı ayarla"
+
+msgid "Toggle fullscreen"
+msgstr "Tam ekrana geç"
 
 msgid "START"
 msgstr "BAŞLAT"
@@ -277,7 +279,12 @@ msgstr "Saat biçimi"
 msgid "Time zone"
 msgstr "Saat dilimi"
 
-msgid "Clear daily history after midnight"
+msgid "Daily history"
+msgstr ""
+
+#, fuzzy
+#| msgid "Clear daily history after midnight"
+msgid "Clear daily history"
 msgstr "Gece yarısından sonra günlük geçmişi temizle"
 
 msgid "Categories"
@@ -286,7 +293,7 @@ msgstr "Kategoriler"
 msgid "Add category"
 msgstr "Kategori ekle"
 
-msgid "Send Daily Reports on"
+msgid "Send Daily Reports"
 msgstr ""
 
 msgid "Send reports on email: "
@@ -601,5 +608,8 @@ msgstr "rekor"
 #~ msgstr "Öğeleri düzenlemek için çift tıklayın/dokunun."
 
 #~ msgid "Sort by:"
+#~ msgstr ""
+
+#~ msgid "Send Daily Reports on"
 #~ msgstr ""
 

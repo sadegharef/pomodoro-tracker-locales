@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-20 21:44+0300\n"
+"POT-Creation-Date: 2017-08-23 15:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -197,6 +197,9 @@ msgstr "Закрыть"
 msgid "Tune the timer"
 msgstr "Настройки"
 
+msgid "Toggle fullscreen"
+msgstr "Переключить полный экран"
+
 msgid "START"
 msgstr "СТАРТ"
 
@@ -287,8 +290,11 @@ msgstr "Формат времени"
 msgid "Time zone"
 msgstr "Часовой пояс"
 
-msgid "Clear daily history after midnight"
-msgstr "Очищать историю задач после полуночи"
+msgid "Daily history"
+msgstr "История задач"
+
+msgid "Clear daily history"
+msgstr "Очищать историю задач"
 
 msgid "Categories"
 msgstr "Категории"
@@ -296,8 +302,8 @@ msgstr "Категории"
 msgid "Add category"
 msgstr "Добавить категорию"
 
-msgid "Send Daily Reports on"
-msgstr "Отправлять отчеты в"
+msgid "Send Daily Reports"
+msgstr "Отправка отчетов"
 
 msgid "Send reports on email: "
 msgstr "Отправлять отчеты на email: "

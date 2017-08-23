@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-20 21:44+0300\n"
+"POT-Creation-Date: 2017-08-23 15:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -190,6 +190,9 @@ msgstr "Cerrar"
 msgid "Tune the timer"
 msgstr "Ajustar el cronómetro"
 
+msgid "Toggle fullscreen"
+msgstr "Alternar pantalla completa"
+
 msgid "START"
 msgstr "INICIO"
 
@@ -280,8 +283,11 @@ msgstr "Formato de Hora"
 msgid "Time zone"
 msgstr "el huso horario"
 
-msgid "Clear daily history after midnight"
-msgstr "Borrar diariamente el histórico después de medianoche"
+msgid "Daily history"
+msgstr "Historia diaria"
+
+msgid "Clear daily history"
+msgstr "Borrar historial diario"
 
 msgid "Categories"
 msgstr "Categorías"
@@ -289,8 +295,8 @@ msgstr "Categorías"
 msgid "Add category"
 msgstr "Añadir categoría"
 
-msgid "Send Daily Reports on"
-msgstr "Enviar informes diarios sobre"
+msgid "Send Daily Reports"
+msgstr "Enviar informes diarios"
 
 msgid "Send reports on email: "
 msgstr "Enviar informes por email: "
@@ -443,7 +449,6 @@ msgid "Work days"
 msgstr "Días de trabajo"
 
 #, fuzzy
-#| msgid "Average per day"
 msgid "Median per day"
 msgstr "Media por día"
 
