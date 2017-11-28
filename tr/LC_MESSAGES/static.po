@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-08-23 15:52+0300\n"
+"POT-Creation-Date: 2017-11-28 16:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -17,16 +17,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-
-msgid "Great work! TODO list is empty."
-msgstr "Harika iş! TODO listesi boş."
+"Generated-By: Babel 2.5.1\n"
 
 msgid "LOADING"
 msgstr "YÜKLENIYOR"
-
-msgid "Joined at"
-msgstr "Katıldığı tarih:"
 
 msgid "Are you sure want to delete"
 msgstr "Silmek istediğine emin misin"
@@ -40,34 +34,184 @@ msgstr "İptal"
 msgid "record"
 msgstr "rekor"
 
-msgid "year"
-msgid_plural "years"
-msgstr[0] "yil"
+msgid "Application"
+msgstr "Uygulama"
 
-msgid "month"
-msgid_plural "months"
-msgstr[0] "ay"
+msgid "Timer"
+msgstr "Zamanlayıcı"
 
-msgid "day"
-msgid_plural "days"
-msgstr[0] "gün"
+msgid "Notifications"
+msgstr "Bildirimler"
 
-msgid "hour"
-msgid_plural "hours"
-msgstr[0] "saat"
+msgid "Integrations"
+msgstr "Entegrasyonlar"
 
-msgid "minute"
-msgid_plural "minutes"
-msgstr[0] "dakika"
+msgid "Connect"
+msgstr "Bağlayın"
 
-msgid "registered users spend on completing pomodoros today."
-msgstr "kayıtlı kullanıcılar bugün pomodoros'u tamamlamak için harcıyorlar"
+msgid "Disconnect"
+msgstr "Bağlantısını kesin"
 
-msgid "registered users spend on completing pomodoros"
-msgstr "kayıtlı kullanıcılar pomodoros tamamlamaya harcıyor"
+msgid "Integration with Google"
+msgstr ""
 
-msgid "for all time"
-msgstr "tüm zamanlar için"
+msgid "Login to the service using Google authentication."
+msgstr ""
+
+msgid "Integration with Facebook"
+msgstr ""
+
+msgid "Login to the service using Facebook authentication."
+msgstr ""
+
+msgid "Integration with Github"
+msgstr ""
+
+msgid "Login to the service using Github authentication."
+msgstr ""
+
+msgid "Enable Telegram Bot"
+msgstr ""
+
+msgid "Get notifications, check history"
+msgstr ""
+
+msgid "Connect Telegram Bot"
+msgstr ""
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr ""
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Register"
+msgstr "Kayıt ol"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "light"
+msgstr "işık"
+
+msgid "dark"
+msgstr "karanlık"
+
+msgid "auto"
+msgstr "oto"
+
+msgid "Date format"
+msgstr "Tarih biçimi"
+
+msgid "Time format"
+msgstr "Saat biçimi"
+
+msgid "Time zone"
+msgstr "Saat dilimi"
+
+msgid "Daily history"
+msgstr "Günlük geçmişi"
+
+msgid "Clear DONE history once per day"
+msgstr "DONE geçmişi günde bir kez temizle"
+
+msgid "Categories"
+msgstr "Kategoriler"
+
+msgid "Create a category"
+msgstr "Kategori yarat"
+
+msgid "Add category"
+msgstr "Kategori ekle"
+
+msgid "Send Daily Reports"
+msgstr "Günlük Raporları Gönder"
+
+msgid "Send reports on email: "
+msgstr "E-postayla ilgili rapor gönder:"
+
+msgid "Send reports on telegram"
+msgstr "Telgrafta rapor gönderme"
+
+msgid "Volume"
+msgstr "Ses"
+
+msgid "Play alarm sound"
+msgstr "Alarm sesi çal"
+
+msgid "Play ticking sound"
+msgstr "Tıkırtı sesi çal"
+
+msgid "Play ticking sound while breaks"
+msgstr "Mola esnasında tiz ses çalın"
+
+msgid "Enable Web Notifications"
+msgstr "Web Bildirimlerini Etkinleştir"
+
+msgid "test"
+msgstr ""
+
+msgid "Enable Telegram Notifications"
+msgstr "Telgraf Bildirimlerini Etkinleştir"
+
+msgid "Enable Browser Alerts"
+msgstr "Tarayıcı Uyarılarını Etkinleştir"
+
+msgid "Raise browser alert when pomodoro/break is over"
+msgstr "Pomodoro/Mola bittiğinde tarayıcıdan uyarı ver"
+
+msgid "Hide notificaions"
+msgstr "Bildirimleri gizle"
+
+msgid "in 2 seconds"
+msgstr "2 saniye içerisinde"
+
+msgid "in 3 seconds"
+msgstr "3 saniye içerisinde"
+
+msgid "in 5 seconds"
+msgstr "5 saniye içerisinde"
+
+msgid "in 10 seconds"
+msgstr "10 saniye içerisinde"
+
+msgid "Pomodoro duration:"
+msgstr "Pomodoro süresi:"
+
+msgid "in seconds"
+msgstr "saniyeler içinde"
+
+msgid "in minutes"
+msgstr "dakika"
+
+msgid "Short break duration:"
+msgstr "Kısa mola süresi:"
+
+msgid "Long break duration:"
+msgstr "Uzun mola süresi:"
+
+msgid "Long break delay:"
+msgstr "Uzun mola gecikmesi:"
+
+msgid "in pomodoros"
+msgstr "pomodoro"
+
+msgid "Auto start pomodoros"
+msgstr "Pomodoroları otomatik başlat"
+
+msgid "Don`t start next pomodoro if TODO is empty"
+msgstr "TODO boşsa, bir sonraki pomodoroya başlamayın"
+
+msgid "Auto start breaks"
+msgstr "Molaları otomatik başlat"
 
 msgid "Sort by"
 msgstr "Göre sırala"
@@ -105,6 +249,9 @@ msgstr "Oluştur"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Geri bildirim için teşekkürler! Mesajınız yönetici onayını bekliyor."
+
+msgid "TODO list was updated."
+msgstr "TODO listesi güncellendi"
 
 msgid "Activities"
 msgstr "Aktiviteler"
@@ -145,8 +292,8 @@ msgstr "Liste boş"
 msgid "Try to mark TODO as activity or use the form above"
 msgstr "Görevi aktivite olarak işaretleyin veya yukarıdaki formu kullanın"
 
-msgid "TODO list was updated."
-msgstr "TODO listesi güncellendi"
+msgid "Preferences"
+msgstr "Tercihler"
 
 msgid "DONE"
 msgstr "TAMAMLANDI"
@@ -163,23 +310,14 @@ msgstr "Kayıtlar boş"
 msgid "Try to complete some pomodoros above"
 msgstr "Yukarıdaki pomodorolardan bazılarını tamamlamayı deneyin"
 
+msgid "Clear the history"
+msgstr "Geçmişi temizle"
+
 msgid "You are not signed."
 msgstr "Sen imzalanmadın"
 
 msgid "Work history won`t be saved."
 msgstr "İş geçmişi kurtarılamaz."
-
-msgid "Preferences"
-msgstr "Tercihler"
-
-msgid "Timer"
-msgstr "Zamanlayıcı"
-
-msgid "Notifications"
-msgstr "Bildirimler"
-
-msgid "Close"
-msgstr "Kapat"
 
 msgid "Tune the timer"
 msgstr "Zamanlayıcıyı ayarla"
@@ -202,14 +340,14 @@ msgstr "DURDUR"
 msgid "SKIP"
 msgstr "GEÇ"
 
+msgid "Break is over. The next pomodoro will go better!"
+msgstr "Mola bitti. Sıradaki pomodoro daha iyi geçecek!"
+
 msgid "Pomodoro is finished. Have a short break."
 msgstr "Pomodoro tamamlandı. Mola alın."
 
 msgid "Pomodoro is finished. Have a long break."
 msgstr "Pomodoro tamamlandı. Mola alın."
-
-msgid "Break is over. The next pomodoro will go better!"
-msgstr "Mola bitti. Sıradaki pomodoro daha iyi geçecek!"
 
 msgid "POMODORO"
 msgstr "POMODORO"
@@ -226,6 +364,9 @@ msgstr "GECIKME"
 msgid "The Pomodoro is running"
 msgstr "Pomodoro devam ediyor"
 
+msgid "Great work! TODO list is empty."
+msgstr "Harika iş! TODO listesi boş."
+
 msgid "TODO"
 msgstr "Yapılacaklar"
 
@@ -234,6 +375,9 @@ msgstr "Yapılacaklara ekle"
 
 msgid "Favorites"
 msgstr "Favoriler"
+
+msgid "Copy"
+msgstr "Kopya"
 
 msgid "Mark as done"
 msgstr "Tamamlandı olarak işaretle"
@@ -244,6 +388,9 @@ msgstr "Sıralamak için Sürükle/Taşı"
 msgid "TODO list is empty"
 msgstr "Yapılacaklar listesi boş"
 
+msgid "Congratulations! You have finished all your tasks."
+msgstr "Tebrikler! Tüm görevlerinizi bitirdiniz."
+
 msgid "Try to add some tasks use the form above"
 msgstr "Yukarıdaki formu kullanmak için birkaç görev ekleyin"
 
@@ -251,203 +398,6 @@ msgid "Drag&Drop/Touch to sort items."
 msgstr ""
 "Öğeleri düzenlemek için çift tıklayın/dokunun. Sıralamak için "
 "Sürükle/Taşı."
-
-msgid "Application"
-msgstr "Uygulama"
-
-msgid "Integrations"
-msgstr "Entegrasyonlar"
-
-msgid "Theme"
-msgstr "Tema"
-
-msgid "light"
-msgstr "Işık"
-
-msgid "dark"
-msgstr "karanlık"
-
-msgid "auto"
-msgstr "oto"
-
-msgid "Date format"
-msgstr "Tarih biçimi"
-
-msgid "Time format"
-msgstr "Saat biçimi"
-
-msgid "Time zone"
-msgstr "Saat dilimi"
-
-msgid "Daily history"
-msgstr ""
-
-#, fuzzy
-#| msgid "Clear daily history after midnight"
-msgid "Clear daily history"
-msgstr "Gece yarısından sonra günlük geçmişi temizle"
-
-msgid "Categories"
-msgstr "Kategoriler"
-
-msgid "Add category"
-msgstr "Kategori ekle"
-
-msgid "Send Daily Reports"
-msgstr ""
-
-msgid "Send reports on email: "
-msgstr ""
-
-msgid "Send reports on telegram"
-msgstr ""
-
-msgid "Volume"
-msgstr "Ses"
-
-msgid "Play alarm sound"
-msgstr "Alarm sesi çal"
-
-msgid "Play ticking sound"
-msgstr "Tıkırtı sesi çal"
-
-#, fuzzy
-msgid "Play ticking sound while breaks"
-msgstr "Tıkırtı sesi çal"
-
-msgid "Enable Web Notifications"
-msgstr "Web Bildirimlerini Etkinleştir"
-
-msgid "Enable Telegram Notifications"
-msgstr "Telgraf Bildirimlerini Etkinleştir"
-
-msgid "Enable Browser Alerts"
-msgstr "Tarayıcı Uyarılarını Etkinleştir"
-
-msgid "Raise browser alert when pomodoro/break is over"
-msgstr "Pomodoro/Mola bittiğinde tarayıcıdan uyarı ver"
-
-msgid "Hide notificaions"
-msgstr "Bildirimleri gizle"
-
-msgid "in 2 seconds"
-msgstr "2 saniye içerisinde"
-
-msgid "in 3 seconds"
-msgstr "3 saniye içerisinde"
-
-msgid "in 5 seconds"
-msgstr "5 saniye içerisinde"
-
-msgid "in 10 seconds"
-msgstr "10 saniye içerisinde"
-
-msgid "Pomodoro duration:"
-msgstr "Pomodoro süresi:"
-
-msgid "in minutes"
-msgstr "dakika"
-
-msgid "Short break duration:"
-msgstr "Kısa mola süresi:"
-
-msgid "Long break duration:"
-msgstr "Uzun mola süresi:"
-
-msgid "Long break delay:"
-msgstr "Uzun mola gecikmesi:"
-
-msgid "in pomodoros"
-msgstr "pomodoro"
-
-msgid "Auto start pomodoros"
-msgstr "Pomodoroları otomatik başlat"
-
-msgid "Don`t start next pomodoro if TODO is empty"
-msgstr "TODO boşsa, bir sonraki pomodoroya başlamayın"
-
-msgid "Auto start breaks"
-msgstr "Molaları otomatik başlat"
-
-msgid "Connect"
-msgstr "Bağlayın"
-
-msgid "Disconnect"
-msgstr "Bağlantısını kesin"
-
-msgid "Integration with Google"
-msgstr ""
-
-msgid "Login to the service using Google authentication."
-msgstr ""
-
-msgid "Integration with Facebook"
-msgstr ""
-
-msgid "Login to the service using Facebook authentication."
-msgstr ""
-
-msgid "Integration with Github"
-msgstr ""
-
-msgid "Login to the service using Github authentication."
-msgstr ""
-
-msgid "Enable Telegram Bot"
-msgstr ""
-
-msgid "Get notifications, check history"
-msgstr ""
-
-msgid "Connect Telegram Bot"
-msgstr ""
-
-msgid "Add"
-msgstr ""
-
-msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
-"bellow"
-msgstr ""
-
-msgid "Code"
-msgstr ""
-
-msgid "Register"
-msgstr ""
-
-msgid "time"
-msgstr "zaman"
-
-msgid "number"
-msgstr "saymak"
-
-msgid "Activity by days"
-msgstr "Günlere göre etkinlik"
-
-msgid "Activity by weeks"
-msgstr "Haftaya göre etkinlik"
-
-msgid "Activity by months"
-msgstr "Aylara göre faaliyet"
-
-msgid "average"
-msgstr "ortalama"
-
-msgid "median"
-msgstr "medyan"
-
-msgid "Pomodoros"
-msgstr "Pomodoro"
-
-msgid "Time spent"
-msgstr "Harcanan süre"
-
-msgid "Work days"
-msgstr "Çalışılan gün"
-
-msgid "Median per day"
-msgstr "Günlük ortalama"
 
 msgid "Time"
 msgstr "Zaman"
@@ -461,12 +411,8 @@ msgstr "Birkaç pomodoro bitirmeyi deneyin veya farklı bir zaman aralığı se�
 msgid "Export the records as CSV"
 msgstr "Kayıtları CSV olarak dışarı aktar"
 
-msgid "Import CSV"
-msgstr "CSV'yi içeri aktar"
-
-#, fuzzy
-msgid "Remove all"
-msgstr "Sil"
+msgid "Import records from CSV"
+msgstr "CSV'den kayıtları içe aktarın"
 
 msgid "Apply"
 msgstr "Uygulamak"
@@ -519,17 +465,17 @@ msgstr "Dün"
 msgid "This Week"
 msgstr "Bu Hafta"
 
-msgid "This Month"
-msgstr "Bu Ay"
-
-msgid "This Quarter"
-msgstr "Bu çeyrek"
-
 msgid "Last Week"
 msgstr "Geçen hafta"
 
+msgid "This Month"
+msgstr "Bu Ay"
+
 msgid "Last Month"
 msgstr "Geçen ay"
+
+msgid "This Quarter"
+msgstr "Bu çeyrek"
 
 msgid "Last Quarter"
 msgstr "Son çeyrek"
@@ -540,9 +486,44 @@ msgstr "Son 90 günde"
 msgid "Last 180 days"
 msgstr "Son 180 günde"
 
-#, fuzzy
-msgid "all records"
-msgstr "rekor"
+msgid "%1$s records were imported"
+msgstr "%1$s kayıt alındı"
+
+msgid "Import was failed. Check your CSV and try again."
+msgstr "İthalat başarısız oldu. CSV'nizi kontrol edin ve tekrar deneyin."
+
+msgid "time"
+msgstr "zaman"
+
+msgid "number"
+msgstr "saymak"
+
+msgid "Activity by days"
+msgstr "Günlere göre etkinlik"
+
+msgid "Activity by weeks"
+msgstr "Haftaya göre etkinlik"
+
+msgid "Activity by months"
+msgstr "Aylara göre faaliyet"
+
+msgid "average"
+msgstr "ortalama"
+
+msgid "median"
+msgstr "medyan"
+
+msgid "Pomodoros"
+msgstr "Pomodoro"
+
+msgid "Time spent"
+msgstr "Harcanan süre"
+
+msgid "Work days"
+msgstr "Çalışılan gün"
+
+msgid "Median per day"
+msgstr "Günlük ortalama"
 
 #~ msgid "Save (enter)"
 #~ msgstr "Kaydet (enter)"
@@ -611,5 +592,52 @@ msgstr "rekor"
 #~ msgstr ""
 
 #~ msgid "Send Daily Reports on"
+#~ msgstr ""
+
+#~ msgid "Joined at"
+#~ msgstr "Katıldığı tarih:"
+
+#~ msgid "year"
+#~ msgid_plural "years"
+#~ msgstr[0] "yil"
+
+#~ msgid "month"
+#~ msgid_plural "months"
+#~ msgstr[0] "ay"
+
+#~ msgid "day"
+#~ msgid_plural "days"
+#~ msgstr[0] "gün"
+
+#~ msgid "hour"
+#~ msgid_plural "hours"
+#~ msgstr[0] "saat"
+
+#~ msgid "minute"
+#~ msgid_plural "minutes"
+#~ msgstr[0] "dakika"
+
+#~ msgid "registered users spend on completing pomodoros today."
+#~ msgstr "kayıtlı kullanıcılar bugün pomodoros'u tamamlamak için harcıyorlar"
+
+#~ msgid "registered users spend on completing pomodoros"
+#~ msgstr "kayıtlı kullanıcılar pomodoros tamamlamaya harcıyor"
+
+#~ msgid "for all time"
+#~ msgstr "tüm zamanlar için"
+
+#~ msgid "Import CSV"
+#~ msgstr "CSV'yi içeri aktar"
+
+#~ msgid "Remove all"
+#~ msgstr "Sil"
+
+#~ msgid "all records"
+#~ msgstr "rekor"
+
+#~ msgid "Congratulations! You"
+#~ msgstr ""
+
+#~ msgid "#{response.data.created} records were imported"
 #~ msgstr ""
 
