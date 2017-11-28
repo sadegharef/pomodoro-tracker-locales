@@ -20,43 +20,43 @@ msgstr ""
 "Generated-By: Babel 2.5.1\n"
 
 msgid "Feedback"
-msgstr ""
+msgstr "Rückkopplung"
 
 msgid "Login to view your stats"
-msgstr ""
+msgstr "Melden Sie sich an, um Ihre Statistiken anzuzeigen"
 
 msgid "Stats"
-msgstr ""
+msgstr "Statistik"
 
 msgid "Settings"
-msgstr ""
+msgstr "Einstellungen"
 
 msgid "Logout"
-msgstr ""
+msgstr "Logout"
 
 msgid "Sign Up / Login"
-msgstr ""
+msgstr "Anmelden"
 
 msgid "as Google user"
-msgstr ""
+msgstr "wie Google"
 
 msgid "as Facebook user"
-msgstr ""
+msgstr "wie Facebook"
 
 msgid "as Github user"
-msgstr ""
+msgstr "wie Github"
 
 msgid "version"
-msgstr ""
+msgstr "version"
 
 msgid "Privacy Policy"
 msgstr ""
 
 msgid "Support the Project"
-msgstr ""
+msgstr "Unterstütze das Projekt"
 
 msgid "Loading"
-msgstr ""
+msgstr "Laden"
 
 msgid "What is it?"
 msgstr ""
