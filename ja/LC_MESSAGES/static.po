@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-11-28 18:05+0300\n"
+"POT-Creation-Date: 2017-11-30 16:32+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -18,6 +18,40 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.1\n"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "年"
+msgstr[1] "年々"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "月"
+msgstr[1] "数ヶ月"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "日"
+msgstr[1] "月日"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "時"
+msgstr[1] "時間"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "分"
+msgstr[1] "分"
+
+msgid "registered users spend on completing pomodoros today."
+msgstr "登録ユーザーは今日のポモドーロを完了するのに費やす"
+
+msgid "registered users spend on completing pomodoros"
+msgstr "登録ユーザーはポモドーロを完了するのに費やす"
+
+msgid "for all time"
+msgstr "いつでも"
 
 msgid "LOADING"
 msgstr "ロード"
@@ -377,9 +411,6 @@ msgstr "TODOの追加"
 msgid "Favorites"
 msgstr "お気に入り"
 
-msgid "Copy"
-msgstr "コピー"
-
 msgid "Mark as done"
 msgstr "完了にする"
 
@@ -653,4 +684,7 @@ msgstr "1日平均"
 
 #~ msgid "#{response.data.created} records were imported"
 #~ msgstr ""
+
+#~ msgid "Copy"
+#~ msgstr "コピー"
 

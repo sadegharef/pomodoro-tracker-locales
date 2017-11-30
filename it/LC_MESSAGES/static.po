@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-11-28 18:05+0300\n"
+"POT-Creation-Date: 2017-11-30 16:32+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -18,6 +18,40 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.1\n"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "anno"
+msgstr[1] "anni"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "mese"
+msgstr[1] "mesi"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "giorno"
+msgstr[1] "giorni"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "ora"
+msgstr[1] "ore"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minuto"
+msgstr[1] "minuti"
+
+msgid "registered users spend on completing pomodoros today."
+msgstr "gli utenti registrati spendono oggi sul completamento dei pomodori."
+
+msgid "registered users spend on completing pomodoros"
+msgstr "gli utenti registrati spendono sul completamento dei pomodori"
+
+msgid "for all time"
+msgstr "per tutto il tempo"
 
 msgid "LOADING"
 msgstr "CARICAMENTO"
@@ -377,9 +411,6 @@ msgstr ""
 msgid "Favorites"
 msgstr ""
 
-msgid "Copy"
-msgstr "Copia"
-
 msgid "Mark as done"
 msgstr "Segna come fatto"
 
@@ -653,4 +684,7 @@ msgstr "Medio al giorno"
 
 #~ msgid "#{response.data.created} records were imported"
 #~ msgstr ""
+
+#~ msgid "Copy"
+#~ msgstr "Copia"
 
