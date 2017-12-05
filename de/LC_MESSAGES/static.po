@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.golly@gmail.com\n"
-"POT-Creation-Date: 2017-11-03 13:52+0300\n"
+"POT-Creation-Date: 2017-12-05 16:17+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -17,28 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
-
-msgid "Great work! TODO list is empty."
-msgstr "Gute Arbeit! Ihre TODO-Liste is leer."
-
-msgid "LOADING"
-msgstr "LADEN"
-
-msgid "Joined at"
-msgstr "Beigetreten am"
-
-msgid "Are you sure want to delete"
-msgstr "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten"
-
-msgid "Delete"
-msgstr "Löschen"
-
-msgid "Cancel"
-msgstr "Abbrechen"
-
-msgid "record"
-msgstr "Eintrag"
+"Generated-By: Babel 2.5.1\n"
 
 msgid "year"
 msgid_plural "years"
@@ -74,109 +53,23 @@ msgstr "Registrierte Benutzer haben diese Zeit mit Pomodoros verbracht"
 msgid "for all time"
 msgstr "insgesamt"
 
-msgid "Sort by"
-msgstr "Sortieren nach"
+msgid "LOADING"
+msgstr "LADEN"
 
-msgid "rating"
-msgstr "Bewertung"
+msgid "Are you sure want to delete"
+msgstr "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten"
 
-msgid "created"
-msgstr "Erstellt"
+msgid "Delete"
+msgstr "Löschen"
 
-msgid "New"
-msgstr "Neu"
+msgid "Cancel"
+msgstr "Abbrechen"
 
-msgid "Done"
-msgstr "Erledigt"
+msgid "record"
+msgstr "Eintrag"
 
-msgid "Like"
-msgstr "Like"
-
-msgid "like"
-msgid_plural "likes"
-msgstr[0] "Like"
-msgstr[1] "Likes"
-
-msgid "Write your ideas here"
-msgstr "Teile uns Deine Ideen mit"
-
-msgid "Title"
-msgstr "Titel"
-
-msgid "Description"
-msgstr "Beschreibung"
-
-msgid "Create"
-msgstr "Erstellen"
-
-msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr "Danke für Ihr Feedback! Ihre Nachricht wird jetzt moderiert."
-
-msgid "Activities"
-msgstr "Aktivitäten"
-
-msgid "Category"
-msgstr "Kategorie"
-
-msgid "Short description"
-msgstr "Kurzbeschreibung"
-
-msgid "Add Activity"
-msgstr "Aktivität hinzufügen"
-
-msgid "Mark as daily task"
-msgstr "Markiere als täglichen Task"
-
-msgid "Add to TODO"
-msgstr "Zur TODO-Liste hinzufügen"
-
-msgid "Edit"
-msgstr "Bearbeiten"
-
-msgid "Add more"
-msgstr "Mehr hinzufügen"
-
-msgid "Remove"
-msgstr "Entfernen"
-
-msgid "Click/tap to edit items."
-msgstr "Klick/tap um Eintrag zu bearbeiten."
-
-msgid "Click on a number to add more."
-msgstr "Klick auf eine Nummer um mehr hinzuzufügen."
-
-msgid "The list is empty"
-msgstr "Die Liste is leer"
-
-msgid "Try to mark TODO as activity or use the form above"
-msgstr "Versuche TODO als Aktivität zu markieren oder benutze das Formular oben"
-
-msgid "TODO list was updated."
-msgstr "TODO-Liste wurde aktualisiert."
-
-msgid "DONE"
-msgstr "ERLEDIGT"
-
-msgid "no description"
-msgstr "keine Beschreibung"
-
-msgid "Pin to favorites"
-msgstr "Markiere als Favorit"
-
-msgid "Records are empty"
-msgstr "Einträge sind leer"
-
-msgid "Try to complete some pomodoros above"
-msgstr "Versuche ein paar Pomodoros abzuarbeiten"
-
-msgid "You are not signed."
-msgstr "Du bist nicht registriert"
-
-msgid "Work history won`t be saved."
-msgstr "Arbeitsverlauf wird nicht gespeichert"
-
-msgid "Preferences"
-msgstr "Einstellungen"
+msgid "Application"
+msgstr "Anwendung"
 
 msgid "Timer"
 msgstr "Timer"
@@ -184,191 +77,8 @@ msgstr "Timer"
 msgid "Notifications"
 msgstr "Benachrichtigungen"
 
-msgid "Close"
-msgstr "Schließen"
-
-msgid "Tune the timer"
-msgstr "Timer einstellen"
-
-msgid "Toggle fullscreen"
-msgstr "Vollbild"
-
-msgid "START"
-msgstr "START"
-
-msgid "RESUME"
-msgstr "FORTSETZEN"
-
-msgid "PAUSE"
-msgstr "PAUSIEREN"
-
-msgid "STOP"
-msgstr "STOP"
-
-msgid "SKIP"
-msgstr "ÜBERSPRINGEN"
-
-msgid "Pomodoro is finished. Have a short break."
-msgstr "Pomodoro wurde beendet. Mache eine kurze Pause."
-
-msgid "Pomodoro is finished. Have a long break."
-msgstr "Pomodor wurde beendet. Mache eine lange Pause."
-
-msgid "Break is over. The next pomodoro will go better!"
-msgstr "Die Pause ist vorbei. Der nächste Pomodoro wird besser!"
-
-msgid "POMODORO"
-msgstr "POMODORO"
-
-msgid "TAKE A SHORT BREAK"
-msgstr "NIMM EINE KURZE PAUSE"
-
-msgid "TAKE A LONG BREAK"
-msgstr "NIMM EINE LANGE PAUSE"
-
-msgid "DELAY"
-msgstr "VERZÖGERUNG"
-
-msgid "The Pomodoro is running"
-msgstr "Der Pomodoro läuft"
-
-msgid "TODO"
-msgstr "TODO"
-
-msgid "Add TODO"
-msgstr "TODO hinzufügen"
-
-msgid "Favorites"
-msgstr "Favoriten"
-
-msgid "Mark as done"
-msgstr "Markiere als erledigt"
-
-msgid "Drag/Move to sort"
-msgstr "Ziehen/bewegen zum sortieren"
-
-msgid "TODO list is empty"
-msgstr "TODO-Liste ist leer"
-
-msgid "Try to add some tasks use the form above"
-msgstr "Versuche ein paar Tasks anzulegen mit dem Formular weiter oben"
-
-msgid "Drag&Drop/Touch to sort items."
-msgstr "Drag&Drop/Touch um Einträge zu sortieren"
-
-msgid "Application"
-msgstr "Anwendung"
-
 msgid "Integrations"
 msgstr "Integrationen"
-
-msgid "Theme"
-msgstr "Theme"
-
-msgid "light"
-msgstr "hell"
-
-msgid "dark"
-msgstr "dunkel"
-
-msgid "auto"
-msgstr "auto"
-
-msgid "Date format"
-msgstr "Datumsformat"
-
-msgid "Time format"
-msgstr "Zeitformat"
-
-msgid "Time zone"
-msgstr "Zeitzone"
-
-msgid "Daily history"
-msgstr "Täglicher Verlauf"
-
-msgid "Clear daily history"
-msgstr "Lösche täglichen Verlauf"
-
-msgid "Categories"
-msgstr "Kategorien"
-
-msgid "Add category"
-msgstr "Kategorie hinzufügen"
-
-msgid "Send Daily Reports"
-msgstr "Sende tägliche Zusammenfassung"
-
-msgid "Send reports on email: "
-msgstr "Sende reports an Email:"
-
-msgid "Send reports on telegram"
-msgstr "Sende reports über telegram"
-
-msgid "Volume"
-msgstr "Lautstärke"
-
-msgid "Play alarm sound"
-msgstr "Spiele Alarm Sound wenn Pomodoro beendet"
-
-msgid "Play ticking sound"
-msgstr "Akkustisches Uhrticken während Pomodoros"
-
-msgid "Play ticking sound while breaks"
-msgstr "Akkustisches Uhrticken während Pausen"
-
-msgid "Enable Web Notifications"
-msgstr "Aktiviere Web-Benachrichtigungen"
-
-msgid "Enable Telegram Notifications"
-msgstr "Aktiviere Telegram-Benachrichtigungen"
-
-msgid "Enable Browser Alerts"
-msgstr "Aktiviere Browser-Benachrichtigungen"
-
-msgid "Raise browser alert when pomodoro/break is over"
-msgstr "Führe eine Browser-Benachrichtigungen aus, wenn Pomodoro/Pause vorbei"
-
-msgid "Hide notificaions"
-msgstr "Benachrichtigungen verstecken"
-
-msgid "in 2 seconds"
-msgstr "nach 2 Sekunden"
-
-msgid "in 3 seconds"
-msgstr "nach 3 Sekunden"
-
-msgid "in 5 seconds"
-msgstr "nach 5 Sekunden"
-
-msgid "in 10 seconds"
-msgstr "nach 10 Sekunden"
-
-msgid "Pomodoro duration:"
-msgstr ""
-
-msgid "in minutes"
-msgstr "nach 1 Minute"
-
-msgid "Short break duration:"
-msgstr "Länge der kurzen Pause"
-
-msgid "Long break duration:"
-msgstr "Länge der langen Pause"
-
-msgid "Long break delay:"
-msgstr "Wiederholungen bis lange Pause"
-
-msgid "in pomodoros"
-msgstr "In Pomodoros"
-
-msgid "Auto start pomodoros"
-msgstr "Autostart Pomodoros"
-
-msgid "Don`t start next pomodoro if TODO is empty"
-msgstr "Starte nicht den nächsten Pomodoro wenn TODO-Liste leer ist"
-
-msgid "Auto start breaks"
-msgstr "Autostart Pausen"
 
 msgid "Connect"
 msgstr "Verbinden"
@@ -410,47 +120,322 @@ msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
 msgstr ""
-"tippen Sie `/start` und den Code ein vom Telegram Bot um zu Ihrem Telegram zu"
-"gelangen" 
+"tippen Sie `/start` und den Code ein vom Telegram Bot um zu Ihrem "
+"Telegram zugelangen"
 
 msgid "Code"
 msgstr "Code"
 
+msgid "Close"
+msgstr "Schließen"
+
 msgid "Register"
 msgstr "Registrieren"
 
-msgid "time"
-msgstr "Zeit"
+msgid "Theme"
+msgstr "Theme"
 
-msgid "number"
-msgstr "Anzahl"
+msgid "light"
+msgstr "hell"
 
-msgid "Activity by days"
-msgstr "Aktivität nach Tagen"
+msgid "dark"
+msgstr "dunkel"
 
-msgid "Activity by weeks"
-msgstr "Aktivität nach Wochen"
+msgid "auto"
+msgstr "auto"
 
-msgid "Activity by months"
-msgstr "Aktivität nach Monaten"
+msgid "Date format"
+msgstr "Datumsformat"
 
-msgid "average"
-msgstr "Durchschnitt"
+msgid "Time format"
+msgstr "Zeitformat"
 
-msgid "median"
-msgstr "Median"
+msgid "Time zone"
+msgstr "Zeitzone"
 
-msgid "Pomodoros"
-msgstr "Pomodoros"
+msgid "Daily history"
+msgstr "Täglicher Verlauf"
 
-msgid "Time spent"
-msgstr "Verbrachte Zeit"
+msgid "Clear DONE history once per day"
+msgstr ""
 
-msgid "Work days"
-msgstr "Arbeitstage"
+msgid "Categories"
+msgstr "Kategorien"
 
-msgid "Median per day"
-msgstr "Median pro Tag"
+#, fuzzy
+#| msgid "Add category"
+msgid "Create a category"
+msgstr "Kategorie hinzufügen"
+
+msgid "Add category"
+msgstr "Kategorie hinzufügen"
+
+msgid "Send Daily Reports"
+msgstr "Sende tägliche Zusammenfassung"
+
+msgid "Send reports on email: "
+msgstr "Sende reports an Email:"
+
+msgid "Send reports on telegram"
+msgstr "Sende reports über telegram"
+
+msgid "Volume"
+msgstr "Lautstärke"
+
+msgid "Play alarm sound"
+msgstr "Spiele Alarm Sound wenn Pomodoro beendet"
+
+msgid "Play ticking sound"
+msgstr "Akkustisches Uhrticken während Pomodoros"
+
+msgid "Play ticking sound while breaks"
+msgstr "Akkustisches Uhrticken während Pausen"
+
+msgid "Enable Web Notifications"
+msgstr "Aktiviere Web-Benachrichtigungen"
+
+msgid "test"
+msgstr ""
+
+msgid "Enable Telegram Notifications"
+msgstr "Aktiviere Telegram-Benachrichtigungen"
+
+msgid "Enable Browser Alerts"
+msgstr "Aktiviere Browser-Benachrichtigungen"
+
+msgid "Raise browser alert when pomodoro/break is over"
+msgstr "Führe eine Browser-Benachrichtigungen aus, wenn Pomodoro/Pause vorbei"
+
+msgid "Hide notificaions"
+msgstr "Benachrichtigungen verstecken"
+
+msgid "in 2 seconds"
+msgstr "nach 2 Sekunden"
+
+msgid "in 3 seconds"
+msgstr "nach 3 Sekunden"
+
+msgid "in 5 seconds"
+msgstr "nach 5 Sekunden"
+
+msgid "in 10 seconds"
+msgstr "nach 10 Sekunden"
+
+msgid "Pomodoro duration:"
+msgstr ""
+
+#, fuzzy
+#| msgid "in 5 seconds"
+msgid "in seconds"
+msgstr "nach 5 Sekunden"
+
+msgid "in minutes"
+msgstr "nach 1 Minute"
+
+msgid "Short break duration:"
+msgstr "Länge der kurzen Pause"
+
+msgid "Long break duration:"
+msgstr "Länge der langen Pause"
+
+msgid "Long break delay:"
+msgstr "Wiederholungen bis lange Pause"
+
+msgid "in pomodoros"
+msgstr "In Pomodoros"
+
+msgid "Auto start pomodoros"
+msgstr "Autostart Pomodoros"
+
+msgid "Don`t start next pomodoro if TODO is empty"
+msgstr "Starte nicht den nächsten Pomodoro wenn TODO-Liste leer ist"
+
+msgid "Auto start breaks"
+msgstr "Autostart Pausen"
+
+msgid "Sort by"
+msgstr "Sortieren nach"
+
+msgid "rating"
+msgstr "Bewertung"
+
+msgid "created"
+msgstr "Erstellt"
+
+msgid "New"
+msgstr "Neu"
+
+msgid "Done"
+msgstr "Erledigt"
+
+msgid "Like"
+msgstr "Like"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "Like"
+msgstr[1] "Likes"
+
+msgid "Write your ideas here"
+msgstr "Teile uns Deine Ideen mit"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Create"
+msgstr "Erstellen"
+
+msgid "Thank you for the feedback! Your message is awaiting moderation."
+msgstr "Danke für Ihr Feedback! Ihre Nachricht wird jetzt moderiert."
+
+msgid "TODO list was updated."
+msgstr "TODO-Liste wurde aktualisiert."
+
+msgid "Activities"
+msgstr "Aktivitäten"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Short description"
+msgstr "Kurzbeschreibung"
+
+msgid "Add Activity"
+msgstr "Aktivität hinzufügen"
+
+msgid "Mark as daily task"
+msgstr "Markiere als täglichen Task"
+
+msgid "Add to TODO"
+msgstr "Zur TODO-Liste hinzufügen"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Add more"
+msgstr "Mehr hinzufügen"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Click/tap to edit items."
+msgstr "Klick/tap um Eintrag zu bearbeiten."
+
+msgid "Click on a number to add more."
+msgstr "Klick auf eine Nummer um mehr hinzuzufügen."
+
+msgid "The list is empty"
+msgstr "Die Liste is leer"
+
+msgid "Try to mark TODO as activity or use the form above"
+msgstr "Versuche TODO als Aktivität zu markieren oder benutze das Formular oben"
+
+msgid "Preferences"
+msgstr "Einstellungen"
+
+msgid "DONE"
+msgstr "ERLEDIGT"
+
+msgid "no description"
+msgstr "keine Beschreibung"
+
+msgid "Pin to favorites"
+msgstr "Markiere als Favorit"
+
+msgid "Records are empty"
+msgstr "Einträge sind leer"
+
+msgid "Try to complete some pomodoros above"
+msgstr "Versuche ein paar Pomodoros abzuarbeiten"
+
+#, fuzzy
+#| msgid "Clear daily history"
+msgid "Clear the history"
+msgstr "Lösche täglichen Verlauf"
+
+msgid "You are not signed."
+msgstr "Du bist nicht registriert"
+
+msgid "Work history won`t be saved."
+msgstr "Arbeitsverlauf wird nicht gespeichert"
+
+msgid "Tune the timer"
+msgstr "Timer einstellen"
+
+msgid "Toggle fullscreen"
+msgstr "Vollbild"
+
+msgid "START"
+msgstr "START"
+
+msgid "RESUME"
+msgstr "FORTSETZEN"
+
+msgid "PAUSE"
+msgstr "PAUSIEREN"
+
+msgid "STOP"
+msgstr "STOP"
+
+msgid "SKIP"
+msgstr "ÜBERSPRINGEN"
+
+msgid "Break is over. The next pomodoro will go better!"
+msgstr "Die Pause ist vorbei. Der nächste Pomodoro wird besser!"
+
+msgid "Pomodoro is finished. Have a short break."
+msgstr "Pomodoro wurde beendet. Mache eine kurze Pause."
+
+msgid "Pomodoro is finished. Have a long break."
+msgstr "Pomodor wurde beendet. Mache eine lange Pause."
+
+msgid "POMODORO"
+msgstr "POMODORO"
+
+msgid "TAKE A SHORT BREAK"
+msgstr "NIMM EINE KURZE PAUSE"
+
+msgid "TAKE A LONG BREAK"
+msgstr "NIMM EINE LANGE PAUSE"
+
+msgid "DELAY"
+msgstr "VERZÖGERUNG"
+
+msgid "The Pomodoro is running"
+msgstr "Der Pomodoro läuft"
+
+msgid "Great work! TODO list is empty."
+msgstr "Gute Arbeit! Ihre TODO-Liste is leer."
+
+msgid "TODO"
+msgstr "TODO"
+
+msgid "Add TODO"
+msgstr "TODO hinzufügen"
+
+msgid "Favorites"
+msgstr "Favoriten"
+
+msgid "Mark as done"
+msgstr "Markiere als erledigt"
+
+msgid "Drag/Move to sort"
+msgstr "Ziehen/bewegen zum sortieren"
+
+msgid "TODO list is empty"
+msgstr "TODO-Liste ist leer"
+
+msgid "Congratulations! You have finished all your tasks."
+msgstr ""
+
+msgid "Try to add some tasks use the form above"
+msgstr "Versuche ein paar Tasks anzulegen mit dem Formular weiter oben"
+
+msgid "Drag&Drop/Touch to sort items."
+msgstr "Drag&Drop/Touch um Einträge zu sortieren"
 
 msgid "Time"
 msgstr "Zeit"
@@ -464,11 +449,8 @@ msgstr "Versuche einige Pomodoros zu erledigen oder wähle eine andere Periode"
 msgid "Export the records as CSV"
 msgstr "Exportieren der Einträge (*.csv)"
 
-msgid "Import CSV"
-msgstr "Importieren von Einträgen (*.csv)"
-
-msgid "Remove all"
-msgstr "Alle entfernen"
+msgid "Import records from CSV"
+msgstr ""
 
 msgid "Apply"
 msgstr "Anwenden"
@@ -521,17 +503,17 @@ msgstr "Gestern"
 msgid "This Week"
 msgstr "Diese Woche"
 
-msgid "This Month"
-msgstr "Diesen Monat"
-
-msgid "This Quarter"
-msgstr "Dieses Quartal"
-
 msgid "Last Week"
 msgstr "Diese Woche"
 
+msgid "This Month"
+msgstr "Diesen Monat"
+
 msgid "Last Month"
 msgstr "Letzten Monat"
+
+msgid "This Quarter"
+msgstr "Dieses Quartal"
 
 msgid "Last Quarter"
 msgstr "Letztes Quartal"
@@ -542,8 +524,46 @@ msgstr "Letzte 90 Tage"
 msgid "Last 180 days"
 msgstr "Letzte 180 Tage"
 
-msgid "all records"
-msgstr "Alle Einträge"
+#, fuzzy
+#| msgid "Records are empty"
+msgid "%1$s records were imported"
+msgstr "Einträge sind leer"
+
+msgid "Import was failed. Check your CSV and try again."
+msgstr ""
+
+msgid "time"
+msgstr "Zeit"
+
+msgid "number"
+msgstr "Anzahl"
+
+msgid "Activity by days"
+msgstr "Aktivität nach Tagen"
+
+msgid "Activity by weeks"
+msgstr "Aktivität nach Wochen"
+
+msgid "Activity by months"
+msgstr "Aktivität nach Monaten"
+
+msgid "average"
+msgstr "Durchschnitt"
+
+msgid "median"
+msgstr "Median"
+
+msgid "Pomodoros"
+msgstr "Pomodoros"
+
+msgid "Time spent"
+msgstr "Verbrachte Zeit"
+
+msgid "Work days"
+msgstr "Arbeitstage"
+
+msgid "Median per day"
+msgstr "Median pro Tag"
 
 #~ msgid "Save (enter)"
 #~ msgstr "Speichern (enter)"
@@ -621,7 +641,9 @@ msgstr "Alle Einträge"
 #~ msgstr "Zu Favoriten hinzufügen"
 
 #~ msgid "Double click/tap to edit items. Drag&Drop/Touch to sort items."
-#~ msgstr "Doppelklicken/Tap um Einträge zu bearbeiten. Drag&Drop/Touch um zu sortieren."
+#~ msgstr ""
+#~ "Doppelklicken/Tap um Einträge zu bearbeiten."
+#~ " Drag&Drop/Touch um zu sortieren."
 
 #~ msgid "Duration"
 #~ msgstr "Dauer"
@@ -630,7 +652,9 @@ msgstr "Alle Einträge"
 #~ msgstr "Doppelklicken um Einträge zu bearbeiten."
 
 #~ msgid "Click/tap to edit items. Drag&Drop/Touch to sort items."
-#~ msgstr "Klick/Tap um Einträge zu bearbeiten. Drag&Drop/Touch um Einträge zu sortieren."
+#~ msgstr ""
+#~ "Klick/Tap um Einträge zu bearbeiten. "
+#~ "Drag&Drop/Touch um Einträge zu sortieren."
 
 #~ msgid "Pomodoro is finished. Have a break."
 #~ msgstr "Pomodoro ist beendet. Nimm eine Pause."
@@ -646,4 +670,16 @@ msgstr "Alle Einträge"
 
 #~ msgid "Send Daily Reports on"
 #~ msgstr "Sende tägliche Zusammenfassung um"
+
+#~ msgid "Joined at"
+#~ msgstr "Beigetreten am"
+
+#~ msgid "Import CSV"
+#~ msgstr "Importieren von Einträgen (*.csv)"
+
+#~ msgid "Remove all"
+#~ msgstr "Alle entfernen"
+
+#~ msgid "all records"
+#~ msgstr "Alle Einträge"
 
