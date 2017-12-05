@@ -56,7 +56,7 @@ msgid "Support the Project"
 msgstr "Apoiar o projeto"
 
 msgid "Loading"
-msgstr ""
+msgstr "Carregando"
 
 msgid "What is it?"
 msgstr "O que é?"
@@ -166,7 +166,7 @@ msgstr ""
 " com outra tarefa"
 
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr ""
+msgstr "Uma vez que um Pomodoro começa, ele tem que apitar"
 
 msgid "The next Pomodoro will go better"
 msgstr "O próximo Pomodoro será melhor ainda!"
@@ -183,43 +183,43 @@ msgstr ""
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr ""
+msgstr "%s aqui está o seu relatório diário para %s"
 
 msgid "You spent"
-msgstr ""
+msgstr "Você gastou"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "hora"
+msgstr[1] "horas"
 
 msgid "and"
-msgstr ""
+msgstr "e"
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "minuto"
+msgstr[1] "minutos"
 
 msgid "on"
-msgstr ""
+msgstr "em"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "pomodoro"
+msgstr[1] "pomodoros"
 
 msgid "Of those"
-msgstr ""
+msgstr "Desses"
 
 msgid "were"
-msgstr ""
+msgstr "foram"
 
 msgid "There are completed tasks"
-msgstr ""
+msgstr "Estas são tarefas completas"
 
 msgid "Please don't send me these awesome daily reports"
-msgstr ""
+msgstr "Por favor não me mande estes incríveis relatórios diários"
 
 #~ msgid "Admin"
 #~ msgstr "Administrador"
