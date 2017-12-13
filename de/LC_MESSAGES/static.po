@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.golly@gmail.com\n"
-"POT-Creation-Date: 2017-12-05 16:17+0300\n"
+"POT-Creation-Date: 2017-12-13 14:54+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -162,8 +162,6 @@ msgstr ""
 msgid "Categories"
 msgstr "Kategorien"
 
-#, fuzzy
-#| msgid "Add category"
 msgid "Create a category"
 msgstr "Kategorie hinzufügen"
 
@@ -221,13 +219,14 @@ msgstr "nach 5 Sekunden"
 msgid "in 10 seconds"
 msgstr "nach 10 Sekunden"
 
+msgid "Schemes"
+msgstr "Schemes"
+
 msgid "Pomodoro duration:"
 msgstr ""
 
-#, fuzzy
-#| msgid "in 5 seconds"
 msgid "in seconds"
-msgstr "nach 5 Sekunden"
+msgstr "in sekunden"
 
 msgid "in minutes"
 msgstr "nach 1 Minute"
@@ -351,8 +350,6 @@ msgstr "Einträge sind leer"
 msgid "Try to complete some pomodoros above"
 msgstr "Versuche ein paar Pomodoros abzuarbeiten"
 
-#, fuzzy
-#| msgid "Clear daily history"
 msgid "Clear the history"
 msgstr "Lösche täglichen Verlauf"
 
@@ -524,10 +521,8 @@ msgstr "Letzte 90 Tage"
 msgid "Last 180 days"
 msgstr "Letzte 180 Tage"
 
-#, fuzzy
-#| msgid "Records are empty"
 msgid "%1$s records were imported"
-msgstr "Einträge sind leer"
+msgstr "Datensätze wurden importiert"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr ""
