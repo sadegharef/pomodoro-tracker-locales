@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-12-13 14:54+0300\n"
+"POT-Creation-Date: 2017-12-20 11:55+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -187,6 +187,9 @@ msgstr "Escuchar ticks de reloj"
 msgid "Play ticking sound while breaks"
 msgstr "Escuchar ticks de reloj se rompe"
 
+msgid "Notify when there is one minute left"
+msgstr "Notificar cuando queda un minuto"
+
 msgid "Enable Web Notifications"
 msgstr "Activar Notificaciones Web"
 
@@ -356,6 +359,9 @@ msgstr "No estás firmado"
 
 msgid "Work history won`t be saved."
 msgstr "La historia de trabajo no será salvada."
+
+msgid "One minute left"
+msgstr "Queda un minuto"
 
 msgid "Tune the timer"
 msgstr "Ajustar el cronómetro"

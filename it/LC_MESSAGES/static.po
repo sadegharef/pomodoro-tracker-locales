@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-12-13 14:54+0300\n"
+"POT-Creation-Date: 2017-12-20 11:55+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -187,6 +187,9 @@ msgstr "Gioca ticchettio suono"
 msgid "Play ticking sound while breaks"
 msgstr "Suona il ticchettio durante le pause"
 
+msgid "Notify when there is one minute left"
+msgstr "Avvisa quando rimane un minuto"
+
 msgid "Enable Web Notifications"
 msgstr "Attiva notifiche web"
 
@@ -356,6 +359,9 @@ msgstr "Non sei firmato"
 
 msgid "Work history won`t be saved."
 msgstr "La storia del lavoro non sarà salvata."
+
+msgid "One minute left"
+msgstr "Un minuto rimasto"
 
 msgid "Tune the timer"
 msgstr "Tune il timer"

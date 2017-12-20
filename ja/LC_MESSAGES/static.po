@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-12-13 14:54+0300\n"
+"POT-Creation-Date: 2017-12-20 11:55+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -187,6 +187,9 @@ msgstr "チクタク音を再生する"
 msgid "Play ticking sound while breaks"
 msgstr "休憩中に音を立てて再生する"
 
+msgid "Notify when there is one minute left"
+msgstr "1分が残っているときに通知する"
+
 msgid "Enable Web Notifications"
 msgstr "Web通知機能を有効にする"
 
@@ -356,6 +359,9 @@ msgstr "あなたは署名されていません。"
 
 msgid "Work history won`t be saved."
 msgstr "仕事の歴史は保存されません。"
+
+msgid "One minute left"
+msgstr "1分左"
 
 msgid "Tune the timer"
 msgstr "タイマーを調整する"

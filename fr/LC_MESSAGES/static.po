@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-12-13 14:54+0300\n"
+"POT-Creation-Date: 2017-12-20 11:55+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -189,6 +189,9 @@ msgstr "Activer le tic-tac du minuteur"
 msgid "Play ticking sound while breaks"
 msgstr "Activer le tic-tac pendant les pauses"
 
+msgid "Notify when there is one minute left"
+msgstr "Avertir lorsqu'il reste une minute"
+
 msgid "Enable Web Notifications"
 msgstr "Activer les Notification Web"
 
@@ -358,6 +361,9 @@ msgstr "Vous n'êtes pas connecté."
 
 msgid "Work history won`t be saved."
 msgstr "L'histoire de travail ne sera pas enregistrée."
+
+msgid "One minute left"
+msgstr "Une minute à gauche"
 
 msgid "Tune the timer"
 msgstr "Régler la minuterie"

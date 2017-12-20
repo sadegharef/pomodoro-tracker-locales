@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.golly@gmail.com\n"
-"POT-Creation-Date: 2017-12-13 14:54+0300\n"
+"POT-Creation-Date: 2017-12-20 11:55+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -189,6 +189,9 @@ msgstr "Akkustisches Uhrticken während Pomodoros"
 msgid "Play ticking sound while breaks"
 msgstr "Akkustisches Uhrticken während Pausen"
 
+msgid "Notify when there is one minute left"
+msgstr "Benachrichtigen, wenn noch eine Minute übrig ist"
+
 msgid "Enable Web Notifications"
 msgstr "Aktiviere Web-Benachrichtigungen"
 
@@ -358,6 +361,9 @@ msgstr "Du bist nicht registriert"
 
 msgid "Work history won`t be saved."
 msgstr "Arbeitsverlauf wird nicht gespeichert"
+
+msgid "One minute left"
+msgstr "Eine Minute noch"
 
 msgid "Tune the timer"
 msgstr "Timer einstellen"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-12-13 14:54+0300\n"
+"POT-Creation-Date: 2017-12-20 11:55+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -182,6 +182,9 @@ msgstr "Tıkırtı sesi çal"
 msgid "Play ticking sound while breaks"
 msgstr "Mola esnasında tiz ses çalın"
 
+msgid "Notify when there is one minute left"
+msgstr "Bir dakika kaldığında haber ver"
+
 msgid "Enable Web Notifications"
 msgstr "Web Bildirimlerini Etkinleştir"
 
@@ -350,6 +353,9 @@ msgstr "Sen imzalanmadın"
 
 msgid "Work history won`t be saved."
 msgstr "İş geçmişi kurtarılamaz."
+
+msgid "One minute left"
+msgstr "bir dakika kaldı"
 
 msgid "Tune the timer"
 msgstr "Zamanlayıcıyı ayarla"
