@@ -241,7 +241,7 @@ msgid "Long break duration:"
 msgstr "Duración descanso largo:"
 
 msgid "Long break delay:"
-msgstr "Retraso descando largo:"
+msgstr "Retraso descanso largo:"
 
 msgid "in pomodoros"
 msgstr "en pomodoros"
@@ -531,7 +531,7 @@ msgid "%1$s records were imported"
 msgstr "%1$s registros fueron importados"
 
 msgid "Import was failed. Check your CSV and try again."
-msgstr "La importación fue fallida. Verifica tu CSV y vuelve a intentarlo."
+msgstr "La importación falló. Verifica tu CSV y vuelve a intentarlo."
 
 msgid "time"
 msgstr "tiempo"
