@@ -291,7 +291,7 @@ msgid "Create"
 msgstr "Crear"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr "Gracias por los comentarios! Tu mensaje está en espera de moderación."
+msgstr "Gracias por los comentarios! Su mensaje está en espera de la moderación."
 
 msgid "TODO list was updated."
 msgstr "Se actualizó la lista TODO"
