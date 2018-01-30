@@ -23,7 +23,7 @@ msgid "Feedback"
 msgstr "Avis"
 
 msgid "Login to view your stats"
-msgstr "Connectez-vous pour afficher vos statistiques"
+msgstr "Connectez-vous pour consulter vos statistiques"
 
 msgid "Stats"
 msgstr "Stats"
@@ -56,10 +56,10 @@ msgid "Support the Project"
 msgstr "Soutenir le projet"
 
 msgid "Loading"
-msgstr ""
+msgstr "Chargement en cours"
 
 msgid "What is it?"
-msgstr "Qu'est-ce que la technique Pomodoro?"
+msgstr "Qu'est-ce que la technique Pomodoro ?"
 
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
@@ -67,123 +67,120 @@ msgid ""
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
-"La technique Pomodoro est une méthode de gestion du temps qui peut être "
-"utilisée pour n'importe quelle de tâche. Pour de nombreuses personnes, le"
-" temps est un ennemi. L’anxiété que suscite le “tic-tac” d’une horloge, "
-"surtout lorsque l'on a une date-butoir à respecter, entraîne "
-"l’inefficacité et la procrastination."
+"La technique Pomodoro est une méthode de gestion du temps qui convient pour "
+"n'importe quelle tâche. Qui ne court pas après le temps ? "
+"L'angoisse du temps qui passe et de l'échéance qui approche "
+"entraîne une perte d'efficacité et des habitudes de travail qui "
+"font la part belle à la procrastination."
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr ""
-"Le but de la technique Pomodoro est de nous permettre de dompter le temps"
-" et de l’utiliser de manière rationnelle afin de réaliser nos objectifs, "
-"comme nous souhaitons, nous donnant le pouvoir d’améliorer "
-"continuellement notre façon de travailler ou d'étudier."
+"La technique Pomodoro consiste à faire du temps un allié, "
+"pour faire ce que nous voulons comme nous le voulons, tout "
+"en continuant d'améliorer notre façon de travailler ou d'étudier."
 
 msgid "The Goals"
-msgstr "Les Objectifs"
+msgstr "Les objectifs"
 
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
-"La technique Pomodoro fournit un outil/processus simple afin d’améliorer "
-"votre productivité (ainsi que celle de vos collègues) ce qui vous "
-"permettra de:"
+"La technique Pomodoro consiste en un outil basé sur une méthode d'une grande simplicité "
+"qui vous permettra d'améliorer votre productivité (ainsi que celle de vos collègues) tout en "
+"obtenant les avantages suivants :"
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr "Soulager l’anxiété découlant du futur"
+msgstr "Soulager l'angoisse de la page blanche"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
-msgstr "Améliorer l’attention et la concentration en réduisant les interruptions"
+msgstr "Augmenter l'attention et la concentration en réduisant les interruptions"
 
 msgid "Increase awareness of your decisions"
-msgstr "Accroître la compréhension des conséquences de vos décisions"
+msgstr "Mieux comprendre vos décisions"
 
 msgid "Boost motivation and keep it constant"
-msgstr "Booster votre motivation et la conserver à un niveau constant"
+msgstr "Booster et conserver votre motivation"
 
 msgid "Bolster the determination to achieve your goals"
-msgstr "Soutenir la détermination à atteindre vos objectifs"
+msgstr "Renforcer votre détermination à atteindre vos objectifs"
 
-msgid "Refine the estimation process, both in qualitative and quantitative terms "
-msgstr "Affiner le processus d’estimation, qualitativement et quantitativement "
+msgid "Refine the estimation process, both in qualitative and quantitative terms"
+msgstr "Mieux réaliser vos estimations, tant quantitativement que quantitativement"
 
 msgid "Improve your work or study process"
-msgstr "Améliorer votre méthode de travail ou de révisions"
+msgstr "Améliorer votre méthode de travail ou d'étude"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
 msgstr ""
-"Renforcer votre détermination pour continuer à faire face à des "
-"situations complexes"
+"Renforcer votre détermination à résoudre les situations complexes"
 
 msgid "The Basics"
-msgstr "Les Bases"
+msgstr "Le B.A.-BA"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
-"Au début de la journée, choisissez les tâches à faire et ajoutez-les dans"
-" la liste « Choses à faire » (TODO)."
+"En début de journée, énumérez vos tâches et ajoutez-les dans "
+"la liste TODO (« Choses à faire »)."
 
 msgid "Start working:"
-msgstr "Commencez à travailler:"
+msgstr "Mettez-vous au travail :"
 
 msgid "Start the Pomodoro timer"
-msgstr "Démarrez le minuteur Pomodoro"
+msgstr "Lancez le minuteur Pomodoro."
 
 msgid "Work until the Pomodoro rings"
-msgstr "Travaillez jusqu’à ce que la sonnerie retentisse"
+msgstr "Travaillez jusqu’à ce que la sonnerie retentisse."
 
 msgid "Take a short break (3-5 minutes)"
-msgstr "Faites une courte pause (3-5 minutes)"
+msgstr "Faites une courte pause (3-5 minutes)."
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
 msgstr ""
-"Continuez vos efforts, Pomodoro après Pomodoro, jusqu'à ce que la tâche "
-"soit terminée. Après chaque série de 4 Pomodoros, faites une pause plus "
+"Continuez vos efforts, pomodoro après pomodoro, jusqu'à ce que la tâche "
+"soit terminée. Après chaque série de 4 pomodoros, faites une pause plus "
 "longue (15–30 minutes)."
 
 msgid "Rules & Tips"
 msgstr "Règles et conseils"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr "Si une tâche prend plus de 5-7 Pomodoros, fractionnez-la"
+msgstr "Si une tâche prend plus de 5 pomodoros, fractionnez-la."
 
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
-msgstr "Si cette tâche demande moins d’un Pomodoro, consolidez-la avec d'autres"
+msgstr "Si une tâche demande moins d’un pomodoro, intégrez-la dans une autre."
 
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr "Un Pomodoro entamé doit sonner"
+msgstr "Un pomodoro entamé doit sonner."
 
 msgid "The next Pomodoro will go better"
-msgstr "Le prochain Pomodoro sera meilleur"
+msgstr "Chaque pomodoro est meilleur que le précédent."
 
 msgid "Login to the service and track your progress"
-msgstr "Connectez-vous et suivez vos progrès"
+msgstr "Pensez à vous connecter pour suivre vos progrès."
 
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
 msgstr ""
-"La technique Pomodoro ne doit pas être utilisée pour les activités "
-"auquelles vous consacrez votre temps libre. Profitez de votre temps libre"
-" !"
+"La technique Pomodoro ne doit pas être utilisée pour les loisirs. "
+"Profitez pleinement de votre temps libre !"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr "%s voici votre rapport journalier pour %s"
+msgstr "%s voici votre rapport quotidien pour %s"
 
 msgid "You spent"
 msgstr "Vous avez passé"
@@ -210,16 +207,16 @@ msgstr[0] "pomodoro"
 msgstr[1] "pomodoros"
 
 msgid "Of those"
-msgstr "De ces"
+msgstr "Sur ces"
 
 msgid "were"
 msgstr "il y avait"
 
 msgid "There are completed tasks"
-msgstr "Il y a des tâches complétées"
+msgstr "Des tâches ont été terminées."
 
 msgid "Please don't send me these awesome daily reports"
-msgstr "Ne pas m'envoyer c'est super rapports journaliers, s'il vous plait"
+msgstr "Je préfère ne pas recevoir ces rapports quotidiens."
 
 #~ msgid "Admin"
 #~ msgstr "Admin"
@@ -249,41 +246,41 @@ msgstr "Ne pas m'envoyer c'est super rapports journaliers, s'il vous plait"
 #~ msgstr "Historique de travail"
 
 #~ msgid "Upcomming features"
-#~ msgstr "Prochaines améliorations"
+#~ msgstr "Améliorations à venir"
 
 #~ msgid "%s here's your Daily report for"
-#~ msgstr "%s voici votre rapport journalier pour"
+#~ msgstr "%s voici votre rapport quotidien pour"
 
 #~ msgid "here's your daily report for"
-#~ msgstr "voici vottre rapport journalier pour"
+#~ msgstr "voici vottre rapport quotidien pour"
 
 #~ msgid "June"
-#~ msgstr "Juin"
+#~ msgstr "juin"
 
 #~ msgid "April"
-#~ msgstr "Avril"
+#~ msgstr "avril"
 
 #~ msgid "February"
-#~ msgstr "Février"
+#~ msgstr "février"
 
 #~ msgid "October"
-#~ msgstr "Octobre"
+#~ msgstr "octobre"
 
 #~ msgid "May"
-#~ msgstr "Mai"
+#~ msgstr "mai"
 
 #~ msgid "March"
-#~ msgstr "Mars"
+#~ msgstr "mars"
 
 #~ msgid "Febrary"
-#~ msgstr "Février"
+#~ msgstr "février"
 
 #~ msgid "December"
-#~ msgstr "Décembre"
+#~ msgstr "décembre"
 
 #~ msgid "September"
-#~ msgstr "Septembre"
+#~ msgstr "septembre"
 
 #~ msgid "August"
-#~ msgstr "Août"
+#~ msgstr "août"
 
