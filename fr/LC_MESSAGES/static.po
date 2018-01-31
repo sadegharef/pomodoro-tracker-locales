@@ -335,7 +335,7 @@ msgid "The list is empty"
 msgstr "La liste est vide"
 
 msgid "Try to mark TODO as activity or use the form above"
-msgstr "Essayez de marquer TODO comme activité ou utilisez le formulaire ci-dessus"
+msgstr "Essayez de marquer TODO comme activité ou remplissez le champ ci-dessus"
 
 msgid "Preferences"
 msgstr "Préférences"
@@ -437,7 +437,7 @@ msgid "Congratulations! You have finished all your tasks."
 msgstr "Félicitations ! Vous avez terminé toutes vos tâches."
 
 msgid "Try to add some tasks use the form above"
-msgstr "Pour ajouter des tâches, utilisez le formulaire ci-dessus"
+msgstr "Pour ajouter des tâches, remplissez le champ ci-dessus"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Cliquez-glissez/maintenez pour trier les éléments"
