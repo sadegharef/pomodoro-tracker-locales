@@ -111,7 +111,7 @@ msgstr "Renforcer votre détermination à atteindre vos objectifs"
 
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
 msgstr ""
-"Mieux réaliser vos estimations, tant quantitativement que "
+"Mieux réaliser vos estimations, tant qualitativement que "
 "quantitativement "
 
 msgid "Improve your work or study process"
