@@ -152,7 +152,7 @@ msgid "auto"
 msgstr "автоматически"
 
 msgid "Language"
-msgstr ""
+msgstr "Язык"
 
 msgid "Date format"
 msgstr "Формат даты"
@@ -593,7 +593,7 @@ msgid "Toggle Full Screen"
 msgstr "Переключить полный экран"
 
 msgid "Release Notes"
-msgstr ""
+msgstr "Новости проекта"
 
 msgid "Provide Feedback"
 msgstr "Отправить отзыв"

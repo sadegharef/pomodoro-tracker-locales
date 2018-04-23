@@ -24,26 +24,24 @@ msgstr "O Pomodoro está executando"
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ano"
+msgstr[1] "anos"
 
 msgid "month"
 msgid_plural "months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "mês"
+msgstr[1] "meses"
 
-#, fuzzy
 msgid "day"
 msgid_plural "days"
-msgstr[0] "Hoje"
-msgstr[1] ""
+msgstr[0] "dia"
+msgstr[1] "dias"
 
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "hora"
 msgstr[1] "horas"
 
-#, fuzzy
 msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "minuto"
@@ -148,7 +146,7 @@ msgid "auto"
 msgstr ""
 
 msgid "Language"
-msgstr ""
+msgstr "Língua"
 
 msgid "Date format"
 msgstr "Formato da data:"
@@ -225,9 +223,8 @@ msgstr "em 5 segundos"
 msgid "in 10 seconds"
 msgstr "em 10 segundos"
 
-#, fuzzy
 msgid "Send test notification"
-msgstr "Esconder notificações"
+msgstr "Enviar notificação de teste"
 
 msgid "Schemes"
 msgstr "Esquemas"
@@ -572,32 +569,29 @@ msgstr "Dias trabalhados"
 msgid "Median per day"
 msgstr "Média por dia"
 
-#, fuzzy
 msgid "Hide Pomodoro-Tracker"
-msgstr "em pomodoros"
+msgstr "Ocultar Pomodoro-Tracker"
 
 msgid "Hide Others"
-msgstr ""
+msgstr "Ocultar os outros"
 
 msgid "Show All"
-msgstr ""
+msgstr "Mostre tudo"
 
 msgid "Quit"
-msgstr ""
+msgstr "Sair"
 
-#, fuzzy
 msgid "Reload"
-msgstr "registro"
+msgstr "Recarregar"
 
-#, fuzzy
 msgid "Toggle Full Screen"
 msgstr "Alternar em tela cheia"
 
 msgid "Release Notes"
-msgstr ""
+msgstr "Notas de lançamento"
 
 msgid "Provide Feedback"
-msgstr ""
+msgstr "Dar uma resposta"
 
 msgid "Stats"
 msgstr "Estatísticas"
@@ -617,36 +611,32 @@ msgstr "como um usuário Facebook"
 msgid "as Github user"
 msgstr "como um usuário Github"
 
-#, fuzzy
 msgid "Please, login to view your stats"
 msgstr "Entre para registrar seu trabalho"
 
-#, fuzzy
 msgid "Start"
-msgstr "Estatísticas"
+msgstr "Iniciar"
 
 msgid "Pause"
-msgstr ""
+msgstr "PAUSAR"
 
 msgid "Skip"
-msgstr ""
+msgstr "Ignorar"
 
 msgid "Resume"
-msgstr ""
+msgstr "Retormar"
 
-#, fuzzy
 msgid "Mark done"
 msgstr "Marcar como feito"
 
-#, fuzzy
 msgid "Stop"
-msgstr "Personalizado"
+msgstr "Parar"
 
 msgid "Show window"
-msgstr ""
+msgstr "Mostrar janela"
 
 msgid "Configure"
-msgstr ""
+msgstr "Configurar"
 
 msgid "Feedback"
 msgstr "Comentários"

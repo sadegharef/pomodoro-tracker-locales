@@ -146,7 +146,7 @@ msgid "auto"
 msgstr "自動の"
 
 msgid "Language"
-msgstr ""
+msgstr "言語"
 
 msgid "Date format"
 msgstr "日付の表示形式"
@@ -161,7 +161,7 @@ msgid "Daily history"
 msgstr "毎日の歴史"
 
 msgid "Clear DONE history once per day"
-msgstr ""
+msgstr "1日に1回履歴をクリアする"
 
 msgid "Categories"
 msgstr "カテゴリー"
@@ -223,9 +223,8 @@ msgstr "5秒"
 msgid "in 10 seconds"
 msgstr "10秒"
 
-#, fuzzy
 msgid "Send test notification"
-msgstr "通知が隠れるまで"
+msgstr "テスト通知を送信する"
 
 msgid "Schemes"
 msgstr "スキーム"
@@ -568,32 +567,29 @@ msgstr "稼働日数"
 msgid "Median per day"
 msgstr "1日平均"
 
-#, fuzzy
 msgid "Hide Pomodoro-Tracker"
-msgstr "ポモドーロ"
+msgstr "隠す"
 
 msgid "Hide Others"
-msgstr ""
+msgstr "他を隠す"
 
 msgid "Show All"
-msgstr ""
+msgstr "すべて表示する"
 
 msgid "Quit"
-msgstr ""
+msgstr "終了する"
 
-#, fuzzy
 msgid "Reload"
-msgstr "記録"
+msgstr "リロード"
 
-#, fuzzy
 msgid "Toggle Full Screen"
 msgstr "フルスクリーン切り替え"
 
 msgid "Release Notes"
-msgstr ""
+msgstr "リリースノート"
 
 msgid "Provide Feedback"
-msgstr ""
+msgstr "フィードバックを提供します"
 
 msgid "Stats"
 msgstr "統計"
@@ -613,36 +609,32 @@ msgstr "Facebookアカウントでログインする"
 msgid "as Github user"
 msgstr "Githubアカウントでログインする"
 
-#, fuzzy
 msgid "Please, login to view your stats"
 msgstr "ログインして統計情報を表示する"
 
-#, fuzzy
 msgid "Start"
-msgstr "統計"
+msgstr "開始"
 
 msgid "Pause"
-msgstr ""
+msgstr "一時停止"
 
 msgid "Skip"
-msgstr ""
+msgstr "スキップ"
 
 msgid "Resume"
-msgstr ""
+msgstr "再開"
 
-#, fuzzy
 msgid "Mark done"
 msgstr "完了にする"
 
-#, fuzzy
 msgid "Stop"
-msgstr "カスタム"
+msgstr "停止"
 
 msgid "Show window"
-msgstr ""
+msgstr "ウィンドウを表示"
 
 msgid "Configure"
-msgstr ""
+msgstr "設定"
 
 msgid "Feedback"
 msgstr "フィードバック"

@@ -25,27 +25,27 @@ msgstr "Pomodoro devam ediyor"
 msgid "year"
 msgid_plural "years"
 msgstr[0] "yil"
-msgstr[1] ""
+msgstr[1] "yil"
 
 msgid "month"
 msgid_plural "months"
 msgstr[0] "ay"
-msgstr[1] ""
+msgstr[1] "aylar"
 
 msgid "day"
 msgid_plural "days"
 msgstr[0] "gün"
-msgstr[1] ""
+msgstr[1] "günler"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "saat"
+msgstr[1] "saat"
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "dakika"
+msgstr[1] "dakika"
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "kayıtlı kullanıcılar bugün pomodoros'u tamamlamak için harcıyorlar"
@@ -146,7 +146,7 @@ msgid "auto"
 msgstr "oto"
 
 msgid "Language"
-msgstr ""
+msgstr "Dil"
 
 msgid "Date format"
 msgstr "Tarih biçimi"
@@ -223,9 +223,8 @@ msgstr "5 saniye içerisinde"
 msgid "in 10 seconds"
 msgstr "10 saniye içerisinde"
 
-#, fuzzy
 msgid "Send test notification"
-msgstr "Bildirimleri gizle"
+msgstr "Test bildirimi gönder"
 
 msgid "Schemes"
 msgstr "Şemalari"
@@ -570,32 +569,29 @@ msgstr "Çalışılan gün"
 msgid "Median per day"
 msgstr "Günlük ortalama"
 
-#, fuzzy
 msgid "Hide Pomodoro-Tracker"
-msgstr "pomodoro"
+msgstr "Saklamak Pomodoro-Tracker"
 
 msgid "Hide Others"
-msgstr ""
+msgstr "Diğerlerini sakla"
 
 msgid "Show All"
-msgstr ""
+msgstr "Hepsini Göster"
 
 msgid "Quit"
-msgstr ""
+msgstr "Çikmak"
 
-#, fuzzy
 msgid "Reload"
-msgstr "rekor"
+msgstr "Tekrar yükle"
 
-#, fuzzy
 msgid "Toggle Full Screen"
 msgstr "Tam ekrana geç"
 
 msgid "Release Notes"
-msgstr ""
+msgstr "Sürüm notları"
 
 msgid "Provide Feedback"
-msgstr ""
+msgstr "Geribildirim sağlamak"
 
 msgid "Stats"
 msgstr "İstatistikler"
@@ -615,36 +611,32 @@ msgstr "Facebook üzerinden"
 msgid "as Github user"
 msgstr "Github üzerinden"
 
-#, fuzzy
 msgid "Please, login to view your stats"
 msgstr "Çalışma kaydınızı tutmak için giriş yapın"
 
-#, fuzzy
 msgid "Start"
-msgstr "İstatistikler"
+msgstr "Başlat"
 
 msgid "Pause"
-msgstr ""
+msgstr "Duraklat"
 
 msgid "Skip"
-msgstr ""
+msgstr "Geç"
 
 msgid "Resume"
-msgstr ""
+msgstr "Devam et"
 
-#, fuzzy
 msgid "Mark done"
 msgstr "Tamamlandı olarak işaretle"
 
-#, fuzzy
 msgid "Stop"
-msgstr "Seçmek"
+msgstr "Durdur"
 
 msgid "Show window"
-msgstr ""
+msgstr "Pencere göster"
 
 msgid "Configure"
-msgstr ""
+msgstr "Yapılandır"
 
 msgid "Feedback"
 msgstr "Geri Bildirim"

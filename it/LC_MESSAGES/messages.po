@@ -146,7 +146,7 @@ msgid "auto"
 msgstr "auto"
 
 msgid "Language"
-msgstr ""
+msgstr "Linguaggio"
 
 msgid "Date format"
 msgstr "Formato Data"
@@ -223,9 +223,8 @@ msgstr "in 5 secondi"
 msgid "in 10 seconds"
 msgstr "in 10 secondi"
 
-#, fuzzy
 msgid "Send test notification"
-msgstr "Nascondere le notifiche"
+msgstr "Invia notifica di prova"
 
 msgid "Schemes"
 msgstr "Schemi"
@@ -422,7 +421,7 @@ msgid "Add TODO"
 msgstr ""
 
 msgid "Favorites"
-msgstr ""
+msgstr "Preferiti"
 
 msgid "Mark as done"
 msgstr "Segna come fatto"
@@ -568,32 +567,29 @@ msgstr "Giorni di lavoro"
 msgid "Median per day"
 msgstr "Medio al giorno"
 
-#, fuzzy
 msgid "Hide Pomodoro-Tracker"
-msgstr "in pomodori"
+msgstr "Nascondere Pomodoro-Tracker"
 
 msgid "Hide Others"
-msgstr ""
+msgstr "Nascondere gli altri"
 
 msgid "Show All"
-msgstr ""
+msgstr "Mostra tutto"
 
 msgid "Quit"
-msgstr ""
+msgstr "Smettere"
 
-#, fuzzy
 msgid "Reload"
-msgstr "record"
+msgstr "Ricaricare"
 
-#, fuzzy
 msgid "Toggle Full Screen"
 msgstr "Passare a schermo intero"
 
 msgid "Release Notes"
-msgstr ""
+msgstr "Note di rilascio"
 
 msgid "Provide Feedback"
-msgstr ""
+msgstr "Fornire un feedback"
 
 msgid "Stats"
 msgstr "Statistiche"
@@ -613,36 +609,32 @@ msgstr "come utente Facebook"
 msgid "as Github user"
 msgstr "come utente Github"
 
-#, fuzzy
 msgid "Please, login to view your stats"
 msgstr "Entra per salvare il tuo lavoro"
 
-#, fuzzy
 msgid "Start"
-msgstr "Statistiche"
+msgstr "Inizio"
 
 msgid "Pause"
-msgstr ""
+msgstr "Pausa"
 
 msgid "Skip"
-msgstr ""
+msgstr "Salta"
 
 msgid "Resume"
-msgstr ""
+msgstr "Rimettersi"
 
-#, fuzzy
 msgid "Mark done"
 msgstr "Segna come fatto"
 
-#, fuzzy
 msgid "Stop"
-msgstr "Specifica"
+msgstr "Stop"
 
 msgid "Show window"
-msgstr ""
+msgstr "Mostra la finestra"
 
 msgid "Configure"
-msgstr ""
+msgstr "Configurare"
 
 msgid "Feedback"
 msgstr "Commento"
