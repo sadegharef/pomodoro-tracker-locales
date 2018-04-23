@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-01-31 12:57+0300\n"
+"POT-Creation-Date: 2018-04-23 09:46+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -19,17 +19,584 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.1\n"
 
-msgid "Feedback"
-msgstr "フィードバック"
+msgid "The Pomodoro is running"
+msgstr "ポモドーロ中"
 
-msgid "Login to view your stats"
-msgstr "ログインして統計情報を表示する"
+msgid "year"
+msgid_plural "years"
+msgstr[0] "年"
+msgstr[1] "年々"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "月"
+msgstr[1] "数ヶ月"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "日"
+msgstr[1] "月日"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "時"
+msgstr[1] "時間"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "分"
+msgstr[1] "分"
+
+msgid "registered users spend on completing pomodoros today."
+msgstr "登録ユーザーは今日のポモドーロを完了するのに費やす"
+
+msgid "registered users spend on completing pomodoros"
+msgstr "登録ユーザーはポモドーロを完了するのに費やす"
+
+msgid "for all time"
+msgstr "いつでも"
+
+msgid "LOADING"
+msgstr "ロード"
+
+msgid "Are you sure want to delete"
+msgstr "削除してよろしいですか？"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "record"
+msgstr "記録"
+
+msgid "Application"
+msgstr "基本設定"
+
+msgid "Timer"
+msgstr "タイマー"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Integrations"
+msgstr "連携機能"
+
+msgid "Connect"
+msgstr "連携"
+
+msgid "Disconnect"
+msgstr "連携解除"
+
+msgid "Integration with Google"
+msgstr "Googleアカウントとの連携"
+
+msgid "Login to the service using Google authentication."
+msgstr "Googleアカウントでログインする"
+
+msgid "Integration with Facebook"
+msgstr "Facebookアカウントとの連携"
+
+msgid "Login to the service using Facebook authentication."
+msgstr "Facebookアカウントでログインする"
+
+msgid "Integration with Github"
+msgstr "Githubアカウントとの連携"
+
+msgid "Login to the service using Github authentication."
+msgstr "Githubアカウントでログインする"
+
+msgid "Enable Telegram Bot"
+msgstr "Telegram Botを有効にする"
+
+msgid "Get notifications, check history"
+msgstr "通知と履歴の確認"
+
+msgid "Connect Telegram Bot"
+msgstr "Telegram Botとの連携"
+
+msgid "Add"
+msgstr "追加"
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr "あなたの電報に `/ start`と打ち込んでボットのコードを以下のフィールドに入力してください"
+
+msgid "Code"
+msgstr "暗号"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Register"
+msgstr "登録"
+
+msgid "Theme"
+msgstr "テーマ"
+
+msgid "light"
+msgstr "光"
+
+msgid "dark"
+msgstr "ダーク"
+
+msgid "auto"
+msgstr "自動の"
+
+msgid "Language"
+msgstr ""
+
+msgid "Date format"
+msgstr "日付の表示形式"
+
+msgid "Time format"
+msgstr "時間の表示形式"
+
+msgid "Time zone"
+msgstr "タイムゾーン"
+
+msgid "Daily history"
+msgstr "毎日の歴史"
+
+msgid "Clear DONE history once per day"
+msgstr ""
+
+msgid "Categories"
+msgstr "カテゴリー"
+
+msgid "Create a category"
+msgstr "カテゴリを作成する"
+
+msgid "Add category"
+msgstr "カテゴリの追加"
+
+msgid "Send Daily Reports"
+msgstr "日報を送る"
+
+msgid "Send reports on email: "
+msgstr "電子メールでレポートを送信する"
+
+msgid "Send reports on telegram"
+msgstr "電報に関するレポートを送信する"
+
+msgid "Volume"
+msgstr "音量"
+
+msgid "Play alarm sound"
+msgstr "アラームを再生する"
+
+msgid "Play ticking sound"
+msgstr "チクタク音を再生する"
+
+msgid "Play ticking sound while breaks"
+msgstr "休憩中に音を立てて再生する"
+
+msgid "Notify when there is one minute left"
+msgstr "1分が残っているときに通知する"
+
+msgid "Enable Web Notifications"
+msgstr "Web通知機能を有効にする"
+
+msgid "Enable Telegram Notifications"
+msgstr "テレグラム通知を有効にする"
+
+msgid "Enable Browser Alerts"
+msgstr "ブラウザーアラートを有効にする"
+
+msgid "Raise browser alert when pomodoro/break is over"
+msgstr "ポモドーロ/休憩が終わるとブラウザーアラートが表示されます"
+
+msgid "Hide notificaions"
+msgstr "通知が隠れるまで"
+
+msgid "in 2 seconds"
+msgstr "2秒"
+
+msgid "in 3 seconds"
+msgstr "3秒"
+
+msgid "in 5 seconds"
+msgstr "5秒"
+
+msgid "in 10 seconds"
+msgstr "10秒"
+
+#, fuzzy
+msgid "Send test notification"
+msgstr "通知が隠れるまで"
+
+msgid "Schemes"
+msgstr "スキーム"
+
+msgid "Pomodoro duration:"
+msgstr "ポモドーロの間隔"
+
+msgid "in seconds"
+msgstr "秒単位で"
+
+msgid "in minutes"
+msgstr "分単位"
+
+msgid "Short break duration:"
+msgstr "短い休憩時間："
+
+msgid "Long break duration:"
+msgstr "長い休憩時間："
+
+msgid "Long break delay:"
+msgstr "長い休憩までの回数"
+
+msgid "in pomodoros"
+msgstr "ポモドーロ"
+
+msgid "Auto start pomodoros"
+msgstr "ポモドーロを自動的に開始する"
+
+msgid "Don`t start next pomodoro if TODO is empty"
+msgstr "TODOが空の場合、次のポモドーロを開始しないでください"
+
+msgid "Auto start breaks"
+msgstr "休憩時間を自動的に開始する"
+
+msgid "Sort by"
+msgstr "並び替え"
+
+msgid "rating"
+msgstr "評価"
+
+msgid "created"
+msgstr "作成した"
+
+msgid "New"
+msgstr "新着"
+
+msgid "Done"
+msgstr "完了"
+
+msgid "Like"
+msgstr "いいね"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "いいね"
+msgstr[1] "いいね"
+
+msgid "Write your ideas here"
+msgstr "あなたのアイデアを書いてください"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Create"
+msgstr "作成"
+
+msgid "Thank you for the feedback! Your message is awaiting moderation."
+msgstr "フィードバックをいただきありがとうございます！あなたのメッセージは承認待ちです。"
+
+msgid "TODO list was updated."
+msgstr "TODOリストが更新されました"
+
+msgid "Activities"
+msgstr "アクティビティ"
+
+msgid "Category"
+msgstr "カテゴリー"
+
+msgid "Short description"
+msgstr "簡単な説明"
+
+msgid "Add Activity"
+msgstr "アクティビティの追加"
+
+msgid "Mark as daily task"
+msgstr "毎日のタスクとして登録する"
+
+msgid "Add to TODO"
+msgstr "TODOに追加する"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Add more"
+msgstr "もう一回"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Click/tap to edit items."
+msgstr "アイテムを編集するには、ダブルクリックまたはタップしてください。"
+
+msgid "Click on a number to add more."
+msgstr "追加する番号をクリックしてください。"
+
+msgid "The list is empty"
+msgstr "リストは空です。"
+
+msgid "Try to mark TODO as activity or use the form above"
+msgstr "TODOをアクティビティとしてマークするか、上記のフォームを使用してください。"
+
+msgid "Preferences"
+msgstr "設定"
+
+msgid "DONE"
+msgstr "完了"
+
+msgid "no description"
+msgstr "説明無し"
+
+msgid "Pin to favorites"
+msgstr "お気に入りに追加"
+
+msgid "Records are empty"
+msgstr "レコードが空です"
+
+msgid "Try to complete some pomodoros above"
+msgstr "上記のポモドーロを完了してください"
+
+msgid "Clear the history"
+msgstr "履歴をクリアする"
+
+msgid "You are not signed."
+msgstr "あなたは署名されていません。"
+
+msgid "Work history won`t be saved."
+msgstr "仕事の歴史は保存されません。"
+
+msgid "One minute left"
+msgstr "1分左"
+
+msgid "Tune the timer"
+msgstr "タイマーを調整する"
+
+msgid "Toggle fullscreen"
+msgstr "フルスクリーン切り替え"
+
+msgid "START"
+msgstr "開始"
+
+msgid "RESUME"
+msgstr "再開"
+
+msgid "PAUSE"
+msgstr "一時停止"
+
+msgid "STOP"
+msgstr "停止"
+
+msgid "SKIP"
+msgstr "スキップ"
+
+msgid "Break is over. The next pomodoro will go better!"
+msgstr "休憩終了です。次のポモドーロも頑張りましょう！"
+
+msgid "Pomodoro is finished. Have a short break."
+msgstr "ポモドーロ終了です、休憩しましょう。"
+
+msgid "Pomodoro is finished. Have a long break."
+msgstr "ポモドーロ終了です、休憩しましょう。"
+
+msgid "POMODORO"
+msgstr "ポモドーロ"
+
+msgid "TAKE A SHORT BREAK"
+msgstr "短時間休憩"
+
+msgid "TAKE A LONG BREAK"
+msgstr "長時間休憩"
+
+msgid "DELAY"
+msgstr "遅れ"
+
+msgid "Great work! TODO list is empty."
+msgstr "リストは空です。"
+
+msgid "TODO"
+msgstr "TODO"
+
+msgid "Add TODO"
+msgstr "TODOの追加"
+
+msgid "Favorites"
+msgstr "お気に入り"
+
+msgid "Mark as done"
+msgstr "完了にする"
+
+msgid "Drag/Move to sort"
+msgstr "ドラッグで並べ替え"
+
+msgid "TODO list is empty"
+msgstr "TODOリストが空です"
+
+msgid "Congratulations! You have finished all your tasks."
+msgstr "おめでとうございます！ すべてのタスクを完了しました。"
+
+msgid "Try to add some tasks use the form above"
+msgstr "上のフォームに入力してタスクを追加してください"
+
+msgid "Drag&Drop/Touch to sort items."
+msgstr "項目を編集するにはダブルクリックまたはタップしてください。ドラッグ＆ドロップで項目の並べ替えができます。"
+
+msgid "Time"
+msgstr "時間"
+
+msgid "Date"
+msgstr "日付"
+
+msgid "Try to complete some pomodoros or choose a different period"
+msgstr "ポモドーロを完了するか、別の期間をえらんでください。"
+
+msgid "Export the records as CSV"
+msgstr "CSV出力"
+
+msgid "Import records from CSV"
+msgstr "CSVからレコードをインポートする"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "January"
+msgstr "1月"
+
+msgid "February"
+msgstr "2月"
+
+msgid "March"
+msgstr "3月"
+
+msgid "April"
+msgstr "4月"
+
+msgid "May"
+msgstr "5月"
+
+msgid "June"
+msgstr "6月"
+
+msgid "July"
+msgstr "7月"
+
+msgid "August"
+msgstr "8月"
+
+msgid "September"
+msgstr "9月"
+
+msgid "October"
+msgstr "10月"
+
+msgid "November"
+msgstr "11月"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "Yesterday"
+msgstr "昨日"
+
+msgid "This Week"
+msgstr "今週"
+
+msgid "Last Week"
+msgstr "先週"
+
+msgid "This Month"
+msgstr "今月"
+
+msgid "Last Month"
+msgstr "先月"
+
+msgid "This Quarter"
+msgstr "現在の四半期"
+
+msgid "Last Quarter"
+msgstr "前の四半期"
+
+msgid "Last 90 days"
+msgstr "過去90日間"
+
+msgid "Last 180 days"
+msgstr "過去180日間"
+
+msgid "%1$s records were imported"
+msgstr "%1$s レコードがインポートされました。"
+
+msgid "Import was failed. Check your CSV and try again."
+msgstr "インポートに失敗しました。 CSVを確認して、もう一度お試しください。"
+
+msgid "time"
+msgstr "時間数"
+
+msgid "number"
+msgstr "単位数"
+
+msgid "Activity by days"
+msgstr "日別"
+
+msgid "Activity by weeks"
+msgstr "週別"
+
+msgid "Activity by months"
+msgstr "月別"
+
+msgid "average"
+msgstr "平均"
+
+msgid "median"
+msgstr "平均"
+
+msgid "Pomodoros"
+msgstr "ポモドーロ"
+
+msgid "Time spent"
+msgstr "時間"
+
+msgid "Work days"
+msgstr "稼働日数"
+
+msgid "Median per day"
+msgstr "1日平均"
+
+#, fuzzy
+msgid "Hide Pomodoro-Tracker"
+msgstr "ポモドーロ"
+
+msgid "Hide Others"
+msgstr ""
+
+msgid "Show All"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+#, fuzzy
+msgid "Reload"
+msgstr "記録"
+
+#, fuzzy
+msgid "Toggle Full Screen"
+msgstr "フルスクリーン切り替え"
+
+msgid "Release Notes"
+msgstr ""
+
+msgid "Provide Feedback"
+msgstr ""
 
 msgid "Stats"
 msgstr "統計"
-
-msgid "Settings"
-msgstr "設定"
 
 msgid "Logout"
 msgstr "ログアウト"
@@ -45,6 +612,46 @@ msgstr "Facebookアカウントでログインする"
 
 msgid "as Github user"
 msgstr "Githubアカウントでログインする"
+
+#, fuzzy
+msgid "Please, login to view your stats"
+msgstr "ログインして統計情報を表示する"
+
+#, fuzzy
+msgid "Start"
+msgstr "統計"
+
+msgid "Pause"
+msgstr ""
+
+msgid "Skip"
+msgstr ""
+
+msgid "Resume"
+msgstr ""
+
+#, fuzzy
+msgid "Mark done"
+msgstr "完了にする"
+
+#, fuzzy
+msgid "Stop"
+msgstr "カスタム"
+
+msgid "Show window"
+msgstr ""
+
+msgid "Configure"
+msgstr ""
+
+msgid "Feedback"
+msgstr "フィードバック"
+
+msgid "Login to view your stats"
+msgstr "ログインして統計情報を表示する"
+
+msgid "Settings"
+msgstr "設定"
 
 msgid "version"
 msgstr "バージョン"
@@ -166,18 +773,8 @@ msgstr "あなたの毎日のレポートはここにあります"
 msgid "You spent"
 msgstr "あなたが過ごした"
 
-msgid "hour"
-msgid_plural "hours"
-msgstr[0] "時"
-msgstr[1] "時間"
-
 msgid "and"
 msgstr "そして"
-
-msgid "minute"
-msgid_plural "minutes"
-msgstr[0] "分"
-msgstr[1] "分"
 
 msgid "on"
 msgstr "に"
@@ -199,69 +796,6 @@ msgstr "完了したタスクがあります"
 msgid "Please don't send me these awesome daily reports"
 msgstr "これらのすばらしい日報を私に送らないでください"
 
-#~ msgid "Admin"
-#~ msgstr "管理"
-
-#~ msgid "Spain"
-#~ msgstr "スペイン語"
-
-#~ msgid "English"
-#~ msgstr "英語"
-
-#~ msgid "Italian"
-#~ msgstr "イタリア語"
-
-#~ msgid "Russian"
-#~ msgstr "ロシア語"
-
-#~ msgid "Spanish"
-#~ msgstr "スペイン語"
-
-#~ msgid "Your language"
-#~ msgstr "あなたの言語"
-
-#~ msgid "Login to track your productivity"
-#~ msgstr "ログインして生産性の記録を残しましょう"
-
-#~ msgid "Login to log your work"
-#~ msgstr "ログインして作業記録を残しましょう"
-
-#~ msgid "Worklog"
-#~ msgstr "作業ログ"
-
-#~ msgid "Upcomming features"
-#~ msgstr "今後の機能"
-
-#~ msgid "here's your daily report for"
-#~ msgstr "あなたの毎日のレポートはここにあります"
-
-#~ msgid "June"
-#~ msgstr "6月"
-
-#~ msgid "April"
-#~ msgstr "4月"
-
-#~ msgid "February"
-#~ msgstr "2月"
-
-#~ msgid "October"
-#~ msgstr "10月"
-
-#~ msgid "May"
-#~ msgstr "5月"
-
-#~ msgid "March"
-#~ msgstr "3月"
-
-#~ msgid "Febrary"
-#~ msgstr "2月"
-
-#~ msgid "December"
-#~ msgstr "12月"
-
-#~ msgid "September"
-#~ msgstr "9月"
-
-#~ msgid "August"
-#~ msgstr "8月"
+#~ msgid "test"
+#~ msgstr "テスト"
 
