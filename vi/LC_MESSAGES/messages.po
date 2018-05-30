@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-23 09:55+0300\n"
+"POT-Creation-Date: 2018-05-30 18:56+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -566,22 +566,7 @@ msgstr ""
 msgid "Median per day"
 msgstr ""
 
-msgid "Hide Pomodoro-Tracker"
-msgstr ""
-
-msgid "Hide Others"
-msgstr ""
-
-msgid "Show All"
-msgstr ""
-
-msgid "Quit"
-msgstr ""
-
-msgid "Reload"
-msgstr ""
-
-msgid "Toggle Full Screen"
+msgid "View"
 msgstr ""
 
 msgid "Release Notes"
@@ -633,6 +618,9 @@ msgid "Show window"
 msgstr ""
 
 msgid "Configure"
+msgstr ""
+
+msgid "Quit"
 msgstr ""
 
 msgid "Feedback"
@@ -820,5 +808,20 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "August"
+#~ msgstr ""
+
+#~ msgid "Hide Pomodoro-Tracker"
+#~ msgstr ""
+
+#~ msgid "Hide Others"
+#~ msgstr ""
+
+#~ msgid "Show All"
+#~ msgstr ""
+
+#~ msgid "Reload"
+#~ msgstr ""
+
+#~ msgid "Toggle Full Screen"
 #~ msgstr ""
 

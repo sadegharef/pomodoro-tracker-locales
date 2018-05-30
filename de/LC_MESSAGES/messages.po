@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2018-04-23 09:55+0300\n"
+"POT-Creation-Date: 2018-05-30 18:56+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -571,23 +571,8 @@ msgstr "Arbeitstage"
 msgid "Median per day"
 msgstr "Median pro Tag"
 
-msgid "Hide Pomodoro-Tracker"
-msgstr "Verbergen Pomodoro-Tracker"
-
-msgid "Hide Others"
-msgstr "Andere verstecken"
-
-msgid "Show All"
-msgstr "Zeige alles"
-
-msgid "Quit"
-msgstr "Verlassen"
-
-msgid "Reload"
-msgstr "Nachladen"
-
-msgid "Toggle Full Screen"
-msgstr "Vollbild umschalten"
+msgid "View"
+msgstr ""
 
 msgid "Release Notes"
 msgstr "Versionshinweise"
@@ -639,6 +624,9 @@ msgstr "Schaufenster"
 
 msgid "Configure"
 msgstr "Konfigurieren"
+
+msgid "Quit"
+msgstr "Verlassen"
 
 msgid "Feedback"
 msgstr "Feedback"
@@ -811,4 +799,19 @@ msgstr "Es gibt abgeschlossene Tasks"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Bitte senden sie keine weiteren dieser täglichen Berichte"
+
+#~ msgid "Hide Pomodoro-Tracker"
+#~ msgstr "Verbergen Pomodoro-Tracker"
+
+#~ msgid "Hide Others"
+#~ msgstr "Andere verstecken"
+
+#~ msgid "Show All"
+#~ msgstr "Zeige alles"
+
+#~ msgid "Reload"
+#~ msgstr "Nachladen"
+
+#~ msgid "Toggle Full Screen"
+#~ msgstr "Vollbild umschalten"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-23 09:55+0300\n"
+"POT-Creation-Date: 2018-05-30 18:56+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -567,23 +567,8 @@ msgstr "Giorni di lavoro"
 msgid "Median per day"
 msgstr "Medio al giorno"
 
-msgid "Hide Pomodoro-Tracker"
-msgstr "Nascondere Pomodoro-Tracker"
-
-msgid "Hide Others"
-msgstr "Nascondere gli altri"
-
-msgid "Show All"
-msgstr "Mostra tutto"
-
-msgid "Quit"
-msgstr "Smettere"
-
-msgid "Reload"
-msgstr "Ricaricare"
-
-msgid "Toggle Full Screen"
-msgstr "Passare a schermo intero"
+msgid "View"
+msgstr ""
 
 msgid "Release Notes"
 msgstr "Note di rilascio"
@@ -635,6 +620,9 @@ msgstr "Mostra la finestra"
 
 msgid "Configure"
 msgstr "Configurare"
+
+msgid "Quit"
+msgstr "Smettere"
 
 msgid "Feedback"
 msgstr "Commento"
@@ -790,4 +778,19 @@ msgstr ""
 
 #~ msgid "test"
 #~ msgstr "test"
+
+#~ msgid "Hide Pomodoro-Tracker"
+#~ msgstr "Nascondere Pomodoro-Tracker"
+
+#~ msgid "Hide Others"
+#~ msgstr "Nascondere gli altri"
+
+#~ msgid "Show All"
+#~ msgstr "Mostra tutto"
+
+#~ msgid "Reload"
+#~ msgstr "Ricaricare"
+
+#~ msgid "Toggle Full Screen"
+#~ msgstr "Passare a schermo intero"
 

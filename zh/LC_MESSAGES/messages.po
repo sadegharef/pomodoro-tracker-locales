@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-23 09:55+0300\n"
+"POT-Creation-Date: 2018-05-30 18:56+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -561,23 +561,8 @@ msgstr "工作天数"
 msgid "Median per day"
 msgstr "按天的中位数"
 
-msgid "Hide Pomodoro-Tracker"
-msgstr "隐藏Pomodoro-Tracker"
-
-msgid "Hide Others"
-msgstr "隐藏其他"
-
-msgid "Show All"
-msgstr "显示所有"
-
-msgid "Quit"
-msgstr "退出"
-
-msgid "Reload"
-msgstr "刷新"
-
-msgid "Toggle Full Screen"
-msgstr "切换全屏"
+msgid "View"
+msgstr ""
 
 msgid "Release Notes"
 msgstr "发布记录"
@@ -630,6 +615,9 @@ msgstr "显示窗口"
 msgid "Configure"
 msgstr "配置"
 
+msgid "Quit"
+msgstr "退出"
+
 msgid "Feedback"
 msgstr "反馈"
 
@@ -659,18 +647,13 @@ msgid ""
 "any task. For many people, time is an enemy. The anxiety triggered by "
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
-msgstr ""
-"番茄工作法是一种可用于任何任务的时间管理方法。对于很多人来说，时间就是敌人。"
-"“滴答滴答的时钟”引发的焦虑会导致无效的工作和学习习惯，从而导致拖延。尤其是当"
-"它有一个截止日期时。"
+msgstr "番茄工作法是一种可用于任何任务的时间管理方法。对于很多人来说，时间就是敌人。“滴答滴答的时钟”引发的焦虑会导致无效的工作和学习习惯，从而导致拖延。尤其是当它有一个截止日期时。"
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
-msgstr ""
-"番茄工作法的目的是把时间作为一个有价值的盟友，以我们想要的方式完成我们想要做"
-"的事情，并使我们能够不断地改进我们的工作或学习方式。"
+msgstr "番茄工作法的目的是把时间作为一个有价值的盟友，以我们想要的方式完成我们想要做的事情，并使我们能够不断地改进我们的工作或学习方式。"
 
 msgid "The Goals"
 msgstr "番茄工作法的目标"
@@ -679,9 +662,7 @@ msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
 "following:"
-msgstr ""
-"番茄工作法为您和您的团队成员提供一个简单的工具或者是过程来提高生产力，它可以执"
-"行以下操作："
+msgstr "番茄工作法为您和您的团队成员提供一个简单的工具或者是过程来提高生产力，它可以执行以下操作："
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr "减轻开始工作时的焦虑"
@@ -732,9 +713,7 @@ msgstr "开始一段短暂的休息（3到5分钟）"
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
-msgstr ""
-"一个番茄钟接着一个番茄钟地持续工作，直到手头的任务完成。每4个番茄钟之间"
-"有一个长休息（15到30分钟）"
+msgstr "一个番茄钟接着一个番茄钟地持续工作，直到手头的任务完成。每4个番茄钟之间有一个长休息（15到30分钟）"
 
 msgid "Rules & Tips"
 msgstr "规则 & 提示"
@@ -789,3 +768,19 @@ msgstr "这是已完成的任务"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "请不要将这些精彩的每日报道寄给我"
+
+#~ msgid "Hide Pomodoro-Tracker"
+#~ msgstr "隐藏Pomodoro-Tracker"
+
+#~ msgid "Hide Others"
+#~ msgstr "隐藏其他"
+
+#~ msgid "Show All"
+#~ msgstr "显示所有"
+
+#~ msgid "Reload"
+#~ msgstr "刷新"
+
+#~ msgid "Toggle Full Screen"
+#~ msgstr "切换全屏"
+

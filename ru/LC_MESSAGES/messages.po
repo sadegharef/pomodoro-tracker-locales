@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-23 09:55+0300\n"
+"POT-Creation-Date: 2018-05-30 18:55+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -574,23 +574,8 @@ msgstr "Рабочие дни"
 msgid "Median per day"
 msgstr "Медиана/день"
 
-msgid "Hide Pomodoro-Tracker"
-msgstr "Спрятать приложение"
-
-msgid "Hide Others"
-msgstr "Спрятать другое"
-
-msgid "Show All"
-msgstr "Показать все"
-
-msgid "Quit"
-msgstr "Выход"
-
-msgid "Reload"
-msgstr "Перезагрузить"
-
-msgid "Toggle Full Screen"
-msgstr "Переключить полный экран"
+msgid "View"
+msgstr ""
 
 msgid "Release Notes"
 msgstr "Новости проекта"
@@ -642,6 +627,9 @@ msgstr "Показать окно"
 
 msgid "Configure"
 msgstr "Настроить"
+
+msgid "Quit"
+msgstr "Выход"
 
 msgid "Feedback"
 msgstr "Идеи"
@@ -813,4 +801,19 @@ msgstr "Выполненные задачи"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Пожалуйста, не присылайте мне эти замечательные отчеты"
+
+#~ msgid "Hide Pomodoro-Tracker"
+#~ msgstr "Спрятать приложение"
+
+#~ msgid "Hide Others"
+#~ msgstr "Спрятать другое"
+
+#~ msgid "Show All"
+#~ msgstr "Показать все"
+
+#~ msgid "Reload"
+#~ msgstr "Перезагрузить"
+
+#~ msgid "Toggle Full Screen"
+#~ msgstr "Переключить полный экран"
 

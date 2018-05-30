@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-23 09:55+0300\n"
+"POT-Creation-Date: 2018-05-30 18:56+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -567,23 +567,8 @@ msgstr "稼働日数"
 msgid "Median per day"
 msgstr "1日平均"
 
-msgid "Hide Pomodoro-Tracker"
-msgstr "隠す"
-
-msgid "Hide Others"
-msgstr "他を隠す"
-
-msgid "Show All"
-msgstr "すべて表示する"
-
-msgid "Quit"
-msgstr "終了する"
-
-msgid "Reload"
-msgstr "リロード"
-
-msgid "Toggle Full Screen"
-msgstr "フルスクリーン切り替え"
+msgid "View"
+msgstr ""
 
 msgid "Release Notes"
 msgstr "リリースノート"
@@ -635,6 +620,9 @@ msgstr "ウィンドウを表示"
 
 msgid "Configure"
 msgstr "設定"
+
+msgid "Quit"
+msgstr "終了する"
 
 msgid "Feedback"
 msgstr "フィードバック"
@@ -790,4 +778,19 @@ msgstr "これらのすばらしい日報を私に送らないでください"
 
 #~ msgid "test"
 #~ msgstr "テスト"
+
+#~ msgid "Hide Pomodoro-Tracker"
+#~ msgstr "隠す"
+
+#~ msgid "Hide Others"
+#~ msgstr "他を隠す"
+
+#~ msgid "Show All"
+#~ msgstr "すべて表示する"
+
+#~ msgid "Reload"
+#~ msgstr "リロード"
+
+#~ msgid "Toggle Full Screen"
+#~ msgstr "フルスクリーン切り替え"
 

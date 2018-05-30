@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-23 09:55+0300\n"
+"POT-Creation-Date: 2018-05-30 18:56+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -571,23 +571,8 @@ msgstr "jours de travail"
 msgid "Median per day"
 msgstr "médiane par jour"
 
-msgid "Hide Pomodoro-Tracker"
-msgstr "Cacher Pomodoro-Tracker"
-
-msgid "Hide Others"
-msgstr "Masquer les autres"
-
-msgid "Show All"
-msgstr "Montre tout"
-
-msgid "Quit"
-msgstr "Quitter"
-
-msgid "Reload"
-msgstr "Recharger"
-
-msgid "Toggle Full Screen"
-msgstr "Basculer en plein écran"
+msgid "View"
+msgstr ""
 
 msgid "Release Notes"
 msgstr "Notes de version"
@@ -639,6 +624,9 @@ msgstr "Afficher la fenêtre"
 
 msgid "Configure"
 msgstr "Configurer"
+
+msgid "Quit"
+msgstr "Quitter"
 
 msgid "Feedback"
 msgstr "Avis"
@@ -812,4 +800,19 @@ msgstr "Je préfère ne pas recevoir ces rapports quotidiens."
 
 #~ msgid "test"
 #~ msgstr "test"
+
+#~ msgid "Hide Pomodoro-Tracker"
+#~ msgstr "Cacher Pomodoro-Tracker"
+
+#~ msgid "Hide Others"
+#~ msgstr "Masquer les autres"
+
+#~ msgid "Show All"
+#~ msgstr "Montre tout"
+
+#~ msgid "Reload"
+#~ msgstr "Recharger"
+
+#~ msgid "Toggle Full Screen"
+#~ msgstr "Basculer en plein écran"
 

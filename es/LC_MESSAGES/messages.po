@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-23 09:55+0300\n"
+"POT-Creation-Date: 2018-05-30 18:56+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -569,23 +569,8 @@ msgstr "Días de trabajo"
 msgid "Median per day"
 msgstr "Mediana por día"
 
-msgid "Hide Pomodoro-Tracker"
-msgstr "Esconder Pomodoro-Tracker"
-
-msgid "Hide Others"
-msgstr "Esconder otros"
-
-msgid "Show All"
-msgstr "Mostrar todo"
-
-msgid "Quit"
-msgstr "Dejar"
-
-msgid "Reload"
-msgstr "Recargar"
-
-msgid "Toggle Full Screen"
-msgstr "Alternar pantalla completa"
+msgid "View"
+msgstr ""
 
 msgid "Release Notes"
 msgstr "Notas de lanzamiento"
@@ -637,6 +622,9 @@ msgstr "Mostrar ventana"
 
 msgid "Configure"
 msgstr "Configurar"
+
+msgid "Quit"
+msgstr "Dejar"
 
 msgid "Feedback"
 msgstr "Sugerencias"
@@ -814,4 +802,19 @@ msgstr "Hay tareas completadas"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Por favor no me envíes estos increíbles informes diarios"
+
+#~ msgid "Hide Pomodoro-Tracker"
+#~ msgstr "Esconder Pomodoro-Tracker"
+
+#~ msgid "Hide Others"
+#~ msgstr "Esconder otros"
+
+#~ msgid "Show All"
+#~ msgstr "Mostrar todo"
+
+#~ msgid "Reload"
+#~ msgstr "Recargar"
+
+#~ msgid "Toggle Full Screen"
+#~ msgstr "Alternar pantalla completa"
 

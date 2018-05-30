@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-23 09:55+0300\n"
+"POT-Creation-Date: 2018-05-30 18:56+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -569,23 +569,8 @@ msgstr "Çalışılan gün"
 msgid "Median per day"
 msgstr "Günlük ortalama"
 
-msgid "Hide Pomodoro-Tracker"
-msgstr "Saklamak Pomodoro-Tracker"
-
-msgid "Hide Others"
-msgstr "Diğerlerini sakla"
-
-msgid "Show All"
-msgstr "Hepsini Göster"
-
-msgid "Quit"
-msgstr "Çikmak"
-
-msgid "Reload"
-msgstr "Tekrar yükle"
-
-msgid "Toggle Full Screen"
-msgstr "Tam ekrana geç"
+msgid "View"
+msgstr ""
 
 msgid "Release Notes"
 msgstr "Sürüm notları"
@@ -637,6 +622,9 @@ msgstr "Pencere göster"
 
 msgid "Configure"
 msgstr "Yapılandır"
+
+msgid "Quit"
+msgstr "Çikmak"
 
 msgid "Feedback"
 msgstr "Geri Bildirim"
@@ -812,4 +800,19 @@ msgstr ""
 
 #~ msgid "test"
 #~ msgstr ""
+
+#~ msgid "Hide Pomodoro-Tracker"
+#~ msgstr "Saklamak Pomodoro-Tracker"
+
+#~ msgid "Hide Others"
+#~ msgstr "Diğerlerini sakla"
+
+#~ msgid "Show All"
+#~ msgstr "Hepsini Göster"
+
+#~ msgid "Reload"
+#~ msgstr "Tekrar yükle"
+
+#~ msgid "Toggle Full Screen"
+#~ msgstr "Tam ekrana geç"
 
