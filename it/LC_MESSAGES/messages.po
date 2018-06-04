@@ -39,13 +39,13 @@ msgstr[1] "giorni"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ora"
+msgstr[1] "ore"
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "minuto"
+msgstr[1] "minuti"
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "gli utenti registrati spendono oggi sul completamento dei pomodori."
@@ -75,7 +75,7 @@ msgid "Application"
 msgstr "Applicazione"
 
 msgid "Timer"
-msgstr "Contaminuti"
+msgstr "Orologio"
 
 msgid "Notifications"
 msgstr "Notifiche"
@@ -84,37 +84,37 @@ msgid "Integrations"
 msgstr "Integrazioni"
 
 msgid "Connect"
-msgstr "La connessione"
+msgstr "Connetti"
 
 msgid "Disconnect"
-msgstr "Disconnessione"
+msgstr "Disconnetti"
 
 msgid "Integration with Google"
-msgstr ""
+msgstr "Integrazione con Google"
 
 msgid "Login to the service using Google authentication."
-msgstr ""
+msgstr "Login al servizio utilizzando l'autenticazione tramite Google."
 
 msgid "Integration with Facebook"
-msgstr ""
+msgstr "Integrazione con Facebook"
 
 msgid "Login to the service using Facebook authentication."
-msgstr ""
+msgstr "Login al servizio utilizzando l'autenticazione tramite Facebook."
 
 msgid "Integration with Github"
-msgstr ""
+msgstr "Integrazione con Github"
 
 msgid "Login to the service using Github authentication."
-msgstr ""
+msgstr "Login al servizio utilizzando l'autenticazione tramite Github"
 
 msgid "Enable Telegram Bot"
-msgstr ""
+msgstr "Abilita il Telegram Bot"
 
 msgid "Get notifications, check history"
-msgstr ""
+msgstr "Ricevi le notifiche, controlla lo storico"
 
 msgid "Connect Telegram Bot"
-msgstr ""
+msgstr "Connetti il Telegram Bot"
 
 msgid "Add"
 msgstr "Aggiungi"
@@ -123,6 +123,8 @@ msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
 msgstr ""
+"nel tuo telegram, digita `/start` e inserisci un codice dal bot al campo "
+"sottostante"
 
 msgid "Code"
 msgstr "Codice"
@@ -137,10 +139,10 @@ msgid "Theme"
 msgstr "Tema"
 
 msgid "light"
-msgstr "luce"
+msgstr "chiaro"
 
 msgid "dark"
-msgstr "buio"
+msgstr "scuro"
 
 msgid "auto"
 msgstr "auto"
@@ -158,28 +160,28 @@ msgid "Time zone"
 msgstr "Fuso orario"
 
 msgid "Daily history"
-msgstr "Storia quotidiana"
+msgstr "Storico quotidiano"
 
 msgid "Clear DONE history once per day"
-msgstr "Cancellare la cronologia DONE una volta al giorno"
+msgstr "Cancellare lo storico FATTO una volta al giorno"
 
 msgid "Categories"
 msgstr "Categorie"
 
 msgid "Create a category"
-msgstr "Creare una categoria"
+msgstr "Crea una categoria"
 
 msgid "Add category"
-msgstr "Aggiungere categoria"
+msgstr "Aggiungi una categoria"
 
 msgid "Send Daily Reports"
-msgstr "Invia report giornalieri"
+msgstr "Invia Report Giornalieri"
 
 msgid "Send reports on email: "
 msgstr "Invia report via email:"
 
 msgid "Send reports on telegram"
-msgstr "Invia report sul telegramma"
+msgstr "Invia report su telegram"
 
 msgid "Volume"
 msgstr "Volume"
@@ -188,28 +190,28 @@ msgid "Play alarm sound"
 msgstr "Riproduci suono di allarme"
 
 msgid "Play ticking sound"
-msgstr "Gioca ticchettio suono"
+msgstr "Riproduci ticchettio"
 
 msgid "Play ticking sound while breaks"
-msgstr "Suona il ticchettio durante le pause"
+msgstr "Riproduci il ticchettio durante le pause"
 
 msgid "Notify when there is one minute left"
 msgstr "Avvisa quando rimane un minuto"
 
 msgid "Enable Web Notifications"
-msgstr "Attiva notifiche web"
+msgstr "Attiva le notifiche web"
 
 msgid "Enable Telegram Notifications"
-msgstr "Attiva notifiche Telegram"
+msgstr "Attiva le notifiche di Telegram"
 
 msgid "Enable Browser Alerts"
-msgstr "Attivare gli avvisi del browser"
+msgstr "Attiva gli avvisi del browser"
 
 msgid "Raise browser alert when pomodoro/break is over"
-msgstr "Alza l'avviso del browser quando pomodoro / break è finito"
+msgstr "Avvisa tramite un alert del browser quando termina un pomodoro o una pausa"
 
 msgid "Hide notificaions"
-msgstr "Nascondere le notifiche"
+msgstr "Nascondi le notifiche"
 
 msgid "in 2 seconds"
 msgstr "in 2 secondi"
@@ -251,13 +253,13 @@ msgid "in pomodoros"
 msgstr "in pomodori"
 
 msgid "Auto start pomodoros"
-msgstr "Avvio automatico Pomodori"
+msgstr "Avvio automatico dei pomodori"
 
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "Non avviare il successivo pomodoro se TODO è vuoto"
 
 msgid "Auto start breaks"
-msgstr "Avvio automatico pause"
+msgstr "Avvio automatico delle pause"
 
 msgid "Sort by"
 msgstr "Ordina per"
@@ -279,8 +281,8 @@ msgstr "Mi piace"
 
 msgid "like"
 msgid_plural "likes"
-msgstr[0] "piace"
-msgstr[1] "piace"
+msgstr[0] "like"
+msgstr[1] "likes"
 
 msgid "Write your ideas here"
 msgstr "Scrivi le tue idee qui"
@@ -295,7 +297,7 @@ msgid "Create"
 msgstr "Crea"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr "Grazie per il feedback! Il suo messaggio è in attesa di moderazione."
+msgstr "Grazie per il feedback! Il tuo messaggio è in attesa di moderazione."
 
 msgid "TODO list was updated."
 msgstr "L'elenco TODO è stato aggiornato"
@@ -313,7 +315,7 @@ msgid "Add Activity"
 msgstr "Aggiungi attività"
 
 msgid "Mark as daily task"
-msgstr "Marchia come atività giornaliera"
+msgstr "Marca come atività giornaliera"
 
 msgid "Add to TODO"
 msgstr "Aggiungi ai TODO"
@@ -328,10 +330,10 @@ msgid "Remove"
 msgstr "Rimuovi"
 
 msgid "Click/tap to edit items."
-msgstr "Doppio click/tap per modificare gli elementi"
+msgstr "Click/tap per modificare gli elementi"
 
 msgid "Click on a number to add more."
-msgstr "Fai clic su un numero per aggiungere altro."
+msgstr "Clicca su un numero per aggiungere altro."
 
 msgid "The list is empty"
 msgstr "La lista è vuota"
@@ -361,25 +363,25 @@ msgid "Clear the history"
 msgstr "Cancellare la cronologia"
 
 msgid "You are not signed."
-msgstr "Non sei firmato"
+msgstr "Non sei registrato"
 
 msgid "Work history won`t be saved."
-msgstr "La storia del lavoro non sarà salvata."
+msgstr "Lo storico del lavoro non sarà salvato."
 
 msgid "One minute left"
 msgstr "Un minuto rimasto"
 
 msgid "Tune the timer"
-msgstr "Tune il timer"
+msgstr "Regola il timer"
 
 msgid "Toggle fullscreen"
-msgstr "Passare a schermo intero"
+msgstr "Passa a schermo intero"
 
 msgid "START"
 msgstr "INIZIO"
 
 msgid "RESUME"
-msgstr "RIMETTERSI"
+msgstr "RIPRENDI"
 
 msgid "PAUSE"
 msgstr "PAUSA"
@@ -394,31 +396,31 @@ msgid "Break is over. The next pomodoro will go better!"
 msgstr "La pausa è finita. Il prossimo pomodoro andrà meglio!"
 
 msgid "Pomodoro is finished. Have a short break."
-msgstr "Pomodoro è finito. Avere una breve pausa."
+msgstr "Pomodoro è finito. Prenditi una breve pausa."
 
 msgid "Pomodoro is finished. Have a long break."
-msgstr "Pomodoro è finito. Avere una lunga pausa."
+msgstr "Pomodoro è finito. Prenditi una pausa lunga."
 
 msgid "POMODORO"
 msgstr "POMODORO"
 
 msgid "TAKE A SHORT BREAK"
-msgstr "PRENDI UNA BREVE PAUSA"
+msgstr "PRENDITI UNA BREVE PAUSA"
 
 msgid "TAKE A LONG BREAK"
-msgstr "PRENDI UNA LUNGA PAUSA"
+msgstr "PRENDITI UNA PAUSA LUNGA"
 
 msgid "DELAY"
 msgstr "RITARDO"
 
 msgid "Great work! TODO list is empty."
-msgstr "La lista è vuota"
+msgstr "Ottimo lavoro! La lista è vuota"
 
 msgid "TODO"
-msgstr ""
+msgstr "TODO"
 
 msgid "Add TODO"
-msgstr ""
+msgstr "Aggiungi TODO"
 
 msgid "Favorites"
 msgstr "Preferiti"
@@ -427,7 +429,7 @@ msgid "Mark as done"
 msgstr "Segna come fatto"
 
 msgid "Drag/Move to sort"
-msgstr "Trascina / sposta per ordinare"
+msgstr "Trascina/sposta per ordinare"
 
 msgid "TODO list is empty"
 msgstr "L'elenco TODO è vuoto"
@@ -439,7 +441,7 @@ msgid "Try to add some tasks use the form above"
 msgstr "Prova ad aggiungere alcune attività usa il modulo sopra"
 
 msgid "Drag&Drop/Touch to sort items."
-msgstr "Trascina e rilascia / tocca per ordinare gli oggetti."
+msgstr "Trascina&rilascia/tocca per ordinare gli oggetti."
 
 msgid "Time"
 msgstr "Tempo"
@@ -448,19 +450,19 @@ msgid "Date"
 msgstr "Data"
 
 msgid "Try to complete some pomodoros or choose a different period"
-msgstr "Prova a completare alcuni Pomodori o scegliere un periodo diverso"
+msgstr "Prova a completare alcuni pomodori o scegli un periodo diverso"
 
 msgid "Export the records as CSV"
-msgstr "Esportare i record come CSV"
+msgstr "Esporta i record come CSV"
 
 msgid "Import records from CSV"
-msgstr "Importa record da CSV"
+msgstr "Importa i record da CSV"
 
 msgid "Apply"
-msgstr "Applicare"
+msgstr "Applica"
 
 msgid "Custom"
-msgstr "Specifica"
+msgstr "Specifico"
 
 msgid "January"
 msgstr "Gennaio"
@@ -475,7 +477,7 @@ msgid "April"
 msgstr "Aprile"
 
 msgid "May"
-msgstr "Può"
+msgstr "Maggio"
 
 msgid "June"
 msgstr "Giugno"
@@ -517,16 +519,16 @@ msgid "Last Month"
 msgstr "Lo scorso mese"
 
 msgid "This Quarter"
-msgstr "In questo trimestre"
+msgstr "Questo trimestre"
 
 msgid "Last Quarter"
-msgstr "Ultimo quarto"
+msgstr "Ultimo trimestre"
 
 msgid "Last 90 days"
-msgstr ""
+msgstr "Ultimi 90 giorni"
 
 msgid "Last 180 days"
-msgstr ""
+msgstr "Ultimi 180 giorni"
 
 msgid "%1$s records were imported"
 msgstr "Sono stati importati %1$s record"
@@ -538,7 +540,7 @@ msgid "time"
 msgstr "tempo"
 
 msgid "number"
-msgstr "contare"
+msgstr "numero"
 
 msgid "Activity by days"
 msgstr "Attività per giorni"
@@ -553,7 +555,7 @@ msgid "average"
 msgstr "media"
 
 msgid "median"
-msgstr "mediano"
+msgstr "mediana"
 
 msgid "Pomodoros"
 msgstr "Pomodori"
@@ -565,25 +567,25 @@ msgid "Work days"
 msgstr "Giorni di lavoro"
 
 msgid "Median per day"
-msgstr "Medio al giorno"
+msgstr "Mediana per giorno"
 
 msgid "View"
-msgstr ""
+msgstr "Vista"
 
 msgid "Release Notes"
 msgstr "Note di rilascio"
 
 msgid "Provide Feedback"
-msgstr "Fornire un feedback"
+msgstr "Fornisci un feedback"
 
 msgid "Stats"
 msgstr "Statistiche"
 
 msgid "Logout"
-msgstr "Esci"
+msgstr "Logout"
 
 msgid "Sign Up / Login"
-msgstr "Registrati / Entra"
+msgstr "Registrati / Login"
 
 msgid "as Google user"
 msgstr "come utente Google"
@@ -607,7 +609,7 @@ msgid "Skip"
 msgstr "Salta"
 
 msgid "Resume"
-msgstr "Rimettersi"
+msgstr "Riprendi"
 
 msgid "Mark done"
 msgstr "Segna come fatto"
@@ -619,10 +621,10 @@ msgid "Show window"
 msgstr "Mostra la finestra"
 
 msgid "Configure"
-msgstr "Configurare"
+msgstr "Configura"
 
 msgid "Quit"
-msgstr "Smettere"
+msgstr "Esci"
 
 msgid "Feedback"
 msgstr "Commento"
@@ -640,13 +642,13 @@ msgid "Privacy Policy"
 msgstr "Informativa sulla privacy"
 
 msgid "Support the Project"
-msgstr "Sostenere il progetto"
+msgstr "Sostieni il progetto"
 
 msgid "Loading"
-msgstr ""
+msgstr "In caricamento"
 
 msgid "What is it?"
-msgstr "Cosa è questo?"
+msgstr "Cos'è questo?"
 
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
@@ -654,12 +656,21 @@ msgid ""
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
+"La Tecnica del Pomodoro è un metodo di gestione del tempo che può essere "
+"usata per ogni attività. Per molte persone, il tempo è un nemico. L'ansia "
+"innescata dal “ticchettio”, specialmente quando concerne una scadenza, "
+"porta ad un lavoro e ad abitudini di studio inefficaci che portano alla "
+"procrastinazione."
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr ""
+"Lo scopo della Tecnica del Pomodoro è per usare il tempo come un alleato "
+"nel realizzare quel che vogliamo fare nel modo in cui vogliamo farlo, e "
+"per permetterci di migliorare continuamente nel nostro modo di lavorare "
+"e studiare."
 
 msgid "The Goals"
 msgstr "Gli obbiettivi"
@@ -671,10 +682,10 @@ msgid ""
 msgstr ""
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr ""
+msgstr "Allevia l'ansia legata all'iniziare"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
-msgstr ""
+msgstr "Accresce il focus e la concentrazione riducendo le interruzioni"
 
 msgid "Increase awareness of your decisions"
 msgstr ""
@@ -683,13 +694,13 @@ msgid "Boost motivation and keep it constant"
 msgstr ""
 
 msgid "Bolster the determination to achieve your goals"
-msgstr ""
+msgstr "Sostieni la determinazione di realizzare i tuoi obbiettivi"
 
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
-msgstr ""
+msgstr "Rifinisci il processo di stima, sia in termini qualitativi che quantitativi "
 
 msgid "Improve your work or study process"
-msgstr ""
+msgstr "Migliora il tuo lavoro o il tuo processo di studio"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -703,6 +714,8 @@ msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
+"All'inizio di ogni giorno seleziona le attività che hai bisogno di "
+"completare e mettile nell'elenco TODO soprastante"
 
 msgid "Start working:"
 msgstr "Inizia a lavorare:"
@@ -720,6 +733,8 @@ msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
 msgstr ""
+"Continua a lavorare, pomodoro dopo pomodoro, fino a quando l'attività "
+"del momento è finita. Ogni 4 minuti prenditi una pausa lunga, (15-30 minuti)."
 
 msgid "Rules & Tips"
 msgstr "Regole & Suggerimenti"
@@ -731,50 +746,53 @@ msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
 msgstr ""
+"Se dura meno di un pomodoro, sommala e combinala con un'altra attività"
 
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr ""
+msgstr "Una volta che il pomodoro inizia, deve suonare"
 
 msgid "The next Pomodoro will go better"
-msgstr ""
+msgstr "Il prossimo pomodoro andrà meglio"
 
 msgid "Login to the service and track your progress"
-msgstr ""
+msgstr "Entra nei servizi e traccia i tuoi progressi"
 
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
 msgstr ""
+"La Tecnica del Pomodoro non dovrebbe essere usata per attività che fai "
+"nel tuo tempo libero. Goditi il tuo tempo libero!"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr ""
+msgstr "%s qui c'è il tuo report giornaliero per %s"
 
 msgid "You spent"
-msgstr ""
+msgstr "Hai speso"
 
 msgid "and"
-msgstr ""
+msgstr "e"
 
 msgid "on"
-msgstr ""
+msgstr "su"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "pomodoro"
+msgstr[1] "pomodori"
 
 msgid "Of those"
-msgstr ""
+msgstr "Di questi"
 
 msgid "were"
-msgstr ""
+msgstr "dove"
 
 msgid "There are completed tasks"
-msgstr ""
+msgstr "Queste sono attività completate"
 
 msgid "Please don't send me these awesome daily reports"
-msgstr ""
+msgstr "Per favore non inviarmi questi fantastici report giornalieri"
 
 #~ msgid "test"
 #~ msgstr "test"
