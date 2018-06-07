@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-04 09:48+0300\n"
+"POT-Creation-Date: 2018-06-07 21:55+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -83,6 +83,25 @@ msgstr "Notifiche"
 msgid "Integrations"
 msgstr "Integrazioni"
 
+msgid "Add"
+msgstr "Aggiungi"
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr ""
+"nel tuo telegram, digita `/start` e inserisci un codice dal bot al campo "
+"sottostante"
+
+msgid "Code"
+msgstr "Codice"
+
+msgid "Close"
+msgstr "Vicino"
+
+msgid "Register"
+msgstr "Registrati"
+
 msgid "Connect"
 msgstr "Connetti"
 
@@ -112,28 +131,6 @@ msgstr "Abilita il Telegram Bot"
 
 msgid "Get notifications, check history"
 msgstr "Ricevi le notifiche, controlla lo storico"
-
-msgid "Connect Telegram Bot"
-msgstr "Connetti il Telegram Bot"
-
-msgid "Add"
-msgstr "Aggiungi"
-
-msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
-"bellow"
-msgstr ""
-"nel tuo telegram, digita `/start` e inserisci un codice dal bot al campo "
-"sottostante"
-
-msgid "Code"
-msgstr "Codice"
-
-msgid "Close"
-msgstr "Vicino"
-
-msgid "Register"
-msgstr "Registrati"
 
 msgid "Theme"
 msgstr "Tema"
@@ -813,4 +810,7 @@ msgstr "Per favore non inviarmi questi fantastici report giornalieri"
 
 #~ msgid "Toggle Full Screen"
 #~ msgstr "Passare a schermo intero"
+
+#~ msgid "Connect Telegram Bot"
+#~ msgstr "Connetti il Telegram Bot"
 

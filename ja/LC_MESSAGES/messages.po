@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-04 09:48+0300\n"
+"POT-Creation-Date: 2018-06-07 21:56+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -83,6 +83,23 @@ msgstr "通知"
 msgid "Integrations"
 msgstr "連携機能"
 
+msgid "Add"
+msgstr "追加"
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr "あなたの電報に `/ start`と打ち込んでボットのコードを以下のフィールドに入力してください"
+
+msgid "Code"
+msgstr "暗号"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Register"
+msgstr "登録"
+
 msgid "Connect"
 msgstr "連携"
 
@@ -112,26 +129,6 @@ msgstr "Telegram Botを有効にする"
 
 msgid "Get notifications, check history"
 msgstr "通知と履歴の確認"
-
-msgid "Connect Telegram Bot"
-msgstr "Telegram Botとの連携"
-
-msgid "Add"
-msgstr "追加"
-
-msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
-"bellow"
-msgstr "あなたの電報に `/ start`と打ち込んでボットのコードを以下のフィールドに入力してください"
-
-msgid "Code"
-msgstr "暗号"
-
-msgid "Close"
-msgstr "閉じる"
-
-msgid "Register"
-msgstr "登録"
 
 msgid "Theme"
 msgstr "テーマ"
@@ -793,4 +790,7 @@ msgstr "これらのすばらしい日報を私に送らないでください"
 
 #~ msgid "Toggle Full Screen"
 #~ msgstr "フルスクリーン切り替え"
+
+#~ msgid "Connect Telegram Bot"
+#~ msgstr "Telegram Botとの連携"
 

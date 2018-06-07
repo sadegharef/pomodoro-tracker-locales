@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-04 09:48+0300\n"
+"POT-Creation-Date: 2018-06-07 21:56+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nb_NO\n"
@@ -83,6 +83,23 @@ msgstr ""
 msgid "Integrations"
 msgstr ""
 
+msgid "Add"
+msgstr ""
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
 msgid "Connect"
 msgstr ""
 
@@ -111,26 +128,6 @@ msgid "Enable Telegram Bot"
 msgstr ""
 
 msgid "Get notifications, check history"
-msgstr ""
-
-msgid "Connect Telegram Bot"
-msgstr ""
-
-msgid "Add"
-msgstr ""
-
-msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
-"bellow"
-msgstr ""
-
-msgid "Code"
-msgstr ""
-
-msgid "Close"
-msgstr ""
-
-msgid "Register"
 msgstr ""
 
 msgid "Theme"
@@ -794,5 +791,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Toggle Full Screen"
+#~ msgstr ""
+
+#~ msgid "Connect Telegram Bot"
 #~ msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2018-06-04 09:48+0300\n"
+"POT-Creation-Date: 2018-06-07 21:55+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -83,6 +83,25 @@ msgstr "Benachrichtigungen"
 msgid "Integrations"
 msgstr "Integrationen"
 
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr ""
+"tippen Sie `/start` und den Code ein vom Telegram Bot um zu Ihrem "
+"Telegram zugelangen"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Register"
+msgstr "Registrieren"
+
 msgid "Connect"
 msgstr "Verbinden"
 
@@ -112,28 +131,6 @@ msgstr "Aktiviere Telegram Bot"
 
 msgid "Get notifications, check history"
 msgstr "Benachrichtigungen sehen, Historie checken"
-
-msgid "Connect Telegram Bot"
-msgstr "Verbinden mit Telegram Bot"
-
-msgid "Add"
-msgstr "Hinzufügen"
-
-msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
-"bellow"
-msgstr ""
-"tippen Sie `/start` und den Code ein vom Telegram Bot um zu Ihrem "
-"Telegram zugelangen"
-
-msgid "Code"
-msgstr "Code"
-
-msgid "Close"
-msgstr "Schließen"
-
-msgid "Register"
-msgstr "Registrieren"
 
 msgid "Theme"
 msgstr "Theme"
@@ -814,4 +811,7 @@ msgstr "Bitte senden sie keine weiteren dieser täglichen Berichte"
 
 #~ msgid "Toggle Full Screen"
 #~ msgstr "Vollbild umschalten"
+
+#~ msgid "Connect Telegram Bot"
+#~ msgstr "Verbinden mit Telegram Bot"
 

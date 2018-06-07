@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-04 09:49+0300\n"
+"POT-Creation-Date: 2018-06-07 21:56+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -78,6 +78,23 @@ msgstr "通知"
 msgid "Integrations"
 msgstr "关联"
 
+msgid "Add"
+msgstr "添加"
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr "到你的telegram，输入‘/start’指令并输入bot字段的编码"
+
+msgid "Code"
+msgstr "编码"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Register"
+msgstr "注册"
+
 msgid "Connect"
 msgstr "绑定"
 
@@ -107,26 +124,6 @@ msgstr "启用Telegram Bot"
 
 msgid "Get notifications, check history"
 msgstr "获取通知，检查历史消息"
-
-msgid "Connect Telegram Bot"
-msgstr "连接Telegram Bot"
-
-msgid "Add"
-msgstr "添加"
-
-msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
-"bellow"
-msgstr "到你的telegram，输入‘/start’指令并输入bot字段的编码"
-
-msgid "Code"
-msgstr "编码"
-
-msgid "Close"
-msgstr "关闭"
-
-msgid "Register"
-msgstr "注册"
 
 msgid "Theme"
 msgstr "主题"
@@ -783,4 +780,7 @@ msgstr "请不要将这些精彩的每日报道寄给我"
 
 #~ msgid "Toggle Full Screen"
 #~ msgstr "切换全屏"
+
+#~ msgid "Connect Telegram Bot"
+#~ msgstr "连接Telegram Bot"
 

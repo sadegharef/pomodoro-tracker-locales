@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-04 09:48+0300\n"
+"POT-Creation-Date: 2018-06-07 21:56+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -89,6 +89,23 @@ msgstr "Оповещения"
 msgid "Integrations"
 msgstr "Сервисы"
 
+msgid "Add"
+msgstr "Добавить"
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr "в ваш telegram, напишите `/start` и введите полученный код в поле ниже"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Register"
+msgstr "Зарегистрировать"
+
 msgid "Connect"
 msgstr "Подключить"
 
@@ -118,26 +135,6 @@ msgstr "Интеграция с Telegram"
 
 msgid "Get notifications, check history"
 msgstr "Получение оповещений, проверка истории"
-
-msgid "Connect Telegram Bot"
-msgstr "Подключить Telegram бота"
-
-msgid "Add"
-msgstr "Добавить"
-
-msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
-"bellow"
-msgstr "в ваш telegram, напишите `/start` и введите полученный код в поле ниже"
-
-msgid "Code"
-msgstr "Код"
-
-msgid "Close"
-msgstr "Закрыть"
-
-msgid "Register"
-msgstr "Зарегистрировать"
 
 msgid "Theme"
 msgstr "Тема оформления"
@@ -816,4 +813,7 @@ msgstr "Пожалуйста, не присылайте мне эти замеч
 
 #~ msgid "Toggle Full Screen"
 #~ msgstr "Переключить полный экран"
+
+#~ msgid "Connect Telegram Bot"
+#~ msgstr "Подключить Telegram бота"
 
