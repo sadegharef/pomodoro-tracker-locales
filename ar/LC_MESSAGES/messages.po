@@ -155,100 +155,100 @@ msgid "Register"
 msgstr "تسجيل"
 
 msgid "Theme"
-msgstr ""
+msgstr "الثيم"
 
 msgid "light"
-msgstr ""
+msgstr "ضوء"
 
 msgid "dark"
-msgstr ""
+msgstr "ظلام"
 
 msgid "auto"
-msgstr ""
+msgstr "تلقائي"
 
 msgid "Language"
-msgstr ""
+msgstr "لغة"
 
 msgid "Date format"
-msgstr ""
+msgstr "شكل التاريخ"
 
 msgid "Time format"
-msgstr ""
+msgstr "شكل الوقت"
 
 msgid "Time zone"
-msgstr ""
+msgstr "المنظقة الزمنية"
 
 msgid "Daily history"
-msgstr ""
+msgstr "السجل اليومي"
 
 msgid "Clear DONE history once per day"
-msgstr ""
+msgstr "امسح السجل المنتهي مرة يوميا"
 
 msgid "Categories"
-msgstr ""
+msgstr "التصنيفات"
 
 msgid "Create a category"
-msgstr ""
+msgstr "أنشيء تصنيف"
 
 msgid "Add category"
-msgstr ""
+msgstr "أضف تصنيف"
 
 msgid "Send Daily Reports"
-msgstr ""
+msgstr "أرسل تقارير يومية"
 
 msgid "Send reports on email: "
-msgstr ""
+msgstr "أرسل التقارير عبر البريد"
 
 msgid "Send reports on telegram"
-msgstr ""
+msgstr "أرسل التقارير عبر تطبيق التليجرام"
 
 msgid "Volume"
-msgstr ""
+msgstr "الصوت"
 
 msgid "Play alarm sound"
-msgstr ""
+msgstr "شغل صوت المنبه"
 
 msgid "Play ticking sound"
-msgstr ""
+msgstr "شغل صوت التكتكة"
 
 msgid "Play ticking sound while breaks"
-msgstr ""
+msgstr "شغل صوت التكتكة اثناء الإستراحات"
 
 msgid "Notify when there is one minute left"
-msgstr ""
+msgstr "نبهني عندما يتبقى دقيقة واحدة"
 
 msgid "Enable Web Notifications"
-msgstr ""
+msgstr "شغل إشعارات الويب"
 
 msgid "Enable Telegram Notifications"
-msgstr ""
+msgstr "شغل إشعارات التليجرام"
 
 msgid "Enable Browser Alerts"
-msgstr ""
+msgstr "شغل تنبيهات المتصفح"
 
 msgid "Raise browser alert when pomodoro/break is over"
-msgstr ""
+msgstr "إرفع صوت منبه الويب عندما يكون مؤقت البمودورو/الإستراحة"
 
 msgid "Hide notificaions"
-msgstr ""
+msgstr "اخفي الإشعارات"
 
 msgid "in 2 seconds"
-msgstr ""
+msgstr "خلال 2 ثانية"
 
 msgid "in 3 seconds"
-msgstr ""
+msgstr "خلال 3 ثوان"
 
 msgid "in 5 seconds"
-msgstr ""
+msgstr "خلال 5 ثواني"
 
 msgid "in 10 seconds"
-msgstr ""
+msgstr "خلال 10 ثواني"
 
 msgid "Send test notification"
-msgstr ""
+msgstr "أرسل إشعارات الإختبار"
 
 msgid "Schemes"
-msgstr ""
+msgstr "المخططات"
 
 msgid "Pomodoro duration:"
 msgstr ""
