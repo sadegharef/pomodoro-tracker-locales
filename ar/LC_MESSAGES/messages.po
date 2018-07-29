@@ -27,7 +27,7 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "سنة"
 msgstr[1] "سنوات"
-msgstr[2] ""
+msgstr[2] "سنين"
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
@@ -251,103 +251,103 @@ msgid "Schemes"
 msgstr "المخططات"
 
 msgid "Pomodoro duration:"
-msgstr ""
+msgstr "مدة البمودورو:"
 
 msgid "in seconds"
-msgstr ""
+msgstr "بالثواني"
 
 msgid "in minutes"
-msgstr ""
+msgstr "بالدقائق"
 
 msgid "Short break duration:"
-msgstr ""
+msgstr "مدة الإستراحة القصيرة:"
 
 msgid "Long break duration:"
-msgstr ""
+msgstr "مدة الإستراحة الكبيرة:"
 
 msgid "Long break delay:"
-msgstr ""
+msgstr "مدة تأخير الإستراحة الكبيرة:"
 
 msgid "in pomodoros"
-msgstr ""
+msgstr "بالمودوروز"
 
 msgid "Auto start pomodoros"
-msgstr ""
+msgstr "شغل بمودورو تلقائيا"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr ""
+msgstr "لا تبدأ بمودورو قادمة إذا كانت قائمة المهام فارغة"
 
 msgid "Auto start breaks"
-msgstr ""
+msgstr "شغل الإستراحة تلقائيا"
 
 msgid "Sort by"
-msgstr ""
+msgstr "ترتيب حسب"
 
 msgid "rating"
-msgstr ""
+msgstr "تقيم"
 
 msgid "created"
-msgstr ""
+msgstr "المنشأ"
 
 msgid "New"
-msgstr ""
+msgstr "جديد"
 
 msgid "Done"
-msgstr ""
+msgstr "تم"
 
 msgid "Like"
-msgstr ""
+msgstr "إعجاب"
 
 msgid "like"
 msgid_plural "likes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "إعجاب"
+msgstr[1] "إعجابات"
 msgstr[2] ""
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
 msgid "Write your ideas here"
-msgstr ""
+msgstr "اكتب أفكارك عنا"
 
 msgid "Title"
-msgstr ""
+msgstr "العنوان"
 
 msgid "Description"
-msgstr ""
+msgstr "الوصف"
 
 msgid "Create"
-msgstr ""
+msgstr "أنشيء"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr ""
+msgstr "شكرا لك علي المساعدة! رسالتك تنتظر الإدارة"
 
 msgid "TODO list was updated."
-msgstr ""
+msgstr "تم تحديث قائمة المهام"
 
 msgid "Activities"
-msgstr ""
+msgstr "النشاطات"
 
 msgid "Category"
-msgstr ""
+msgstr "التصنيف"
 
 msgid "Short description"
-msgstr ""
+msgstr "وصف قصير"
 
 msgid "Add Activity"
-msgstr ""
+msgstr "أضف نشاط"
 
 msgid "Mark as daily task"
-msgstr ""
+msgstr "علم كمهمة يومية"
 
 msgid "Add to TODO"
-msgstr ""
+msgstr "أضف إلى قائمة المهام"
 
 msgid "Edit"
-msgstr ""
+msgstr "عدل"
 
 msgid "Add more"
-msgstr ""
+msgstr "أضف المزيد"
 
 msgid "Remove"
 msgstr ""
@@ -757,63 +757,69 @@ msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
 msgstr ""
+"إستمر بالعمل، بمودورو بعد بمودورو، حتى إنتهاء المهمة التي بين"
+"يديك. كل 4 بمودوروز خذ استراحة كبيرة، (15-30 دقيقة)."
 
 msgid "Rules & Tips"
-msgstr ""
+msgstr "قوانين & نصائح"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr ""
+msgstr "لو أخذت مهمة واحدة اكثر من 5-7 بمودوروز، قم بتقسيمها"
 
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
 msgstr ""
+"لو اخدت الوقت اقل من بمودورو واحدة، إجمعها، وإدمجها مع "
+"مهمة اخري"
 
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr ""
+msgstr "بمجرد بدء البمودورو، يجب ان يرن"
 
 msgid "The next Pomodoro will go better"
-msgstr ""
+msgstr "البمودورو القادم سيكون افضل"
 
 msgid "Login to the service and track your progress"
-msgstr ""
+msgstr "قم بتسجيل الدخول وتابع تقدمك"
 
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
 msgstr ""
+"تقنية البمودورو لا يجب ان تستخدم خلال انشطة  "
+"أوقات فراغك. استمتع بوقت فراغك!"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr ""
+msgstr "%s ها هو تقريرك اليومي من اجل %s"
 
 msgid "You spent"
-msgstr ""
+msgstr "قضيت"
 
 msgid "and"
-msgstr ""
+msgstr "و"
 
 msgid "on"
-msgstr ""
+msgstr "علي"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "بمودورو"
+msgstr[1] "بومودوروز"
 msgstr[2] ""
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
 msgid "Of those"
-msgstr ""
+msgstr "من هؤلاء"
 
 msgid "were"
-msgstr ""
+msgstr "كان"
 
 msgid "There are completed tasks"
-msgstr ""
+msgstr "هناك مهمات مكتملة"
 
 msgid "Please don't send me these awesome daily reports"
-msgstr ""
+msgstr "رجاء لا ترسل لي تقارير يومية رائعة"
 
