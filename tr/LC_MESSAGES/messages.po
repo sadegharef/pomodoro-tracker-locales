@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-07 21:56+0300\n"
+"POT-Creation-Date: 2018-09-03 23:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -56,9 +56,6 @@ msgstr "kayıtlı kullanıcılar pomodoros tamamlamaya harcıyor"
 msgid "for all time"
 msgstr "tüm zamanlar için"
 
-msgid "LOADING"
-msgstr "YÜKLENIYOR"
-
 msgid "Are you sure want to delete"
 msgstr "Silmek istediğine emin misin"
 
@@ -71,14 +68,11 @@ msgstr "İptal"
 msgid "record"
 msgstr "rekor"
 
-msgid "Application"
-msgstr "Uygulama"
+msgid "Loading"
+msgstr ""
 
-msgid "Timer"
-msgstr "Zamanlayıcı"
-
-msgid "Notifications"
-msgstr "Bildirimler"
+msgid "Changes saved"
+msgstr ""
 
 msgid "Integrations"
 msgstr "Entegrasyonlar"
@@ -130,6 +124,9 @@ msgstr ""
 msgid "Get notifications, check history"
 msgstr ""
 
+msgid "Application"
+msgstr "Uygulama"
+
 msgid "Theme"
 msgstr "Tema"
 
@@ -160,6 +157,9 @@ msgstr "Günlük geçmişi"
 msgid "Clear DONE history once per day"
 msgstr "DONE geçmişi günde bir kez temizle"
 
+msgid "At time"
+msgstr "zaman"
+
 msgid "Categories"
 msgstr "Kategoriler"
 
@@ -177,6 +177,12 @@ msgstr "E-postayla ilgili rapor gönder:"
 
 msgid "Send reports on telegram"
 msgstr "Telgrafta rapor gönderme"
+
+msgid "Reports Time"
+msgstr ""
+
+msgid "Notifications"
+msgstr "Bildirimler"
 
 msgid "Volume"
 msgstr "Ses"
@@ -223,6 +229,9 @@ msgstr "10 saniye içerisinde"
 msgid "Send test notification"
 msgstr "Test bildirimi gönder"
 
+msgid "Timer"
+msgstr "Zamanlayıcı"
+
 msgid "Schemes"
 msgstr "Şemalari"
 
@@ -255,6 +264,9 @@ msgstr "TODO boşsa, bir sonraki pomodoroya başlamayın"
 
 msgid "Auto start breaks"
 msgstr "Molaları otomatik başlat"
+
+msgid "Daily Goal"
+msgstr "Günlük Gol"
 
 msgid "Sort by"
 msgstr "Göre sırala"
@@ -426,6 +438,11 @@ msgstr "Tamamlandı olarak işaretle"
 msgid "Drag/Move to sort"
 msgstr "Sıralamak için Sürükle/Taşı"
 
+#, fuzzy
+#| msgid "Delete"
+msgid "left"
+msgstr "Sil"
+
 msgid "TODO list is empty"
 msgstr "Yapılacaklar listesi boş"
 
@@ -566,15 +583,6 @@ msgstr "Çalışılan gün"
 msgid "Median per day"
 msgstr "Günlük ortalama"
 
-msgid "View"
-msgstr ""
-
-msgid "Release Notes"
-msgstr "Sürüm notları"
-
-msgid "Provide Feedback"
-msgstr "Geribildirim sağlamak"
-
 msgid "Stats"
 msgstr "İstatistikler"
 
@@ -595,6 +603,15 @@ msgstr "Github üzerinden"
 
 msgid "Please, login to view your stats"
 msgstr "Çalışma kaydınızı tutmak için giriş yapın"
+
+msgid "View"
+msgstr ""
+
+msgid "Release Notes"
+msgstr "Sürüm notları"
+
+msgid "Provide Feedback"
+msgstr "Geribildirim sağlamak"
 
 msgid "Start"
 msgstr "Başlat"
@@ -640,9 +657,6 @@ msgstr "Gizlilik Politikası"
 
 msgid "Support the Project"
 msgstr "Projeye destek"
-
-msgid "Loading"
-msgstr ""
 
 msgid "What is it?"
 msgstr "Bu nedir?"
@@ -815,4 +829,7 @@ msgstr ""
 
 #~ msgid "Connect Telegram Bot"
 #~ msgstr ""
+
+#~ msgid "LOADING"
+#~ msgstr "YÜKLENIYOR"
 

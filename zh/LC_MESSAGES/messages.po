@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-07 21:56+0300\n"
+"POT-Creation-Date: 2018-09-03 23:51+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -51,9 +51,6 @@ msgstr "已注册用户在番茄钟花费的总时间"
 msgid "for all time"
 msgstr "总计"
 
-msgid "LOADING"
-msgstr "载入中"
-
 msgid "Are you sure want to delete"
 msgstr "确认希望删除吗"
 
@@ -66,14 +63,11 @@ msgstr "取消"
 msgid "record"
 msgstr "记录"
 
-msgid "Application"
-msgstr "应用"
+msgid "Loading"
+msgstr "载入中"
 
-msgid "Timer"
-msgstr "计时器"
-
-msgid "Notifications"
-msgstr "通知"
+msgid "Changes saved"
+msgstr ""
 
 msgid "Integrations"
 msgstr "关联"
@@ -125,6 +119,9 @@ msgstr "启用Telegram Bot"
 msgid "Get notifications, check history"
 msgstr "获取通知，检查历史消息"
 
+msgid "Application"
+msgstr "应用"
+
 msgid "Theme"
 msgstr "主题"
 
@@ -155,6 +152,9 @@ msgstr "历史记录"
 msgid "Clear DONE history once per day"
 msgstr "每天清除一次已完成的记录"
 
+msgid "At time"
+msgstr "时间"
+
 msgid "Categories"
 msgstr "类别"
 
@@ -172,6 +172,12 @@ msgstr "向该邮箱发送报告："
 
 msgid "Send reports on telegram"
 msgstr "通过telegram发送报告"
+
+msgid "Reports Time"
+msgstr ""
+
+msgid "Notifications"
+msgstr "通知"
 
 msgid "Volume"
 msgstr "音量"
@@ -218,6 +224,9 @@ msgstr "在10秒之后"
 msgid "Send test notification"
 msgstr "发送测试通知"
 
+msgid "Timer"
+msgstr "计时器"
+
 msgid "Schemes"
 msgstr "调度"
 
@@ -250,6 +259,9 @@ msgstr "当代办是空的时候不开启下一个番茄钟"
 
 msgid "Auto start breaks"
 msgstr "自动启动休息"
+
+msgid "Daily Goal"
+msgstr "每日目标"
 
 msgid "Sort by"
 msgstr "排序根据"
@@ -420,6 +432,11 @@ msgstr "标记为完成"
 msgid "Drag/Move to sort"
 msgstr "拖动来排序"
 
+#, fuzzy
+#| msgid "Delete"
+msgid "left"
+msgstr "删除"
+
 msgid "TODO list is empty"
 msgstr "代办列表为空"
 
@@ -558,15 +575,6 @@ msgstr "工作天数"
 msgid "Median per day"
 msgstr "按天的中位数"
 
-msgid "View"
-msgstr ""
-
-msgid "Release Notes"
-msgstr "发布记录"
-
-msgid "Provide Feedback"
-msgstr "提供反馈信息"
-
 msgid "Stats"
 msgstr "统计"
 
@@ -587,6 +595,15 @@ msgstr "作为Github用户"
 
 msgid "Please, login to view your stats"
 msgstr "请登入后查看你的统计信息"
+
+msgid "View"
+msgstr ""
+
+msgid "Release Notes"
+msgstr "发布记录"
+
+msgid "Provide Feedback"
+msgstr "提供反馈信息"
 
 msgid "Start"
 msgstr "开始"
@@ -632,9 +649,6 @@ msgstr "隐私权政策"
 
 msgid "Support the Project"
 msgstr "赞助本项目"
-
-msgid "Loading"
-msgstr "载入中"
 
 msgid "What is it?"
 msgstr "这是什么"
@@ -783,4 +797,7 @@ msgstr "请不要将这些精彩的每日报道寄给我"
 
 #~ msgid "Connect Telegram Bot"
 #~ msgstr "连接Telegram Bot"
+
+#~ msgid "LOADING"
+#~ msgstr "载入中"
 

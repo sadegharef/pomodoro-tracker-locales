@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2018-06-07 21:55+0300\n"
+"POT-Creation-Date: 2018-09-03 23:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -56,9 +56,6 @@ msgstr "Registrierte Benutzer haben diese Zeit mit Pomodoros verbracht"
 msgid "for all time"
 msgstr "insgesamt"
 
-msgid "LOADING"
-msgstr "LADEN"
-
 msgid "Are you sure want to delete"
 msgstr "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten"
 
@@ -71,14 +68,11 @@ msgstr "Abbrechen"
 msgid "record"
 msgstr "Eintrag"
 
-msgid "Application"
-msgstr "Anwendung"
+msgid "Loading"
+msgstr ""
 
-msgid "Timer"
-msgstr "Timer"
-
-msgid "Notifications"
-msgstr "Benachrichtigungen"
+msgid "Changes saved"
+msgstr ""
 
 msgid "Integrations"
 msgstr "Integrationen"
@@ -132,6 +126,9 @@ msgstr "Aktiviere Telegram Bot"
 msgid "Get notifications, check history"
 msgstr "Benachrichtigungen sehen, Historie checken"
 
+msgid "Application"
+msgstr "Anwendung"
+
 msgid "Theme"
 msgstr "Theme"
 
@@ -162,6 +159,9 @@ msgstr "Täglicher Verlauf"
 msgid "Clear DONE history once per day"
 msgstr "Löschen Sie die DONE-Historie einmal am Tag"
 
+msgid "At time"
+msgstr ""
+
 msgid "Categories"
 msgstr "Kategorien"
 
@@ -179,6 +179,12 @@ msgstr "Sende reports an Email:"
 
 msgid "Send reports on telegram"
 msgstr "Sende reports über telegram"
+
+msgid "Reports Time"
+msgstr ""
+
+msgid "Notifications"
+msgstr "Benachrichtigungen"
 
 msgid "Volume"
 msgstr "Lautstärke"
@@ -225,6 +231,9 @@ msgstr "nach 10 Sekunden"
 msgid "Send test notification"
 msgstr "Testbenachrichtigung senden"
 
+msgid "Timer"
+msgstr "Timer"
+
 msgid "Schemes"
 msgstr "Schemes"
 
@@ -257,6 +266,9 @@ msgstr "Starte nicht den nächsten Pomodoro wenn TODO-Liste leer ist"
 
 msgid "Auto start breaks"
 msgstr "Autostart Pausen"
+
+msgid "Daily Goal"
+msgstr "Tagesziel"
 
 msgid "Sort by"
 msgstr "Sortieren nach"
@@ -428,6 +440,11 @@ msgstr "Markiere als erledigt"
 msgid "Drag/Move to sort"
 msgstr "Ziehen/bewegen zum sortieren"
 
+#, fuzzy
+#| msgid "Delete"
+msgid "left"
+msgstr "Löschen"
+
 msgid "TODO list is empty"
 msgstr "TODO-Liste ist leer"
 
@@ -568,15 +585,6 @@ msgstr "Arbeitstage"
 msgid "Median per day"
 msgstr "Median pro Tag"
 
-msgid "View"
-msgstr ""
-
-msgid "Release Notes"
-msgstr "Versionshinweise"
-
-msgid "Provide Feedback"
-msgstr "Zu Verfügung stellen"
-
 msgid "Stats"
 msgstr "Statistiken"
 
@@ -597,6 +605,15 @@ msgstr "mit Github Account"
 
 msgid "Please, login to view your stats"
 msgstr "Bitte loggen Sie Sich ein um Ihre Statistiken zu sehen"
+
+msgid "View"
+msgstr ""
+
+msgid "Release Notes"
+msgstr "Versionshinweise"
+
+msgid "Provide Feedback"
+msgstr "Zu Verfügung stellen"
 
 msgid "Start"
 msgstr "Start"
@@ -642,9 +659,6 @@ msgstr "Datenschutzbestimmungen"
 
 msgid "Support the Project"
 msgstr "Unterstütze das Projekt"
-
-msgid "Loading"
-msgstr ""
 
 msgid "What is it?"
 msgstr "Worum geht's?"
@@ -814,4 +828,7 @@ msgstr "Bitte senden sie keine weiteren dieser täglichen Berichte"
 
 #~ msgid "Connect Telegram Bot"
 #~ msgstr "Verbinden mit Telegram Bot"
+
+#~ msgid "LOADING"
+#~ msgstr "LADEN"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-07 21:56+0300\n"
+"POT-Creation-Date: 2018-09-03 23:51+0300\n"
 "PO-Revision-Date: 2017-02-06 20:20-0200\n"
 "Last-Translator: LUCAS ERNESTO KINDINGER <kindingerlek@hotmail.com>\n"
 "Language: pt_BR\n"
@@ -56,9 +56,6 @@ msgstr ""
 msgid "for all time"
 msgstr ""
 
-msgid "LOADING"
-msgstr "CARREGANDO"
-
 msgid "Are you sure want to delete"
 msgstr "Tem certeza que deseja apagar"
 
@@ -71,14 +68,11 @@ msgstr "Cancelar"
 msgid "record"
 msgstr "registro"
 
-msgid "Application"
-msgstr "Aplicação"
+msgid "Loading"
+msgstr "Carregando"
 
-msgid "Timer"
-msgstr "Cronômetro"
-
-msgid "Notifications"
-msgstr "Notificações"
+msgid "Changes saved"
+msgstr ""
 
 msgid "Integrations"
 msgstr "Integrações"
@@ -130,6 +124,9 @@ msgstr ""
 msgid "Get notifications, check history"
 msgstr ""
 
+msgid "Application"
+msgstr "Aplicação"
+
 msgid "Theme"
 msgstr "Tema"
 
@@ -160,6 +157,9 @@ msgstr "História diária"
 msgid "Clear DONE history once per day"
 msgstr "Excluir o histórico feito uma vez por dia"
 
+msgid "At time"
+msgstr "cronômetro"
+
 msgid "Categories"
 msgstr "Categorias"
 
@@ -177,6 +177,12 @@ msgstr "Enviar relatórios no e-mail:"
 
 msgid "Send reports on telegram"
 msgstr "Enviar relatórios no telegrama"
+
+msgid "Reports Time"
+msgstr ""
+
+msgid "Notifications"
+msgstr "Notificações"
 
 msgid "Volume"
 msgstr "Volume"
@@ -223,6 +229,9 @@ msgstr "em 10 segundos"
 msgid "Send test notification"
 msgstr "Enviar notificação de teste"
 
+msgid "Timer"
+msgstr "Cronômetro"
+
 msgid "Schemes"
 msgstr "Esquemas"
 
@@ -255,6 +264,9 @@ msgstr "Não comece próximo pomodoro se TODO estiver vazio"
 
 msgid "Auto start breaks"
 msgstr "Iniciar automaticamente as pausas"
+
+msgid "Daily Goal"
+msgstr "Objetivo Diário"
 
 msgid "Sort by"
 msgstr "Ordenar por"
@@ -428,6 +440,11 @@ msgstr "Marcar como feito"
 msgid "Drag/Move to sort"
 msgstr "Arrastar/Mover para ordenar"
 
+#, fuzzy
+#| msgid "Delete"
+msgid "left"
+msgstr "Apagar"
+
 msgid "TODO list is empty"
 msgstr "A lista PARA FAZER está vazia"
 
@@ -566,15 +583,6 @@ msgstr "Dias trabalhados"
 msgid "Median per day"
 msgstr "Média por dia"
 
-msgid "View"
-msgstr ""
-
-msgid "Release Notes"
-msgstr "Notas de lançamento"
-
-msgid "Provide Feedback"
-msgstr "Dar uma resposta"
-
 msgid "Stats"
 msgstr "Estatísticas"
 
@@ -595,6 +603,15 @@ msgstr "como um usuário Github"
 
 msgid "Please, login to view your stats"
 msgstr "Entre para registrar seu trabalho"
+
+msgid "View"
+msgstr ""
+
+msgid "Release Notes"
+msgstr "Notas de lançamento"
+
+msgid "Provide Feedback"
+msgstr "Dar uma resposta"
 
 msgid "Start"
 msgstr "Iniciar"
@@ -640,9 +657,6 @@ msgstr "Política de privacidade"
 
 msgid "Support the Project"
 msgstr "Apoiar o projeto"
-
-msgid "Loading"
-msgstr "Carregando"
 
 msgid "What is it?"
 msgstr "O que é?"
@@ -817,4 +831,7 @@ msgstr "Por favor não me mande estes incríveis relatórios diários"
 
 #~ msgid "Connect Telegram Bot"
 #~ msgstr ""
+
+#~ msgid "LOADING"
+#~ msgstr "CARREGANDO"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-07 21:56+0300\n"
+"POT-Creation-Date: 2018-09-03 23:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -51,9 +51,6 @@ msgstr ""
 msgid "for all time"
 msgstr ""
 
-msgid "LOADING"
-msgstr ""
-
 msgid "Are you sure want to delete"
 msgstr ""
 
@@ -66,13 +63,10 @@ msgstr ""
 msgid "record"
 msgstr ""
 
-msgid "Application"
+msgid "Loading"
 msgstr ""
 
-msgid "Timer"
-msgstr ""
-
-msgid "Notifications"
+msgid "Changes saved"
 msgstr ""
 
 msgid "Integrations"
@@ -125,6 +119,9 @@ msgstr ""
 msgid "Get notifications, check history"
 msgstr ""
 
+msgid "Application"
+msgstr ""
+
 msgid "Theme"
 msgstr ""
 
@@ -155,6 +152,9 @@ msgstr ""
 msgid "Clear DONE history once per day"
 msgstr ""
 
+msgid "At time"
+msgstr ""
+
 msgid "Categories"
 msgstr ""
 
@@ -171,6 +171,12 @@ msgid "Send reports on email: "
 msgstr ""
 
 msgid "Send reports on telegram"
+msgstr ""
+
+msgid "Reports Time"
+msgstr ""
+
+msgid "Notifications"
 msgstr ""
 
 msgid "Volume"
@@ -218,6 +224,9 @@ msgstr ""
 msgid "Send test notification"
 msgstr ""
 
+msgid "Timer"
+msgstr ""
+
 msgid "Schemes"
 msgstr ""
 
@@ -252,6 +261,9 @@ msgid "Don`t start next pomodoro if TODO is empty"
 msgstr ""
 
 msgid "Auto start breaks"
+msgstr ""
+
+msgid "Daily Goal"
 msgstr ""
 
 msgid "Sort by"
@@ -424,6 +436,9 @@ msgstr ""
 msgid "Drag/Move to sort"
 msgstr ""
 
+msgid "left"
+msgstr ""
+
 msgid "TODO list is empty"
 msgstr ""
 
@@ -563,15 +578,6 @@ msgstr ""
 msgid "Median per day"
 msgstr ""
 
-msgid "View"
-msgstr ""
-
-msgid "Release Notes"
-msgstr ""
-
-msgid "Provide Feedback"
-msgstr ""
-
 msgid "Stats"
 msgstr ""
 
@@ -591,6 +597,15 @@ msgid "as Github user"
 msgstr ""
 
 msgid "Please, login to view your stats"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Release Notes"
+msgstr ""
+
+msgid "Provide Feedback"
 msgstr ""
 
 msgid "Start"
@@ -637,9 +652,6 @@ msgstr ""
 
 msgid "Support the Project"
 msgstr "Hỗ trợ dự án"
-
-msgid "Loading"
-msgstr ""
 
 msgid "What is it?"
 msgstr ""
@@ -823,5 +835,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Connect Telegram Bot"
+#~ msgstr ""
+
+#~ msgid "LOADING"
 #~ msgstr ""
 

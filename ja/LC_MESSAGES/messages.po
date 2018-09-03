@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-07 21:56+0300\n"
+"POT-Creation-Date: 2018-09-03 23:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -56,9 +56,6 @@ msgstr "登録ユーザーはポモドーロを完了するのに費やす"
 msgid "for all time"
 msgstr "いつでも"
 
-msgid "LOADING"
-msgstr "ロード"
-
 msgid "Are you sure want to delete"
 msgstr "削除してよろしいですか？"
 
@@ -71,14 +68,11 @@ msgstr "キャンセル"
 msgid "record"
 msgstr "記録"
 
-msgid "Application"
-msgstr "基本設定"
+msgid "Loading"
+msgstr "読み込み中"
 
-msgid "Timer"
-msgstr "タイマー"
-
-msgid "Notifications"
-msgstr "通知"
+msgid "Changes saved"
+msgstr ""
 
 msgid "Integrations"
 msgstr "連携機能"
@@ -130,6 +124,9 @@ msgstr "Telegram Botを有効にする"
 msgid "Get notifications, check history"
 msgstr "通知と履歴の確認"
 
+msgid "Application"
+msgstr "基本設定"
+
 msgid "Theme"
 msgstr "テーマ"
 
@@ -160,6 +157,9 @@ msgstr "毎日の歴史"
 msgid "Clear DONE history once per day"
 msgstr "1日に1回履歴をクリアする"
 
+msgid "At time"
+msgstr "時間数"
+
 msgid "Categories"
 msgstr "カテゴリー"
 
@@ -177,6 +177,12 @@ msgstr "電子メールでレポートを送信する"
 
 msgid "Send reports on telegram"
 msgstr "電報に関するレポートを送信する"
+
+msgid "Reports Time"
+msgstr ""
+
+msgid "Notifications"
+msgstr "通知"
 
 msgid "Volume"
 msgstr "音量"
@@ -223,6 +229,9 @@ msgstr "10秒"
 msgid "Send test notification"
 msgstr "テスト通知を送信する"
 
+msgid "Timer"
+msgstr "タイマー"
+
 msgid "Schemes"
 msgstr "スキーム"
 
@@ -255,6 +264,9 @@ msgstr "TODOが空の場合、次のポモドーロを開始しないでくだ�
 
 msgid "Auto start breaks"
 msgstr "休憩時間を自動的に開始する"
+
+msgid "Daily Goal"
+msgstr "毎日の目標"
 
 msgid "Sort by"
 msgstr "並び替え"
@@ -426,6 +438,11 @@ msgstr "完了にする"
 msgid "Drag/Move to sort"
 msgstr "ドラッグで並べ替え"
 
+#, fuzzy
+#| msgid "Delete"
+msgid "left"
+msgstr "削除"
+
 msgid "TODO list is empty"
 msgstr "TODOリストが空です"
 
@@ -564,15 +581,6 @@ msgstr "稼働日数"
 msgid "Median per day"
 msgstr "1日平均"
 
-msgid "View"
-msgstr ""
-
-msgid "Release Notes"
-msgstr "リリースノート"
-
-msgid "Provide Feedback"
-msgstr "フィードバックを提供します"
-
 msgid "Stats"
 msgstr "統計"
 
@@ -593,6 +601,15 @@ msgstr "Githubアカウントでログインする"
 
 msgid "Please, login to view your stats"
 msgstr "ログインして統計情報を表示する"
+
+msgid "View"
+msgstr ""
+
+msgid "Release Notes"
+msgstr "リリースノート"
+
+msgid "Provide Feedback"
+msgstr "フィードバックを提供します"
 
 msgid "Start"
 msgstr "開始"
@@ -638,9 +655,6 @@ msgstr "個人情報保護方針"
 
 msgid "Support the Project"
 msgstr "プロジェクトをサポートする"
-
-msgid "Loading"
-msgstr "読み込み中"
 
 msgid "What is it?"
 msgstr "Pomodoro Trackerとは"
@@ -793,4 +807,7 @@ msgstr "これらのすばらしい日報を私に送らないでください"
 
 #~ msgid "Connect Telegram Bot"
 #~ msgstr "Telegram Botとの連携"
+
+#~ msgid "LOADING"
+#~ msgstr "ロード"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-07 21:56+0300\n"
+"POT-Creation-Date: 2018-09-03 23:51+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -62,9 +62,6 @@ msgstr "пользователи сервиса потратили на зада
 msgid "for all time"
 msgstr "за все время"
 
-msgid "LOADING"
-msgstr "ЗАГРУЗКА"
-
 msgid "Are you sure want to delete"
 msgstr "Вы уверены, что хотите удалить"
 
@@ -77,14 +74,11 @@ msgstr "Отмена"
 msgid "record"
 msgstr "запись"
 
-msgid "Application"
-msgstr "Приложение"
+msgid "Loading"
+msgstr "Загрузка"
 
-msgid "Timer"
-msgstr "Таймер"
-
-msgid "Notifications"
-msgstr "Оповещения"
+msgid "Changes saved"
+msgstr ""
 
 msgid "Integrations"
 msgstr "Сервисы"
@@ -136,6 +130,9 @@ msgstr "Интеграция с Telegram"
 msgid "Get notifications, check history"
 msgstr "Получение оповещений, проверка истории"
 
+msgid "Application"
+msgstr "Приложение"
+
 msgid "Theme"
 msgstr "Тема оформления"
 
@@ -166,6 +163,9 @@ msgstr "История задач"
 msgid "Clear DONE history once per day"
 msgstr "Раз в день ощищать историю задач"
 
+msgid "At time"
+msgstr "на время"
+
 msgid "Categories"
 msgstr "Категории"
 
@@ -183,6 +183,12 @@ msgstr "Отправлять отчеты на email: "
 
 msgid "Send reports on telegram"
 msgstr "Отправлять отчеты на телеграм"
+
+msgid "Reports Time"
+msgstr ""
+
+msgid "Notifications"
+msgstr "Оповещения"
 
 msgid "Volume"
 msgstr "Громкость"
@@ -229,6 +235,9 @@ msgstr "через 10 секунд"
 msgid "Send test notification"
 msgstr "Отправить тестовое оповещение"
 
+msgid "Timer"
+msgstr "Таймер"
+
 msgid "Schemes"
 msgstr "Схемы"
 
@@ -261,6 +270,9 @@ msgstr "Не начинать следующий помидор если спи�
 
 msgid "Auto start breaks"
 msgstr "Автостарт для перерыва"
+
+msgid "Daily Goal"
+msgstr "Цель на день"
 
 msgid "Sort by"
 msgstr "Сортировать по"
@@ -433,6 +445,11 @@ msgstr "Отметить как выполненное"
 msgid "Drag/Move to sort"
 msgstr "Перетащите для сортировки"
 
+#, fuzzy
+#| msgid "Delete"
+msgid "left"
+msgstr "Удалить"
+
 msgid "TODO list is empty"
 msgstr "Список задач пуст"
 
@@ -571,15 +588,6 @@ msgstr "Рабочие дни"
 msgid "Median per day"
 msgstr "Медиана/день"
 
-msgid "View"
-msgstr ""
-
-msgid "Release Notes"
-msgstr "Новости проекта"
-
-msgid "Provide Feedback"
-msgstr "Отправить отзыв"
-
 msgid "Stats"
 msgstr "Статистика"
 
@@ -600,6 +608,15 @@ msgstr "используя Github"
 
 msgid "Please, login to view your stats"
 msgstr "Войдите для просмотра статистики"
+
+msgid "View"
+msgstr ""
+
+msgid "Release Notes"
+msgstr "Новости проекта"
+
+msgid "Provide Feedback"
+msgstr "Отправить отзыв"
 
 msgid "Start"
 msgstr "Старт"
@@ -645,9 +662,6 @@ msgstr "Политика конфиденциальности"
 
 msgid "Support the Project"
 msgstr "Поддержать проект"
-
-msgid "Loading"
-msgstr "Загрузка"
 
 msgid "What is it?"
 msgstr "Что это?"
@@ -816,4 +830,7 @@ msgstr "Пожалуйста, не присылайте мне эти замеч
 
 #~ msgid "Connect Telegram Bot"
 #~ msgstr "Подключить Telegram бота"
+
+#~ msgid "LOADING"
+#~ msgstr "ЗАГРУЗКА"
 
