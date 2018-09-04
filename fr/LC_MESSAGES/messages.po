@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-03 23:51+0300\n"
+"POT-Creation-Date: 2018-09-04 12:58+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -325,20 +325,20 @@ msgstr "Brève description"
 msgid "Add Activity"
 msgstr "Ajouter une activité"
 
-msgid "Mark as daily task"
-msgstr "Marquer comme tâche quotidienne"
-
 msgid "Add to TODO"
 msgstr "Ajouter à TODO"
-
-msgid "Edit"
-msgstr "Modifier"
 
 msgid "Add more"
 msgstr "Ajouter plus"
 
+msgid "Edit"
+msgstr "Modifier"
+
 msgid "Remove"
 msgstr "Supprimer"
+
+msgid "Mark as daily task"
+msgstr "Marquer comme tâche quotidienne"
 
 msgid "Click/tap to edit items."
 msgstr "Cliquez ou touchez pour modifier les éléments."
@@ -424,6 +424,12 @@ msgstr "FAITES UNE LONGUE PAUSE"
 msgid "DELAY"
 msgstr "REPOUSSER"
 
+msgid "Congratulations!"
+msgstr "Félicitations!"
+
+msgid "Daily Goal Completed."
+msgstr "Objectif quotidien complété."
+
 msgid "Great work! TODO list is empty."
 msgstr "Beau travail ! La liste TODO est vide."
 
@@ -439,18 +445,14 @@ msgstr "Favoris"
 msgid "Mark as done"
 msgstr "Marque comme terminé"
 
-msgid "Drag/Move to sort"
-msgstr "Cliquer/déplacer pour trier"
-
-#, fuzzy
-msgid "left"
-msgstr "Supprimer"
+msgid "%1$s left"
+msgstr "%1$s à gauche"
 
 msgid "TODO list is empty"
 msgstr "La liste TODO est vide"
 
 msgid "Congratulations! You have finished all your tasks."
-msgstr "Félicitations ! Vous avez terminé toutes vos tâches."
+msgstr "Félicitations! Vous avez terminé toutes vos tâches."
 
 msgid "Try to add some tasks use the form above"
 msgstr "Pour ajouter des tâches, remplissez le champ ci-dessus"
@@ -831,4 +833,10 @@ msgstr "Je préfère ne pas recevoir ces rapports quotidiens."
 
 #~ msgid "LOADING"
 #~ msgstr "EN COURS DE CHARGEMENT"
+
+#~ msgid "Drag/Move to sort"
+#~ msgstr "Cliquer/déplacer pour trier"
+
+#~ msgid "Great work! Daily Goal completed."
+#~ msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-03 23:51+0300\n"
+"POT-Creation-Date: 2018-09-04 12:58+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -328,20 +328,20 @@ msgstr "Короткое описание"
 msgid "Add Activity"
 msgstr "Добавить в избранное"
 
-msgid "Mark as daily task"
-msgstr "Повторять ежедневно"
-
 msgid "Add to TODO"
 msgstr "Добавить в список задач"
-
-msgid "Edit"
-msgstr "Редактировать"
 
 msgid "Add more"
 msgstr "Добавить"
 
+msgid "Edit"
+msgstr "Редактировать"
+
 msgid "Remove"
 msgstr "Удалить"
+
+msgid "Mark as daily task"
+msgstr "Повторять ежедневно"
 
 msgid "Click/tap to edit items."
 msgstr "Kлик/тап для редактирования."
@@ -427,6 +427,12 @@ msgstr "ДЛИННЫЙ ПЕРЕРЫВ"
 msgid "DELAY"
 msgstr "ЗАДЕРЖКА"
 
+msgid "Congratulations!"
+msgstr "Поздравляем!"
+
+msgid "Daily Goal Completed."
+msgstr "Цель на день выполнена."
+
 msgid "Great work! TODO list is empty."
 msgstr "Отличная работа! Список задач пуст."
 
@@ -442,13 +448,8 @@ msgstr "Избранное"
 msgid "Mark as done"
 msgstr "Отметить как выполненное"
 
-msgid "Drag/Move to sort"
-msgstr "Перетащите для сортировки"
-
-#, fuzzy
-#| msgid "Delete"
-msgid "left"
-msgstr "Удалить"
+msgid "%1$s left"
+msgstr "осталось %1$s"
 
 msgid "TODO list is empty"
 msgstr "Список задач пуст"
@@ -833,4 +834,10 @@ msgstr "Пожалуйста, не присылайте мне эти замеч
 
 #~ msgid "LOADING"
 #~ msgstr "ЗАГРУЗКА"
+
+#~ msgid "Drag/Move to sort"
+#~ msgstr "Перетащите для сортировки"
+
+#~ msgid "Great work! Daily Goal completed."
+#~ msgstr ""
 

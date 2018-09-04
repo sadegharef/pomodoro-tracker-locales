@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-03 23:51+0300\n"
+"POT-Creation-Date: 2018-09-04 12:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -318,19 +318,19 @@ msgstr ""
 msgid "Add Activity"
 msgstr ""
 
-msgid "Mark as daily task"
-msgstr ""
-
 msgid "Add to TODO"
-msgstr ""
-
-msgid "Edit"
 msgstr ""
 
 msgid "Add more"
 msgstr ""
 
+msgid "Edit"
+msgstr ""
+
 msgid "Remove"
+msgstr ""
+
+msgid "Mark as daily task"
 msgstr ""
 
 msgid "Click/tap to edit items."
@@ -418,6 +418,12 @@ msgstr ""
 msgid "DELAY"
 msgstr ""
 
+msgid "Congratulations!"
+msgstr ""
+
+msgid "Daily Goal Completed."
+msgstr ""
+
 msgid "Great work! TODO list is empty."
 msgstr ""
 
@@ -433,10 +439,7 @@ msgstr ""
 msgid "Mark as done"
 msgstr ""
 
-msgid "Drag/Move to sort"
-msgstr ""
-
-msgid "left"
+msgid "%1$s left"
 msgstr ""
 
 msgid "TODO list is empty"
@@ -838,5 +841,14 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "LOADING"
+#~ msgstr ""
+
+#~ msgid "Drag/Move to sort"
+#~ msgstr ""
+
+#~ msgid "left"
+#~ msgstr ""
+
+#~ msgid "Great work! Daily Goal completed."
 #~ msgstr ""
 

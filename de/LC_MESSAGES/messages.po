@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2018-09-03 23:51+0300\n"
+"POT-Creation-Date: 2018-09-04 12:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -323,20 +323,20 @@ msgstr "Kurzbeschreibung"
 msgid "Add Activity"
 msgstr "Aktivität hinzufügen"
 
-msgid "Mark as daily task"
-msgstr "Markiere als täglichen Task"
-
 msgid "Add to TODO"
 msgstr "Zur TODO-Liste hinzufügen"
-
-msgid "Edit"
-msgstr "Bearbeiten"
 
 msgid "Add more"
 msgstr "Mehr hinzufügen"
 
+msgid "Edit"
+msgstr "Bearbeiten"
+
 msgid "Remove"
 msgstr "Entfernen"
+
+msgid "Mark as daily task"
+msgstr "Markiere als täglichen Task"
 
 msgid "Click/tap to edit items."
 msgstr "Klick/tap um Eintrag zu bearbeiten."
@@ -422,6 +422,12 @@ msgstr "NIMM EINE LANGE PAUSE"
 msgid "DELAY"
 msgstr "VERZÖGERUNG"
 
+msgid "Congratulations!"
+msgstr "Herzliche Glückwünsche!"
+
+msgid "Daily Goal Completed."
+msgstr "Tagesziel abgeschlossen."
+
 msgid "Great work! TODO list is empty."
 msgstr "Gute Arbeit! Ihre TODO-Liste is leer."
 
@@ -437,13 +443,8 @@ msgstr "Favoriten"
 msgid "Mark as done"
 msgstr "Markiere als erledigt"
 
-msgid "Drag/Move to sort"
-msgstr "Ziehen/bewegen zum sortieren"
-
-#, fuzzy
-#| msgid "Delete"
-msgid "left"
-msgstr "Löschen"
+msgid "%1$s left"
+msgstr "%1$s übrig"
 
 msgid "TODO list is empty"
 msgstr "TODO-Liste ist leer"
@@ -831,4 +832,7 @@ msgstr "Bitte senden sie keine weiteren dieser täglichen Berichte"
 
 #~ msgid "LOADING"
 #~ msgstr "LADEN"
+
+#~ msgid "Drag/Move to sort"
+#~ msgstr "Ziehen/bewegen zum sortieren"
 

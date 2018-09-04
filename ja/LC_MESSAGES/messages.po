@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-03 23:51+0300\n"
+"POT-Creation-Date: 2018-09-04 12:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -321,20 +321,20 @@ msgstr "簡単な説明"
 msgid "Add Activity"
 msgstr "アクティビティの追加"
 
-msgid "Mark as daily task"
-msgstr "毎日のタスクとして登録する"
-
 msgid "Add to TODO"
 msgstr "TODOに追加する"
-
-msgid "Edit"
-msgstr "編集"
 
 msgid "Add more"
 msgstr "もう一回"
 
+msgid "Edit"
+msgstr "編集"
+
 msgid "Remove"
 msgstr "削除"
+
+msgid "Mark as daily task"
+msgstr "毎日のタスクとして登録する"
 
 msgid "Click/tap to edit items."
 msgstr "アイテムを編集するには、ダブルクリックまたはタップしてください。"
@@ -420,6 +420,12 @@ msgstr "長時間休憩"
 msgid "DELAY"
 msgstr "遅れ"
 
+msgid "Congratulations!"
+msgstr "おめでとうございます！"
+
+msgid "Daily Goal Completed."
+msgstr "毎日の目標達成"
+
 msgid "Great work! TODO list is empty."
 msgstr "リストは空です。"
 
@@ -435,13 +441,8 @@ msgstr "お気に入り"
 msgid "Mark as done"
 msgstr "完了にする"
 
-msgid "Drag/Move to sort"
-msgstr "ドラッグで並べ替え"
-
-#, fuzzy
-#| msgid "Delete"
-msgid "left"
-msgstr "削除"
+msgid "%1$s left"
+msgstr "%s$s"
 
 msgid "TODO list is empty"
 msgstr "TODOリストが空です"
@@ -810,4 +811,10 @@ msgstr "これらのすばらしい日報を私に送らないでください"
 
 #~ msgid "LOADING"
 #~ msgstr "ロード"
+
+#~ msgid "Drag/Move to sort"
+#~ msgstr "ドラッグで並べ替え"
+
+#~ msgid "Great work! Daily Goal completed."
+#~ msgstr ""
 

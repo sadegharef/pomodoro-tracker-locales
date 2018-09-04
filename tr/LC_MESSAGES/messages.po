@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-03 23:51+0300\n"
+"POT-Creation-Date: 2018-09-04 12:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -321,20 +321,20 @@ msgstr "Kısa açıklama"
 msgid "Add Activity"
 msgstr "Aktiviteyi ekle"
 
-msgid "Mark as daily task"
-msgstr "Günlük iş olarak işaretle"
-
 msgid "Add to TODO"
 msgstr "Yapılacaklara ekle"
-
-msgid "Edit"
-msgstr "Düzenlemek"
 
 msgid "Add more"
 msgstr "Tekrar ekle"
 
+msgid "Edit"
+msgstr "Düzenlemek"
+
 msgid "Remove"
 msgstr "Sil"
+
+msgid "Mark as daily task"
+msgstr "Günlük iş olarak işaretle"
 
 msgid "Click/tap to edit items."
 msgstr "Öğeleri düzenlemek için çift tıklayın/dokunun."
@@ -420,6 +420,12 @@ msgstr "UZUN BİR MOLA AL"
 msgid "DELAY"
 msgstr "GECIKME"
 
+msgid "Congratulations!"
+msgstr "Tebrikler!"
+
+msgid "Daily Goal Completed."
+msgstr "Günlük gol tamamlandı."
+
 msgid "Great work! TODO list is empty."
 msgstr "Harika iş! TODO listesi boş."
 
@@ -435,13 +441,8 @@ msgstr "Favoriler"
 msgid "Mark as done"
 msgstr "Tamamlandı olarak işaretle"
 
-msgid "Drag/Move to sort"
-msgstr "Sıralamak için Sürükle/Taşı"
-
-#, fuzzy
-#| msgid "Delete"
-msgid "left"
-msgstr "Sil"
+msgid "%1$s left"
+msgstr "%1$s sol"
 
 msgid "TODO list is empty"
 msgstr "Yapılacaklar listesi boş"
@@ -832,4 +833,10 @@ msgstr ""
 
 #~ msgid "LOADING"
 #~ msgstr "YÜKLENIYOR"
+
+#~ msgid "Drag/Move to sort"
+#~ msgstr "Sıralamak için Sürükle/Taşı"
+
+#~ msgid "Great work! Daily Goal completed."
+#~ msgstr ""
 

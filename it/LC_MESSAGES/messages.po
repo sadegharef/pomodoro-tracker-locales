@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-03 23:51+0300\n"
+"POT-Creation-Date: 2018-09-04 12:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -323,20 +323,20 @@ msgstr "Breve descrizione"
 msgid "Add Activity"
 msgstr "Aggiungi attività"
 
-msgid "Mark as daily task"
-msgstr "Marca come atività giornaliera"
-
 msgid "Add to TODO"
 msgstr "Aggiungi ai TODO"
-
-msgid "Edit"
-msgstr "Modifica"
 
 msgid "Add more"
 msgstr "Aggiungi"
 
+msgid "Edit"
+msgstr "Modifica"
+
 msgid "Remove"
 msgstr "Rimuovi"
+
+msgid "Mark as daily task"
+msgstr "Marca come atività giornaliera"
 
 msgid "Click/tap to edit items."
 msgstr "Click/tap per modificare gli elementi"
@@ -422,6 +422,12 @@ msgstr "PRENDITI UNA PAUSA LUNGA"
 msgid "DELAY"
 msgstr "RITARDO"
 
+msgid "Congratulations!"
+msgstr "Congratulazioni!"
+
+msgid "Daily Goal Completed."
+msgstr "Obiettivo giornaliero completato."
+
 msgid "Great work! TODO list is empty."
 msgstr "Ottimo lavoro! La lista è vuota"
 
@@ -437,13 +443,8 @@ msgstr "Preferiti"
 msgid "Mark as done"
 msgstr "Segna come fatto"
 
-msgid "Drag/Move to sort"
-msgstr "Trascina/sposta per ordinare"
-
-#, fuzzy
-#| msgid "Delete"
-msgid "left"
-msgstr "Cancella"
+msgid "%1$s left"
+msgstr "%1$s rimasti"
 
 msgid "TODO list is empty"
 msgstr "L'elenco TODO è vuoto"
@@ -830,4 +831,10 @@ msgstr "Per favore non inviarmi questi fantastici report giornalieri"
 
 #~ msgid "LOADING"
 #~ msgstr "CARICAMENTO"
+
+#~ msgid "Drag/Move to sort"
+#~ msgstr "Trascina/sposta per ordinare"
+
+#~ msgid "Great work! Daily Goal completed."
+#~ msgstr ""
 
