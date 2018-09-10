@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-04 21:07+0300\n"
+"POT-Creation-Date: 2018-09-10 14:43+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -65,11 +65,11 @@ msgstr "за все время"
 msgid "Are you sure want to delete"
 msgstr "Вы уверены, что хотите удалить"
 
-msgid "Delete"
-msgstr "Удалить"
+msgid "delete"
+msgstr "удалить"
 
-msgid "Cancel"
-msgstr "Отмена"
+msgid "cancel"
+msgstr "отмена"
 
 msgid "record"
 msgstr "запись"
@@ -78,7 +78,7 @@ msgid "Loading"
 msgstr "Загрузка"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "Изменения сохранены"
 
 msgid "Integrations"
 msgstr "Сервисы"
@@ -313,6 +313,9 @@ msgstr "Добавить"
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Спасибо за отзыв/предложение! Ваше сообщение ожидает модерации."
 
+msgid "Cancel"
+msgstr "Отмена"
+
 msgid "TODO list was updated."
 msgstr "Список задач был обновлен."
 
@@ -337,8 +340,8 @@ msgstr "Добавить"
 msgid "Edit"
 msgstr "Редактировать"
 
-msgid "Remove"
-msgstr "Удалить"
+msgid "save"
+msgstr "сохранить"
 
 msgid "Mark as daily task"
 msgstr "Повторять ежедневно"
@@ -358,6 +361,12 @@ msgstr "Попробуйте добавить задачу в избраное �
 msgid "Preferences"
 msgstr "Настройки"
 
+msgid "Congratulations!"
+msgstr "Поздравляем!"
+
+msgid "Daily Goal Completed."
+msgstr "Цель на день выполнена."
+
 msgid "DONE"
 msgstr "Сделано"
 
@@ -373,6 +382,12 @@ msgstr "Записей не найдено"
 msgid "Try to complete some pomodoros above"
 msgstr "Попробуйте выполнить несколько помидоров"
 
+msgid "delay"
+msgstr "задержка"
+
+msgid "focus"
+msgstr "фокус"
+
 msgid "Clear the history"
 msgstr "Очистить историю задач"
 
@@ -385,17 +400,26 @@ msgstr "История не будет сохранена."
 msgid "One minute left"
 msgstr "Осталась одна минута"
 
+msgid "Break is over. The next pomodoro will go better!"
+msgstr "Перерыв окончен. Следующий помидор будет лучше!"
+
+msgid "Pomodoro is finished. Have a short break."
+msgstr "Помидор окончен. Сделайте короткий перерыв."
+
+msgid "Pomodoro is finished. Have a long break."
+msgstr "Помидор окончен. Сделайте длинный перерыв."
+
 msgid "Tune the timer"
 msgstr "Настройки"
 
 msgid "Toggle fullscreen"
 msgstr "Переключить полный экран"
 
-msgid "START"
-msgstr "СТАРТ"
+msgid "start"
+msgstr "старт"
 
-msgid "RESUME"
-msgstr "ПРОДОЛЖИТЬ"
+msgid "resume"
+msgstr "продолжить"
 
 msgid "PAUSE"
 msgstr "ПАУЗА"
@@ -406,15 +430,6 @@ msgstr "СТОП"
 msgid "SKIP"
 msgstr "ПРОПУСТИТЬ"
 
-msgid "Break is over. The next pomodoro will go better!"
-msgstr "Перерыв окончен. Следующий помидор будет лучше!"
-
-msgid "Pomodoro is finished. Have a short break."
-msgstr "Помидор окончен. Сделайте короткий перерыв."
-
-msgid "Pomodoro is finished. Have a long break."
-msgstr "Помидор окончен. Сделайте длинный перерыв."
-
 msgid "POMODORO"
 msgstr "ПОМИДОР"
 
@@ -423,15 +438,6 @@ msgstr "КОРОТКИЙ ПЕРЕРЫВ"
 
 msgid "TAKE A LONG BREAK"
 msgstr "ДЛИННЫЙ ПЕРЕРЫВ"
-
-msgid "DELAY"
-msgstr "ЗАДЕРЖКА"
-
-msgid "Congratulations!"
-msgstr "Поздравляем!"
-
-msgid "Daily Goal Completed."
-msgstr "Цель на день выполнена."
 
 msgid "Great work! TODO list is empty."
 msgstr "Отличная работа! Список задач пуст."
@@ -580,14 +586,14 @@ msgstr "медиана"
 msgid "Pomodoros"
 msgstr "Помидоры"
 
+msgid "Median per day"
+msgstr "Медиана/день"
+
 msgid "Time spent"
 msgstr "Время"
 
 msgid "Work days"
 msgstr "Рабочие дни"
-
-msgid "Median per day"
-msgstr "Медиана/день"
 
 msgid "Stats"
 msgstr "Статистика"
@@ -837,7 +843,4 @@ msgstr "Пожалуйста, не присылайте мне эти замеч
 
 #~ msgid "Drag/Move to sort"
 #~ msgstr "Перетащите для сортировки"
-
-#~ msgid "Great work! Daily Goal completed."
-#~ msgstr ""
 

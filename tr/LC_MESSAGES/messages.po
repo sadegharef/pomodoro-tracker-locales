@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-04 21:07+0300\n"
+"POT-Creation-Date: 2018-09-10 14:43+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -59,11 +59,11 @@ msgstr "tüm zamanlar için"
 msgid "Are you sure want to delete"
 msgstr "Silmek istediğine emin misin"
 
-msgid "Delete"
-msgstr "Sil"
+msgid "delete"
+msgstr "sil"
 
-msgid "Cancel"
-msgstr "İptal"
+msgid "cancel"
+msgstr "iptal"
 
 msgid "record"
 msgstr "rekor"
@@ -306,6 +306,9 @@ msgstr "Oluştur"
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Geri bildirim için teşekkürler! Mesajınız yönetici onayını bekliyor."
 
+msgid "Cancel"
+msgstr "İptal"
+
 msgid "TODO list was updated."
 msgstr "TODO listesi güncellendi"
 
@@ -330,8 +333,8 @@ msgstr "Tekrar ekle"
 msgid "Edit"
 msgstr "Düzenlemek"
 
-msgid "Remove"
-msgstr "Sil"
+msgid "save"
+msgstr ""
 
 msgid "Mark as daily task"
 msgstr "Günlük iş olarak işaretle"
@@ -351,6 +354,12 @@ msgstr "Görevi aktivite olarak işaretleyin veya yukarıdaki formu kullanın"
 msgid "Preferences"
 msgstr "Tercihler"
 
+msgid "Congratulations!"
+msgstr "Tebrikler!"
+
+msgid "Daily Goal Completed."
+msgstr "Günlük gol tamamlandı."
+
 msgid "DONE"
 msgstr "TAMAMLANDI"
 
@@ -366,6 +375,12 @@ msgstr "Kayıtlar boş"
 msgid "Try to complete some pomodoros above"
 msgstr "Yukarıdaki pomodorolardan bazılarını tamamlamayı deneyin"
 
+msgid "delay"
+msgstr "gecikme"
+
+msgid "focus"
+msgstr ""
+
 msgid "Clear the history"
 msgstr "Geçmişi temizle"
 
@@ -378,17 +393,26 @@ msgstr "İş geçmişi kurtarılamaz."
 msgid "One minute left"
 msgstr "bir dakika kaldı"
 
+msgid "Break is over. The next pomodoro will go better!"
+msgstr "Mola bitti. Sıradaki pomodoro daha iyi geçecek!"
+
+msgid "Pomodoro is finished. Have a short break."
+msgstr "Pomodoro tamamlandı. Mola alın."
+
+msgid "Pomodoro is finished. Have a long break."
+msgstr "Pomodoro tamamlandı. Mola alın."
+
 msgid "Tune the timer"
 msgstr "Zamanlayıcıyı ayarla"
 
 msgid "Toggle fullscreen"
 msgstr "Tam ekrana geç"
 
-msgid "START"
-msgstr "BAŞLAT"
+msgid "start"
+msgstr "başlat"
 
-msgid "RESUME"
-msgstr "DEVAM ET"
+msgid "resume"
+msgstr "devam et"
 
 msgid "PAUSE"
 msgstr "DURAKLAT"
@@ -399,15 +423,6 @@ msgstr "DURDUR"
 msgid "SKIP"
 msgstr "GEÇ"
 
-msgid "Break is over. The next pomodoro will go better!"
-msgstr "Mola bitti. Sıradaki pomodoro daha iyi geçecek!"
-
-msgid "Pomodoro is finished. Have a short break."
-msgstr "Pomodoro tamamlandı. Mola alın."
-
-msgid "Pomodoro is finished. Have a long break."
-msgstr "Pomodoro tamamlandı. Mola alın."
-
 msgid "POMODORO"
 msgstr "POMODORO"
 
@@ -416,15 +431,6 @@ msgstr "KISA BİR MOLA AL"
 
 msgid "TAKE A LONG BREAK"
 msgstr "UZUN BİR MOLA AL"
-
-msgid "DELAY"
-msgstr "GECIKME"
-
-msgid "Congratulations!"
-msgstr "Tebrikler!"
-
-msgid "Daily Goal Completed."
-msgstr "Günlük gol tamamlandı."
 
 msgid "Great work! TODO list is empty."
 msgstr "Harika iş! TODO listesi boş."
@@ -575,14 +581,14 @@ msgstr "medyan"
 msgid "Pomodoros"
 msgstr "Pomodoro"
 
+msgid "Median per day"
+msgstr "Günlük ortalama"
+
 msgid "Time spent"
 msgstr "Harcanan süre"
 
 msgid "Work days"
 msgstr "Çalışılan gün"
-
-msgid "Median per day"
-msgstr "Günlük ortalama"
 
 msgid "Stats"
 msgstr "İstatistikler"
@@ -839,4 +845,16 @@ msgstr ""
 
 #~ msgid "Great work! Daily Goal completed."
 #~ msgstr ""
+
+#~ msgid "Remove"
+#~ msgstr "Sil"
+
+#~ msgid "START"
+#~ msgstr "BAŞLAT"
+
+#~ msgid "RESUME"
+#~ msgstr "DEVAM ET"
+
+#~ msgid "DELAY"
+#~ msgstr "GECIKME"
 

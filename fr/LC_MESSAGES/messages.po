@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-04 21:07+0300\n"
+"POT-Creation-Date: 2018-09-10 14:43+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -63,11 +63,11 @@ msgstr "depuis le début"
 msgid "Are you sure want to delete"
 msgstr "Êtes-vous sûr de vouloir supprimer"
 
-msgid "Delete"
-msgstr "Supprimer"
+msgid "delete"
+msgstr "supprimer"
 
-msgid "Cancel"
-msgstr "Annuler"
+msgid "cancel"
+msgstr "annuler"
 
 msgid "record"
 msgstr "enregistrer"
@@ -76,7 +76,7 @@ msgid "Loading"
 msgstr "Chargement en cours"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "Les modifications ont été enregistrées"
 
 msgid "Integrations"
 msgstr "Intégrations"
@@ -310,6 +310,9 @@ msgstr "Créer"
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Merci pour votre retour ! Votre message va passer par la modération."
 
+msgid "Cancel"
+msgstr "Annuler"
+
 msgid "TODO list was updated."
 msgstr "La liste TODO a été mise à jour."
 
@@ -334,8 +337,8 @@ msgstr "Ajouter plus"
 msgid "Edit"
 msgstr "Modifier"
 
-msgid "Remove"
-msgstr "Supprimer"
+msgid "save"
+msgstr ""
 
 msgid "Mark as daily task"
 msgstr "Marquer comme tâche quotidienne"
@@ -355,6 +358,12 @@ msgstr "Essayez de marquer TODO comme activité ou remplissez le champ ci-dessus
 msgid "Preferences"
 msgstr "Préférences"
 
+msgid "Congratulations!"
+msgstr "Félicitations!"
+
+msgid "Daily Goal Completed."
+msgstr "Objectif quotidien complété."
+
 msgid "DONE"
 msgstr "TERMINÉ"
 
@@ -370,6 +379,12 @@ msgstr "Pas d'enregistrements"
 msgid "Try to complete some pomodoros above"
 msgstr "Essayez de terminer quelques pomodoros ci-dessus"
 
+msgid "delay"
+msgstr "repousser"
+
+msgid "focus"
+msgstr "focus"
+
 msgid "Clear the history"
 msgstr "Effacer l'historique"
 
@@ -382,17 +397,26 @@ msgstr "L'historique de travail ne sera pas enregistré."
 msgid "One minute left"
 msgstr "Il ne reste qu'une minute."
 
+msgid "Break is over. The next pomodoro will go better!"
+msgstr "La pause est terminée. Le prochain pomodoro se passera mieux !"
+
+msgid "Pomodoro is finished. Have a short break."
+msgstr "Votre pomodoro est terminé. Faites une courte pause."
+
+msgid "Pomodoro is finished. Have a long break."
+msgstr "Votre pomodoro est terminé. Faites une longue pause."
+
 msgid "Tune the timer"
 msgstr "Régler la minuterie"
 
 msgid "Toggle fullscreen"
 msgstr "Passer en plein écran"
 
-msgid "START"
-msgstr "DÉBUT"
+msgid "start"
+msgstr "début"
 
-msgid "RESUME"
-msgstr "REPRENDRE"
+msgid "resume"
+msgstr "reprendre"
 
 msgid "PAUSE"
 msgstr "PAUSE"
@@ -403,15 +427,6 @@ msgstr "ARRÊTER"
 msgid "SKIP"
 msgstr "PASSER"
 
-msgid "Break is over. The next pomodoro will go better!"
-msgstr "La pause est terminée. Le prochain pomodoro se passera mieux !"
-
-msgid "Pomodoro is finished. Have a short break."
-msgstr "Votre pomodoro est terminé. Faites une courte pause."
-
-msgid "Pomodoro is finished. Have a long break."
-msgstr "Votre pomodoro est terminé. Faites une longue pause."
-
 msgid "POMODORO"
 msgstr "POMODORO"
 
@@ -420,15 +435,6 @@ msgstr "FAITES UNE PETITE PAUSE"
 
 msgid "TAKE A LONG BREAK"
 msgstr "FAITES UNE LONGUE PAUSE"
-
-msgid "DELAY"
-msgstr "REPOUSSER"
-
-msgid "Congratulations!"
-msgstr "Félicitations!"
-
-msgid "Daily Goal Completed."
-msgstr "Objectif quotidien complété."
 
 msgid "Great work! TODO list is empty."
 msgstr "Beau travail ! La liste TODO est vide."
@@ -577,14 +583,14 @@ msgstr "médiane"
 msgid "Pomodoros"
 msgstr "pomodoros"
 
+msgid "Median per day"
+msgstr "médiane par jour"
+
 msgid "Time spent"
 msgstr "temps passé"
 
 msgid "Work days"
 msgstr "jours de travail"
-
-msgid "Median per day"
-msgstr "médiane par jour"
 
 msgid "Stats"
 msgstr "Stats"
@@ -836,7 +842,4 @@ msgstr "Je préfère ne pas recevoir ces rapports quotidiens."
 
 #~ msgid "Drag/Move to sort"
 #~ msgstr "Cliquer/déplacer pour trier"
-
-#~ msgid "Great work! Daily Goal completed."
-#~ msgstr ""
 

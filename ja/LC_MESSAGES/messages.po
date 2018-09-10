@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-04 21:07+0300\n"
+"POT-Creation-Date: 2018-09-10 14:43+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -59,10 +59,11 @@ msgstr "いつでも"
 msgid "Are you sure want to delete"
 msgstr "削除してよろしいですか？"
 
-msgid "Delete"
+msgid "delete"
 msgstr "削除"
 
-msgid "Cancel"
+#, fuzzy
+msgid "cancel"
 msgstr "キャンセル"
 
 msgid "record"
@@ -306,6 +307,9 @@ msgstr "作成"
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "フィードバックをいただきありがとうございます！あなたのメッセージは承認待ちです。"
 
+msgid "Cancel"
+msgstr "キャンセル"
+
 msgid "TODO list was updated."
 msgstr "TODOリストが更新されました"
 
@@ -330,8 +334,8 @@ msgstr "もう一回"
 msgid "Edit"
 msgstr "編集"
 
-msgid "Remove"
-msgstr "削除"
+msgid "save"
+msgstr ""
 
 msgid "Mark as daily task"
 msgstr "毎日のタスクとして登録する"
@@ -351,6 +355,12 @@ msgstr "TODOをアクティビティとしてマークするか、上記のフ�
 msgid "Preferences"
 msgstr "設定"
 
+msgid "Congratulations!"
+msgstr "おめでとうございます！"
+
+msgid "Daily Goal Completed."
+msgstr "毎日の目標達成"
+
 msgid "DONE"
 msgstr "完了"
 
@@ -366,6 +376,12 @@ msgstr "レコードが空です"
 msgid "Try to complete some pomodoros above"
 msgstr "上記のポモドーロを完了してください"
 
+msgid "delay"
+msgstr "遅れ"
+
+msgid "focus"
+msgstr ""
+
 msgid "Clear the history"
 msgstr "履歴をクリアする"
 
@@ -378,16 +394,25 @@ msgstr "仕事の歴史は保存されません。"
 msgid "One minute left"
 msgstr "1分左"
 
+msgid "Break is over. The next pomodoro will go better!"
+msgstr "休憩終了です。次のポモドーロも頑張りましょう！"
+
+msgid "Pomodoro is finished. Have a short break."
+msgstr "ポモドーロ終了です、休憩しましょう。"
+
+msgid "Pomodoro is finished. Have a long break."
+msgstr "ポモドーロ終了です、休憩しましょう。"
+
 msgid "Tune the timer"
 msgstr "タイマーを調整する"
 
 msgid "Toggle fullscreen"
 msgstr "フルスクリーン切り替え"
 
-msgid "START"
+msgid "start"
 msgstr "開始"
 
-msgid "RESUME"
+msgid "resume"
 msgstr "再開"
 
 msgid "PAUSE"
@@ -399,15 +424,6 @@ msgstr "停止"
 msgid "SKIP"
 msgstr "スキップ"
 
-msgid "Break is over. The next pomodoro will go better!"
-msgstr "休憩終了です。次のポモドーロも頑張りましょう！"
-
-msgid "Pomodoro is finished. Have a short break."
-msgstr "ポモドーロ終了です、休憩しましょう。"
-
-msgid "Pomodoro is finished. Have a long break."
-msgstr "ポモドーロ終了です、休憩しましょう。"
-
 msgid "POMODORO"
 msgstr "ポモドーロ"
 
@@ -416,15 +432,6 @@ msgstr "短時間休憩"
 
 msgid "TAKE A LONG BREAK"
 msgstr "長時間休憩"
-
-msgid "DELAY"
-msgstr "遅れ"
-
-msgid "Congratulations!"
-msgstr "おめでとうございます！"
-
-msgid "Daily Goal Completed."
-msgstr "毎日の目標達成"
 
 msgid "Great work! TODO list is empty."
 msgstr "リストは空です。"
@@ -573,14 +580,14 @@ msgstr "平均"
 msgid "Pomodoros"
 msgstr "ポモドーロ"
 
+msgid "Median per day"
+msgstr "1日平均"
+
 msgid "Time spent"
 msgstr "時間"
 
 msgid "Work days"
 msgstr "稼働日数"
-
-msgid "Median per day"
-msgstr "1日平均"
 
 msgid "Stats"
 msgstr "統計"
@@ -814,7 +821,4 @@ msgstr "これらのすばらしい日報を私に送らないでください"
 
 #~ msgid "Drag/Move to sort"
 #~ msgstr "ドラッグで並べ替え"
-
-#~ msgid "Great work! Daily Goal completed."
-#~ msgstr ""
 

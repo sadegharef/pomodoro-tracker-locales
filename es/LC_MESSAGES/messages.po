@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-04 21:07+0300\n"
+"POT-Creation-Date: 2018-09-10 14:43+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -59,11 +59,11 @@ msgstr "para todo el tiempo"
 msgid "Are you sure want to delete"
 msgstr "Seguro que quieres borrar"
 
-msgid "Delete"
-msgstr "Borrar"
+msgid "delete"
+msgstr "borrar"
 
-msgid "Cancel"
-msgstr "Cancelar"
+msgid "cancel"
+msgstr "cancelar"
 
 msgid "record"
 msgstr "registrar"
@@ -72,7 +72,7 @@ msgid "Loading"
 msgstr "Cargando"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "Cambios guardados"
 
 msgid "Integrations"
 msgstr "Integraciones"
@@ -308,6 +308,9 @@ msgstr "Crear"
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Gracias por los comentarios! Su mensaje está en espera de la moderación."
 
+msgid "Cancel"
+msgstr "Cancelar"
+
 msgid "TODO list was updated."
 msgstr "Se actualizó la lista TODO"
 
@@ -332,8 +335,8 @@ msgstr "Añadir más"
 msgid "Edit"
 msgstr "Editar"
 
-msgid "Remove"
-msgstr "Eliminar"
+msgid "save"
+msgstr ""
 
 msgid "Mark as daily task"
 msgstr "Marcar como tarea diaria"
@@ -353,6 +356,12 @@ msgstr "Intenta marcar TODO como actividad o usa el formulario de arriba"
 msgid "Preferences"
 msgstr "Preferencias"
 
+msgid "Congratulations!"
+msgstr "¡Felicidades!"
+
+msgid "Daily Goal Completed."
+msgstr "Obiettivo giornaliero completato."
+
 msgid "DONE"
 msgstr "HECHO"
 
@@ -368,6 +377,12 @@ msgstr "Registros están vacíos"
 msgid "Try to complete some pomodoros above"
 msgstr "Intenta completar algunos pomodoros de arriba"
 
+msgid "delay"
+msgstr "retrasar"
+
+msgid "focus"
+msgstr "focus"
+
 msgid "Clear the history"
 msgstr "Limpiar el historial"
 
@@ -380,17 +395,26 @@ msgstr "El historial de trabajo no se guardará."
 msgid "One minute left"
 msgstr "Queda un minuto"
 
+msgid "Break is over. The next pomodoro will go better!"
+msgstr "Fin del descanso. ¡El siguiente pomodoro irá mejor!"
+
+msgid "Pomodoro is finished. Have a short break."
+msgstr "Pomodoro finalizado. Haz un descanso corto."
+
+msgid "Pomodoro is finished. Have a long break."
+msgstr "Pomodoro finalizado. Haz un descanso largo."
+
 msgid "Tune the timer"
 msgstr "Ajustar el cronómetro"
 
 msgid "Toggle fullscreen"
 msgstr "Alternar a pantalla completa"
 
-msgid "START"
-msgstr "INICIO"
+msgid "start"
+msgstr "inicio"
 
-msgid "RESUME"
-msgstr "CONTINUAR"
+msgid "resume"
+msgstr "continuar"
 
 msgid "PAUSE"
 msgstr "PAUSA"
@@ -401,15 +425,6 @@ msgstr "PARAR"
 msgid "SKIP"
 msgstr "OMITIR"
 
-msgid "Break is over. The next pomodoro will go better!"
-msgstr "Fin del descanso. ¡El siguiente pomodoro irá mejor!"
-
-msgid "Pomodoro is finished. Have a short break."
-msgstr "Pomodoro finalizado. Haz un descanso corto."
-
-msgid "Pomodoro is finished. Have a long break."
-msgstr "Pomodoro finalizado. Haz un descanso largo."
-
 msgid "POMODORO"
 msgstr "POMODORO"
 
@@ -418,15 +433,6 @@ msgstr "HAZ UN DESCANSO CORTO"
 
 msgid "TAKE A LONG BREAK"
 msgstr "HAZ UN DESCANSO LARGO"
-
-msgid "DELAY"
-msgstr "RETRASAR"
-
-msgid "Congratulations!"
-msgstr "¡Felicidades!"
-
-msgid "Daily Goal Completed."
-msgstr "Obiettivo giornaliero completato."
 
 msgid "Great work! TODO list is empty."
 msgstr "¡Buen trabajo! La lista TODO está vacía."
@@ -575,14 +581,14 @@ msgstr "mediana"
 msgid "Pomodoros"
 msgstr "Pomodoros"
 
+msgid "Median per day"
+msgstr "Mediana por día"
+
 msgid "Time spent"
 msgstr "Tiempo empleado"
 
 msgid "Work days"
 msgstr "Días de trabajo"
-
-msgid "Median per day"
-msgstr "Mediana por día"
 
 msgid "Stats"
 msgstr "Estadísticas"
@@ -838,7 +844,4 @@ msgstr "Por favor no me envíes estos increíbles informes diarios"
 
 #~ msgid "Drag/Move to sort"
 #~ msgstr "Arrastra/Mueve para ordenar"
-
-#~ msgid "Great work! Daily Goal completed."
-#~ msgstr ""
 

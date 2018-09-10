@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-04 21:07+0300\n"
+"POT-Creation-Date: 2018-09-10 14:43+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -54,10 +54,10 @@ msgstr "总计"
 msgid "Are you sure want to delete"
 msgstr "确认希望删除吗"
 
-msgid "Delete"
+msgid "delete"
 msgstr "删除"
 
-msgid "Cancel"
+msgid "cancel"
 msgstr "取消"
 
 msgid "record"
@@ -300,6 +300,9 @@ msgstr "新建"
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "感谢你的反馈！你的留言正在等待审核。"
 
+msgid "Cancel"
+msgstr "取消"
+
 msgid "TODO list was updated."
 msgstr "代办列表已经更新"
 
@@ -324,8 +327,8 @@ msgstr "增加一个"
 msgid "Edit"
 msgstr "编辑"
 
-msgid "Remove"
-msgstr "减少一个"
+msgid "save"
+msgstr ""
 
 msgid "Mark as daily task"
 msgstr "标记为每日任务"
@@ -345,6 +348,12 @@ msgstr "尝试将代办标记为活动或者使用上面的表格"
 msgid "Preferences"
 msgstr "优先级"
 
+msgid "Congratulations!"
+msgstr "恭喜!"
+
+msgid "Daily Goal Completed."
+msgstr "每日目标完成"
+
 msgid "DONE"
 msgstr "已完成"
 
@@ -360,6 +369,12 @@ msgstr "记录为空"
 msgid "Try to complete some pomodoros above"
 msgstr "尝试完成上面的一些番茄钟"
 
+msgid "delay"
+msgstr "推迟"
+
+msgid "focus"
+msgstr ""
+
 msgid "Clear the history"
 msgstr "清空历史记录"
 
@@ -372,16 +387,25 @@ msgstr "历史记录将不被保存"
 msgid "One minute left"
 msgstr "剩余一分钟"
 
+msgid "Break is over. The next pomodoro will go better!"
+msgstr "休息结束。下一个番茄钟会更棒！"
+
+msgid "Pomodoro is finished. Have a short break."
+msgstr "番茄钟结束。开始一个短休息。"
+
+msgid "Pomodoro is finished. Have a long break."
+msgstr "番茄钟结束。开始一个长休息。"
+
 msgid "Tune the timer"
 msgstr "校准计时器"
 
 msgid "Toggle fullscreen"
 msgstr "切换全屏"
 
-msgid "START"
+msgid "start"
 msgstr "开始"
 
-msgid "RESUME"
+msgid "resume"
 msgstr "继续"
 
 msgid "PAUSE"
@@ -393,15 +417,6 @@ msgstr "停止"
 msgid "SKIP"
 msgstr "跳过"
 
-msgid "Break is over. The next pomodoro will go better!"
-msgstr "休息结束。下一个番茄钟会更棒！"
-
-msgid "Pomodoro is finished. Have a short break."
-msgstr "番茄钟结束。开始一个短休息。"
-
-msgid "Pomodoro is finished. Have a long break."
-msgstr "番茄钟结束。开始一个长休息。"
-
 msgid "POMODORO"
 msgstr "番茄钟"
 
@@ -410,15 +425,6 @@ msgstr "开始一个短休息"
 
 msgid "TAKE A LONG BREAK"
 msgstr "开始一个长休息"
-
-msgid "DELAY"
-msgstr "推迟"
-
-msgid "Congratulations!"
-msgstr "恭喜!"
-
-msgid "Daily Goal Completed."
-msgstr "每日目标完成"
 
 msgid "Great work! TODO list is empty."
 msgstr "赞！没有代办事项。"
@@ -567,14 +573,14 @@ msgstr "中位数"
 msgid "Pomodoros"
 msgstr "番茄钟"
 
+msgid "Median per day"
+msgstr "按天的中位数"
+
 msgid "Time spent"
 msgstr "花费时间"
 
 msgid "Work days"
 msgstr "工作天数"
-
-msgid "Median per day"
-msgstr "按天的中位数"
 
 msgid "Stats"
 msgstr "统计"
@@ -804,7 +810,4 @@ msgstr "请不要将这些精彩的每日报道寄给我"
 
 #~ msgid "Drag/Move to sort"
 #~ msgstr "拖动来排序"
-
-#~ msgid "Great work! Daily Goal completed."
-#~ msgstr ""
 
