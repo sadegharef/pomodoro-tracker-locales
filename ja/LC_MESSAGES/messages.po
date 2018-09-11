@@ -392,7 +392,7 @@ msgid "Work history won`t be saved."
 msgstr "仕事の歴史は保存されません。"
 
 msgid "One minute left"
-msgstr "1分左"
+msgstr "残り1分です"
 
 msgid "Break is over. The next pomodoro will go better!"
 msgstr "休憩終了です。次のポモドーロも頑張りましょう！"
