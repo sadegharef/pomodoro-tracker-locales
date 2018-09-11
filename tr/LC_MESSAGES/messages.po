@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-10 14:43+0300\n"
+"POT-Creation-Date: 2018-09-11 13:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -55,6 +55,17 @@ msgstr "kayıtlı kullanıcılar pomodoros tamamlamaya harcıyor"
 
 msgid "for all time"
 msgstr "tüm zamanlar için"
+
+#, fuzzy
+#| msgid "Close"
+msgid "close"
+msgstr "Kapat"
+
+msgid "Server has been updated."
+msgstr ""
+
+msgid "Please reload the application."
+msgstr ""
 
 msgid "Are you sure want to delete"
 msgstr "Silmek istediğine emin misin"
@@ -238,9 +249,6 @@ msgstr "Şemalari"
 msgid "Pomodoro duration:"
 msgstr "Pomodoro süresi:"
 
-msgid "in seconds"
-msgstr "saniyeler içinde"
-
 msgid "in minutes"
 msgstr "dakika"
 
@@ -375,7 +383,9 @@ msgstr "Kayıtlar boş"
 msgid "Try to complete some pomodoros above"
 msgstr "Yukarıdaki pomodorolardan bazılarını tamamlamayı deneyin"
 
-msgid "delay"
+#, fuzzy
+#| msgid "delay"
+msgid "delays"
 msgstr "gecikme"
 
 msgid "focus"
@@ -431,6 +441,9 @@ msgstr "KISA BİR MOLA AL"
 
 msgid "TAKE A LONG BREAK"
 msgstr "UZUN BİR MOLA AL"
+
+msgid "delay"
+msgstr "gecikme"
 
 msgid "Great work! TODO list is empty."
 msgstr "Harika iş! TODO listesi boş."
@@ -857,4 +870,7 @@ msgstr ""
 
 #~ msgid "DELAY"
 #~ msgstr "GECIKME"
+
+#~ msgid "in seconds"
+#~ msgstr "saniyeler içinde"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-10 14:43+0300\n"
+"POT-Creation-Date: 2018-09-11 13:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -55,6 +55,17 @@ msgstr "登録ユーザーはポモドーロを完了するのに費やす"
 
 msgid "for all time"
 msgstr "いつでも"
+
+#, fuzzy
+#| msgid "Close"
+msgid "close"
+msgstr "閉じる"
+
+msgid "Server has been updated."
+msgstr ""
+
+msgid "Please reload the application."
+msgstr ""
 
 msgid "Are you sure want to delete"
 msgstr "削除してよろしいですか？"
@@ -239,9 +250,6 @@ msgstr "スキーム"
 msgid "Pomodoro duration:"
 msgstr "ポモドーロの間隔"
 
-msgid "in seconds"
-msgstr "秒単位で"
-
 msgid "in minutes"
 msgstr "分単位"
 
@@ -376,7 +384,9 @@ msgstr "レコードが空です"
 msgid "Try to complete some pomodoros above"
 msgstr "上記のポモドーロを完了してください"
 
-msgid "delay"
+#, fuzzy
+#| msgid "delay"
+msgid "delays"
 msgstr "遅れ"
 
 msgid "focus"
@@ -432,6 +442,9 @@ msgstr "短時間休憩"
 
 msgid "TAKE A LONG BREAK"
 msgstr "長時間休憩"
+
+msgid "delay"
+msgstr "遅れ"
 
 msgid "Great work! TODO list is empty."
 msgstr "リストは空です。"
@@ -821,4 +834,7 @@ msgstr "これらのすばらしい日報を私に送らないでください"
 
 #~ msgid "Drag/Move to sort"
 #~ msgstr "ドラッグで並べ替え"
+
+#~ msgid "in seconds"
+#~ msgstr "秒単位で"
 

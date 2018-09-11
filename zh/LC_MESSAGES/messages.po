@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-10 14:43+0300\n"
+"POT-Creation-Date: 2018-09-11 13:51+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -50,6 +50,17 @@ msgstr "已注册用户在番茄钟花费的总时间"
 
 msgid "for all time"
 msgstr "总计"
+
+#, fuzzy
+#| msgid "Close"
+msgid "close"
+msgstr "关闭"
+
+msgid "Server has been updated."
+msgstr ""
+
+msgid "Please reload the application."
+msgstr ""
 
 msgid "Are you sure want to delete"
 msgstr "确认希望删除吗"
@@ -233,9 +244,6 @@ msgstr "调度"
 msgid "Pomodoro duration:"
 msgstr "番茄钟时长："
 
-msgid "in seconds"
-msgstr "秒"
-
 msgid "in minutes"
 msgstr "分钟"
 
@@ -369,7 +377,9 @@ msgstr "记录为空"
 msgid "Try to complete some pomodoros above"
 msgstr "尝试完成上面的一些番茄钟"
 
-msgid "delay"
+#, fuzzy
+#| msgid "delay"
+msgid "delays"
 msgstr "推迟"
 
 msgid "focus"
@@ -425,6 +435,9 @@ msgstr "开始一个短休息"
 
 msgid "TAKE A LONG BREAK"
 msgstr "开始一个长休息"
+
+msgid "delay"
+msgstr "推迟"
 
 msgid "Great work! TODO list is empty."
 msgstr "赞！没有代办事项。"
@@ -810,4 +823,7 @@ msgstr "请不要将这些精彩的每日报道寄给我"
 
 #~ msgid "Drag/Move to sort"
 #~ msgstr "拖动来排序"
+
+#~ msgid "in seconds"
+#~ msgstr "秒"
 

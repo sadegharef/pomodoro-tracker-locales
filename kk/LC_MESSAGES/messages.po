@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-10 14:43+0300\n"
+"POT-Creation-Date: 2018-09-11 13:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -54,6 +54,15 @@ msgid "registered users spend on completing pomodoros"
 msgstr ""
 
 msgid "for all time"
+msgstr ""
+
+msgid "close"
+msgstr ""
+
+msgid "Server has been updated."
+msgstr ""
+
+msgid "Please reload the application."
 msgstr ""
 
 msgid "Are you sure want to delete"
@@ -238,9 +247,6 @@ msgstr ""
 msgid "Pomodoro duration:"
 msgstr ""
 
-msgid "in seconds"
-msgstr ""
-
 msgid "in minutes"
 msgstr ""
 
@@ -376,7 +382,9 @@ msgid "Try to complete some pomodoros above"
 msgstr ""
 
 #, fuzzy
-msgid "delay"
+#| msgid "day"
+#| msgid_plural "days"
+msgid "delays"
 msgstr ""
 
 msgid "focus"
@@ -431,6 +439,10 @@ msgid "TAKE A SHORT BREAK"
 msgstr ""
 
 msgid "TAKE A LONG BREAK"
+msgstr ""
+
+#, fuzzy
+msgid "delay"
 msgstr ""
 
 msgid "Great work! TODO list is empty."
@@ -808,5 +820,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "DELAY"
+#~ msgstr ""
+
+#~ msgid "in seconds"
 #~ msgstr ""
 

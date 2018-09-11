@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-10 14:43+0300\n"
+"POT-Creation-Date: 2018-09-11 13:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -55,6 +55,17 @@ msgstr "gli utenti registrati spendono sul completamento dei pomodori"
 
 msgid "for all time"
 msgstr "per tutto il tempo"
+
+#, fuzzy
+#| msgid "Close"
+msgid "close"
+msgstr "Vicino"
+
+msgid "Server has been updated."
+msgstr ""
+
+msgid "Please reload the application."
+msgstr ""
 
 msgid "Are you sure want to delete"
 msgstr "Sei sicuro di volere eliminare"
@@ -240,9 +251,6 @@ msgstr "Schemi"
 msgid "Pomodoro duration:"
 msgstr "Durata pomodoro:"
 
-msgid "in seconds"
-msgstr "in secondi"
-
 msgid "in minutes"
 msgstr "in minuti"
 
@@ -377,7 +385,9 @@ msgstr "I record sono vuoti"
 msgid "Try to complete some pomodoros above"
 msgstr "Prova a completare alcuni pomodori sopra"
 
-msgid "delay"
+#, fuzzy
+#| msgid "delay"
+msgid "delays"
 msgstr "ritardo"
 
 msgid "focus"
@@ -433,6 +443,9 @@ msgstr "PRENDITI UNA BREVE PAUSA"
 
 msgid "TAKE A LONG BREAK"
 msgstr "PRENDITI UNA PAUSA LUNGA"
+
+msgid "delay"
+msgstr "ritardo"
 
 msgid "Great work! TODO list is empty."
 msgstr "Ottimo lavoro! La lista è vuota"
@@ -840,4 +853,7 @@ msgstr "Per favore non inviarmi questi fantastici report giornalieri"
 
 #~ msgid "Drag/Move to sort"
 #~ msgstr "Trascina/sposta per ordinare"
+
+#~ msgid "in seconds"
+#~ msgstr "in secondi"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-10 14:43+0300\n"
+"POT-Creation-Date: 2018-09-11 13:51+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -61,6 +61,15 @@ msgstr "пользователи сервиса потратили на зада
 
 msgid "for all time"
 msgstr "за все время"
+
+msgid "close"
+msgstr "закрыть"
+
+msgid "Server has been updated."
+msgstr "Сервер был обновлен."
+
+msgid "Please reload the application."
+msgstr "Пожалуйтста, перезагрузите приложение."
 
 msgid "Are you sure want to delete"
 msgstr "Вы уверены, что хотите удалить"
@@ -244,9 +253,6 @@ msgstr "Схемы"
 msgid "Pomodoro duration:"
 msgstr "Продолжительность помидора:"
 
-msgid "in seconds"
-msgstr "в секундах"
-
 msgid "in minutes"
 msgstr "в минутах"
 
@@ -382,8 +388,8 @@ msgstr "Записей не найдено"
 msgid "Try to complete some pomodoros above"
 msgstr "Попробуйте выполнить несколько помидоров"
 
-msgid "delay"
-msgstr "задержка"
+msgid "delays"
+msgstr "задержки"
 
 msgid "focus"
 msgstr "фокус"
@@ -438,6 +444,9 @@ msgstr "КОРОТКИЙ ПЕРЕРЫВ"
 
 msgid "TAKE A LONG BREAK"
 msgstr "ДЛИННЫЙ ПЕРЕРЫВ"
+
+msgid "delay"
+msgstr "задержка"
 
 msgid "Great work! TODO list is empty."
 msgstr "Отличная работа! Список задач пуст."
@@ -843,4 +852,7 @@ msgstr "Пожалуйста, не присылайте мне эти замеч
 
 #~ msgid "Drag/Move to sort"
 #~ msgstr "Перетащите для сортировки"
+
+#~ msgid "in seconds"
+#~ msgstr "в секундах"
 

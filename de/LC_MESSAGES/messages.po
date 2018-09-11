@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2018-09-10 14:43+0300\n"
+"POT-Creation-Date: 2018-09-11 13:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -55,6 +55,15 @@ msgstr "Registrierte Benutzer haben diese Zeit mit Pomodoros verbracht"
 
 msgid "for all time"
 msgstr "insgesamt"
+
+msgid "close"
+msgstr "schließen"
+
+msgid "Server has been updated."
+msgstr ""
+
+msgid "Please reload the application."
+msgstr ""
 
 msgid "Are you sure want to delete"
 msgstr "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten"
@@ -240,9 +249,6 @@ msgstr "Schemes"
 msgid "Pomodoro duration:"
 msgstr "Pomodoro-Dauer:"
 
-msgid "in seconds"
-msgstr "in sekunden"
-
 msgid "in minutes"
 msgstr "nach 1 Minute"
 
@@ -377,7 +383,7 @@ msgstr "Einträge sind leer"
 msgid "Try to complete some pomodoros above"
 msgstr "Versuche ein paar Pomodoros abzuarbeiten"
 
-msgid "delay"
+msgid "delays"
 msgstr "verzögerung"
 
 msgid "focus"
@@ -433,6 +439,9 @@ msgstr "NIMM EINE KURZE PAUSE"
 
 msgid "TAKE A LONG BREAK"
 msgstr "NIMM EINE LANGE PAUSE"
+
+msgid "delay"
+msgstr "verzögerung"
 
 msgid "Great work! TODO list is empty."
 msgstr "Gute Arbeit! Ihre TODO-Liste is leer."
@@ -835,4 +844,7 @@ msgstr "Bitte senden sie keine weiteren dieser täglichen Berichte"
 
 #~ msgid "Connect Telegram Bot"
 #~ msgstr "Verbinden mit Telegram Bot"
+
+#~ msgid "in seconds"
+#~ msgstr "in sekunden"
 
