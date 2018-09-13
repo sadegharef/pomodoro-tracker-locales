@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-11 13:51+0300\n"
+"POT-Creation-Date: 2018-09-13 13:37+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -57,7 +57,6 @@ msgid "for all time"
 msgstr "per tutto il tempo"
 
 #, fuzzy
-#| msgid "Close"
 msgid "close"
 msgstr "Vicino"
 
@@ -386,15 +385,14 @@ msgid "Try to complete some pomodoros above"
 msgstr "Prova a completare alcuni pomodori sopra"
 
 #, fuzzy
-#| msgid "delay"
 msgid "delays"
 msgstr "ritardo"
 
 msgid "focus"
 msgstr ""
 
-msgid "Clear the history"
-msgstr "Cancellare la cronologia"
+msgid "Clear the list"
+msgstr "Cancellare la lista"
 
 msgid "You are not signed."
 msgstr "Non sei registrato"
