@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-13 13:37+0300\n"
+"POT-Creation-Date: 2018-09-21 12:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -56,15 +56,20 @@ msgstr "登録ユーザーはポモドーロを完了するのに費やす"
 msgid "for all time"
 msgstr "いつでも"
 
-#, fuzzy
 msgid "close"
 msgstr "閉じる"
 
 msgid "Server has been updated."
-msgstr ""
+msgstr "サーバーが更新されました。"
 
 msgid "Please reload the application."
-msgstr ""
+msgstr "アプリケーションを再読み込みする"
+
+msgid "previous page"
+msgstr "前のページ"
+
+msgid "next page"
+msgstr "次のページ"
 
 msgid "Are you sure want to delete"
 msgstr "削除してよろしいですか？"
@@ -72,9 +77,8 @@ msgstr "削除してよろしいですか？"
 msgid "delete"
 msgstr "削除"
 
-#, fuzzy
 msgid "cancel"
-msgstr "キャンセル"
+msgstr ""
 
 msgid "record"
 msgstr "記録"
@@ -83,7 +87,10 @@ msgid "Loading"
 msgstr "読み込み中"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "変更が保存されました"
+
+msgid "Settings"
+msgstr "設定"
 
 msgid "Integrations"
 msgstr "連携機能"
@@ -240,6 +247,9 @@ msgstr "10秒"
 msgid "Send test notification"
 msgstr "テスト通知を送信する"
 
+msgid "Notification Test"
+msgstr "通知"
+
 msgid "Timer"
 msgstr "タイマー"
 
@@ -383,17 +393,14 @@ msgstr "レコードが空です"
 msgid "Try to complete some pomodoros above"
 msgstr "上記のポモドーロを完了してください"
 
-#, fuzzy
 msgid "delays"
 msgstr "遅れ"
 
 msgid "focus"
 msgstr ""
 
-#, fuzzy
-#| msgid "Clear the history"
 msgid "Clear the list"
-msgstr "履歴をクリアする"
+msgstr "リストをクリアする"
 
 msgid "You are not signed."
 msgstr "あなたは署名されていません。"
@@ -404,14 +411,20 @@ msgstr "仕事の歴史は保存されません。"
 msgid "One minute left"
 msgstr "残り1分です"
 
-msgid "Break is over. The next pomodoro will go better!"
-msgstr "休憩終了です。次のポモドーロも頑張りましょう！"
+msgid "Break is over."
+msgstr "休憩が終わった"
 
-msgid "Pomodoro is finished. Have a short break."
-msgstr "ポモドーロ終了です、休憩しましょう。"
+msgid "The next pomodoro will go better!"
+msgstr "次のポモドーロはより効果的になるでしょう"
 
-msgid "Pomodoro is finished. Have a long break."
-msgstr "ポモドーロ終了です、休憩しましょう。"
+msgid "Pomodoro is finished."
+msgstr "ポモドーロ終了です、"
+
+msgid "Have a short break."
+msgstr "休憩しましょう。"
+
+msgid "Have a long break."
+msgstr "休憩しましょう。"
 
 msgid "Tune the timer"
 msgstr "タイマーを調整する"
@@ -665,9 +678,6 @@ msgstr "フィードバック"
 msgid "Login to view your stats"
 msgstr "ログインして統計情報を表示する"
 
-msgid "Settings"
-msgstr "設定"
-
 msgid "version"
 msgstr "バージョン"
 
@@ -837,4 +847,7 @@ msgstr "これらのすばらしい日報を私に送らないでください"
 
 #~ msgid "in seconds"
 #~ msgstr "秒単位で"
+
+#~ msgid "Break is over. The next pomodoro will go better!"
+#~ msgstr "休憩終了です。次のポモドーロも頑張りましょう！"
 

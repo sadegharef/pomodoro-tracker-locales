@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-13 13:37+0300\n"
+"POT-Creation-Date: 2018-09-21 12:39+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -51,15 +51,20 @@ msgstr "已注册用户在番茄钟花费的总时间"
 msgid "for all time"
 msgstr "总计"
 
-#, fuzzy
 msgid "close"
 msgstr "关闭"
 
 msgid "Server has been updated."
-msgstr ""
+msgstr "服务器已更新。"
 
 msgid "Please reload the application."
-msgstr ""
+msgstr "重新加载应用程序"
+
+msgid "previous page"
+msgstr "上一页"
+
+msgid "next page"
+msgstr "下一页"
 
 msgid "Are you sure want to delete"
 msgstr "确认希望删除吗"
@@ -77,7 +82,10 @@ msgid "Loading"
 msgstr "载入中"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "保存更改"
+
+msgid "Settings"
+msgstr "设置"
 
 msgid "Integrations"
 msgstr "关联"
@@ -234,6 +242,9 @@ msgstr "在10秒之后"
 msgid "Send test notification"
 msgstr "发送测试通知"
 
+msgid "Notification Test"
+msgstr "通知"
+
 msgid "Timer"
 msgstr "计时器"
 
@@ -376,17 +387,14 @@ msgstr "记录为空"
 msgid "Try to complete some pomodoros above"
 msgstr "尝试完成上面的一些番茄钟"
 
-#, fuzzy
 msgid "delays"
 msgstr "推迟"
 
 msgid "focus"
 msgstr ""
 
-#, fuzzy
-#| msgid "Clear the history"
 msgid "Clear the list"
-msgstr "清空历史记录"
+msgstr "清除列表"
 
 msgid "You are not signed."
 msgstr "你没有登陆"
@@ -397,14 +405,20 @@ msgstr "历史记录将不被保存"
 msgid "One minute left"
 msgstr "剩余一分钟"
 
-msgid "Break is over. The next pomodoro will go better!"
-msgstr "休息结束。下一个番茄钟会更棒！"
+msgid "Break is over."
+msgstr ""
 
-msgid "Pomodoro is finished. Have a short break."
-msgstr "番茄钟结束。开始一个短休息。"
+msgid "The next pomodoro will go better!"
+msgstr "努力将下一个番茄钟做得更好"
 
-msgid "Pomodoro is finished. Have a long break."
-msgstr "番茄钟结束。开始一个长休息。"
+msgid "Pomodoro is finished."
+msgstr "番茄钟结束。"
+
+msgid "Have a short break."
+msgstr "开始一个短休息。"
+
+msgid "Have a long break."
+msgstr "开始一个长休息。"
 
 msgid "Tune the timer"
 msgstr "校准计时器"
@@ -658,9 +672,6 @@ msgstr "反馈"
 msgid "Login to view your stats"
 msgstr "登入后查看你的统计信息"
 
-msgid "Settings"
-msgstr "设置"
-
 msgid "version"
 msgstr "版本"
 
@@ -826,4 +837,7 @@ msgstr "请不要将这些精彩的每日报道寄给我"
 
 #~ msgid "in seconds"
 #~ msgstr "秒"
+
+#~ msgid "Break is over. The next pomodoro will go better!"
+#~ msgstr "休息结束。下一个番茄钟会更棒！"
 

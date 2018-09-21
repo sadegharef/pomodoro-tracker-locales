@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-13 13:37+0300\n"
+"POT-Creation-Date: 2018-09-21 12:38+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -71,6 +71,12 @@ msgstr "Сервер был обновлен."
 msgid "Please reload the application."
 msgstr "Пожалуйтста, перезагрузите приложение."
 
+msgid "previous page"
+msgstr "предыдущая страница"
+
+msgid "next page"
+msgstr "следующая страница"
+
 msgid "Are you sure want to delete"
 msgstr "Вы уверены, что хотите удалить"
 
@@ -88,6 +94,9 @@ msgstr "Загрузка"
 
 msgid "Changes saved"
 msgstr "Изменения сохранены"
+
+msgid "Settings"
+msgstr "Настройки"
 
 msgid "Integrations"
 msgstr "Сервисы"
@@ -194,7 +203,7 @@ msgid "Send reports on telegram"
 msgstr "Отправлять отчеты на телеграм"
 
 msgid "Reports Time"
-msgstr ""
+msgstr "Время отчетов"
 
 msgid "Notifications"
 msgstr "Оповещения"
@@ -243,6 +252,9 @@ msgstr "через 10 секунд"
 
 msgid "Send test notification"
 msgstr "Отправить тестовое оповещение"
+
+msgid "Notification Test"
+msgstr "Тест оповещений"
 
 msgid "Timer"
 msgstr "Таймер"
@@ -406,14 +418,20 @@ msgstr "История не будет сохранена."
 msgid "One minute left"
 msgstr "Осталась одна минута"
 
-msgid "Break is over. The next pomodoro will go better!"
-msgstr "Перерыв окончен. Следующий помидор будет лучше!"
+msgid "Break is over."
+msgstr "Перерыв окончен."
 
-msgid "Pomodoro is finished. Have a short break."
-msgstr "Помидор окончен. Сделайте короткий перерыв."
+msgid "The next pomodoro will go better!"
+msgstr "Следующий «помидор» будет лучше"
 
-msgid "Pomodoro is finished. Have a long break."
-msgstr "Помидор окончен. Сделайте длинный перерыв."
+msgid "Pomodoro is finished."
+msgstr "Помидор окончен."
+
+msgid "Have a short break."
+msgstr "Сделайте короткий перерыв."
+
+msgid "Have a long break."
+msgstr "Сделайте длинный перерыв."
 
 msgid "Tune the timer"
 msgstr "Настройки"
@@ -626,7 +644,7 @@ msgid "Please, login to view your stats"
 msgstr "Войдите для просмотра статистики"
 
 msgid "View"
-msgstr ""
+msgstr "Вид"
 
 msgid "Release Notes"
 msgstr "Новости проекта"
@@ -666,9 +684,6 @@ msgstr "Идеи"
 
 msgid "Login to view your stats"
 msgstr "Войдите для просмотра статистики"
-
-msgid "Settings"
-msgstr "Настройки"
 
 msgid "version"
 msgstr "Версия"
@@ -855,4 +870,7 @@ msgstr "Пожалуйста, не присылайте мне эти замеч
 
 #~ msgid "in seconds"
 #~ msgstr "в секундах"
+
+#~ msgid "Break is over. The next pomodoro will go better!"
+#~ msgstr "Перерыв окончен. Следующий помидор будет лучше!"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-13 13:37+0300\n"
+"POT-Creation-Date: 2018-09-21 12:38+0300\n"
 "PO-Revision-Date: 2017-02-06 20:20-0200\n"
 "Last-Translator: LUCAS ERNESTO KINDINGER <kindingerlek@hotmail.com>\n"
 "Language: pt_BR\n"
@@ -48,23 +48,28 @@ msgstr[0] "minuto"
 msgstr[1] "minutos"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
+msgstr "usuários registrados gastam em completar pomodoros hoje"
 
 msgid "registered users spend on completing pomodoros"
-msgstr ""
+msgstr "usuários registrados gastam em completar pomodoros"
 
 msgid "for all time"
-msgstr ""
+msgstr "por todos os tempos"
 
-#, fuzzy
 msgid "close"
-msgstr "Fechar"
+msgstr "fechar"
 
 msgid "Server has been updated."
-msgstr ""
+msgstr "Servidor foi atualizado"
 
 msgid "Please reload the application."
-msgstr ""
+msgstr "Por favor, recarregue o aplicativo"
+
+msgid "previous page"
+msgstr "página anterior"
+
+msgid "next page"
+msgstr "próxima página"
 
 msgid "Are you sure want to delete"
 msgstr "Tem certeza que deseja apagar"
@@ -82,7 +87,10 @@ msgid "Loading"
 msgstr "Carregando"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "Mudanças salvas"
+
+msgid "Settings"
+msgstr "Configurações"
 
 msgid "Integrations"
 msgstr "Integrações"
@@ -239,6 +247,9 @@ msgstr "em 10 segundos"
 msgid "Send test notification"
 msgstr "Enviar notificação de teste"
 
+msgid "Notification Test"
+msgstr "Teste de notificação"
+
 msgid "Timer"
 msgstr "Cronômetro"
 
@@ -384,9 +395,8 @@ msgstr "Não há registros"
 msgid "Try to complete some pomodoros above"
 msgstr "Tente completar alguns dos pomodoros abaixo"
 
-#, fuzzy
 msgid "delays"
-msgstr "demora"
+msgstr "atrasos"
 
 msgid "focus"
 msgstr "foco"
@@ -403,14 +413,20 @@ msgstr "O histórico de trabalho não será salvo"
 msgid "One minute left"
 msgstr "Falta um minuto"
 
-msgid "Break is over. The next pomodoro will go better!"
-msgstr "A pausa acabou. O próximo pomodoro será ainda melhor!"
+msgid "Break is over."
+msgstr "Pausa acabou."
 
-msgid "Pomodoro is finished. Have a short break."
-msgstr "O pomodoro terminou. Faça uma pausa."
+msgid "The next pomodoro will go better!"
+msgstr "O próximo Pomodoro será melhor ainda!"
 
-msgid "Pomodoro is finished. Have a long break."
-msgstr "O pomodoro terminou. Faça uma pausa."
+msgid "Pomodoro is finished."
+msgstr "O pomodoro terminou."
+
+msgid "Have a short break."
+msgstr "Faça uma pausa."
+
+msgid "Have a long break."
+msgstr "Faça uma pausa longa."
 
 msgid "Tune the timer"
 msgstr "Sintonizar o temporizador"
@@ -664,9 +680,6 @@ msgstr "Comentários"
 msgid "Login to view your stats"
 msgstr "Entre para registrar seu trabalho"
 
-msgid "Settings"
-msgstr "Configurações"
-
 msgid "version"
 msgstr "versão"
 
@@ -858,4 +871,7 @@ msgstr "Por favor não me mande estes incríveis relatórios diários"
 
 #~ msgid "in seconds"
 #~ msgstr "em segundos"
+
+#~ msgid "Break is over. The next pomodoro will go better!"
+#~ msgstr "A pausa acabou. O próximo pomodoro será ainda melhor!"
 

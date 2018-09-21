@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-13 13:37+0300\n"
+"POT-Creation-Date: 2018-09-21 12:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -56,14 +56,19 @@ msgstr "kayıtlı kullanıcılar pomodoros tamamlamaya harcıyor"
 msgid "for all time"
 msgstr "tüm zamanlar için"
 
-#, fuzzy
 msgid "close"
-msgstr "Kapat"
+msgstr "kapat"
 
 msgid "Server has been updated."
-msgstr ""
+msgstr "Sunucu güncellendi."
 
 msgid "Please reload the application."
+msgstr "Uygulamayı tekrar yükle"
+
+msgid "previous page"
+msgstr ""
+
+msgid "next page"
 msgstr ""
 
 msgid "Are you sure want to delete"
@@ -82,7 +87,10 @@ msgid "Loading"
 msgstr ""
 
 msgid "Changes saved"
-msgstr ""
+msgstr "Kaydedilen değişiklikler"
+
+msgid "Settings"
+msgstr "Ayarlar"
 
 msgid "Integrations"
 msgstr "Entegrasyonlar"
@@ -239,6 +247,9 @@ msgstr "10 saniye içerisinde"
 msgid "Send test notification"
 msgstr "Test bildirimi gönder"
 
+msgid "Notification Test"
+msgstr "Bildirim testi"
+
 msgid "Timer"
 msgstr "Zamanlayıcı"
 
@@ -382,17 +393,14 @@ msgstr "Kayıtlar boş"
 msgid "Try to complete some pomodoros above"
 msgstr "Yukarıdaki pomodorolardan bazılarını tamamlamayı deneyin"
 
-#, fuzzy
 msgid "delays"
 msgstr "gecikme"
 
 msgid "focus"
 msgstr ""
 
-#, fuzzy
-#| msgid "Clear the history"
 msgid "Clear the list"
-msgstr "Geçmişi temizle"
+msgstr "Listeyi temizle"
 
 msgid "You are not signed."
 msgstr "Sen imzalanmadın"
@@ -403,14 +411,20 @@ msgstr "İş geçmişi kurtarılamaz."
 msgid "One minute left"
 msgstr "bir dakika kaldı"
 
-msgid "Break is over. The next pomodoro will go better!"
-msgstr "Mola bitti. Sıradaki pomodoro daha iyi geçecek!"
+msgid "Break is over."
+msgstr ""
 
-msgid "Pomodoro is finished. Have a short break."
-msgstr "Pomodoro tamamlandı. Mola alın."
+msgid "The next pomodoro will go better!"
+msgstr "Bir sonraki Pomodoro daha iyi geçecektir"
 
-msgid "Pomodoro is finished. Have a long break."
-msgstr "Pomodoro tamamlandı. Mola alın."
+msgid "Pomodoro is finished."
+msgstr "Pomodoro tamamlandı."
+
+msgid "Have a short break."
+msgstr "Mola alın."
+
+msgid "Have a long break."
+msgstr "Mola alın."
 
 msgid "Tune the timer"
 msgstr "Zamanlayıcıyı ayarla"
@@ -666,9 +680,6 @@ msgstr "Geri Bildirim"
 msgid "Login to view your stats"
 msgstr "Çalışma kaydınızı tutmak için giriş yapın"
 
-msgid "Settings"
-msgstr "Ayarlar"
-
 msgid "version"
 msgstr "sürüm"
 
@@ -873,4 +884,7 @@ msgstr ""
 
 #~ msgid "in seconds"
 #~ msgstr "saniyeler içinde"
+
+#~ msgid "Break is over. The next pomodoro will go better!"
+#~ msgstr "Mola bitti. Sıradaki pomodoro daha iyi geçecek!"
 
