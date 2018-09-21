@@ -20,809 +20,819 @@ msgstr ""
 "Generated-By: Babel 2.5.1\n"
 
 msgid "The Pomodoro is running"
-msgstr ""
+msgstr "Қызанақ кетті"
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "жыл"
+msgstr[1] "жыл"
 
 msgid "month"
 msgid_plural "months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ай"
+msgstr[1] "ай"
 
 msgid "day"
 msgid_plural "days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "күн"
+msgstr[1] "күн"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "сағат"
+msgstr[1] "сағат"
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "минут"
+msgstr[1] "минут"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
+msgstr "- бүгінгі қолданушылар жұмсаған уақыт"
 
 msgid "registered users spend on completing pomodoros"
-msgstr ""
+msgstr "- қызанақ орындау кезінде осындай уақыт жұмсады"
 
 msgid "for all time"
-msgstr ""
+msgstr "ресурс ашылғалы бері"
 
 msgid "close"
-msgstr ""
+msgstr "жап"
 
 msgid "Server has been updated."
-msgstr ""
+msgstr "Сервер жаңарды"
 
 msgid "Please reload the application."
-msgstr ""
+msgstr "Қосымшаны қайта қосыңыз"
 
 msgid "Are you sure want to delete"
-msgstr ""
+msgstr "Шынымен өшіресіз бе?"
 
 msgid "delete"
-msgstr ""
+msgstr "өшір"
 
 msgid "cancel"
-msgstr ""
+msgstr "жоқ"
 
 msgid "record"
-msgstr ""
+msgstr "баспа"
 
 msgid "Loading"
-msgstr ""
+msgstr "Қазір"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "Сақталды"
 
 msgid "Integrations"
-msgstr ""
+msgstr "Қызметтер"
 
 msgid "Add"
-msgstr ""
+msgstr "Қосу"
 
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
-msgstr ""
+msgstr "телеграмдағы ботта "/start" арқылы кодты енгізіңіз"
 
 msgid "Code"
-msgstr ""
+msgstr "Код"
 
 msgid "Close"
-msgstr ""
+msgstr "Жабу"
 
 msgid "Register"
-msgstr ""
+msgstr "Тіркелу"
 
 msgid "Connect"
-msgstr ""
+msgstr "Қосылу"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "Ажырау"
 
 msgid "Integration with Google"
-msgstr ""
+msgstr "Google-мен қосылу"
 
 msgid "Login to the service using Google authentication."
-msgstr ""
+msgstr "Google арқылы кіру"
 
 msgid "Integration with Facebook"
-msgstr ""
+msgstr "Facebook-пен кіру"
 
 msgid "Login to the service using Facebook authentication."
-msgstr ""
+msgstr "Facebook арқылы кіру"
 
 msgid "Integration with Github"
-msgstr ""
+msgstr "Github-пен қосылу"
 
 msgid "Login to the service using Github authentication."
-msgstr ""
+msgstr "Github арқылы кіру"
 
 msgid "Enable Telegram Bot"
-msgstr ""
+msgstr "Телеграм ботымен қосылыңыз"
 
 msgid "Get notifications, check history"
-msgstr ""
+msgstr "Хабарлама мен жеке нәтижелерді көріңіз"
 
 msgid "Application"
-msgstr ""
+msgstr "Қосымша іші"
 
 msgid "Theme"
-msgstr ""
+msgstr "Безендіру"
 
 msgid "light"
-msgstr ""
+msgstr "жарық"
 
 msgid "dark"
-msgstr ""
+msgstr "қараңғы"
 
 msgid "auto"
-msgstr ""
+msgstr "авто"
 
 msgid "Language"
-msgstr ""
+msgstr "Тіл"
 
 msgid "Date format"
-msgstr ""
+msgstr "Күн форматы"
 
 msgid "Time format"
-msgstr ""
+msgstr "Уақыт форматы"
 
 msgid "Time zone"
-msgstr ""
+msgstr "Уақыт зонасы"
 
 msgid "Daily history"
-msgstr ""
+msgstr "Күнделікті жазбалар"
 
 msgid "Clear DONE history once per day"
-msgstr ""
+msgstr "Күніне бір рет тазарту"
 
 msgid "At time"
-msgstr ""
+msgstr "осы уақытта"
 
 msgid "Categories"
-msgstr ""
+msgstr "Категория"
 
 msgid "Create a category"
-msgstr ""
+msgstr "Жаңа категория"
 
 msgid "Add category"
-msgstr ""
+msgstr "Қосу"
 
 msgid "Send Daily Reports"
-msgstr ""
+msgstr "Күнделікті есеп жіберу"
 
 msgid "Send reports on email: "
-msgstr ""
+msgstr "Осы e-mail-ға"
 
 msgid "Send reports on telegram"
-msgstr ""
+msgstr "Осы telegram-ға"
 
 msgid "Reports Time"
-msgstr ""
+msgstr "Осы уақытта"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Хабарламалар"
 
 msgid "Volume"
-msgstr ""
+msgstr "Қаттылығы"
 
 msgid "Play alarm sound"
-msgstr ""
+msgstr "Мәре дыбысы"
 
 msgid "Play ticking sound"
-msgstr ""
+msgstr "Сағат дыбысы"
 
 msgid "Play ticking sound while breaks"
-msgstr ""
+msgstr "Үзілісте сағат дыбысы"
 
 msgid "Notify when there is one minute left"
-msgstr ""
+msgstr "Бір минут қалғанда ескерту"
 
 msgid "Enable Web Notifications"
-msgstr ""
+msgstr "Web-хабарлама"
 
 msgid "Enable Telegram Notifications"
-msgstr ""
+msgstr "Telegram-хабарлама"
 
 msgid "Enable Browser Alerts"
-msgstr ""
+msgstr "Шағын терезе күйінде"
 
 msgid "Raise browser alert when pomodoro/break is over"
-msgstr ""
+msgstr "Қызанақ біткенде терезені шақыру"
 
 msgid "Hide notificaions"
-msgstr ""
+msgstr "Хабарламаларды жасыру"
 
 msgid "in 2 seconds"
-msgstr ""
+msgstr "2 сек кейін"
 
 msgid "in 3 seconds"
-msgstr ""
+msgstr "3 сек кейін"
 
 msgid "in 5 seconds"
-msgstr ""
+msgstr "5 сек кейін"
 
 msgid "in 10 seconds"
-msgstr ""
+msgstr "10 сек кейін"
 
 msgid "Send test notification"
-msgstr ""
+msgstr "Тест күйінде хабарламаны көру"
 
 msgid "Timer"
-msgstr ""
+msgstr "Таймер"
 
 msgid "Schemes"
-msgstr ""
+msgstr "Сызбалар"
 
 msgid "Pomodoro duration:"
-msgstr ""
+msgstr "Қызанақ ұзақтығы"
 
 msgid "in minutes"
-msgstr ""
+msgstr "минут"
 
 msgid "Short break duration:"
-msgstr ""
+msgstr "Қысқа үзіліс ұзақтығы"
 
 msgid "Long break duration:"
-msgstr ""
+msgstr "Ұзын үзіліс ұзақтығы"
 
 msgid "Long break delay:"
-msgstr ""
+msgstr "Ұзақ үзіліс жиілігі"
 
 msgid "in pomodoros"
-msgstr ""
+msgstr "қызанақ"
 
 msgid "Auto start pomodoros"
-msgstr ""
+msgstr "Автоматты қызанақ"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr ""
+msgstr "TODO тізімі бос болса, келесі қызанақты бастамау"
 
 msgid "Auto start breaks"
-msgstr ""
+msgstr "Авто-үзіліс"
 
 msgid "Daily Goal"
-msgstr ""
+msgstr "Күн мақсаты"
 
 msgid "Sort by"
-msgstr ""
+msgstr "Бойынша реттеу"
 
 msgid "rating"
-msgstr ""
+msgstr "рейтинг"
 
 msgid "created"
-msgstr ""
+msgstr "жасалғаны"
 
 msgid "New"
-msgstr ""
+msgstr "Жаңа"
 
 msgid "Done"
-msgstr ""
+msgstr "Аяқталған"
 
 msgid "Like"
-msgstr ""
+msgstr "Like"
 
 msgid "like"
 msgid_plural "likes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "лайк"
+msgstr[1] "лайк"
 
 msgid "Write your ideas here"
-msgstr ""
+msgstr "Ойларды осы жерде жазыңыз"
 
 msgid "Title"
-msgstr ""
+msgstr "Тақырыбы"
 
 msgid "Description"
-msgstr ""
+msgstr "Сипаттамасы"
 
 msgid "Create"
-msgstr ""
+msgstr "Қосу"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr ""
+msgstr "Ойыңыз үшін алғыс! Тез арада қарастыратын боламыз"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Жоқ"
 
 msgid "TODO list was updated."
-msgstr ""
+msgstr "TODO тізімі жаңарды"
 
 msgid "Activities"
-msgstr ""
+msgstr "іС"
 
 msgid "Category"
-msgstr ""
+msgstr "Категория"
 
 msgid "Short description"
-msgstr ""
+msgstr "Қысқа сипаттамасы"
 
 msgid "Add Activity"
-msgstr ""
+msgstr "іС қосу"
 
 msgid "Add to TODO"
-msgstr ""
+msgstr "TODO қосу"
 
 msgid "Add more"
-msgstr ""
+msgstr "Тағы бірбәле қосу"
 
 msgid "Edit"
-msgstr ""
+msgstr "Өңдеу"
 
 msgid "save"
-msgstr ""
+msgstr "сақтау"
 
 msgid "Mark as daily task"
-msgstr ""
+msgstr "Күн іСі қылу"
 
 msgid "Click/tap to edit items."
-msgstr ""
+msgstr "Өңдеу үшін басу"
 
 msgid "Click on a number to add more."
-msgstr ""
+msgstr "Тағы қосу үшін санға басыңыз"
 
 msgid "The list is empty"
-msgstr ""
+msgstr "Тізім бос"
 
 msgid "Try to mark TODO as activity or use the form above"
-msgstr ""
+msgstr "TODO-ды іС қылып көріңіз я келесі үлгіні толтырыңыз"
 
 msgid "Preferences"
-msgstr ""
+msgstr "Баптаулар"
 
 msgid "Congratulations!"
-msgstr ""
+msgstr "Бәрекелді!"
 
 msgid "Daily Goal Completed."
-msgstr ""
+msgstr "Күн мақсаты орындалды"
 
 msgid "DONE"
-msgstr ""
+msgstr "БІТТІ"
 
 msgid "no description"
-msgstr ""
+msgstr "сипаттамасыз"
 
 msgid "Pin to favorites"
-msgstr ""
+msgstr "Сүйіктілер тізіміне апару"
 
 msgid "Records are empty"
-msgstr ""
+msgstr "Жазбаларыңыз жоқ
 
 msgid "Try to complete some pomodoros above"
-msgstr ""
+msgstr "Жоғарыдағы қей қызанақтарды аяқтау"
 
 #, fuzzy
 msgid "delays"
-msgstr ""
+msgstr "кідіріс"
 
 msgid "focus"
-msgstr ""
+msgstr "фокус"
 
 msgid "Clear the list"
-msgstr ""
+msgstr "Тізімді тазалау"
 
 msgid "You are not signed."
-msgstr ""
+msgstr "Әзір кірмепсіз"
 
 msgid "Work history won`t be saved."
-msgstr ""
+msgstr "Жұмыс жазбалары сақталмай қалады"
 
 msgid "One minute left"
-msgstr ""
+msgstr "Бір минут қалды"
 
 msgid "Break is over. The next pomodoro will go better!"
-msgstr ""
+msgstr "Үзіліс бітті. Келесі қызанақ одан да зың болады!"
 
 msgid "Pomodoro is finished. Have a short break."
-msgstr ""
+msgstr "Қызанақ аяқталды. Тез кетіңіз үзіліске."
 
 msgid "Pomodoro is finished. Have a long break."
-msgstr ""
+msgstr "Қызанақ бітіп қалды ғой. Ұзақ үзіліс екен енді."
 
 msgid "Tune the timer"
-msgstr ""
+msgstr "Баптаулар"
 
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "Толық экранға кеттік"
 
 msgid "start"
-msgstr ""
+msgstr "старт"
 
 msgid "resume"
-msgstr ""
+msgstr "жалғастыру"
 
 msgid "PAUSE"
-msgstr ""
+msgstr "ПАУЗА"
 
 msgid "STOP"
-msgstr ""
+msgstr "СТОП"
 
 msgid "SKIP"
-msgstr ""
+msgstr "ӨТКІЗУ"
 
 msgid "POMODORO"
-msgstr ""
+msgstr "ҚЫЗАНАҚ"
 
 msgid "TAKE A SHORT BREAK"
-msgstr ""
+msgstr "ҚЫСҚА ҮЗІЛІСТЕН"
 
 msgid "TAKE A LONG BREAK"
-msgstr ""
+msgstr "ҰЗАҚ ҮЗІЛІСТЕН"
 
 #, fuzzy
 msgid "delay"
-msgstr ""
+msgstr "кідіріс"
 
 msgid "Great work! TODO list is empty."
-msgstr ""
+msgstr "Күшті жұмыс істедіңіз! TODO тізім қазір бос!"
 
 msgid "TODO"
-msgstr ""
+msgstr "TODO"
 
 msgid "Add TODO"
-msgstr ""
+msgstr "TODO қосу"
 
 msgid "Favorites"
-msgstr ""
+msgstr "Таңдамалы"
 
 msgid "Mark as done"
-msgstr ""
+msgstr "Аяқталған қылу"
 
 msgid "%1$s left"
-msgstr ""
+msgstr "%1$s қалды"
 
 msgid "TODO list is empty"
-msgstr ""
+msgstr "TODO тізімі бос"
 
 msgid "Congratulations! You have finished all your tasks."
-msgstr ""
+msgstr "Бәрекелді! Бар жұмыстарды аяқтадыңыз!"
 
 msgid "Try to add some tasks use the form above"
-msgstr ""
+msgstr "Үлгіні қолданып, қосымша жұмыс қосыңыз"
 
 msgid "Drag&Drop/Touch to sort items."
-msgstr ""
+msgstr "Іріктеу үшін қозғаңыз"
 
 msgid "Time"
-msgstr ""
+msgstr "Уақыт"
 
 msgid "Date"
-msgstr ""
+msgstr "Мерзім"
 
 msgid "Try to complete some pomodoros or choose a different period"
-msgstr ""
+msgstr "Тағы қосымша қызанақ жарыңыз немесе басқа период таңдаңыз"
 
 msgid "Export the records as CSV"
-msgstr ""
+msgstr "CSV-ға жазбаларды порттау"
 
 msgid "Import records from CSV"
-msgstr ""
+msgstr "CSV-дан жазбаларды импорттау"
 
 msgid "Apply"
-msgstr ""
+msgstr "Қабылдау"
 
 msgid "Custom"
-msgstr ""
+msgstr "Таңдау"
 
 msgid "January"
-msgstr ""
+msgstr "Қаңтар"
 
 msgid "February"
-msgstr ""
+msgstr "Ақпан"
 
 msgid "March"
-msgstr ""
+msgstr "Наурыз"
 
 msgid "April"
-msgstr ""
+msgstr "Сәуір"
 
 msgid "May"
-msgstr ""
+msgstr "Мамыр"
 
 msgid "June"
-msgstr ""
+msgstr "Маусым"
 
 msgid "July"
-msgstr ""
+msgstr "Шілде"
 
 msgid "August"
-msgstr ""
+msgstr "Тамыз"
 
 msgid "September"
-msgstr ""
+msgstr "Қыркүйек"
 
 msgid "October"
-msgstr ""
+msgstr "Қазан"
 
 msgid "November"
-msgstr ""
+msgstr "Қараша"
 
 msgid "December"
-msgstr ""
+msgstr "Желтоқсан"
 
 msgid "Today"
-msgstr ""
+msgstr "Бүгін"
 
 msgid "Yesterday"
-msgstr ""
+msgstr "Кеше"
 
 msgid "This Week"
-msgstr ""
+msgstr "Осы апта"
 
 msgid "Last Week"
-msgstr ""
+msgstr "Өткен апта"
 
 msgid "This Month"
-msgstr ""
+msgstr "Осы дүйсенбі"
 
 msgid "Last Month"
-msgstr ""
+msgstr "Өткен ай"
 
 msgid "This Quarter"
-msgstr ""
+msgstr "Осы ширекжыл"
 
 msgid "Last Quarter"
-msgstr ""
+msgstr "Өткен ширекжыл"
 
 msgid "Last 90 days"
-msgstr ""
+msgstr "Соңғы тоқсан"
 
 msgid "Last 180 days"
-msgstr ""
+msgstr "Соңғы 180 күн"
 
 msgid "%1$s records were imported"
-msgstr ""
+msgstr "%1$s жазба кіргізілді"
 
 msgid "Import was failed. Check your CSV and try again."
-msgstr ""
+msgstr "Импорт кезінде қате пайда болды, тағы бір мәрте көріңіз"
 
 msgid "time"
-msgstr ""
+msgstr "уақыт"
 
 msgid "number"
-msgstr ""
+msgstr "сан"
 
 msgid "Activity by days"
-msgstr ""
+msgstr "Күндер бойынша іСтер"
 
 msgid "Activity by weeks"
-msgstr ""
+msgstr "Апта бойынша іСтер"
 
 msgid "Activity by months"
-msgstr ""
+msgstr "Айлар бойынша іCтер"
 
 msgid "average"
-msgstr ""
+msgstr "ортасы"
 
 msgid "median"
-msgstr ""
+msgstr "медианасы"
 
 msgid "Pomodoros"
-msgstr ""
+msgstr "Қызанақтар"
 
 msgid "Median per day"
-msgstr ""
+msgstr "Медиана/күн"
 
 msgid "Time spent"
-msgstr ""
+msgstr "Жұмсалған уақыт"
 
 msgid "Work days"
-msgstr ""
+msgstr "Жұмыс күндері"
 
 msgid "Stats"
-msgstr ""
+msgstr "Статистика"
 
 msgid "Logout"
-msgstr ""
+msgstr "Шығу"
 
 msgid "Sign Up / Login"
-msgstr ""
+msgstr "Тіркелу / Кіру"
 
 msgid "as Google user"
-msgstr ""
+msgstr "Google-мен"
 
 msgid "as Facebook user"
-msgstr ""
+msgstr "Facebook-пен"
 
 msgid "as Github user"
-msgstr ""
+msgstr "Github-пен"
 
 msgid "Please, login to view your stats"
-msgstr ""
+msgstr "Статистика көру үшін тіркелу керек, пара беру үшін емес"
 
 msgid "View"
-msgstr ""
+msgstr "View"
 
 msgid "Release Notes"
-msgstr ""
+msgstr "Жаңалықтар"
 
 msgid "Provide Feedback"
-msgstr ""
+msgstr "Пікір жолдаңыз"
 
 msgid "Start"
-msgstr ""
+msgstr "Бастау"
 
 msgid "Pause"
-msgstr ""
+msgstr "Пауза"
 
 msgid "Skip"
-msgstr ""
+msgstr "Өткізу"
 
 msgid "Resume"
-msgstr ""
+msgstr "Жалғастыру"
 
 msgid "Mark done"
-msgstr ""
+msgstr "Біткен кезде басады"
 
 msgid "Stop"
-msgstr ""
+msgstr "Стоп"
 
 msgid "Show window"
-msgstr ""
+msgstr "Терезені көрсету"
 
 msgid "Configure"
-msgstr ""
+msgstr "Шұқылау"
 
 msgid "Quit"
-msgstr ""
+msgstr "Шығу"
 
 msgid "Feedback"
-msgstr ""
+msgstr "Пікір"
 
 msgid "Login to view your stats"
-msgstr ""
+msgstr "Статистика көргенге кіру керек"
 
 msgid "Settings"
-msgstr ""
+msgstr "Баптаулар"
 
 msgid "version"
-msgstr ""
+msgstr "нұсқасы"
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Құпия келісімі"
 
 msgid "Support the Project"
-msgstr ""
+msgstr "Жобаны қолдап отырыңыз"
 
 msgid "What is it?"
-msgstr ""
+msgstr "Не зат?"
 
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
 "any task. For many people, time is an enemy. The anxiety triggered by "
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
-msgstr ""
+"msgstr "Қызанақ техникасы - кез келген жұмыста қолданылатын тайм менеджмент"
+"әдісі. Көп адамға уақыт жау боп келеді. Сағат тілінің дыбысы уайымға салып,"
+"өнімсіз жұмыс пен прокрастинацияға әкеп соғады"
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
-msgstr ""
+msgstr "Қызанақ техникасы қалаған мақсаттарға жету жолында уақытты"
+"тиімді серіктес қылып алуға көмектеседі, сәйкесінше оқу не жұмыс істеу"
+"тәсілдерін дамыту үшін көп септігі бар"
 
 msgid "The Goals"
-msgstr ""
+msgstr "Мақсаттар"
 
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
 "following:"
-msgstr ""
+msgstr "Қызанақ техникасы өнімділік арттыру үшін қарапайым құрал болады,"
+"одан бөлек келесі жағдайлар үшін қолдануға болады:"
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr ""
+msgstr "Жұмыс бастауды жеңілдету"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
-msgstr ""
+msgstr "Концентрация арттыру, алаңдауды азайту"
 
 msgid "Increase awareness of your decisions"
-msgstr ""
+msgstr "Қабылдаған шешімдерден хабардар боп отыру"
 
 msgid "Boost motivation and keep it constant"
-msgstr ""
+msgstr "Мотивацияны еселеп, тұрақты деңгейде ұстау"
 
 msgid "Bolster the determination to achieve your goals"
-msgstr ""
+msgstr "Қойылған мақсатты анық қылып ұстау"
 
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
-msgstr ""
+msgstr "Жұмыс процесін сапасы мен саны жағынан анықтап отыру"
 
 msgid "Improve your work or study process"
-msgstr ""
+msgstr "Жұмыс немесе оқу дағдысын жақсарту"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
-msgstr ""
+msgstr "Қиын жағдай кезінде табандылықты арттыру"
 
 msgid "The Basics"
-msgstr ""
+msgstr "Негіздемелер"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
-msgstr ""
+msgstr "Әр күн басында мінлетті түрде керек іСтерді таңдап алып,"
+"жоғарыдағы "TODO тізіміне" қосып қойыңыз "
 
 msgid "Start working:"
-msgstr ""
+msgstr "Жұмысты бастаңыз"
 
 msgid "Start the Pomodoro timer"
-msgstr ""
+msgstr "Қызанақ таймерін бастаңыз"
 
 msgid "Work until the Pomodoro rings"
-msgstr ""
+msgstr "Қызанақ жарылғанға дейін жұмыс істеңіз"
 
 msgid "Take a short break (3-5 minutes)"
-msgstr ""
+msgstr "Қысқа үзіліс алып қойыңыз"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
-msgstr ""
+msgstr "Қойған жұмысыңыз аяғына жетпейінше, қызанақ артынан қызанақ"
+"қоса беріңіз. 4 қызанақтан кейін ұзақ үзіліс алу керек (15-30 мин)"
 
 msgid "Rules & Tips"
-msgstr ""
+msgstr "Ереже мен Айлалар"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr ""
+msgstr "Егер жұмысыңыз 5-7 қызанақ алса, оны бөліп тастаңыз"
 
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
-msgstr ""
+msgstr "Егер жұмыс 1 қызанақтан кем болса, оны басқа жұмыспен қосып"
+"жіберсеңіз жақсы болады"
 
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr ""
+msgstr "Қызанақ бастасаңыз, міндетті түрде аяқтаңыз"
 
 msgid "The next Pomodoro will go better"
-msgstr ""
+msgstr "Келесі қызанақ жақсырақ жарылады"
 
 msgid "Login to the service and track your progress"
-msgstr ""
+msgstr "Аккаунқа кіріп, прогрессті бақылап отырыңыз"
 
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
-msgstr ""
+msgstr "Қызанақ техникасы бос уақытта қолданбаған жөн."
+"Өз уақытыңызды демалыспен өткізіңіз!"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr ""
+msgstr "%s, %s арналған репорт "
 
 msgid "You spent"
-msgstr ""
+msgstr "Жұмсалды"
 
 msgid "and"
-msgstr ""
+msgstr "және"
 
 msgid "on"
 msgstr ""
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "қызанақ"
+msgstr[1] "қызанақ"
+
 
 msgid "Of those"
-msgstr ""
+msgstr "Оны ішінде"
 
 msgid "were"
-msgstr ""
+msgstr "болды"
 
 msgid "There are completed tasks"
-msgstr ""
+msgstr "Орындалған жұмыстар"
 
 msgid "Please don't send me these awesome daily reports"
-msgstr ""
+msgstr "Осы керемет, әп-әдемі репорттарды маған жібермеңізші!"
 
 #~ msgid "Delete"
-#~ msgstr ""
+#~ msgstr "Өшіру"
 
 #~ msgid "Remove"
-#~ msgstr ""
+#~ msgstr "Жою"
 
 #~ msgid "START"
-#~ msgstr ""
+#~ msgstr "БАСТАУ"
 
 #~ msgid "RESUME"
-#~ msgstr ""
+#~ msgstr "ЖАЛҒАСТЫРУ"
 
 #~ msgid "DELAY"
-#~ msgstr ""
+#~ msgstr "КІДІРУ"
 
 #~ msgid "in seconds"
-#~ msgstr ""
+#~ msgstr "секундта"
 
 #~ msgid "Clear the history"
-#~ msgstr ""
+#~ msgstr "Жазбаларды жою"
 
