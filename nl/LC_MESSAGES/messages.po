@@ -1,0 +1,843 @@
+# Dutch translations for pomodoro.
+# Copyright (C) 2016 ORGANIZATION
+# This file is distributed under the same license as the pomodoro project.
+# joranvar <bart.post@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pomodoro 0.7.16\n"
+"Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
+"POT-Creation-Date: 2018-09-21 12:38+0300\n"
+"PO-Revision-Date: 2018-10-05 14:14+0200\n"
+"Last-Translator: joranvar <bart.post@gmail.com>\n"
+"Language: nl\n"
+"Language-Team: nl <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+
+msgid "The Pomodoro is running"
+msgstr "De pomodoro loopt"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "jaar"
+msgstr[1] "jaren"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "maand"
+msgstr[1] "maanden"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "dag"
+msgstr[1] "dagen"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "uur"
+msgstr[1] "uren"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minuut"
+msgstr[1] "minuten"
+
+msgid "registered users spend on completing pomodoros today."
+msgstr "hebben geregistreerde gebruikers besteed aan pomodori vandaag."
+
+msgid "registered users spend on completing pomodoros"
+msgstr "hebben geregistreerde gebruikers besteed oon pomodori"
+
+msgid "for all time"
+msgstr "in totaal"
+
+msgid "close"
+msgstr "sluiten"
+
+msgid "Server has been updated."
+msgstr "Server is geüpdatet."
+
+msgid "Please reload the application."
+msgstr "Laad de applicatie opnieuw, a.u.b."
+
+msgid "previous page"
+msgstr "vorige pagina"
+
+msgid "next page"
+msgstr "volgende pagina"
+
+msgid "Are you sure want to delete"
+msgstr "Weet u zeker dat u dit wilt verwijderen"
+
+msgid "delete"
+msgstr "verwijderen"
+
+msgid "cancel"
+msgstr "annuleren"
+
+msgid "record"
+msgstr "record"
+
+msgid "Loading"
+msgstr "Bezig met laden"
+
+msgid "Changes saved"
+msgstr "Wijzigingen opgeslagen"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Integrations"
+msgstr "Integraties"
+
+msgid "Add"
+msgstr "Toevoegen"
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr "in je telegram, typ `/start`, gevolgd door een code van de bot in onderstaand veld"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Register"
+msgstr "Registreren"
+
+msgid "Connect"
+msgstr "Verbinden"
+
+msgid "Disconnect"
+msgstr "Verbinding verbreken"
+
+msgid "Integration with Google"
+msgstr "Integratie met Google"
+
+msgid "Login to the service using Google authentication."
+msgstr "Login met een Google-account"
+
+msgid "Integration with Facebook"
+msgstr "Integratie met Facebook"
+
+msgid "Login to the service using Facebook authentication."
+msgstr "Login met een Facebook-account"
+
+msgid "Integration with Github"
+msgstr "Integratie met GitHub"
+
+msgid "Login to the service using Github authentication."
+msgstr "Login met een GitHub-account"
+
+msgid "Enable Telegram Bot"
+msgstr "Activeer Telegram-bot"
+
+msgid "Get notifications, check history"
+msgstr "Krijg notificaties, check geschiedenis"
+
+msgid "Application"
+msgstr "Applicatie"
+
+msgid "Theme"
+msgstr "Thema"
+
+msgid "light"
+msgstr "licht"
+
+msgid "dark"
+msgstr "donker"
+
+msgid "auto"
+msgstr "automatisch"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Date format"
+msgstr "Datumformaat"
+
+msgid "Time format"
+msgstr "Tijdformaat"
+
+msgid "Time zone"
+msgstr "Tijdzone"
+
+msgid "Daily history"
+msgstr "Dagelijkse geschiedenis"
+
+msgid "Clear DONE history once per day"
+msgstr "Verwijder DONE-geschiedenis eenmaal per dag"
+
+msgid "At time"
+msgstr "Op tijdstip"
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Create a category"
+msgstr "Maak een categorie"
+
+msgid "Add category"
+msgstr "Voeg categorie toe"
+
+msgid "Send Daily Reports"
+msgstr "Stuur dagelijkse rapportages"
+
+msgid "Send reports on email: "
+msgstr "Stuur rapportages naar e-mail: "
+
+msgid "Send reports on telegram"
+msgstr "Stuur rapportages op Telegram"
+
+msgid "Reports Time"
+msgstr "Rapportagetijd"
+
+msgid "Notifications"
+msgstr "Notificaties"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Play alarm sound"
+msgstr "Speel alarm af"
+
+msgid "Play ticking sound"
+msgstr "Speel tikkend geluid"
+
+msgid "Play ticking sound while breaks"
+msgstr "Speel tikkend geluid tijdens pauzes"
+
+msgid "Notify when there is one minute left"
+msgstr "Waarschuw als er één minuut over is"
+
+msgid "Enable Web Notifications"
+msgstr "Activeer web-notificaties"
+
+msgid "Enable Telegram Notifications"
+msgstr "Activeer Telegram-notificaties"
+
+msgid "Enable Browser Alerts"
+msgstr "Activeer browser-alerts"
+
+msgid "Raise browser alert when pomodoro/break is over"
+msgstr "Toon browser-alert wanneer pomodoro/pauze voobij is"
+
+msgid "Hide notificaions"
+msgstr "Verberg notificaties"
+
+msgid "in 2 seconds"
+msgstr "in 2 seconden"
+
+msgid "in 3 seconds"
+msgstr "in 3 seconden"
+
+msgid "in 5 seconds"
+msgstr "in 5 seconden"
+
+msgid "in 10 seconds"
+msgstr "in 10 seconden"
+
+msgid "Send test notification"
+msgstr "Stuur testnotificatie"
+
+msgid "Notification Test"
+msgstr "Notificatietest"
+
+msgid "Timer"
+msgstr "Timer"
+
+msgid "Schemes"
+msgstr "Schema's"
+
+msgid "Pomodoro duration:"
+msgstr "Pomodoro-duur"
+
+msgid "in minutes"
+msgstr "in minuten"
+
+msgid "Short break duration:"
+msgstr "Korte-pauzeduur:"
+
+msgid "Long break duration:"
+msgstr "Lange-pauzeduur:"
+
+msgid "Long break delay:"
+msgstr "Lange pazue na:"
+
+msgid "in pomodoros"
+msgstr "in pomodori"
+
+msgid "Auto start pomodoros"
+msgstr "Start pomodori automatisch"
+
+msgid "Don`t start next pomodoro if TODO is empty"
+msgstr "Start de volgende pomodoro niet als de TODO-lijst leeg is"
+
+msgid "Auto start breaks"
+msgstr "Start pauzes automatisch"
+
+msgid "Daily Goal"
+msgstr "Dagelijks doel"
+
+msgid "Sort by"
+msgstr "Sorteer op"
+
+msgid "rating"
+msgstr "rating"
+
+msgid "created"
+msgstr "gemaakt"
+
+msgid "New"
+msgstr "Nieuw"
+
+msgid "Done"
+msgstr "Klaar"
+
+msgid "Like"
+msgstr "Like"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "like"
+msgstr[1] "likes"
+
+msgid "Write your ideas here"
+msgstr "Schrijf uw ideeën hier"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Description"
+msgstr "Omschrijving"
+
+msgid "Create"
+msgstr "Maak"
+
+msgid "Thank you for the feedback! Your message is awaiting moderation."
+msgstr "Bedankt voor uw feedback.  Uw bericht staat nu in de wachtrij."
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "TODO list was updated."
+msgstr "TODO-liijst is geüpdatet."
+
+msgid "Activities"
+msgstr "Activiteiten"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Short description"
+msgstr "Korte omschrijving"
+
+msgid "Add Activity"
+msgstr "Voeg activiteit toe"
+
+msgid "Add to TODO"
+msgstr "Aan TODO toevoegen"
+
+msgid "Add more"
+msgstr "Meer toevoegen"
+
+msgid "Edit"
+msgstr "Bewerken"
+
+msgid "save"
+msgstr "opslaan"
+
+msgid "Mark as daily task"
+msgstr "Markeer als dagelijkse taak"
+
+msgid "Click/tap to edit items."
+msgstr "Klik/tap om items te bewerken."
+
+msgid "Click on a number to add more."
+msgstr "Klik op een nummer om meer toe te voegen."
+
+msgid "The list is empty"
+msgstr "De lijst is leeg"
+
+msgid "Try to mark TODO as activity or use the form above"
+msgstr "Probeer TODO als activiteit te markeren, of gebruik bovenstaand formulier"
+
+msgid "Preferences"
+msgstr "Voorkeuren"
+
+msgid "Congratulations!"
+msgstr "Gefeliciteerd!"
+
+msgid "Daily Goal Completed."
+msgstr "Dagelijks doel behaald."
+
+msgid "DONE"
+msgstr "KLAAR"
+
+msgid "no description"
+msgstr "geen omschrijving"
+
+msgid "Pin to favorites"
+msgstr "Pin aan favorieten"
+
+msgid "Records are empty"
+msgstr "records zijn leeg"
+
+msgid "Try to complete some pomodoros above"
+msgstr "Probeer wat pomodori hierboven af te ronden"
+
+msgid "delays"
+msgstr "uitstel"
+
+msgid "focus"
+msgstr "focus"
+
+msgid "Clear the list"
+msgstr "Lijst leegmaken"
+
+msgid "You are not signed."
+msgstr "U bent niet ingelogd."
+
+msgid "Work history won`t be saved."
+msgstr "Werkgeschiedenis wordt niet opgeslagen."
+
+msgid "One minute left"
+msgstr "Eén minuut over"
+
+msgid "Break is over."
+msgstr "Pauze is voobij."
+
+msgid "The next pomodoro will go better!"
+msgstr "De volgende pomodoro zal beter gaan!"
+
+msgid "Pomodoro is finished."
+msgstr "Pomodoro is klaar."
+
+msgid "Have a short break."
+msgstr "Neem een korte pauze."
+
+msgid "Have a long break."
+msgstr "Neem een lange pauze."
+
+msgid "Tune the timer"
+msgstr "Timer instellen"
+
+msgid "Toggle fullscreen"
+msgstr "Volledig scherm"
+
+msgid "start"
+msgstr "start"
+
+msgid "resume"
+msgstr "verdergaan"
+
+msgid "PAUSE"
+msgstr "PAUZE"
+
+msgid "STOP"
+msgstr "STOP"
+
+msgid "SKIP"
+msgstr "OVERSLAAN"
+
+msgid "POMODORO"
+msgstr "POMODORO"
+
+msgid "TAKE A SHORT BREAK"
+msgstr "NEEM EEN KORTE PAUZE"
+
+msgid "TAKE A LONG BREAK"
+msgstr "NEEM EEN LANGE PAUZE"
+
+msgid "delay"
+msgstr "uitstellen"
+
+msgid "Great work! TODO list is empty."
+msgstr "Goed bezig!  TODO-lijst is leeg."
+
+msgid "TODO"
+msgstr "TODO"
+
+msgid "Add TODO"
+msgstr "TODO toevoegen"
+
+msgid "Favorites"
+msgstr "Favorieten"
+
+msgid "Mark as done"
+msgstr "Markeer als klaar"
+
+msgid "%1$s left"
+msgstr "%1$s over"
+
+msgid "TODO list is empty"
+msgstr "TODO-lijst is leeg"
+
+msgid "Congratulations! You have finished all your tasks."
+msgstr "Gefeliciteerd! U heeft al uw taken afgerond."
+
+msgid "Try to add some tasks use the form above"
+msgstr "Probeer wat taken toe te voegen met bovenstaand formulier"
+
+msgid "Drag&Drop/Touch to sort items."
+msgstr "Sleep om te sorteren."
+
+msgid "Time"
+msgstr "Tijd"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Try to complete some pomodoros or choose a different period"
+msgstr "Probeer wat pomodori af te ronden, of kies een andere periode"
+
+msgid "Export the records as CSV"
+msgstr "Exporteer als csv"
+
+msgid "Import records from CSV"
+msgstr "Importeer van csv"
+
+msgid "Apply"
+msgstr "Toepassen"
+
+msgid "Custom"
+msgstr "Aangepast"
+
+msgid "January"
+msgstr "januari"
+
+msgid "February"
+msgstr "februari"
+
+msgid "March"
+msgstr "maart"
+
+msgid "April"
+msgstr "april"
+
+msgid "May"
+msgstr "mei"
+
+msgid "June"
+msgstr "juni"
+
+msgid "July"
+msgstr "juli"
+
+msgid "August"
+msgstr "augustus"
+
+msgid "September"
+msgstr "september"
+
+msgid "October"
+msgstr "oktober"
+
+msgid "November"
+msgstr "november"
+
+msgid "December"
+msgstr "december"
+
+msgid "Today"
+msgstr "Vandaag"
+
+msgid "Yesterday"
+msgstr "Gisteren"
+
+msgid "This Week"
+msgstr "Deze week"
+
+msgid "Last Week"
+msgstr "Vorige week"
+
+msgid "This Month"
+msgstr "Deze maand"
+
+msgid "Last Month"
+msgstr "Vorige maand"
+
+msgid "This Quarter"
+msgstr "Dit kwartaal"
+
+msgid "Last Quarter"
+msgstr "Vorig kwartaal"
+
+msgid "Last 90 days"
+msgstr "Laatste 90 dagen"
+
+msgid "Last 180 days"
+msgstr "Laatste 180 dagen"
+
+msgid "%1$s records were imported"
+msgstr "%1$s recods werden geïmporteerd"
+
+msgid "Import was failed. Check your CSV and try again."
+msgstr "Import mislukt. Controleer de csv en probeer opnieuw."
+
+msgid "time"
+msgstr "tijd"
+
+msgid "number"
+msgstr "aantal"
+
+msgid "Activity by days"
+msgstr "Activiteit per dag"
+
+msgid "Activity by weeks"
+msgstr "Activiteit per week"
+
+msgid "Activity by months"
+msgstr "Activiteit per maand"
+
+msgid "average"
+msgstr "gemiddelde"
+
+msgid "median"
+msgstr "mediaan"
+
+msgid "Pomodoros"
+msgstr "Pomodori"
+
+msgid "Median per day"
+msgstr "Mediaan per dag"
+
+msgid "Time spent"
+msgstr "Bestede tijd"
+
+msgid "Work days"
+msgstr "Werkdagen"
+
+msgid "Stats"
+msgstr "Statistieken"
+
+msgid "Logout"
+msgstr "Uitloggen"
+
+msgid "Sign Up / Login"
+msgstr "Aanmelden / inloggen"
+
+msgid "as Google user"
+msgstr "met Google-account"
+
+msgid "as Facebook user"
+msgstr "met Facebook-account"
+
+msgid "as Github user"
+msgstr "met GitHub-account"
+
+msgid "Please, login to view your stats"
+msgstr "Log a.u.b. in om uw statistieken te zien"
+
+msgid "View"
+msgstr "Tonen"
+
+msgid "Release Notes"
+msgstr "Release Notes"
+
+msgid "Provide Feedback"
+msgstr "Geef feedback"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Pause"
+msgstr "Pauze"
+
+msgid "Skip"
+msgstr "Overslaan"
+
+msgid "Resume"
+msgstr "Verdergaan"
+
+msgid "Mark done"
+msgstr "Markeer als klaar"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Show window"
+msgstr "Toon venster"
+
+msgid "Configure"
+msgstr "Instellingen"
+
+msgid "Quit"
+msgstr "Afsluiten"
+
+msgid "Feedback"
+msgstr "Feedback"
+
+msgid "Login to view your stats"
+msgstr "Login om uw statistieken te zien"
+
+msgid "version"
+msgstr "versie"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Support the Project"
+msgstr "Steun het project"
+
+msgid "What is it?"
+msgstr "Wat is het?"
+
+msgid ""
+"The Pomodoro Technique is a time management method that can be used for "
+"any task. For many people, time is an enemy. The anxiety triggered by "
+"“the ticking clock”, especially when it involves a deadline, leads to "
+"ineffective work and study habits which in turn lead to procrastination."
+msgstr "De Pomodoro-techniek is een methode voor time-managemnt, die gebruikt kan worden voor elke taak. Voor veel mensen is tijd een vijand. De rusteloosheid die door de „tikkende klok” wordt getriggerd, in het bijzonder wanneer er sprake is van een deadline, leidt tot ineffectieve werk- en studeergewoonten, die op hun beurt tot procrastinatie leiden."
+
+msgid ""
+"The aim of the Pomodoro Technique is to use time as a valuable ally in "
+"accomplishing what we want to do in the way we want to do it, and to "
+"enable us to improve continually the way we work or study."
+msgstr "Het doel van de Pomodoro-techniek is om tijd als een waardevolle bondgenoot te gebruiken om te bereiken wat we willen bereiken, op de manier waarop we dat willen doen, en om ons in staat te stellen continu te manier waarop we werken of studeren te verbeteren."
+
+msgid "The Goals"
+msgstr "Doelen"
+
+msgid ""
+"The Pomodoro Technique will provide a simple tool/process for improving "
+"productivity (your own and that of your team members) which can do the "
+"following:"
+msgstr "De Pomodoro-techniek biedt een eenvoudig hulpmiddel / proces om zowel uw eigen productiviteit te verbeteren als die van uw teamleden, wat kan leiden tot het volgende:"
+
+msgid "Alleviate anxiety linked to beginning"
+msgstr "Onrust die te maken heeft met „beginnen” verlichten"
+
+msgid "Enhance focus and concentration by cutting down on interruptions"
+msgstr "Verbeteren van focus en concentratie, door onderbrekingen te verminderen"
+
+msgid "Increase awareness of your decisions"
+msgstr "Toename van bewustwording van eigen beslissingen"
+
+msgid "Boost motivation and keep it constant"
+msgstr "Motivatie verhogen en constant houden"
+
+msgid "Bolster the determination to achieve your goals"
+msgstr "De vastberadenheid om doelen te bereiken versterken"
+
+msgid "Refine the estimation process, both in qualitative and quantitative terms "
+msgstr "Het inschattingsproces verfijnen, zowel in kwalitatieve als kwantitatieve opzichten"
+
+msgid "Improve your work or study process"
+msgstr "Uw werk- of leerproces verbeteren"
+
+msgid ""
+"Strengthen your resolve to keep on applying yourself in the face of "
+"complex situations"
+msgstr "Versterken van het voornemen om uzelf in weerwil van complexe situaties te blijven toeleggen"
+
+msgid "The Basics"
+msgstr "Basisbeginselen"
+
+msgid ""
+"At the beginning of each day select the tasks you need to complete and "
+"put them on the TODO list above."
+msgstr "Aan het begin van elke dag selecteert u de taken die nodig zijn om af te ronden, en zet u ze op de TODO-lijst hierboven."
+
+msgid "Start working:"
+msgstr "Begin met werken:"
+
+msgid "Start the Pomodoro timer"
+msgstr "Start de Pomodoro-timer"
+
+msgid "Work until the Pomodoro rings"
+msgstr "Werk tot de pomodoro rinkelt"
+
+msgid "Take a short break (3-5 minutes)"
+msgstr "Neem een korte pauze (3-5 minuten)"
+
+msgid ""
+"Keep on working, Pomodoro after Pomodoro, until the task at hand is "
+"finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
+msgstr "Blijf werken, pomodoro na pomodoro, totdat de onderhanden taak is afgerond. Neem elke 4 pomodori een langere pauze (15-30 minuten)."
+
+msgid "Rules & Tips"
+msgstr "Regels & tips"
+
+msgid "If a task takes more than 5–7 Pomodoros, break it down"
+msgstr "Als een taak meer dan 5-7 pomodori neemt, breek hem in subtaken"
+
+msgid ""
+"If it takes less than one Pomodoro, add it up, and combine  it with "
+"another task"
+msgstr "Als hij minder dan 1 pomodoro vereist, voeg hem samen met een andere taak"
+
+msgid "Once a Pomodoro begins, it has to ring"
+msgstr "Als een pomodoro begint, moet hij rinkelen"
+
+msgid "The next Pomodoro will go better"
+msgstr "De volgende pomodoro zal beter gaan"
+
+msgid "Login to the service and track your progress"
+msgstr "Log in en houdt uw voortgang bij"
+
+msgid ""
+"The Pomodoro Technique shouldn’t be used for activities you do in your "
+"free time. Enjoy free time!"
+msgstr "De Pomodoro-techniek is niet bedoeld voor activiteiten in uw vrije tijd. Geniet van uw vrije tijd! "
+
+#, python-format
+msgid "%s here's your Daily report for %s"
+msgstr "%s hier is uw dagelijkse rapportage voor %s"
+
+msgid "You spent"
+msgstr "U heeft besteed"
+
+msgid "and"
+msgstr "en"
+
+msgid "on"
+msgstr "aan"
+
+msgid "pomodoro"
+msgid_plural "pomodoros"
+msgstr[0] "pomodoro"
+msgstr[1] "pomodori"
+
+msgid "Of those"
+msgstr "Hiervan"
+
+msgid "were"
+msgstr "waren"
+
+msgid "There are completed tasks"
+msgstr "Er zijn afgehandelde taken"
+
+msgid "Please don't send me these awesome daily reports"
+msgstr "Stuur me a.u.b. deze awesome dagelijkse rapportages niet meer"
+
+#~ msgid "Hide Pomodoro-Tracker"
+#~ msgstr "Pomodoro-tracker verbergen"
+
+#~ msgid "Hide Others"
+#~ msgstr "Overige verbergen"
+
+#~ msgid "Show All"
+#~ msgstr "Alles tonen"
+
+#~ msgid "Reload"
+#~ msgstr "Opnieuw laden"
+
+#~ msgid "Toggle Full Screen"
+#~ msgstr "Volledig scherm in-/uitschakelen"
+
+#~ msgid "Connect Telegram Bot"
+#~ msgstr "Verbinden met Telegram-bot"
+
+#~ msgid "in seconds"
+#~ msgstr "in seconden"
+
+#~ msgid "Break is over. The next pomodoro will go better!"
+#~ msgstr "De pauze is voorbij. De volgende pomodoro zal beter gaan!"
+
