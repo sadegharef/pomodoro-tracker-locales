@@ -694,7 +694,7 @@ msgid ""
 "any task. For many people, time is an enemy. The anxiety triggered by "
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
-msgstr "De Pomodoro-techniek is een methode voor time-managemnt, die gebruikt kan worden voor elke taak. Voor veel mensen is tijd een vijand. De rusteloosheid die door de „tikkende klok” wordt getriggerd, in het bijzonder wanneer er sprake is van een deadline, leidt tot ineffectieve werk- en studeergewoonten, die op hun beurt tot procrastinatie leiden."
+msgstr "De Pomodoro-techniek is een methode voor time-management, die gebruikt kan worden voor elke taak. Voor veel mensen is tijd een vijand. De rusteloosheid die door de „tikkende klok” wordt getriggerd, in het bijzonder wanneer er sprake is van een deadline, leidt tot ineffectieve werk- en studeergewoonten, die op hun beurt tot procrastinatie leiden."
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
