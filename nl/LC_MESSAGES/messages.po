@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
 "POT-Creation-Date: 2018-09-21 12:38+0300\n"
-"PO-Revision-Date: 2018-10-05 14:14+0200\n"
+"PO-Revision-Date: 2018-10-08 21:56+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
 "Language-Team: nl <LL@li.org>\n"
@@ -95,12 +95,12 @@ msgid "Integrations"
 msgstr "Integraties"
 
 msgid "Add"
-msgstr "Toevoegen"
+msgstr "Voeg"
 
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
-msgstr "in je telegram, typ `/start`, gevolgd door een code van de bot in onderstaand veld"
+msgstr "toe aan je telegram, typ `/start`, en vul de code van de bot in onderstaan veld in."
 
 msgid "Code"
 msgstr "Code"
@@ -232,16 +232,16 @@ msgid "Hide notificaions"
 msgstr "Verberg notificaties"
 
 msgid "in 2 seconds"
-msgstr "in 2 seconden"
+msgstr "na 2 seconden"
 
 msgid "in 3 seconds"
-msgstr "in 3 seconden"
+msgstr "na 3 seconden"
 
 msgid "in 5 seconds"
-msgstr "in 5 seconden"
+msgstr "na 5 seconden"
 
 msgid "in 10 seconds"
-msgstr "in 10 seconden"
+msgstr "na 10 seconden"
 
 msgid "Send test notification"
 msgstr "Stuur testnotificatie"
@@ -292,13 +292,13 @@ msgid "rating"
 msgstr "rating"
 
 msgid "created"
-msgstr "gemaakt"
+msgstr "datum"
 
 msgid "New"
 msgstr "Nieuw"
 
 msgid "Done"
-msgstr "Klaar"
+msgstr "Afgehandeld"
 
 msgid "Like"
 msgstr "Like"
