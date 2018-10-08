@@ -321,7 +321,7 @@ msgid "Create"
 msgstr "Maak"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr "Bedankt voor uw feedback.  Uw bericht staat nu in de wachtrij."
+msgstr "Bedankt voor uw feedback. Uw bericht staat nu in de wachtrij."
 
 msgid "Cancel"
 msgstr "Annuleren"
@@ -459,7 +459,7 @@ msgid "delay"
 msgstr "uitstellen"
 
 msgid "Great work! TODO list is empty."
-msgstr "Goed bezig!  TODO-lijst is leeg."
+msgstr "Goed bezig! TODO-lijst is leeg."
 
 msgid "TODO"
 msgstr "TODO"
