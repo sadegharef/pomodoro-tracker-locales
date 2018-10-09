@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
 "POT-Creation-Date: 2018-09-21 12:38+0300\n"
-"PO-Revision-Date: 2018-10-05 14:14+0200\n"
+"PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
 "Language-Team: nl <LL@li.org>\n"
@@ -95,12 +95,12 @@ msgid "Integrations"
 msgstr "Integraties"
 
 msgid "Add"
-msgstr "Toevoegen"
+msgstr "Voeg"
 
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
-msgstr "in je telegram, typ `/start`, gevolgd door een code van de bot in onderstaand veld"
+msgstr "toe aan je telegram, typ `/start`, en vul de code van de bot in onderstaand veld in."
 
 msgid "Code"
 msgstr "Code"
@@ -232,16 +232,16 @@ msgid "Hide notificaions"
 msgstr "Verberg notificaties"
 
 msgid "in 2 seconds"
-msgstr "in 2 seconden"
+msgstr "na 2 seconden"
 
 msgid "in 3 seconds"
-msgstr "in 3 seconden"
+msgstr "na 3 seconden"
 
 msgid "in 5 seconds"
-msgstr "in 5 seconden"
+msgstr "na 5 seconden"
 
 msgid "in 10 seconds"
-msgstr "in 10 seconden"
+msgstr "na 10 seconden"
 
 msgid "Send test notification"
 msgstr "Stuur testnotificatie"
@@ -292,13 +292,13 @@ msgid "rating"
 msgstr "rating"
 
 msgid "created"
-msgstr "gemaakt"
+msgstr "datum"
 
 msgid "New"
 msgstr "Nieuw"
 
 msgid "Done"
-msgstr "Klaar"
+msgstr "Afgehandeld"
 
 msgid "Like"
 msgstr "Like"
@@ -321,7 +321,7 @@ msgid "Create"
 msgstr "Maak"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr "Bedankt voor uw feedback.  Uw bericht staat nu in de wachtrij."
+msgstr "Bedankt voor uw feedback. Uw bericht staat nu in de wachtrij."
 
 msgid "Cancel"
 msgstr "Annuleren"
@@ -456,10 +456,10 @@ msgid "TAKE A LONG BREAK"
 msgstr "NEEM EEN LANGE PAUZE"
 
 msgid "delay"
-msgstr "uitstellen"
+msgstr "uitstel"
 
 msgid "Great work! TODO list is empty."
-msgstr "Goed bezig!  TODO-lijst is leeg."
+msgstr "Goed bezig! TODO-lijst is leeg."
 
 msgid "TODO"
 msgstr "TODO"
@@ -694,7 +694,7 @@ msgid ""
 "any task. For many people, time is an enemy. The anxiety triggered by "
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
-msgstr "De Pomodoro-techniek is een methode voor time-managemnt, die gebruikt kan worden voor elke taak. Voor veel mensen is tijd een vijand. De rusteloosheid die door de „tikkende klok” wordt getriggerd, in het bijzonder wanneer er sprake is van een deadline, leidt tot ineffectieve werk- en studeergewoonten, die op hun beurt tot procrastinatie leiden."
+msgstr "De Pomodoro-techniek is een methode voor time-management, die gebruikt kan worden voor elke taak. Voor veel mensen is tijd een vijand. De rusteloosheid die door de „tikkende klok” wordt getriggerd, in het bijzonder wanneer er sprake is van een deadline, leidt tot ineffectieve werk- en studeergewoonten, die op hun beurt tot uitstelgedrag leiden."
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
