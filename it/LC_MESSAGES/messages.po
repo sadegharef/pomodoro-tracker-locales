@@ -750,6 +750,8 @@ msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
 msgstr ""
+"Rafforza la tua determinazione continuando ad applicarti di "
+"fronte a situazioni complesse"
 
 msgid "The Basics"
 msgstr "Le basi"
