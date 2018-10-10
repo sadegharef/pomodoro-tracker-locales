@@ -354,7 +354,7 @@ msgid "Edit"
 msgstr "Modifica"
 
 msgid "save"
-msgstr ""
+msgstr "Salva"
 
 msgid "Mark as daily task"
 msgstr "Marca come atività giornaliera"
@@ -730,10 +730,10 @@ msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Accresce il focus e la concentrazione riducendo le interruzioni"
 
 msgid "Increase awareness of your decisions"
-msgstr ""
+msgstr "Aumenta la consapevolezza delle tue decisioni"
 
 msgid "Boost motivation and keep it constant"
-msgstr ""
+msgstr "Incrementa la motivazione e mantienila costante"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "Sostieni la determinazione di realizzare i tuoi obbiettivi"
@@ -750,6 +750,8 @@ msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
 msgstr ""
+"Rafforza la tua determinazione continuando ad applicarti di "
+"fronte a situazioni complesse"
 
 msgid "The Basics"
 msgstr "Le basi"
