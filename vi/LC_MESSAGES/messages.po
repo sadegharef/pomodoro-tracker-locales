@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-04 12:58+0300\n"
+"POT-Creation-Date: 2018-10-25 10:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.6.0\n"
 
 msgid "The Pomodoro is running"
 msgstr ""
@@ -51,13 +51,28 @@ msgstr ""
 msgid "for all time"
 msgstr ""
 
+msgid "close"
+msgstr ""
+
+msgid "Server has been updated."
+msgstr ""
+
+msgid "Please reload the application."
+msgstr ""
+
+msgid "previous page"
+msgstr ""
+
+msgid "next page"
+msgstr ""
+
 msgid "Are you sure want to delete"
 msgstr ""
 
-msgid "Delete"
+msgid "delete"
 msgstr ""
 
-msgid "Cancel"
+msgid "cancel"
 msgstr ""
 
 msgid "record"
@@ -69,36 +84,25 @@ msgstr ""
 msgid "Changes saved"
 msgstr ""
 
+msgid "Settings"
+msgstr ""
+
 msgid "Integrations"
 msgstr ""
 
-msgid "Add"
+msgid "Integration with Google"
 msgstr ""
 
-msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
-"bellow"
+msgid "Login to the service using Google Authentication"
 msgstr ""
 
-msgid "Code"
-msgstr ""
-
-msgid "Close"
-msgstr ""
-
-msgid "Register"
+msgid "Load daily tasks from Google Calendar"
 msgstr ""
 
 msgid "Connect"
 msgstr ""
 
 msgid "Disconnect"
-msgstr ""
-
-msgid "Integration with Google"
-msgstr ""
-
-msgid "Login to the service using Google authentication."
 msgstr ""
 
 msgid "Integration with Facebook"
@@ -113,10 +117,27 @@ msgstr ""
 msgid "Login to the service using Github authentication."
 msgstr ""
 
-msgid "Enable Telegram Bot"
+msgid "Integration with Telegram"
 msgstr ""
 
-msgid "Get notifications, check history"
+msgid "Reports and notifications"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Close"
 msgstr ""
 
 msgid "Application"
@@ -224,6 +245,9 @@ msgstr ""
 msgid "Send test notification"
 msgstr ""
 
+msgid "Notification Test"
+msgstr ""
+
 msgid "Timer"
 msgstr ""
 
@@ -232,9 +256,6 @@ msgstr ""
 
 #, fuzzy
 msgid "Pomodoro duration:"
-msgstr ""
-
-msgid "in seconds"
 msgstr ""
 
 #, fuzzy
@@ -303,6 +324,9 @@ msgstr ""
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr ""
 
+msgid "Cancel"
+msgstr ""
+
 msgid "TODO list was updated."
 msgstr ""
 
@@ -321,13 +345,13 @@ msgstr ""
 msgid "Add to TODO"
 msgstr ""
 
-msgid "Add more"
-msgstr ""
-
 msgid "Edit"
 msgstr ""
 
-msgid "Remove"
+msgid "Add more"
+msgstr ""
+
+msgid "save"
 msgstr ""
 
 msgid "Mark as daily task"
@@ -348,6 +372,12 @@ msgstr ""
 msgid "Preferences"
 msgstr ""
 
+msgid "Congratulations!"
+msgstr ""
+
+msgid "Daily Goal Completed."
+msgstr ""
+
 msgid "DONE"
 msgstr ""
 
@@ -363,7 +393,16 @@ msgstr ""
 msgid "Try to complete some pomodoros above"
 msgstr ""
 
-msgid "Clear the history"
+#, fuzzy
+#| msgid "day"
+#| msgid_plural "days"
+msgid "delays"
+msgstr ""
+
+msgid "focus"
+msgstr ""
+
+msgid "Clear the list"
 msgstr ""
 
 msgid "You are not signed."
@@ -375,16 +414,31 @@ msgstr ""
 msgid "One minute left"
 msgstr ""
 
+msgid "Break is over."
+msgstr ""
+
+msgid "The next pomodoro will go better!"
+msgstr ""
+
+msgid "Pomodoro is finished."
+msgstr ""
+
+msgid "Have a short break."
+msgstr ""
+
+msgid "Have a long break."
+msgstr ""
+
 msgid "Tune the timer"
 msgstr ""
 
 msgid "Toggle fullscreen"
 msgstr ""
 
-msgid "START"
+msgid "start"
 msgstr ""
 
-msgid "RESUME"
+msgid "resume"
 msgstr ""
 
 msgid "PAUSE"
@@ -394,15 +448,6 @@ msgid "STOP"
 msgstr ""
 
 msgid "SKIP"
-msgstr ""
-
-msgid "Break is over. The next pomodoro will go better!"
-msgstr ""
-
-msgid "Pomodoro is finished. Have a short break."
-msgstr ""
-
-msgid "Pomodoro is finished. Have a long break."
 msgstr ""
 
 #, fuzzy
@@ -415,13 +460,10 @@ msgstr ""
 msgid "TAKE A LONG BREAK"
 msgstr ""
 
-msgid "DELAY"
-msgstr ""
-
-msgid "Congratulations!"
-msgstr ""
-
-msgid "Daily Goal Completed."
+#, fuzzy
+#| msgid "day"
+#| msgid_plural "days"
+msgid "delay"
 msgstr ""
 
 msgid "Great work! TODO list is empty."
@@ -572,13 +614,13 @@ msgstr ""
 msgid "Pomodoros"
 msgstr ""
 
+msgid "Median per day"
+msgstr ""
+
 msgid "Time spent"
 msgstr ""
 
 msgid "Work days"
-msgstr ""
-
-msgid "Median per day"
 msgstr ""
 
 msgid "Stats"
@@ -642,9 +684,6 @@ msgid "Feedback"
 msgstr ""
 
 msgid "Login to view your stats"
-msgstr ""
-
-msgid "Settings"
 msgstr ""
 
 msgid "version"
@@ -850,5 +889,44 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Great work! Daily Goal completed."
+#~ msgstr ""
+
+#~ msgid "Delete"
+#~ msgstr ""
+
+#~ msgid "Login to the service using Google authentication."
+#~ msgstr ""
+
+#~ msgid "Enable Telegram Bot"
+#~ msgstr ""
+
+#~ msgid "Get notifications, check history"
+#~ msgstr ""
+
+#~ msgid "in seconds"
+#~ msgstr ""
+
+#~ msgid "Remove"
+#~ msgstr ""
+
+#~ msgid "Clear the history"
+#~ msgstr ""
+
+#~ msgid "START"
+#~ msgstr ""
+
+#~ msgid "RESUME"
+#~ msgstr ""
+
+#~ msgid "Break is over. The next pomodoro will go better!"
+#~ msgstr ""
+
+#~ msgid "Pomodoro is finished. Have a short break."
+#~ msgstr ""
+
+#~ msgid "Pomodoro is finished. Have a long break."
+#~ msgstr ""
+
+#~ msgid "DELAY"
 #~ msgstr ""
 
