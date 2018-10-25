@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-21 12:38+0300\n"
+"POT-Creation-Date: 2018-10-24 14:30+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.6.0\n"
 
 msgid "The Pomodoro is running"
 msgstr "Помидор запущен"
@@ -101,34 +101,20 @@ msgstr "Настройки"
 msgid "Integrations"
 msgstr "Сервисы"
 
-msgid "Add"
-msgstr "Добавить"
+msgid "Integration with Google"
+msgstr "Интеграция с Google"
 
-msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
-"bellow"
-msgstr "в ваш telegram, напишите `/start` и введите полученный код в поле ниже"
+msgid "Login to the service using Google Authentication"
+msgstr "Вход на сервис используя Google"
 
-msgid "Code"
-msgstr "Код"
-
-msgid "Close"
-msgstr "Закрыть"
-
-msgid "Register"
-msgstr "Зарегистрировать"
+msgid "Load daily tasks from Google Calendar"
+msgstr "Загружать ежедневные задачи из календаря Google"
 
 msgid "Connect"
 msgstr "Подключить"
 
 msgid "Disconnect"
 msgstr "Отключить"
-
-msgid "Integration with Google"
-msgstr "Интеграция с Google"
-
-msgid "Login to the service using Google authentication."
-msgstr "Вход на сервис используя Google"
 
 msgid "Integration with Facebook"
 msgstr "Интеграция с Facebook"
@@ -142,11 +128,28 @@ msgstr "Интеграция с Github"
 msgid "Login to the service using Github authentication."
 msgstr "Вход на сервис используя Github"
 
-msgid "Enable Telegram Bot"
+msgid "Integration with Telegram"
 msgstr "Интеграция с Telegram"
 
-msgid "Get notifications, check history"
-msgstr "Получение оповещений, проверка истории"
+msgid "Reports and notifications"
+msgstr "Отчеты и оповещения"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr "в ваш telegram, напишите `/start` и введите полученный код в поле ниже"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Register"
+msgstr "Зарегистрировать"
+
+msgid "Close"
+msgstr "Закрыть"
 
 msgid "Application"
 msgstr "Приложение"
@@ -352,11 +355,11 @@ msgstr "Добавить в избранное"
 msgid "Add to TODO"
 msgstr "Добавить в список задач"
 
-msgid "Add more"
-msgstr "Добавить"
-
 msgid "Edit"
 msgstr "Редактировать"
+
+msgid "Add more"
+msgstr "Добавить"
 
 msgid "save"
 msgstr "сохранить"
@@ -873,4 +876,10 @@ msgstr "Пожалуйста, не присылайте мне эти замеч
 
 #~ msgid "Break is over. The next pomodoro will go better!"
 #~ msgstr "Перерыв окончен. Следующий помидор будет лучше!"
+
+#~ msgid "Enable Telegram Bot"
+#~ msgstr "Интеграция с Telegram"
+
+#~ msgid "Get notifications, check history"
+#~ msgstr "Получение оповещений, проверка истории"
 

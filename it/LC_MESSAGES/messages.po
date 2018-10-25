@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-21 12:38+0300\n"
+"POT-Creation-Date: 2018-10-24 14:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.6.0\n"
 
 msgid "The Pomodoro is running"
 msgstr "Il Pomodoro è in esecuzione"
@@ -95,36 +95,20 @@ msgstr "Impostazioni"
 msgid "Integrations"
 msgstr "Integrazioni"
 
-msgid "Add"
-msgstr "Aggiungi"
+msgid "Integration with Google"
+msgstr "Integrazione con Google"
 
-msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
-"bellow"
-msgstr ""
-"nel tuo telegram, digita `/start` e inserisci un codice dal bot al campo "
-"sottostante"
+msgid "Login to the service using Google Authentication"
+msgstr "Login al servizio utilizzando l'autenticazione tramite Google."
 
-msgid "Code"
-msgstr "Codice"
-
-msgid "Close"
-msgstr "Vicino"
-
-msgid "Register"
-msgstr "Registrati"
+msgid "Load daily tasks from Google Calendar"
+msgstr "Carica attività quotidiane da Google Calendar"
 
 msgid "Connect"
 msgstr "Connetti"
 
 msgid "Disconnect"
 msgstr "Disconnetti"
-
-msgid "Integration with Google"
-msgstr "Integrazione con Google"
-
-msgid "Login to the service using Google authentication."
-msgstr "Login al servizio utilizzando l'autenticazione tramite Google."
 
 msgid "Integration with Facebook"
 msgstr "Integrazione con Facebook"
@@ -138,11 +122,30 @@ msgstr "Integrazione con Github"
 msgid "Login to the service using Github authentication."
 msgstr "Login al servizio utilizzando l'autenticazione tramite Github"
 
-msgid "Enable Telegram Bot"
-msgstr "Abilita il Telegram Bot"
+msgid "Integration with Telegram"
+msgstr "Integrazione con Telegram"
 
-msgid "Get notifications, check history"
-msgstr "Ricevi le notifiche, controlla lo storico"
+msgid "Reports and notifications"
+msgstr "Rapporti e notifiche"
+
+msgid "Add"
+msgstr "Aggiungi"
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr ""
+"nel tuo telegram, digita `/start` e inserisci un codice dal bot al campo "
+"sottostante"
+
+msgid "Code"
+msgstr "Codice"
+
+msgid "Register"
+msgstr "Registrati"
+
+msgid "Close"
+msgstr "Vicino"
 
 msgid "Application"
 msgstr "Applicazione"
@@ -347,11 +350,11 @@ msgstr "Aggiungi attività"
 msgid "Add to TODO"
 msgstr "Aggiungi ai TODO"
 
-msgid "Add more"
-msgstr "Aggiungi"
-
 msgid "Edit"
 msgstr "Modifica"
+
+msgid "Add more"
+msgstr "Aggiungi"
 
 msgid "save"
 msgstr "Salva"
@@ -750,8 +753,8 @@ msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
 msgstr ""
-"Rafforza la tua determinazione continuando ad applicarti di "
-"fronte a situazioni complesse"
+"Rafforza la tua determinazione continuando ad applicarti di fronte a "
+"situazioni complesse"
 
 msgid "The Basics"
 msgstr "Le basi"
@@ -872,4 +875,10 @@ msgstr "Per favore non inviarmi questi fantastici report giornalieri"
 
 #~ msgid "Break is over. The next pomodoro will go better!"
 #~ msgstr "La pausa è finita. Il prossimo pomodoro andrà meglio!"
+
+#~ msgid "Enable Telegram Bot"
+#~ msgstr "Abilita il Telegram Bot"
+
+#~ msgid "Get notifications, check history"
+#~ msgstr "Ricevi le notifiche, controlla lo storico"
 

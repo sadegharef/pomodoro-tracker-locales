@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-21 12:39+0300\n"
+"POT-Creation-Date: 2018-10-24 14:31+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.6.0\n"
 
 msgid "The Pomodoro is running"
 msgstr "Қызанақ кетті"
@@ -95,34 +95,20 @@ msgstr "Баптаулар"
 msgid "Integrations"
 msgstr "Қызметтер"
 
-msgid "Add"
-msgstr "Қосу"
+msgid "Integration with Google"
+msgstr "Google-мен қосылу"
 
-msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
-"bellow"
-msgstr "телеграмдағы ботта `/start` арқылы кодты енгізіңіз"
+msgid "Login to the service using Google Authentication"
+msgstr "Google арқылы кіру"
 
-msgid "Code"
-msgstr "Код"
-
-msgid "Close"
-msgstr "Жабу"
-
-msgid "Register"
-msgstr "Тіркелу"
+msgid "Load daily tasks from Google Calendar"
+msgstr "Күнделікті тапсырмаларды Google Calendar арқылы жүктеңіз"
 
 msgid "Connect"
 msgstr "Қосылу"
 
 msgid "Disconnect"
 msgstr "Ажырау"
-
-msgid "Integration with Google"
-msgstr "Google-мен қосылу"
-
-msgid "Login to the service using Google authentication."
-msgstr "Google арқылы кіру"
 
 msgid "Integration with Facebook"
 msgstr "Facebook-пен кіру"
@@ -136,11 +122,28 @@ msgstr "Github-пен қосылу"
 msgid "Login to the service using Github authentication."
 msgstr "Github арқылы кіру"
 
-msgid "Enable Telegram Bot"
-msgstr "Телеграм ботымен қосылыңыз"
+msgid "Integration with Telegram"
+msgstr "Telegram-мен қосылу"
 
-msgid "Get notifications, check history"
-msgstr "Хабарлама мен жеке нәтижелерді көріңіз"
+msgid "Reports and notifications"
+msgstr "Есептер мен хабарландырулар"
+
+msgid "Add"
+msgstr "Қосу"
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr "телеграмдағы ботта `/start` арқылы кодты енгізіңіз"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Register"
+msgstr "Тіркелу"
+
+msgid "Close"
+msgstr "Жабу"
 
 msgid "Application"
 msgstr "Қосымша іші"
@@ -345,11 +348,11 @@ msgstr "іС қосу"
 msgid "Add to TODO"
 msgstr "TODO қосу"
 
-msgid "Add more"
-msgstr "Тағы бірбәле қосу"
-
 msgid "Edit"
 msgstr "Өңдеу"
+
+msgid "Add more"
+msgstr "Тағы бірбәле қосу"
 
 msgid "save"
 msgstr "сақтау"
@@ -857,4 +860,10 @@ msgstr "Осы керемет, әп-әдемі репорттарды маған
 
 #~ msgid "Break is over. The next pomodoro will go better!"
 #~ msgstr "Үзіліс бітті. Келесі қызанақ одан да зың болады!"
+
+#~ msgid "Enable Telegram Bot"
+#~ msgstr "Телеграм ботымен қосылыңыз"
+
+#~ msgid "Get notifications, check history"
+#~ msgstr "Хабарлама мен жеке нәтижелерді көріңіз"
 
