@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.3.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-25 10:48+0300\n"
+"POT-Creation-Date: 2018-10-26 11:45+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ro\n"
@@ -404,8 +404,6 @@ msgid "Try to complete some pomodoros above"
 msgstr ""
 
 #, fuzzy
-#| msgid "day"
-#| msgid_plural "days"
 msgid "delays"
 msgstr ""
 
@@ -463,15 +461,13 @@ msgstr ""
 msgid "POMODORO"
 msgstr ""
 
-msgid "TAKE A SHORT BREAK"
+msgid "take a short break"
 msgstr ""
 
-msgid "TAKE A LONG BREAK"
+msgid "take a long break"
 msgstr ""
 
 #, fuzzy
-#| msgid "day"
-#| msgid_plural "days"
 msgid "delay"
 msgstr ""
 
@@ -884,5 +880,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "DELAY"
+#~ msgstr ""
+
+#~ msgid "TAKE A SHORT BREAK"
+#~ msgstr ""
+
+#~ msgid "TAKE A LONG BREAK"
 #~ msgstr ""
 

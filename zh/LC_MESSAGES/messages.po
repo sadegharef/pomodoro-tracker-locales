@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-25 10:49+0300\n"
+"POT-Creation-Date: 2018-10-26 11:46+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -447,10 +447,10 @@ msgstr "跳过"
 msgid "POMODORO"
 msgstr "番茄钟"
 
-msgid "TAKE A SHORT BREAK"
+msgid "take a short break"
 msgstr "开始一个短休息"
 
-msgid "TAKE A LONG BREAK"
+msgid "take a long break"
 msgstr "开始一个长休息"
 
 msgid "delay"
@@ -849,4 +849,3 @@ msgstr "请不要将这些精彩的每日报道寄给我"
 
 #~ msgid "Get notifications, check history"
 #~ msgstr "获取通知，检查历史消息"
-

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-25 10:49+0300\n"
+"POT-Creation-Date: 2018-10-26 11:46+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -453,11 +453,11 @@ msgstr "ӨТКІЗУ"
 msgid "POMODORO"
 msgstr "ҚЫЗАНАҚ"
 
-msgid "TAKE A SHORT BREAK"
-msgstr "ҚЫСҚА ҮЗІЛІСТЕН"
+msgid "take a short break"
+msgstr "қысқа үзілістен"
 
-msgid "TAKE A LONG BREAK"
-msgstr "ҰЗАҚ ҮЗІЛІСТЕН"
+msgid "take a long break"
+msgstr "ұзақ үзілістен"
 
 msgid "delay"
 msgstr "кідіріс"
@@ -866,4 +866,3 @@ msgstr "Осы керемет, әп-әдемі репорттарды маған
 
 #~ msgid "Get notifications, check history"
 #~ msgstr "Хабарлама мен жеке нәтижелерді көріңіз"
-

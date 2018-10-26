@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-25 10:48+0300\n"
+"POT-Creation-Date: 2018-10-26 11:46+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -453,10 +453,10 @@ msgstr "スキップ"
 msgid "POMODORO"
 msgstr "ポモドーロ"
 
-msgid "TAKE A SHORT BREAK"
+msgid "take a short break"
 msgstr "短時間休憩"
 
-msgid "TAKE A LONG BREAK"
+msgid "take a long break"
 msgstr "長時間休憩"
 
 msgid "delay"
@@ -859,4 +859,3 @@ msgstr "これらのすばらしい日報を私に送らないでください"
 
 #~ msgid "Get notifications, check history"
 #~ msgstr "通知と履歴の確認"
-

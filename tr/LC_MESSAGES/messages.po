@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-25 10:49+0300\n"
+"POT-Creation-Date: 2018-10-26 11:46+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -453,11 +453,15 @@ msgstr "GEÇ"
 msgid "POMODORO"
 msgstr "POMODORO"
 
-msgid "TAKE A SHORT BREAK"
-msgstr "KISA BİR MOLA AL"
+#, fuzzy
+#| msgid "Have a short break."
+msgid "take a short break"
+msgstr "Mola alın."
 
-msgid "TAKE A LONG BREAK"
-msgstr "UZUN BİR MOLA AL"
+#, fuzzy
+#| msgid "Have a long break."
+msgid "take a long break"
+msgstr "Mola alın."
 
 msgid "delay"
 msgstr "gecikme"
@@ -899,4 +903,10 @@ msgstr ""
 
 #~ msgid "Get notifications, check history"
 #~ msgstr ""
+
+#~ msgid "TAKE A SHORT BREAK"
+#~ msgstr "KISA BİR MOLA AL"
+
+#~ msgid "TAKE A LONG BREAK"
+#~ msgstr "UZUN BİR MOLA AL"
 
