@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:46+0300\n"
+"POT-Creation-Date: 2018-10-26 11:59+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -425,11 +425,11 @@ msgstr "Il prossimo pomodoro andrà meglio"
 msgid "Pomodoro is finished."
 msgstr "Pomodoro è finito."
 
-msgid "Have a short break."
-msgstr "Prenditi una breve pausa."
+msgid "take a short break"
+msgstr "prenditi una breve pausa"
 
-msgid "Have a long break."
-msgstr "Prenditi una pausa lunga."
+msgid "take a long break"
+msgstr "prenditi una pausa lunga"
 
 msgid "Tune the timer"
 msgstr "Regola il timer"
@@ -454,12 +454,6 @@ msgstr "SALTA"
 
 msgid "POMODORO"
 msgstr "POMODORO"
-
-msgid "take a short break"
-msgstr "prenditi una breve pausa"
-
-msgid "take a long break"
-msgstr "prenditi una pausa lunga"
 
 msgid "delay"
 msgstr "ritardo"
@@ -842,42 +836,3 @@ msgstr "Queste sono attività completate"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Per favore non inviarmi questi fantastici report giornalieri"
-
-#~ msgid "test"
-#~ msgstr "test"
-
-#~ msgid "Hide Pomodoro-Tracker"
-#~ msgstr "Nascondere Pomodoro-Tracker"
-
-#~ msgid "Hide Others"
-#~ msgstr "Nascondere gli altri"
-
-#~ msgid "Show All"
-#~ msgstr "Mostra tutto"
-
-#~ msgid "Reload"
-#~ msgstr "Ricaricare"
-
-#~ msgid "Toggle Full Screen"
-#~ msgstr "Passare a schermo intero"
-
-#~ msgid "Connect Telegram Bot"
-#~ msgstr "Connetti il Telegram Bot"
-
-#~ msgid "LOADING"
-#~ msgstr "CARICAMENTO"
-
-#~ msgid "Drag/Move to sort"
-#~ msgstr "Trascina/sposta per ordinare"
-
-#~ msgid "in seconds"
-#~ msgstr "in secondi"
-
-#~ msgid "Break is over. The next pomodoro will go better!"
-#~ msgstr "La pausa è finita. Il prossimo pomodoro andrà meglio!"
-
-#~ msgid "Enable Telegram Bot"
-#~ msgstr "Abilita il Telegram Bot"
-
-#~ msgid "Get notifications, check history"
-#~ msgstr "Ricevi le notifiche, controlla lo storico"

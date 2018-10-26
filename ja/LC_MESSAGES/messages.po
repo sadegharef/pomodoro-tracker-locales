@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:46+0300\n"
+"POT-Creation-Date: 2018-10-26 11:59+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -423,11 +423,11 @@ msgstr "次のポモドーロはより効果的になるでしょう"
 msgid "Pomodoro is finished."
 msgstr "ポモドーロ終了です、"
 
-msgid "Have a short break."
-msgstr "休憩しましょう。"
+msgid "take a short break"
+msgstr "短時間休憩"
 
-msgid "Have a long break."
-msgstr "休憩しましょう。"
+msgid "take a long break"
+msgstr "長時間休憩"
 
 msgid "Tune the timer"
 msgstr "タイマーを調整する"
@@ -452,12 +452,6 @@ msgstr "スキップ"
 
 msgid "POMODORO"
 msgstr "ポモドーロ"
-
-msgid "take a short break"
-msgstr "短時間休憩"
-
-msgid "take a long break"
-msgstr "長時間休憩"
 
 msgid "delay"
 msgstr "遅れ"
@@ -820,42 +814,3 @@ msgstr "完了したタスクがあります"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "これらのすばらしい日報を私に送らないでください"
-
-#~ msgid "test"
-#~ msgstr "テスト"
-
-#~ msgid "Hide Pomodoro-Tracker"
-#~ msgstr "隠す"
-
-#~ msgid "Hide Others"
-#~ msgstr "他を隠す"
-
-#~ msgid "Show All"
-#~ msgstr "すべて表示する"
-
-#~ msgid "Reload"
-#~ msgstr "リロード"
-
-#~ msgid "Toggle Full Screen"
-#~ msgstr "フルスクリーン切り替え"
-
-#~ msgid "Connect Telegram Bot"
-#~ msgstr "Telegram Botとの連携"
-
-#~ msgid "LOADING"
-#~ msgstr "ロード"
-
-#~ msgid "Drag/Move to sort"
-#~ msgstr "ドラッグで並べ替え"
-
-#~ msgid "in seconds"
-#~ msgstr "秒単位で"
-
-#~ msgid "Break is over. The next pomodoro will go better!"
-#~ msgstr "休憩終了です。次のポモドーロも頑張りましょう！"
-
-#~ msgid "Enable Telegram Bot"
-#~ msgstr "Telegram Botを有効にする"
-
-#~ msgid "Get notifications, check history"
-#~ msgstr "通知と履歴の確認"

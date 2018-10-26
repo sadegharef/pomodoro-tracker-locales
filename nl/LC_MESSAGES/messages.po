@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2018-10-26 11:46+0300\n"
+"POT-Creation-Date: 2018-10-26 11:59+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -424,11 +424,11 @@ msgstr "De volgende pomodoro zal beter gaan!"
 msgid "Pomodoro is finished."
 msgstr "Pomodoro is klaar."
 
-msgid "Have a short break."
-msgstr "Neem een korte pauze."
+msgid "take a short break"
+msgstr "neem een korte pauze"
 
-msgid "Have a long break."
-msgstr "Neem een lange pauze."
+msgid "take a long break"
+msgstr "neem een lange pauze"
 
 msgid "Tune the timer"
 msgstr "Timer instellen"
@@ -453,12 +453,6 @@ msgstr "OVERSLAAN"
 
 msgid "POMODORO"
 msgstr "POMODORO"
-
-msgid "take a short break"
-msgstr "neem een korte pauze"
-
-msgid "take a long break"
-msgstr "neem een lange pauze"
 
 msgid "delay"
 msgstr "uitstel"
@@ -843,33 +837,3 @@ msgstr "Er zijn afgehandelde taken"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Stuur me a.u.b. deze awesome dagelijkse rapportages niet meer"
-
-#~ msgid "Hide Pomodoro-Tracker"
-#~ msgstr "Pomodoro-tracker verbergen"
-
-#~ msgid "Hide Others"
-#~ msgstr "Overige verbergen"
-
-#~ msgid "Show All"
-#~ msgstr "Alles tonen"
-
-#~ msgid "Reload"
-#~ msgstr "Opnieuw laden"
-
-#~ msgid "Toggle Full Screen"
-#~ msgstr "Volledig scherm in-/uitschakelen"
-
-#~ msgid "Connect Telegram Bot"
-#~ msgstr "Verbinden met Telegram-bot"
-
-#~ msgid "in seconds"
-#~ msgstr "in seconden"
-
-#~ msgid "Break is over. The next pomodoro will go better!"
-#~ msgstr "De pauze is voorbij. De volgende pomodoro zal beter gaan!"
-
-#~ msgid "Enable Telegram Bot"
-#~ msgstr "Activeer Telegram-bot"
-
-#~ msgid "Get notifications, check history"
-#~ msgstr "Krijg notificaties, check geschiedenis"

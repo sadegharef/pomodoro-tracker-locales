@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:46+0300\n"
+"POT-Creation-Date: 2018-10-26 11:59+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -423,11 +423,11 @@ msgstr "Келесі қызанақ жақсырақ жарылады"
 msgid "Pomodoro is finished."
 msgstr "Қызанақ бітіп қалды ғой."
 
-msgid "Have a short break."
-msgstr "Тез кетіңіз үзіліске."
+msgid "take a short break"
+msgstr "қысқа үзілістен"
 
-msgid "Have a long break."
-msgstr "Ұзақ үзіліс екен енді."
+msgid "take a long break"
+msgstr "ұзақ үзілістен"
 
 msgid "Tune the timer"
 msgstr "Баптаулар"
@@ -452,12 +452,6 @@ msgstr "ӨТКІЗУ"
 
 msgid "POMODORO"
 msgstr "ҚЫЗАНАҚ"
-
-msgid "take a short break"
-msgstr "қысқа үзілістен"
-
-msgid "take a long break"
-msgstr "ұзақ үзілістен"
 
 msgid "delay"
 msgstr "кідіріс"
@@ -836,33 +830,3 @@ msgstr "Орындалған жұмыстар"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Осы керемет, әп-әдемі репорттарды маған жібермеңізші!"
-
-#~ msgid "Delete"
-#~ msgstr "Өшіру"
-
-#~ msgid "Remove"
-#~ msgstr "Жою"
-
-#~ msgid "START"
-#~ msgstr "БАСТАУ"
-
-#~ msgid "RESUME"
-#~ msgstr "ЖАЛҒАСТЫРУ"
-
-#~ msgid "DELAY"
-#~ msgstr "КІДІРУ"
-
-#~ msgid "in seconds"
-#~ msgstr "секундта"
-
-#~ msgid "Clear the history"
-#~ msgstr "Жазбаларды жою"
-
-#~ msgid "Break is over. The next pomodoro will go better!"
-#~ msgstr "Үзіліс бітті. Келесі қызанақ одан да зың болады!"
-
-#~ msgid "Enable Telegram Bot"
-#~ msgstr "Телеграм ботымен қосылыңыз"
-
-#~ msgid "Get notifications, check history"
-#~ msgstr "Хабарлама мен жеке нәтижелерді көріңіз"

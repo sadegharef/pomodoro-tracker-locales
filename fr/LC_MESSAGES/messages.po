@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:46+0300\n"
+"POT-Creation-Date: 2018-10-26 11:59+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -427,11 +427,11 @@ msgstr "Chaque pomodoro est meilleur que le précédent."
 msgid "Pomodoro is finished."
 msgstr "Votre pomodoro est terminé."
 
-msgid "Have a short break."
-msgstr "Faites une courte pause."
+msgid "take a short break"
+msgstr "faites une petite pause"
 
-msgid "Have a long break."
-msgstr "Faites une longue pause."
+msgid "take a long break"
+msgstr "faites une longue pause"
 
 msgid "Tune the timer"
 msgstr "Régler la minuterie"
@@ -456,12 +456,6 @@ msgstr "PASSER"
 
 msgid "POMODORO"
 msgstr "POMODORO"
-
-msgid "take a short break"
-msgstr "faites une petite pause"
-
-msgid "take a long break"
-msgstr "faites une longue pause"
 
 msgid "delay"
 msgstr "repousser"
@@ -842,42 +836,3 @@ msgstr "Ces tâches ont été terminées."
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Je préfère ne pas recevoir ces rapports quotidiens."
-
-#~ msgid "test"
-#~ msgstr "test"
-
-#~ msgid "Hide Pomodoro-Tracker"
-#~ msgstr "Cacher Pomodoro-Tracker"
-
-#~ msgid "Hide Others"
-#~ msgstr "Masquer les autres"
-
-#~ msgid "Show All"
-#~ msgstr "Montre tout"
-
-#~ msgid "Reload"
-#~ msgstr "Recharger"
-
-#~ msgid "Toggle Full Screen"
-#~ msgstr "Basculer en plein écran"
-
-#~ msgid "Connect Telegram Bot"
-#~ msgstr "Connecter le bot Telegram"
-
-#~ msgid "LOADING"
-#~ msgstr "EN COURS DE CHARGEMENT"
-
-#~ msgid "Drag/Move to sort"
-#~ msgstr "Cliquer/déplacer pour trier"
-
-#~ msgid "in seconds"
-#~ msgstr "en secondes"
-
-#~ msgid "Break is over. The next pomodoro will go better!"
-#~ msgstr "La pause est terminée. Le prochain pomodoro se passera mieux !"
-
-#~ msgid "Enable Telegram Bot"
-#~ msgstr "Activer le bot Telegram"
-
-#~ msgid "Get notifications, check history"
-#~ msgstr "Recevez des notifications, vérifiez l'historique"

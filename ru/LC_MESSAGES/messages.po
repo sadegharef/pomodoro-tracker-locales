@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:46+0300\n"
+"POT-Creation-Date: 2018-10-26 11:59+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -430,11 +430,11 @@ msgstr "Следующий «помидор» будет лучше"
 msgid "Pomodoro is finished."
 msgstr "Помидор окончен."
 
-msgid "Have a short break."
-msgstr "Сделайте короткий перерыв."
+msgid "take a short break"
+msgstr "сделайте короткий перерыв"
 
-msgid "Have a long break."
-msgstr "Сделайте длинный перерыв."
+msgid "take a long break"
+msgstr "сделайте длинный перерыв"
 
 msgid "Tune the timer"
 msgstr "Настройки"
@@ -459,12 +459,6 @@ msgstr "ПРОПУСТИТЬ"
 
 msgid "POMODORO"
 msgstr "ПОМИДОР"
-
-msgid "take a short break"
-msgstr "короткий перерыв"
-
-msgid "take a long break"
-msgstr "длинный перерыв"
 
 msgid "delay"
 msgstr "задержка"
@@ -846,40 +840,3 @@ msgstr "Выполненные задачи"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Пожалуйста, не присылайте мне эти замечательные отчеты"
-
-#~ msgid "Hide Pomodoro-Tracker"
-#~ msgstr "Спрятать приложение"
-
-#~ msgid "Hide Others"
-#~ msgstr "Спрятать другое"
-
-#~ msgid "Show All"
-#~ msgstr "Показать все"
-
-#~ msgid "Reload"
-#~ msgstr "Перезагрузить"
-
-#~ msgid "Toggle Full Screen"
-#~ msgstr "Переключить полный экран"
-
-#~ msgid "Connect Telegram Bot"
-#~ msgstr "Подключить Telegram бота"
-
-#~ msgid "LOADING"
-#~ msgstr "ЗАГРУЗКА"
-
-#~ msgid "Drag/Move to sort"
-#~ msgstr "Перетащите для сортировки"
-
-#~ msgid "in seconds"
-#~ msgstr "в секундах"
-
-#~ msgid "Break is over. The next pomodoro will go better!"
-#~ msgstr "Перерыв окончен. Следующий помидор будет лучше!"
-
-#~ msgid "Enable Telegram Bot"
-#~ msgstr "Интеграция с Telegram"
-
-#~ msgid "Get notifications, check history"
-#~ msgstr "Получение оповещений, проверка истории"
-

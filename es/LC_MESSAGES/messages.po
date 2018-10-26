@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:45+0300\n"
+"POT-Creation-Date: 2018-10-26 11:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -425,11 +425,11 @@ msgstr "El siguiente Pomodoro será mejor"
 msgid "Pomodoro is finished."
 msgstr "Pomodoro finalizado."
 
-msgid "Have a short break."
-msgstr "Haz un descanso corto."
+msgid "take a short break"
+msgstr "haz un descanso corto"
 
-msgid "Have a long break."
-msgstr "Haz un descanso largo."
+msgid "take a long break"
+msgstr "haz un descanso largo"
 
 msgid "Tune the timer"
 msgstr "Ajustar el cronómetro"
@@ -454,12 +454,6 @@ msgstr "OMITIR"
 
 msgid "POMODORO"
 msgstr "POMODORO"
-
-msgid "take a short break"
-msgstr "haz un descanso corto"
-
-msgid "take a long break"
-msgstr "haz un descanso largo"
 
 msgid "delay"
 msgstr "retrasar"
@@ -847,40 +841,3 @@ msgstr "Hay tareas completadas"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Por favor no me envíes estos increíbles informes diarios"
-
-#~ msgid "Hide Pomodoro-Tracker"
-#~ msgstr "Esconder Pomodoro-Tracker"
-
-#~ msgid "Hide Others"
-#~ msgstr "Esconder otros"
-
-#~ msgid "Show All"
-#~ msgstr "Mostrar todo"
-
-#~ msgid "Reload"
-#~ msgstr "Recargar"
-
-#~ msgid "Toggle Full Screen"
-#~ msgstr "Alternar pantalla completa"
-
-#~ msgid "Connect Telegram Bot"
-#~ msgstr "Conectar Telegram Bot"
-
-#~ msgid "LOADING"
-#~ msgstr "CARGANDO"
-
-#~ msgid "Drag/Move to sort"
-#~ msgstr "Arrastra/Mueve para ordenar"
-
-#~ msgid "in seconds"
-#~ msgstr "en segundos"
-
-#~ msgid "Break is over. The next pomodoro will go better!"
-#~ msgstr "Fin del descanso. ¡El siguiente pomodoro irá mejor!"
-
-#~ msgid "Enable Telegram Bot"
-#~ msgstr "Habilitar Telegram Bot"
-
-#~ msgid "Get notifications, check history"
-#~ msgstr "Recibe notificaciones, verifica el historial"
-

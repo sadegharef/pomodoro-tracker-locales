@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:45+0300\n"
+"POT-Creation-Date: 2018-10-26 11:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -254,11 +254,9 @@ msgstr ""
 msgid "Schemes"
 msgstr ""
 
-#, fuzzy
 msgid "Pomodoro duration:"
 msgstr ""
 
-#, fuzzy
 msgid "in minutes"
 msgstr ""
 
@@ -271,7 +269,6 @@ msgstr ""
 msgid "Long break delay:"
 msgstr ""
 
-#, fuzzy
 msgid "in pomodoros"
 msgstr ""
 
@@ -393,7 +390,6 @@ msgstr ""
 msgid "Try to complete some pomodoros above"
 msgstr ""
 
-#, fuzzy
 msgid "delays"
 msgstr ""
 
@@ -421,10 +417,10 @@ msgstr ""
 msgid "Pomodoro is finished."
 msgstr ""
 
-msgid "Have a short break."
+msgid "take a short break"
 msgstr ""
 
-msgid "Have a long break."
+msgid "take a long break"
 msgstr ""
 
 msgid "Tune the timer"
@@ -448,17 +444,9 @@ msgstr ""
 msgid "SKIP"
 msgstr ""
 
-#, fuzzy
 msgid "POMODORO"
 msgstr ""
 
-msgid "take a short break"
-msgstr ""
-
-msgid "take a long break"
-msgstr ""
-
-#, fuzzy
 msgid "delay"
 msgstr ""
 
@@ -606,7 +594,6 @@ msgstr ""
 msgid "median"
 msgstr ""
 
-#, fuzzy
 msgid "Pomodoros"
 msgstr ""
 
@@ -820,115 +807,3 @@ msgstr ""
 
 msgid "Please don't send me these awesome daily reports"
 msgstr ""
-
-#~ msgid "%s here's your Daily report for"
-#~ msgstr ""
-
-#~ msgid "here's your daily report for"
-#~ msgstr ""
-
-#~ msgid "June"
-#~ msgstr ""
-
-#~ msgid "April"
-#~ msgstr ""
-
-#~ msgid "February"
-#~ msgstr ""
-
-#~ msgid "October"
-#~ msgstr ""
-
-#~ msgid "May"
-#~ msgstr ""
-
-#~ msgid "March"
-#~ msgstr ""
-
-#~ msgid "Febrary"
-#~ msgstr ""
-
-#~ msgid "December"
-#~ msgstr ""
-
-#~ msgid "September"
-#~ msgstr ""
-
-#~ msgid "August"
-#~ msgstr ""
-
-#~ msgid "Hide Pomodoro-Tracker"
-#~ msgstr ""
-
-#~ msgid "Hide Others"
-#~ msgstr ""
-
-#~ msgid "Show All"
-#~ msgstr ""
-
-#~ msgid "Reload"
-#~ msgstr ""
-
-#~ msgid "Toggle Full Screen"
-#~ msgstr ""
-
-#~ msgid "Connect Telegram Bot"
-#~ msgstr ""
-
-#~ msgid "LOADING"
-#~ msgstr ""
-
-#~ msgid "Drag/Move to sort"
-#~ msgstr ""
-
-#~ msgid "left"
-#~ msgstr ""
-
-#~ msgid "Great work! Daily Goal completed."
-#~ msgstr ""
-
-#~ msgid "Delete"
-#~ msgstr ""
-
-#~ msgid "Login to the service using Google authentication."
-#~ msgstr ""
-
-#~ msgid "Enable Telegram Bot"
-#~ msgstr ""
-
-#~ msgid "Get notifications, check history"
-#~ msgstr ""
-
-#~ msgid "in seconds"
-#~ msgstr ""
-
-#~ msgid "Remove"
-#~ msgstr ""
-
-#~ msgid "Clear the history"
-#~ msgstr ""
-
-#~ msgid "START"
-#~ msgstr ""
-
-#~ msgid "RESUME"
-#~ msgstr ""
-
-#~ msgid "Break is over. The next pomodoro will go better!"
-#~ msgstr ""
-
-#~ msgid "Pomodoro is finished. Have a short break."
-#~ msgstr ""
-
-#~ msgid "Pomodoro is finished. Have a long break."
-#~ msgstr ""
-
-#~ msgid "DELAY"
-#~ msgstr ""
-
-#~ msgid "TAKE A SHORT BREAK"
-#~ msgstr ""
-
-#~ msgid "TAKE A LONG BREAK"
-#~ msgstr ""
-

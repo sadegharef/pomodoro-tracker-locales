@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:46+0300\n"
+"POT-Creation-Date: 2018-10-26 11:59+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -417,11 +417,11 @@ msgstr "努力将下一个番茄钟做得更好"
 msgid "Pomodoro is finished."
 msgstr "番茄钟结束。"
 
-msgid "Have a short break."
-msgstr "开始一个短休息。"
+msgid "take a short break"
+msgstr "开始一个短休息"
 
-msgid "Have a long break."
-msgstr "开始一个长休息。"
+msgid "take a long break"
+msgstr "开始一个长休息"
 
 msgid "Tune the timer"
 msgstr "校准计时器"
@@ -446,12 +446,6 @@ msgstr "跳过"
 
 msgid "POMODORO"
 msgstr "番茄钟"
-
-msgid "take a short break"
-msgstr "开始一个短休息"
-
-msgid "take a long break"
-msgstr "开始一个长休息"
 
 msgid "delay"
 msgstr "推迟"
@@ -813,39 +807,3 @@ msgstr "这是已完成的任务"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "请不要将这些精彩的每日报道寄给我"
-
-#~ msgid "Hide Pomodoro-Tracker"
-#~ msgstr "隐藏Pomodoro-Tracker"
-
-#~ msgid "Hide Others"
-#~ msgstr "隐藏其他"
-
-#~ msgid "Show All"
-#~ msgstr "显示所有"
-
-#~ msgid "Reload"
-#~ msgstr "刷新"
-
-#~ msgid "Toggle Full Screen"
-#~ msgstr "切换全屏"
-
-#~ msgid "Connect Telegram Bot"
-#~ msgstr "连接Telegram Bot"
-
-#~ msgid "LOADING"
-#~ msgstr "载入中"
-
-#~ msgid "Drag/Move to sort"
-#~ msgstr "拖动来排序"
-
-#~ msgid "in seconds"
-#~ msgstr "秒"
-
-#~ msgid "Break is over. The next pomodoro will go better!"
-#~ msgstr "休息结束。下一个番茄钟会更棒！"
-
-#~ msgid "Enable Telegram Bot"
-#~ msgstr "启用Telegram Bot"
-
-#~ msgid "Get notifications, check history"
-#~ msgstr "获取通知，检查历史消息"
