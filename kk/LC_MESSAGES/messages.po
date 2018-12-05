@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:59+0300\n"
+"POT-Creation-Date: 2018-12-05 14:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -19,8 +19,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-msgid "The Pomodoro is running"
-msgstr "Қызанақ кетті"
+msgid "One minute left"
+msgstr "Бір минут қалды"
+
+msgid "Break is over."
+msgstr "Үзіліс аяқталды."
+
+msgid "The next pomodoro will go better!"
+msgstr "Келесі қызанақ жақсырақ жарылады"
+
+msgid "Pomodoro is finished."
+msgstr "Қызанақ бітіп қалды ғой."
+
+msgid "take a short break"
+msgstr "қысқа үзілістен"
+
+msgid "take a long break"
+msgstr "ұзақ үзілістен"
 
 msgid "year"
 msgid_plural "years"
@@ -103,6 +118,9 @@ msgstr "Google арқылы кіру"
 
 msgid "Load daily tasks from Google Calendar"
 msgstr "Күнделікті тапсырмаларды Google Calendar арқылы жүктеңіз"
+
+msgid "Sync with Google Tasks"
+msgstr ""
 
 msgid "Connect"
 msgstr "Қосылу"
@@ -375,12 +393,6 @@ msgstr "TODO-ды іС қылып көріңіз я келесі үлгіні т
 msgid "Preferences"
 msgstr "Баптаулар"
 
-msgid "Congratulations!"
-msgstr "Бәрекелді!"
-
-msgid "Daily Goal Completed."
-msgstr "Күн мақсаты орындалды"
-
 msgid "DONE"
 msgstr "БІТТІ"
 
@@ -410,24 +422,6 @@ msgstr "Әзір кірмепсіз"
 
 msgid "Work history won`t be saved."
 msgstr "Жұмыс жазбалары сақталмай қалады"
-
-msgid "One minute left"
-msgstr "Бір минут қалды"
-
-msgid "Break is over."
-msgstr "Үзіліс аяқталды."
-
-msgid "The next pomodoro will go better!"
-msgstr "Келесі қызанақ жақсырақ жарылады"
-
-msgid "Pomodoro is finished."
-msgstr "Қызанақ бітіп қалды ғой."
-
-msgid "take a short break"
-msgstr "қысқа үзілістен"
-
-msgid "take a long break"
-msgstr "ұзақ үзілістен"
 
 msgid "Tune the timer"
 msgstr "Баптаулар"
@@ -651,14 +645,14 @@ msgstr "Пауза"
 msgid "Skip"
 msgstr "Өткізу"
 
+msgid "Stop"
+msgstr "Стоп"
+
 msgid "Resume"
 msgstr "Жалғастыру"
 
 msgid "Mark done"
 msgstr "Біткен кезде басады"
-
-msgid "Stop"
-msgstr "Стоп"
 
 msgid "Show window"
 msgstr "Терезені көрсету"
@@ -830,3 +824,13 @@ msgstr "Орындалған жұмыстар"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Осы керемет, әп-әдемі репорттарды маған жібермеңізші!"
+
+#~ msgid "The Pomodoro is running"
+#~ msgstr "Қызанақ кетті"
+
+#~ msgid "Congratulations!"
+#~ msgstr "Бәрекелді!"
+
+#~ msgid "Daily Goal Completed."
+#~ msgstr "Күн мақсаты орындалды"
+

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:59+0300\n"
+"POT-Creation-Date: 2018-12-05 14:39+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -19,8 +19,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-msgid "The Pomodoro is running"
-msgstr "Le pomodoro est lancé."
+msgid "One minute left"
+msgstr "Il ne reste qu'une minute."
+
+msgid "Break is over."
+msgstr "La pause est terminée."
+
+msgid "The next pomodoro will go better!"
+msgstr "Chaque pomodoro est meilleur que le précédent."
+
+msgid "Pomodoro is finished."
+msgstr "Votre pomodoro est terminé."
+
+msgid "take a short break"
+msgstr "faites une petite pause"
+
+msgid "take a long break"
+msgstr "faites une longue pause"
 
 msgid "year"
 msgid_plural "years"
@@ -107,6 +122,9 @@ msgstr "Se connecter au service avec l'authentification Google"
 
 msgid "Load daily tasks from Google Calendar"
 msgstr "Charger des tâches quotidiennes à partir de Google Agenda"
+
+msgid "Sync with Google Tasks"
+msgstr "Synchroniser avec Google Tasks"
 
 msgid "Connect"
 msgstr "Se connecter"
@@ -379,12 +397,6 @@ msgstr "Essayez de marquer TODO comme activité ou remplissez le champ ci-dessus
 msgid "Preferences"
 msgstr "Préférences"
 
-msgid "Congratulations!"
-msgstr "Félicitations!"
-
-msgid "Daily Goal Completed."
-msgstr "Objectif quotidien complété."
-
 msgid "DONE"
 msgstr "TERMINÉ"
 
@@ -414,24 +426,6 @@ msgstr "Vous n'êtes pas connecté·e."
 
 msgid "Work history won`t be saved."
 msgstr "L'historique de travail ne sera pas enregistré."
-
-msgid "One minute left"
-msgstr "Il ne reste qu'une minute."
-
-msgid "Break is over."
-msgstr "La pause est terminée."
-
-msgid "The next pomodoro will go better!"
-msgstr "Chaque pomodoro est meilleur que le précédent."
-
-msgid "Pomodoro is finished."
-msgstr "Votre pomodoro est terminé."
-
-msgid "take a short break"
-msgstr "faites une petite pause"
-
-msgid "take a long break"
-msgstr "faites une longue pause"
 
 msgid "Tune the timer"
 msgstr "Régler la minuterie"
@@ -655,14 +649,14 @@ msgstr "Pause"
 msgid "Skip"
 msgstr "Passer"
 
+msgid "Stop"
+msgstr "Arrêter"
+
 msgid "Resume"
 msgstr "Reprendre"
 
 msgid "Mark done"
 msgstr "Marque comme terminé"
-
-msgid "Stop"
-msgstr "Arrêter"
 
 msgid "Show window"
 msgstr "Afficher la fenêtre"
@@ -836,3 +830,13 @@ msgstr "Ces tâches ont été terminées."
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Je préfère ne pas recevoir ces rapports quotidiens."
+
+#~ msgid "The Pomodoro is running"
+#~ msgstr "Le pomodoro est lancé."
+
+#~ msgid "Congratulations!"
+#~ msgstr "Félicitations!"
+
+#~ msgid "Daily Goal Completed."
+#~ msgstr "Objectif quotidien complété."
+

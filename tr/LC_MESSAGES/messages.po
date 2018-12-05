@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:59+0300\n"
+"POT-Creation-Date: 2018-12-05 14:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -19,8 +19,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-msgid "The Pomodoro is running"
-msgstr "Pomodoro devam ediyor"
+msgid "One minute left"
+msgstr "bir dakika kaldı"
+
+msgid "Break is over."
+msgstr ""
+
+msgid "The next pomodoro will go better!"
+msgstr "Bir sonraki Pomodoro daha iyi geçecektir"
+
+msgid "Pomodoro is finished."
+msgstr "Pomodoro tamamlandı."
+
+msgid "take a short break"
+msgstr "kisa bir mola al"
+
+msgid "take a long break"
+msgstr "uzun bir mola al"
 
 msgid "year"
 msgid_plural "years"
@@ -102,6 +117,9 @@ msgid "Login to the service using Google Authentication"
 msgstr ""
 
 msgid "Load daily tasks from Google Calendar"
+msgstr ""
+
+msgid "Sync with Google Tasks"
 msgstr ""
 
 msgid "Connect"
@@ -375,12 +393,6 @@ msgstr "Görevi aktivite olarak işaretleyin veya yukarıdaki formu kullanın"
 msgid "Preferences"
 msgstr "Tercihler"
 
-msgid "Congratulations!"
-msgstr "Tebrikler!"
-
-msgid "Daily Goal Completed."
-msgstr "Günlük gol tamamlandı."
-
 msgid "DONE"
 msgstr "TAMAMLANDI"
 
@@ -410,24 +422,6 @@ msgstr "Sen imzalanmadın"
 
 msgid "Work history won`t be saved."
 msgstr "İş geçmişi kurtarılamaz."
-
-msgid "One minute left"
-msgstr "bir dakika kaldı"
-
-msgid "Break is over."
-msgstr ""
-
-msgid "The next pomodoro will go better!"
-msgstr "Bir sonraki Pomodoro daha iyi geçecektir"
-
-msgid "Pomodoro is finished."
-msgstr "Pomodoro tamamlandı."
-
-msgid "take a short break"
-msgstr "kisa bir mola al"
-
-msgid "take a long break"
-msgstr "uzun bir mola al"
 
 msgid "Tune the timer"
 msgstr "Zamanlayıcıyı ayarla"
@@ -653,14 +647,14 @@ msgstr "Duraklat"
 msgid "Skip"
 msgstr "Geç"
 
+msgid "Stop"
+msgstr "Durdur"
+
 msgid "Resume"
 msgstr "Devam et"
 
 msgid "Mark done"
 msgstr "Tamamlandı olarak işaretle"
-
-msgid "Stop"
-msgstr "Durdur"
 
 msgid "Show window"
 msgstr "Pencere göster"
@@ -836,3 +830,13 @@ msgstr ""
 
 msgid "Please don't send me these awesome daily reports"
 msgstr ""
+
+#~ msgid "The Pomodoro is running"
+#~ msgstr "Pomodoro devam ediyor"
+
+#~ msgid "Congratulations!"
+#~ msgstr "Tebrikler!"
+
+#~ msgid "Daily Goal Completed."
+#~ msgstr "Günlük gol tamamlandı."
+

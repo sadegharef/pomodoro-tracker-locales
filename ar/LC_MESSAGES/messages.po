@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:58+0300\n"
+"POT-Creation-Date: 2018-12-05 14:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ar\n"
@@ -20,7 +20,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-msgid "The Pomodoro is running"
+msgid "One minute left"
+msgstr ""
+
+msgid "Break is over."
+msgstr ""
+
+msgid "The next pomodoro will go better!"
+msgstr ""
+
+msgid "Pomodoro is finished."
+msgstr ""
+
+msgid "take a short break"
+msgstr ""
+
+msgid "take a long break"
 msgstr ""
 
 msgid "year"
@@ -123,6 +138,9 @@ msgid "Login to the service using Google Authentication"
 msgstr ""
 
 msgid "Load daily tasks from Google Calendar"
+msgstr ""
+
+msgid "Sync with Google Tasks"
 msgstr ""
 
 msgid "Connect"
@@ -400,12 +418,6 @@ msgstr ""
 msgid "Preferences"
 msgstr ""
 
-msgid "Congratulations!"
-msgstr ""
-
-msgid "Daily Goal Completed."
-msgstr ""
-
 msgid "DONE"
 msgstr ""
 
@@ -434,24 +446,6 @@ msgid "You are not signed."
 msgstr ""
 
 msgid "Work history won`t be saved."
-msgstr ""
-
-msgid "One minute left"
-msgstr ""
-
-msgid "Break is over."
-msgstr ""
-
-msgid "The next pomodoro will go better!"
-msgstr ""
-
-msgid "Pomodoro is finished."
-msgstr ""
-
-msgid "take a short break"
-msgstr ""
-
-msgid "take a long break"
 msgstr ""
 
 msgid "Tune the timer"
@@ -676,13 +670,13 @@ msgstr ""
 msgid "Skip"
 msgstr ""
 
+msgid "Stop"
+msgstr ""
+
 msgid "Resume"
 msgstr ""
 
 msgid "Mark done"
-msgstr ""
-
-msgid "Stop"
 msgstr ""
 
 msgid "Show window"
@@ -843,3 +837,13 @@ msgstr ""
 
 msgid "Please don't send me these awesome daily reports"
 msgstr ""
+
+#~ msgid "The Pomodoro is running"
+#~ msgstr ""
+
+#~ msgid "Congratulations!"
+#~ msgstr ""
+
+#~ msgid "Daily Goal Completed."
+#~ msgstr ""
+

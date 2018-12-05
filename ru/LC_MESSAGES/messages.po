@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:59+0300\n"
+"POT-Creation-Date: 2018-12-05 14:39+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -20,8 +20,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-msgid "The Pomodoro is running"
-msgstr "Помидор запущен"
+msgid "One minute left"
+msgstr "Осталась одна минута"
+
+msgid "Break is over."
+msgstr "Перерыв окончен."
+
+msgid "The next pomodoro will go better!"
+msgstr "Следующий «помидор» будет лучше"
+
+msgid "Pomodoro is finished."
+msgstr "Помидор окончен."
+
+msgid "take a short break"
+msgstr "сделайте короткий перерыв"
+
+msgid "take a long break"
+msgstr "сделайте длинный перерыв"
 
 msgid "year"
 msgid_plural "years"
@@ -109,6 +124,9 @@ msgstr "Вход на сервис используя Google"
 
 msgid "Load daily tasks from Google Calendar"
 msgstr "Загружать ежедневные задачи из календаря Google"
+
+msgid "Sync with Google Tasks"
+msgstr "Синхронизация с Google Tasks"
 
 msgid "Connect"
 msgstr "Подключить"
@@ -382,12 +400,6 @@ msgstr "Попробуйте добавить задачу в избраное �
 msgid "Preferences"
 msgstr "Настройки"
 
-msgid "Congratulations!"
-msgstr "Поздравляем!"
-
-msgid "Daily Goal Completed."
-msgstr "Цель на день выполнена."
-
 msgid "DONE"
 msgstr "Сделано"
 
@@ -417,24 +429,6 @@ msgstr "Вы не авторизированы."
 
 msgid "Work history won`t be saved."
 msgstr "История не будет сохранена."
-
-msgid "One minute left"
-msgstr "Осталась одна минута"
-
-msgid "Break is over."
-msgstr "Перерыв окончен."
-
-msgid "The next pomodoro will go better!"
-msgstr "Следующий «помидор» будет лучше"
-
-msgid "Pomodoro is finished."
-msgstr "Помидор окончен."
-
-msgid "take a short break"
-msgstr "сделайте короткий перерыв"
-
-msgid "take a long break"
-msgstr "сделайте длинный перерыв"
 
 msgid "Tune the timer"
 msgstr "Настройки"
@@ -658,14 +652,14 @@ msgstr "Пауза"
 msgid "Skip"
 msgstr "Пропустить"
 
+msgid "Stop"
+msgstr "Стоп"
+
 msgid "Resume"
 msgstr "Продолжить"
 
 msgid "Mark done"
 msgstr "Отметить как выполненное"
-
-msgid "Stop"
-msgstr "Стоп"
 
 msgid "Show window"
 msgstr "Показать окно"
@@ -840,3 +834,13 @@ msgstr "Выполненные задачи"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Пожалуйста, не присылайте мне эти замечательные отчеты"
+
+#~ msgid "The Pomodoro is running"
+#~ msgstr "Помидор запущен"
+
+#~ msgid "Congratulations!"
+#~ msgstr "Поздравляем!"
+
+#~ msgid "Daily Goal Completed."
+#~ msgstr "Цель на день выполнена."
+

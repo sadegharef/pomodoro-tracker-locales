@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:59+0300\n"
+"POT-Creation-Date: 2018-12-05 14:39+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -19,8 +19,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-msgid "The Pomodoro is running"
-msgstr "番茄钟正在运行"
+msgid "One minute left"
+msgstr "剩余一分钟"
+
+msgid "Break is over."
+msgstr ""
+
+msgid "The next pomodoro will go better!"
+msgstr "努力将下一个番茄钟做得更好"
+
+msgid "Pomodoro is finished."
+msgstr "番茄钟结束。"
+
+msgid "take a short break"
+msgstr "开始一个短休息"
+
+msgid "take a long break"
+msgstr "开始一个长休息"
 
 msgid "year"
 msgid_plural "years"
@@ -98,6 +113,9 @@ msgstr "使用谷歌认证登录服务"
 
 msgid "Load daily tasks from Google Calendar"
 msgstr "从Google日历加载每日任务"
+
+msgid "Sync with Google Tasks"
+msgstr ""
 
 msgid "Connect"
 msgstr "绑定"
@@ -369,12 +387,6 @@ msgstr "尝试将代办标记为活动或者使用上面的表格"
 msgid "Preferences"
 msgstr "优先级"
 
-msgid "Congratulations!"
-msgstr "恭喜!"
-
-msgid "Daily Goal Completed."
-msgstr "每日目标完成"
-
 msgid "DONE"
 msgstr "已完成"
 
@@ -404,24 +416,6 @@ msgstr "你没有登陆"
 
 msgid "Work history won`t be saved."
 msgstr "历史记录将不被保存"
-
-msgid "One minute left"
-msgstr "剩余一分钟"
-
-msgid "Break is over."
-msgstr ""
-
-msgid "The next pomodoro will go better!"
-msgstr "努力将下一个番茄钟做得更好"
-
-msgid "Pomodoro is finished."
-msgstr "番茄钟结束。"
-
-msgid "take a short break"
-msgstr "开始一个短休息"
-
-msgid "take a long break"
-msgstr "开始一个长休息"
 
 msgid "Tune the timer"
 msgstr "校准计时器"
@@ -645,14 +639,14 @@ msgstr "暂停"
 msgid "Skip"
 msgstr "跳过"
 
+msgid "Stop"
+msgstr "停止"
+
 msgid "Resume"
 msgstr "继续"
 
 msgid "Mark done"
 msgstr "标记为已完成"
-
-msgid "Stop"
-msgstr "停止"
 
 msgid "Show window"
 msgstr "显示窗口"
@@ -807,3 +801,13 @@ msgstr "这是已完成的任务"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "请不要将这些精彩的每日报道寄给我"
+
+#~ msgid "The Pomodoro is running"
+#~ msgstr "番茄钟正在运行"
+
+#~ msgid "Congratulations!"
+#~ msgstr "恭喜!"
+
+#~ msgid "Daily Goal Completed."
+#~ msgstr "每日目标完成"
+

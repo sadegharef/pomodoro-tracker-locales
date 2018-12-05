@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2018-10-26 11:59+0300\n"
+"POT-Creation-Date: 2018-12-05 14:39+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -18,8 +18,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-msgid "The Pomodoro is running"
-msgstr "De pomodoro loopt"
+msgid "One minute left"
+msgstr "Eén minuut over"
+
+msgid "Break is over."
+msgstr "Pauze is voobij."
+
+msgid "The next pomodoro will go better!"
+msgstr "De volgende pomodoro zal beter gaan!"
+
+msgid "Pomodoro is finished."
+msgstr "Pomodoro is klaar."
+
+msgid "take a short break"
+msgstr "neem een korte pauze"
+
+msgid "take a long break"
+msgstr "neem een lange pauze"
 
 msgid "year"
 msgid_plural "years"
@@ -102,6 +117,9 @@ msgstr "Login met een Google-account"
 
 msgid "Load daily tasks from Google Calendar"
 msgstr "Laad dagelijkse taken uit Google Agenda"
+
+msgid "Sync with Google Tasks"
+msgstr ""
 
 msgid "Connect"
 msgstr "Verbinden"
@@ -376,12 +394,6 @@ msgstr "Probeer TODO als activiteit te markeren, of gebruik bovenstaand formulie
 msgid "Preferences"
 msgstr "Voorkeuren"
 
-msgid "Congratulations!"
-msgstr "Gefeliciteerd!"
-
-msgid "Daily Goal Completed."
-msgstr "Dagelijks doel behaald."
-
 msgid "DONE"
 msgstr "KLAAR"
 
@@ -411,24 +423,6 @@ msgstr "U bent niet ingelogd."
 
 msgid "Work history won`t be saved."
 msgstr "Werkgeschiedenis wordt niet opgeslagen."
-
-msgid "One minute left"
-msgstr "Eén minuut over"
-
-msgid "Break is over."
-msgstr "Pauze is voobij."
-
-msgid "The next pomodoro will go better!"
-msgstr "De volgende pomodoro zal beter gaan!"
-
-msgid "Pomodoro is finished."
-msgstr "Pomodoro is klaar."
-
-msgid "take a short break"
-msgstr "neem een korte pauze"
-
-msgid "take a long break"
-msgstr "neem een lange pauze"
 
 msgid "Tune the timer"
 msgstr "Timer instellen"
@@ -652,14 +646,14 @@ msgstr "Pauze"
 msgid "Skip"
 msgstr "Overslaan"
 
+msgid "Stop"
+msgstr "Stop"
+
 msgid "Resume"
 msgstr "Verdergaan"
 
 msgid "Mark done"
 msgstr "Markeer als klaar"
-
-msgid "Stop"
-msgstr "Stop"
 
 msgid "Show window"
 msgstr "Toon venster"
@@ -837,3 +831,13 @@ msgstr "Er zijn afgehandelde taken"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Stuur me a.u.b. deze awesome dagelijkse rapportages niet meer"
+
+#~ msgid "The Pomodoro is running"
+#~ msgstr "De pomodoro loopt"
+
+#~ msgid "Congratulations!"
+#~ msgstr "Gefeliciteerd!"
+
+#~ msgid "Daily Goal Completed."
+#~ msgstr "Dagelijks doel behaald."
+

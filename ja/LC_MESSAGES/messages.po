@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-26 11:59+0300\n"
+"POT-Creation-Date: 2018-12-05 14:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -19,8 +19,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-msgid "The Pomodoro is running"
-msgstr "ポモドーロ中"
+msgid "One minute left"
+msgstr "残り1分です"
+
+msgid "Break is over."
+msgstr "休憩が終わった"
+
+msgid "The next pomodoro will go better!"
+msgstr "次のポモドーロはより効果的になるでしょう"
+
+msgid "Pomodoro is finished."
+msgstr "ポモドーロ終了です、"
+
+msgid "take a short break"
+msgstr "短時間休憩"
+
+msgid "take a long break"
+msgstr "長時間休憩"
 
 msgid "year"
 msgid_plural "years"
@@ -103,6 +118,9 @@ msgstr "Googleアカウントでログインする"
 
 msgid "Load daily tasks from Google Calendar"
 msgstr "Googleカレンダーから毎日のタスクを読み込む"
+
+msgid "Sync with Google Tasks"
+msgstr ""
 
 msgid "Connect"
 msgstr "連携"
@@ -375,12 +393,6 @@ msgstr "TODOをアクティビティとしてマークするか、上記のフ�
 msgid "Preferences"
 msgstr "設定"
 
-msgid "Congratulations!"
-msgstr "おめでとうございます！"
-
-msgid "Daily Goal Completed."
-msgstr "毎日の目標達成"
-
 msgid "DONE"
 msgstr "完了"
 
@@ -410,24 +422,6 @@ msgstr "あなたは署名されていません。"
 
 msgid "Work history won`t be saved."
 msgstr "仕事の歴史は保存されません。"
-
-msgid "One minute left"
-msgstr "残り1分です"
-
-msgid "Break is over."
-msgstr "休憩が終わった"
-
-msgid "The next pomodoro will go better!"
-msgstr "次のポモドーロはより効果的になるでしょう"
-
-msgid "Pomodoro is finished."
-msgstr "ポモドーロ終了です、"
-
-msgid "take a short break"
-msgstr "短時間休憩"
-
-msgid "take a long break"
-msgstr "長時間休憩"
 
 msgid "Tune the timer"
 msgstr "タイマーを調整する"
@@ -651,14 +645,14 @@ msgstr "一時停止"
 msgid "Skip"
 msgstr "スキップ"
 
+msgid "Stop"
+msgstr "停止"
+
 msgid "Resume"
 msgstr "再開"
 
 msgid "Mark done"
 msgstr "完了にする"
-
-msgid "Stop"
-msgstr "停止"
 
 msgid "Show window"
 msgstr "ウィンドウを表示"
@@ -814,3 +808,13 @@ msgstr "完了したタスクがあります"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "これらのすばらしい日報を私に送らないでください"
+
+#~ msgid "The Pomodoro is running"
+#~ msgstr "ポモドーロ中"
+
+#~ msgid "Congratulations!"
+#~ msgstr "おめでとうございます！"
+
+#~ msgid "Daily Goal Completed."
+#~ msgstr "毎日の目標達成"
+
