@@ -99,16 +99,16 @@ msgid "Boost motivation and keep it constant"
 msgstr ""
 
 msgid "Break is over."
-msgstr ""
+msgstr "Przerwa zakończona."
 
 msgid "Cancel"
 msgstr ""
 
 msgid "Categories"
-msgstr ""
+msgstr "Kategorie"
 
 msgid "Category"
-msgstr ""
+msgstr "Kategoria"
 
 msgid "Changes saved"
 msgstr ""
@@ -141,16 +141,16 @@ msgid "Connect"
 msgstr ""
 
 msgid "Create"
-msgstr ""
+msgstr "Stwórz"
 
 msgid "Create a category"
-msgstr ""
+msgstr "Stwórz kategorię"
 
 msgid "Custom"
 msgstr ""
 
 msgid "DONE"
-msgstr ""
+msgstr "ZROBIONE"
 
 msgid "Daily Goal"
 msgstr ""
@@ -159,16 +159,16 @@ msgid "Daily history"
 msgstr ""
 
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 msgid "Date format"
-msgstr ""
+msgstr "Format daty"
 
 msgid "December"
 msgstr ""
 
 msgid "Description"
-msgstr ""
+msgstr "Opis"
 
 msgid "Disconnect"
 msgstr ""
@@ -268,22 +268,22 @@ msgid ""
 msgstr ""
 
 msgid "Language"
-msgstr ""
+msgstr "Język"
 
 msgid "Last 180 days"
-msgstr ""
+msgstr "Ostatnie 180 dni"
 
 msgid "Last 90 days"
-msgstr ""
+msgstr "Ostatnie 90 dni"
 
 msgid "Last Month"
-msgstr ""
+msgstr "Ostatni miesiąc"
 
 msgid "Last Quarter"
-msgstr ""
+msgstr "Ostatni kwartał"
 
 msgid "Last Week"
-msgstr ""
+msgstr "Ostatni tydzień"
 
 msgid "Like"
 msgstr ""
@@ -600,10 +600,10 @@ msgid "Timer"
 msgstr ""
 
 msgid "Title"
-msgstr ""
+msgstr "Tytuł"
 
 msgid "Today"
-msgstr ""
+msgstr "Dzisiaj"
 
 msgid "Toggle fullscreen"
 msgstr ""
@@ -630,7 +630,7 @@ msgid "Volume"
 msgstr ""
 
 msgid "What is it?"
-msgstr ""
+msgstr "Co to jest?"
 
 msgid "Work days"
 msgstr ""
@@ -645,7 +645,7 @@ msgid "Write your ideas here"
 msgstr ""
 
 msgid "Yesterday"
-msgstr ""
+msgstr "Wczoraj"
 
 msgid "You are not signed."
 msgstr ""
@@ -654,16 +654,16 @@ msgid "You spent"
 msgstr ""
 
 msgid "and"
-msgstr ""
+msgstr "i"
 
 msgid "as Facebook user"
-msgstr ""
+msgstr "jako użytkownik Facebooka"
 
 msgid "as Github user"
-msgstr ""
+msgstr "jako użytkownik Githuba"
 
 msgid "as Google user"
-msgstr ""
+msgstr "jako użytkownik Google'a"
 
 msgid "auto"
 msgstr ""
@@ -685,9 +685,9 @@ msgstr ""
 
 msgid "day"
 msgid_plural "days"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "dzień"
+msgstr[1] "dni"
+msgstr[2] "dni"
 
 msgid "delay"
 msgstr ""
@@ -706,9 +706,9 @@ msgstr ""
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "godzina"
+msgstr[1] "godziny"
+msgstr[2] "godzin"
 
 msgid "in 10 seconds"
 msgstr ""
@@ -809,14 +809,14 @@ msgid ""
 msgstr ""
 
 msgid "version"
-msgstr ""
+msgstr "wersja"
 
 msgid "were"
 msgstr ""
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "rok"
+msgstr[1] "lata"
+msgstr[2] "lat"
 
