@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-12-07 13:19+0300\n"
+"POT-Creation-Date: 2018-12-26 16:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -329,9 +329,6 @@ msgid "Mark as daily task"
 msgstr "Marca come atività giornaliera"
 
 msgid "Mark as done"
-msgstr "Segna come fatto"
-
-msgid "Mark done"
 msgstr "Segna come fatto"
 
 msgid "May"

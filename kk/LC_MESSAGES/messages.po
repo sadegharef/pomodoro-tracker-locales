@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-12-07 13:19+0300\n"
+"POT-Creation-Date: 2018-12-26 16:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -331,9 +331,6 @@ msgstr "Күн іСі қылу"
 
 msgid "Mark as done"
 msgstr "Аяқталған қылу"
-
-msgid "Mark done"
-msgstr "Біткен кезде басады"
 
 msgid "May"
 msgstr "Мамыр"

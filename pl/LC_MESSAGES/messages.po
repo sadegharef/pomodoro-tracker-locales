@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-12-07 13:20+0300\n"
+"POT-Creation-Date: 2018-12-26 16:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: pl\n"
@@ -129,9 +129,6 @@ msgid "Close"
 msgstr ""
 
 msgid "Code"
-msgstr ""
-
-msgid "Configure"
 msgstr ""
 
 msgid "Congratulations! You have finished all your tasks."
@@ -327,9 +324,6 @@ msgstr ""
 msgid "Mark as done"
 msgstr ""
 
-msgid "Mark done"
-msgstr ""
-
 msgid "May"
 msgstr ""
 
@@ -369,9 +363,6 @@ msgstr ""
 msgid "POMODORO"
 msgstr ""
 
-msgid "Pause"
-msgstr ""
-
 msgid "Pin to favorites"
 msgstr ""
 
@@ -390,9 +381,6 @@ msgstr ""
 msgid "Please reload the application."
 msgstr ""
 
-msgid "Please, login to view your stats"
-msgstr ""
-
 msgid "Pomodoro duration:"
 msgstr ""
 
@@ -408,12 +396,6 @@ msgstr ""
 msgid "Privacy Policy"
 msgstr ""
 
-msgid "Provide Feedback"
-msgstr ""
-
-msgid "Quit"
-msgstr ""
-
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr ""
 
@@ -426,16 +408,10 @@ msgstr ""
 msgid "Register"
 msgstr ""
 
-msgid "Release Notes"
-msgstr ""
-
 msgid "Reports Time"
 msgstr ""
 
 msgid "Reports and notifications"
-msgstr ""
-
-msgid "Resume"
 msgstr ""
 
 msgid "Rules & Tips"
@@ -477,19 +453,10 @@ msgstr ""
 msgid "Short description"
 msgstr ""
 
-msgid "Show window"
-msgstr ""
-
 msgid "Sign Up / Login"
 msgstr ""
 
-msgid "Skip"
-msgstr ""
-
 msgid "Sort by"
-msgstr ""
-
-msgid "Start"
 msgstr ""
 
 msgid "Start the Pomodoro timer"
@@ -499,9 +466,6 @@ msgid "Start working:"
 msgstr ""
 
 msgid "Stats"
-msgstr ""
-
-msgid "Stop"
 msgstr ""
 
 msgid ""
@@ -621,9 +585,6 @@ msgid "Try to mark TODO as activity or use the form above"
 msgstr ""
 
 msgid "Tune the timer"
-msgstr ""
-
-msgid "View"
 msgstr ""
 
 msgid "Volume"
@@ -819,4 +780,40 @@ msgid_plural "years"
 msgstr[0] "rok"
 msgstr[1] "lata"
 msgstr[2] "lat"
+
+#~ msgid "Configure"
+#~ msgstr ""
+
+#~ msgid "Pause"
+#~ msgstr ""
+
+#~ msgid "Please, login to view your stats"
+#~ msgstr ""
+
+#~ msgid "Provide Feedback"
+#~ msgstr ""
+
+#~ msgid "Quit"
+#~ msgstr ""
+
+#~ msgid "Release Notes"
+#~ msgstr ""
+
+#~ msgid "Resume"
+#~ msgstr ""
+
+#~ msgid "Show window"
+#~ msgstr ""
+
+#~ msgid "Skip"
+#~ msgstr ""
+
+#~ msgid "Start"
+#~ msgstr ""
+
+#~ msgid "Stop"
+#~ msgstr ""
+
+#~ msgid "View"
+#~ msgstr ""
 
