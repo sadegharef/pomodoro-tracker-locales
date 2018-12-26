@@ -30,66 +30,67 @@ msgid "%s here's your Daily report for %s"
 msgstr ""
 
 msgid "Activities"
-msgstr ""
+msgstr "Hoạt động"
 
 msgid "Activity by days"
-msgstr ""
+msgstr "Hoạt động theo ngày"
 
 msgid "Activity by months"
-msgstr ""
+msgstr "Hoạt động theo tháng"
 
 msgid "Activity by weeks"
-msgstr ""
+msgstr "Hoạt động theo tuần"
 
 msgid "Add"
-msgstr ""
+msgstr "Thêm"
 
 msgid "Add Activity"
-msgstr ""
+msgstr "Thêm Hoạt động"
 
 msgid "Add TODO"
-msgstr ""
+msgstr "Thêm TODO"
 
 msgid "Add category"
-msgstr ""
+msgstr "Thêm danh mục"
 
 msgid "Add more"
-msgstr ""
+msgstr "Thêm nhiều hơn"
 
 msgid "Add to TODO"
-msgstr ""
+msgstr "Thêm vào TODO"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr ""
 
 msgid "Application"
-msgstr ""
+msgstr "Ứng dụng"
 
 msgid "Apply"
-msgstr ""
+msgstr "Áp dụng"
 
 msgid "April"
-msgstr ""
+msgstr "Tháng 4"
 
 msgid "Are you sure want to delete"
-msgstr ""
+msgstr "Bạn có chắc muốn xoá đi?"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
-msgstr ""
+msgstr "Vào thời điểm bắt đầu của mỗi ngày, hãy chọn những việc bạn cần hoàn thành và"
+" thêm chúng vào danh sách TODO bên trên."
 
 msgid "At time"
-msgstr ""
+msgstr "Lúc"
 
 msgid "August"
-msgstr ""
+msgstr "Tháng 8"
 
 msgid "Auto start breaks"
-msgstr ""
+msgstr "Tự động bắt đầu thời gian nghỉ"
 
 msgid "Auto start pomodoros"
-msgstr ""
+msgstr "Tự động bắt đầu các Pomodoros"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr ""
@@ -101,132 +102,132 @@ msgid "Break is over."
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Huỷ"
 
 msgid "Categories"
-msgstr ""
+msgstr "Các danh mục"
 
 msgid "Category"
-msgstr ""
+msgstr "Danh mục"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "Thay đổi đã được lưu"
 
 msgid "Clear DONE history once per day"
-msgstr ""
+msgstr "Xoá lịch sử HOÀN THÀNH một lần mỗi ngày"
 
 msgid "Clear the list"
-msgstr ""
+msgstr "Xoá danh sách"
 
 msgid "Click on a number to add more."
-msgstr ""
+msgstr "Nhấn chuột vào con số để thêm"
 
 msgid "Click/tap to edit items."
-msgstr ""
+msgstr "Nhấn chọn để chỉnh sửa"
 
 msgid "Close"
-msgstr ""
+msgstr "Thoát"
 
 msgid "Code"
-msgstr ""
+msgstr "Mã"
 
 msgid "Configure"
-msgstr ""
+msgstr "Cấu hình"
 
 msgid "Congratulations! You have finished all your tasks."
-msgstr ""
+msgstr "Chúc mừng! Bạn đã hoàn thành tất cả công việc cần làm."
 
 msgid "Connect"
-msgstr ""
+msgstr "Kết nối"
 
 msgid "Create"
-msgstr ""
+msgstr "Tạo"
 
 msgid "Create a category"
-msgstr ""
+msgstr "Tạo một danh mục"
 
 msgid "Custom"
-msgstr ""
+msgstr "Tuỳ chỉnh"
 
 msgid "DONE"
-msgstr ""
+msgstr "HOÀN THÀNH"
 
 msgid "Daily Goal"
-msgstr ""
+msgstr "Mục tiêu hằng ngày"
 
 msgid "Daily history"
-msgstr ""
+msgstr "Lịch sử hằng ngày"
 
 msgid "Date"
-msgstr ""
+msgstr "Ngày"
 
 msgid "Date format"
-msgstr ""
+msgstr "Định dạng ngày"
 
 msgid "December"
-msgstr ""
+msgstr "Tháng 12"
 
 msgid "Description"
-msgstr ""
+msgstr "Mô tả"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "Mất kết nối"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr ""
+msgstr "Không bắt đầu pomorodo tiếp theo nếu danh sách TODO trống"
 
 msgid "Done"
-msgstr ""
+msgstr "Hoàn thành"
 
 msgid "Drag&Drop/Touch to sort items."
-msgstr ""
+msgstr "Kéo và thả / Chạm để sắp xếp các mục"
 
 msgid "Edit"
-msgstr ""
+msgstr "Chỉnh sửa"
 
 msgid "Enable Browser Alerts"
-msgstr ""
+msgstr "Bật Thông báo Trình duyệt"
 
 msgid "Enable Telegram Notifications"
-msgstr ""
+msgstr "Bật thông báo Telegram"
 
 msgid "Enable Web Notifications"
-msgstr ""
+msgstr "Bật Thông báo Web"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr ""
 
 msgid "Export the records as CSV"
-msgstr ""
+msgstr "Xuất các bản ghi dưới dạng CSV "
 
 msgid "Favorites"
-msgstr ""
+msgstr "Yêu thích"
 
 msgid "February"
-msgstr ""
+msgstr "Tháng 2"
 
 msgid "Feedback"
-msgstr ""
+msgstr "Phản hồi"
 
 msgid "Great work! TODO list is empty."
-msgstr ""
+msgstr "Tốt lắm! Danh sách TODO đã trống."
 
 msgid "Hide notificaions"
-msgstr ""
+msgstr "Ẩn Thông báo"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr ""
+msgstr "Nếu một công việc cần nhiều hơn 5-7 pomodoros, hãy chia nhỏ nó"
 
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
-msgstr ""
+msgstr "Nếu nó cần ít hơn một pomodoro, hãy cộng dồn nó vào một công việc khác"
 
 msgid "Import records from CSV"
-msgstr ""
+msgstr "Nhập dữ liệu từ CSV"
 
 msgid "Import was failed. Check your CSV and try again."
-msgstr ""
+msgstr "Nhập không thành công. Kiểm tra lại file CSV của bạn và thử lại."
 
 msgid "Imported from External Sources"
 msgstr ""
@@ -253,165 +254,166 @@ msgid "Integrations"
 msgstr ""
 
 msgid "January"
-msgstr ""
+msgstr "Tháng 1"
 
 msgid "July"
-msgstr ""
+msgstr "Tháng 7"
 
 msgid "June"
-msgstr ""
+msgstr "Tháng 6"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
-msgstr ""
+msgstr "Hãy tiếp tục làm việc, một Pomodoro rồi tiếp một Pomodoro, cho tới khi "
+"công việc đang làm hoàn thành. Cứ 4 Pomodoros bạn sẽ có một khoảng nghỉ dài, (15-30phút)."
 
 msgid "Language"
-msgstr ""
+msgstr "Ngôn ngữ"
 
 msgid "Last 180 days"
-msgstr ""
+msgstr "180 ngày qua"
 
 msgid "Last 90 days"
-msgstr ""
+msgstr "90 ngày qua"
 
 msgid "Last Month"
-msgstr ""
+msgstr "Tháng trước"
 
 msgid "Last Quarter"
-msgstr ""
+msgstr "Quý trước"
 
 msgid "Last Week"
-msgstr ""
+msgstr "Tuần trước"
 
 msgid "Like"
-msgstr ""
+msgstr "Thích"
 
 msgid "Load daily tasks from Google Calendar"
-msgstr ""
+msgstr "Nhập công việc hằng ngày từ Google Calendar"
 
 msgid "Loading"
-msgstr ""
+msgstr "Đang nhập"
 
-msgid "Login to the service and track your progress"
-msgstr ""
+msgid "Login to the service and track your "
+msgstr "Đăng nhập vào hệ thống và theoprogress dõi tiến độ của bạn"
 
 msgid "Login to the service using Facebook authentication."
-msgstr ""
+msgstr "Đăng nhập vào hệ thống bằng Facebook"
 
 msgid "Login to the service using Github authentication."
-msgstr ""
+msgstr "Đăng nhập vào hệ thống bằng Github"
 
 msgid "Login to the service using Google Authentication"
-msgstr ""
+msgstr "Đăng nhập vào hệ thống bằng Google Authentication"
 
 msgid "Login to view your stats"
-msgstr ""
+msgstr "Đăng nhập để xem số liệu thống kê của bạn"
 
 msgid "Logout"
-msgstr ""
+msgstr "Đăng xuất"
 
 msgid "Long break delay:"
-msgstr ""
+msgstr "Trước khi nghỉ dài"
 
 msgid "Long break duration:"
-msgstr ""
+msgstr "Thời gian nghỉ dài"
 
 msgid "March"
-msgstr ""
+msgstr "Tháng 3"
 
 msgid "Mark as daily task"
-msgstr ""
+msgstr "Đánh dấu như công việc hằng ngày"
 
 msgid "Mark as done"
-msgstr ""
+msgstr "Đánh dấu là Xong"
 
 msgid "Mark done"
-msgstr ""
+msgstr "Đánh dấu xong"
 
 msgid "May"
-msgstr ""
+msgstr "Tháng 5"
 
 msgid "Median per day"
-msgstr ""
+msgstr "Trung bình mỗi ngày"
 
 msgid "New"
-msgstr ""
+msgstr "Mới"
 
 msgid "Notification Test"
-msgstr ""
+msgstr "Thử Thông báo"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Thông báo"
 
 msgid "Notify when there is one minute left"
-msgstr ""
+msgstr "Thông báo khi còn một phút"
 
 msgid "November"
-msgstr ""
+msgstr "Tháng 11"
 
 msgid "October"
-msgstr ""
+msgstr "Tháng 10"
 
 msgid "Of those"
 msgstr ""
 
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr ""
+msgstr "Khi một Pomodoro bắt đầu, nó sẽ reng"
 
 msgid "One minute left"
-msgstr ""
+msgstr "Còn một phút"
 
 msgid "PAUSE"
-msgstr ""
+msgstr "TẠM DỪNG"
 
 msgid "POMODORO"
-msgstr ""
+msgstr "POMODORO"
 
 msgid "Pause"
-msgstr ""
+msgstr "Tạm dừng"
 
 msgid "Pin to favorites"
-msgstr ""
+msgstr "Gắn lên Yêu thích"
 
 msgid "Play alarm sound"
-msgstr ""
+msgstr "Mở nhạc chuông"
 
 msgid "Play ticking sound"
-msgstr ""
+msgstr "Mở tiếng tích tắc"
 
 msgid "Play ticking sound while breaks"
-msgstr ""
+msgstr "Mở tiếng tích tắc trong lúc nghỉ"
 
 msgid "Please don't send me these awesome daily reports"
-msgstr ""
+msgstr "Đừng gửi cho tôi những bản báo cáo hằng ngày tuyệt vời này "
 
 msgid "Please reload the application."
-msgstr ""
+msgstr "Hãy chạy lại ứng dụng"
 
 msgid "Please, login to view your stats"
-msgstr ""
+msgstr "Hãy đăng nhập để xem thống kê của bạn"
 
 msgid "Pomodoro duration:"
-msgstr ""
+msgstr "Thời gian Pomodoro:"
 
 msgid "Pomodoro is finished."
-msgstr ""
+msgstr "Pomodoro đã hoàn tất."
 
 msgid "Pomodoros"
-msgstr ""
+msgstr "Pomodoros"
 
 msgid "Preferences"
-msgstr ""
+msgstr "Cấu hình"
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Chính sách bảo mật"
 
 msgid "Provide Feedback"
-msgstr ""
+msgstr "Phản hồi"
 
 msgid "Quit"
-msgstr ""
+msgstr "Thoát"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr ""
@@ -423,7 +425,7 @@ msgid "Refine the estimation process, both in qualitative and quantitative terms
 msgstr ""
 
 msgid "Register"
-msgstr ""
+msgstr "Đăng kí"
 
 msgid "Release Notes"
 msgstr ""
@@ -435,16 +437,16 @@ msgid "Reports and notifications"
 msgstr ""
 
 msgid "Resume"
-msgstr ""
+msgstr "Tiếp tục"
 
 msgid "Rules & Tips"
 msgstr ""
 
 msgid "SKIP"
-msgstr ""
+msgstr "BỎ QUA"
 
 msgid "STOP"
-msgstr ""
+msgstr "DỪNG LẠI"
 
 msgid "Schemes"
 msgstr ""
@@ -462,13 +464,13 @@ msgid "Send test notification"
 msgstr ""
 
 msgid "September"
-msgstr ""
+msgstr "Tháng 9"
 
 msgid "Server has been updated."
-msgstr ""
+msgstr "Hệ thống đã được cập nhật."
 
 msgid "Settings"
-msgstr ""
+msgstr "Cài đặt"
 
 msgid "Short break duration:"
 msgstr ""
@@ -480,28 +482,28 @@ msgid "Show window"
 msgstr ""
 
 msgid "Sign Up / Login"
-msgstr ""
+msgstr "Đăng kí / Đăng nhập"
 
 msgid "Skip"
-msgstr ""
+msgstr "Bỏ qua"
 
 msgid "Sort by"
-msgstr ""
+msgstr "Sắp xếp theo"
 
 msgid "Start"
-msgstr ""
+msgstr "Bắt đầu"
 
 msgid "Start the Pomodoro timer"
-msgstr ""
+msgstr "Bắt đầu chạy đồng hồ Pomodoro:"
 
 msgid "Start working:"
-msgstr ""
+msgstr "Bắt đầu làm việc:"
 
 msgid "Stats"
-msgstr ""
+msgstr "Thống kê"
 
 msgid "Stop"
-msgstr ""
+msgstr "Dừng lại"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -512,28 +514,28 @@ msgid "Support the Project"
 msgstr "Hỗ trợ dự án"
 
 msgid "Sync with Google Tasks"
-msgstr ""
+msgstr "Đồng bộ hóa với Google Tasks"
 
 msgid "TODO"
-msgstr ""
+msgstr "TODO"
 
 msgid "TODO list is empty"
-msgstr ""
+msgstr "Danh sách DOTO trống"
 
 msgid "TODO list was updated."
-msgstr ""
+msgstr "Danh sách TODO đã được cập nhật."
 
 msgid "Take a short break (3-5 minutes)"
-msgstr ""
+msgstr "Nghỉ một chút (3-5 phút)"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr ""
+msgstr "Cám ơn bạn đã phản hồi! Tin nhắn của bạn đang chờ duyệt."
 
 msgid "The Basics"
-msgstr ""
+msgstr "Cơ bản"
 
 msgid "The Goals"
-msgstr ""
+msgstr "Mục tiêu"
 
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
@@ -560,64 +562,64 @@ msgid ""
 msgstr ""
 
 msgid "The list is empty"
-msgstr ""
+msgstr "Danh sách trống"
 
 msgid "The next Pomodoro will go better"
-msgstr ""
+msgstr "Pomodoro tiếp theo sẽ trở nên tốt hơn"
 
 msgid "The next pomodoro will go better!"
-msgstr ""
+msgstr "Pomodoro tiếp theo sẽ trở nên tốt hơn!"
 
 msgid "Theme"
 msgstr ""
 
 msgid "There are completed tasks"
-msgstr ""
+msgstr "Những công việc đã hoàn thành"
 
 msgid "This Month"
-msgstr ""
+msgstr "Tháng này"
 
 msgid "This Quarter"
-msgstr ""
+msgstr "Quý này"
 
 msgid "This Week"
-msgstr ""
+msgstr "Tuần này"
 
 msgid "Time"
-msgstr ""
+msgstr "Kiểu thời gian"
 
 msgid "Time format"
-msgstr ""
+msgstr "Định dạng thời gian"
 
 msgid "Time spent"
 msgstr ""
 
 msgid "Time zone"
-msgstr ""
+msgstr "Múi giờ"
 
 msgid "Timer"
-msgstr ""
+msgstr "Đồng hồ đếm ngược"
 
 msgid "Title"
-msgstr ""
+msgstr "Tên"
 
 msgid "Today"
-msgstr ""
+msgstr "Hôm nay"
 
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "Toggle toàn màn hình"
 
 msgid "Try to add some tasks use the form above"
-msgstr ""
+msgstr "Hãy thử thêm vài công việc cần làm bằng cách sử dụng mẫu trên"
 
 msgid "Try to complete some pomodoros above"
-msgstr ""
+msgstr "Hãy thử hoàn thành vài pomodoros ở trên"
 
 msgid "Try to complete some pomodoros or choose a different period"
-msgstr ""
+msgstr "Hãy thử hoàn thành vài pomodoros hoặc chọn một thời gian khác"
 
 msgid "Try to mark TODO as activity or use the form above"
-msgstr ""
+msgstr "Hãy thử đánh dấu TODO như hoạt động hoặc sự dụng mẫu ở trên"
 
 msgid "Tune the timer"
 msgstr ""
@@ -626,77 +628,77 @@ msgid "View"
 msgstr ""
 
 msgid "Volume"
-msgstr ""
+msgstr "Âm lượng"
 
 msgid "What is it?"
-msgstr ""
+msgstr "Đây là gì?"
 
 msgid "Work days"
-msgstr ""
+msgstr "Những ngày làm việc"
 
 msgid "Work history won`t be saved."
-msgstr ""
+msgstr "Lịch sử làm việc sẽ không được lưu."
 
 msgid "Work until the Pomodoro rings"
-msgstr ""
+msgstr "Làm việc cho đến khi Pomodoro reng"
 
 msgid "Write your ideas here"
-msgstr ""
+msgstr "Viết ý tưởng của bạn ở đây"
 
 msgid "Yesterday"
-msgstr ""
+msgstr "Hôm qua"
 
 msgid "You are not signed."
-msgstr ""
+msgstr "Bạn chưa đăng nhập."
 
 msgid "You spent"
-msgstr ""
+msgstr "Bạn đã dành"
 
 msgid "and"
-msgstr ""
+msgstr "và"
 
 msgid "as Facebook user"
-msgstr ""
+msgstr "bằng Facebook"
 
 msgid "as Github user"
-msgstr ""
+msgstr "bằng Github"
 
 msgid "as Google user"
-msgstr ""
+msgstr "bằng Google"
 
 msgid "auto"
-msgstr ""
+msgstr "tự động"
 
 msgid "average"
-msgstr ""
+msgstr "trung bình cộng"
 
 msgid "cancel"
-msgstr ""
+msgstr "huỷ"
 
 msgid "close"
-msgstr ""
+msgstr "đóng"
 
 msgid "created"
-msgstr ""
+msgstr "đã tạo"
 
 msgid "dark"
-msgstr ""
+msgstr "tối"
 
 msgid "day"
 msgid_plural "days"
 msgstr[0] ""
 
 msgid "delay"
-msgstr ""
+msgstr "hoãn"
 
 msgid "delays"
-msgstr ""
+msgstr "hoãn"
 
 msgid "delete"
-msgstr ""
+msgstr "xoá"
 
 msgid "focus"
-msgstr ""
+msgstr "tập trung"
 
 msgid "for all time"
 msgstr ""
@@ -706,32 +708,32 @@ msgid_plural "hours"
 msgstr[0] ""
 
 msgid "in 10 seconds"
-msgstr ""
+msgstr "trong 10 giây"
 
 msgid "in 2 seconds"
-msgstr ""
+msgstr "trong 2 giây"
 
 msgid "in 3 seconds"
-msgstr ""
+msgstr "trong 3 giây"
 
 msgid "in 5 seconds"
-msgstr ""
+msgstr "trong 5 giây"
 
 msgid "in minutes"
-msgstr ""
+msgstr "trong 1 phút"
 
 msgid "in pomodoros"
-msgstr ""
+msgstr "trong những pomodoro"
 
 msgid "light"
-msgstr ""
+msgstr "sáng"
 
 msgid "like"
 msgid_plural "likes"
 msgstr[0] ""
 
 msgid "median"
-msgstr ""
+msgstr "trung bình"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -742,10 +744,10 @@ msgid_plural "months"
 msgstr[0] ""
 
 msgid "next page"
-msgstr ""
+msgstr "trang tiếp theo"
 
 msgid "no description"
-msgstr ""
+msgstr "không có mô tả"
 
 msgid "number"
 msgstr ""
@@ -758,10 +760,10 @@ msgid_plural "pomodoros"
 msgstr[0] ""
 
 msgid "previous page"
-msgstr ""
+msgstr "trang trước"
 
 msgid "rating"
-msgstr ""
+msgstr "đánh giá"
 
 msgid "record"
 msgstr ""
@@ -773,22 +775,22 @@ msgid "registered users spend on completing pomodoros today."
 msgstr ""
 
 msgid "resume"
-msgstr ""
+msgstr "tiếp tục"
 
 msgid "save"
-msgstr ""
+msgstr "lưu"
 
 msgid "start"
-msgstr ""
+msgstr "bắt đầu"
 
 msgid "take a long break"
-msgstr ""
+msgstr "nghỉ dài nào"
 
 msgid "take a short break"
-msgstr ""
+msgstr "nghỉ một xíu nào"
 
 msgid "time"
-msgstr ""
+msgstr "thời gian"
 
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
@@ -796,7 +798,7 @@ msgid ""
 msgstr ""
 
 msgid "version"
-msgstr ""
+msgstr "phiên bản"
 
 msgid "were"
 msgstr ""
@@ -806,11 +808,11 @@ msgid_plural "years"
 msgstr[0] ""
 
 #~ msgid "Congratulations!"
-#~ msgstr ""
+#~ msgstr "Chúc mừng!"
 
 #~ msgid "Daily Goal Completed."
-#~ msgstr ""
+#~ msgstr "Mục tiêu hằng ngày đã hoàn thành."
 
 #~ msgid "The Pomodoro is running"
-#~ msgstr ""
+#~ msgstr "The Pomodoro đang chạy"
 
