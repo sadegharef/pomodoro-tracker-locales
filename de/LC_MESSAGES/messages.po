@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2018-12-26 16:07+0300\n"
+"POT-Creation-Date: 2019-01-21 13:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -790,6 +790,9 @@ msgstr "Bewertung"
 
 msgid "record"
 msgstr "Eintrag"
+
+msgid "refresh"
+msgstr "aktualisierung"
 
 msgid "registered users spend on completing pomodoros"
 msgstr "Registrierte Benutzer haben diese Zeit mit Pomodoros verbracht"

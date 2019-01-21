@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-12-26 16:08+0300\n"
+"POT-Creation-Date: 2019-01-21 13:09+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -790,6 +790,9 @@ msgstr "değerlendirme"
 
 msgid "record"
 msgstr "rekor"
+
+msgid "refresh"
+msgstr "yenileme"
 
 msgid "registered users spend on completing pomodoros"
 msgstr "kayıtlı kullanıcılar pomodoros tamamlamaya harcıyor"
