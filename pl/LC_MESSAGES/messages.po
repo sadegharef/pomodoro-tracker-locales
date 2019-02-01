@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-12-26 16:08+0300\n"
+"POT-Creation-Date: 2019-01-21 13:09+0300\n"
 "PO-Revision-Date: 2018-12-26 22:18+0300\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -19,13 +19,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
-
-#
-# TODO:
-# Plurals,
-# Pomodoro Tracker description sections,
-# Resolve context issues
-#
 
 msgid "%1$s left"
 msgstr "Pozostało: %1$s"
@@ -67,7 +60,6 @@ msgstr "Dodaj więcej"
 msgid "Add to TODO"
 msgstr "Dodaj do ZADANIA"
 
-# The Goals
 msgid "Alleviate anxiety linked to beginning"
 msgstr ""
 
@@ -83,12 +75,10 @@ msgstr "Kwiecień"
 msgid "Are you sure want to delete"
 msgstr "Czy na pewno usunąć?"
 
-# The Basics
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
-""
 
 msgid "At time"
 msgstr "Z rzędu"
@@ -102,11 +92,9 @@ msgstr "Automatycznie zaczynaj przerwy"
 msgid "Auto start pomodoros"
 msgstr "Automatycznie zaczynaj pomodoro"
 
-# The Goals
 msgid "Bolster the determination to achieve your goals"
 msgstr ""
 
-# The Goals
 msgid "Boost motivation and keep it constant"
 msgstr ""
 
@@ -203,7 +191,6 @@ msgstr "Włacz powiadomienia Telegram"
 msgid "Enable Web Notifications"
 msgstr "Włącz powiadomienia systemowe"
 
-# The Goals
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr ""
 
@@ -225,11 +212,9 @@ msgstr "Dobra robota! Lista ZADANIA jest pusta."
 msgid "Hide notificaions"
 msgstr "Ukryj powiadomienia"
 
-# Rules & Tips
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr ""
 
-# Rules & Tips
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
@@ -244,11 +229,9 @@ msgstr "Próba importu zakończyła się błędem. Sprawdź plik CSV i spróbuj 
 msgid "Imported from External Sources"
 msgstr "Importowano z zewnętrznego źródła"
 
-# The Goals
 msgid "Improve your work or study process"
 msgstr ""
 
-# The Goals
 msgid "Increase awareness of your decisions"
 msgstr ""
 
@@ -276,7 +259,6 @@ msgstr "Lipiec"
 msgid "June"
 msgstr "Czerwiec"
 
-# The Basics
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
@@ -309,7 +291,6 @@ msgstr "Wczytaj zadania z kalendarza Google"
 msgid "Loading"
 msgstr "Ładowanie"
 
-# Rules & Tips
 msgid "Login to the service and track your progress"
 msgstr "Zaloguj się by śledzić swoje postępy"
 
@@ -370,7 +351,6 @@ msgstr "Październik"
 msgid "Of those"
 msgstr "Z tych"
 
-# Rules & Tips
 msgid "Once a Pomodoro begins, it has to ring"
 msgstr ""
 
@@ -422,7 +402,6 @@ msgstr "Pokaż powiadomienie przeglądarki gdy Pomodoro/przerwa się skończy"
 msgid "Records are empty"
 msgstr "Brak rekordów"
 
-# The Goals
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
 msgstr ""
 
@@ -480,18 +459,15 @@ msgstr "Zarejestruj się / Zaloguj się"
 msgid "Sort by"
 msgstr "Sortuj według"
 
-# The Basics
 msgid "Start the Pomodoro timer"
 msgstr ""
 
-# ?
 msgid "Start working:"
 msgstr "Zacznij pracę:"
 
 msgid "Stats"
 msgstr "Statystyki"
 
-# The Goals
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
@@ -512,7 +488,6 @@ msgstr "Lista ZADANIA jest pusta"
 msgid "TODO list was updated."
 msgstr "Lista ZADANIA została zaktualizowana"
 
-# The Basics
 msgid "Take a short break (3-5 minutes)"
 msgstr ""
 
@@ -525,7 +500,6 @@ msgstr "Podstawy"
 msgid "The Goals"
 msgstr "Cele"
 
-# What is it
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
 "any task. For many people, time is an enemy. The anxiety triggered by "
@@ -533,20 +507,17 @@ msgid ""
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
 
-# Rules & Tips
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
 msgstr ""
 
-# The Goals
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
 
-# What is it
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
@@ -556,18 +527,15 @@ msgstr ""
 msgid "The list is empty"
 msgstr "Lista jest pusta"
 
-# Rules & Tips
 msgid "The next Pomodoro will go better"
 msgstr ""
 
-# Rules & Tips ?
 msgid "The next pomodoro will go better!"
 msgstr ""
 
 msgid "Theme"
 msgstr "Motyw"
 
-# Context?
 msgid "There are completed tasks"
 msgstr "Ukończone zadania"
 
@@ -583,7 +551,6 @@ msgstr "Ten tydzień"
 msgid "Time"
 msgstr "Czas"
 
-# Context?
 msgid "Time format"
 msgstr "Format czasu"
 
@@ -614,7 +581,6 @@ msgstr "Spróbuj ukończyć dowolne z powyższych Pomodoro"
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Spróbuj ukończyć dowolne Pomodoro lub wybierz inny przedział czasowy"
 
-# Context?
 msgid "Try to mark TODO as activity or use the form above"
 msgstr "Spróbuj oznaczyć ZADANIA jako aktywność lub użyj powyższego formularza"
 
@@ -633,7 +599,6 @@ msgstr "Dni robocze"
 msgid "Work history won`t be saved."
 msgstr "Historia pracy nie będzie zapisana."
 
-# The Basics
 msgid "Work until the Pomodoro rings"
 msgstr ""
 
@@ -661,7 +626,6 @@ msgstr "jako użytkownik Github"
 msgid "as Google user"
 msgstr "jako użytkownik Google"
 
-# Context?
 msgid "auto"
 msgstr "automatycznie"
 
@@ -695,15 +659,12 @@ msgstr "opóźnienia"
 msgid "delete"
 msgstr "usuń"
 
-# Context?
 msgid "focus"
 msgstr "skupienie"
 
-# Context?
 msgid "for all time"
 msgstr "na zawsze"
 
-# Plural Fix
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "godzina"
@@ -722,18 +683,15 @@ msgstr "w ciągu 3 sekund"
 msgid "in 5 seconds"
 msgstr "w ciągu 5 sekund"
 
-# Context?
 msgid "in minutes"
 msgstr "w ciągu minut"
 
-# Context?
 msgid "in pomodoros"
 msgstr "w Pomodoro"
 
 msgid "light"
 msgstr "Jasny"
 
-# Plurals
 msgid "like"
 msgid_plural "likes"
 msgstr[0] "Polubienie"
@@ -743,14 +701,12 @@ msgstr[2] "Polubień"
 msgid "median"
 msgstr "mediana"
 
-# Plurals
 msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "Minuta"
 msgstr[1] "Minuty"
 msgstr[2] "Minut"
 
-# Plurals
 msgid "month"
 msgid_plural "months"
 msgstr[0] "miesiąć"
@@ -766,7 +722,6 @@ msgstr "brak opisu"
 msgid "number"
 msgstr "numer"
 
-# Context?
 msgid "on"
 msgstr "na"
 
@@ -784,6 +739,9 @@ msgstr "ocena"
 
 msgid "record"
 msgstr "rekord"
+
+msgid "refresh"
+msgstr "odświeżać"
 
 msgid "registered users spend on completing pomodoros"
 msgstr "spędzili aktywni użytkownicy na Pomodoro"
@@ -809,7 +767,6 @@ msgstr "Krótka przerwa"
 msgid "time"
 msgstr "czas"
 
-# Context?
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
@@ -818,7 +775,6 @@ msgstr ""
 msgid "version"
 msgstr "wersja"
 
-# Context? Plurals?
 msgid "were"
 msgstr "były"
 
