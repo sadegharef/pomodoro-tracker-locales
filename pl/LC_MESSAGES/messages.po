@@ -8,18 +8,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-02-06 19:24+0300\n"
+"POT-Creation-Date: 2019-03-05 16:35+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
 "Language-Team: pl <LL@li.org>\n"
-"Plural-Forms: "nplurals = 3;"
-	"nmod = n%10;"
-	"aForm = (n == 1);"
-	"bForm = (nmod >= 2 && nmod <= 4);"
-	"bFormException = (n >= 5 && n <= 21);"
-	"/* cForm = (nmod >= 5 || nmod <= 1); */"
-	"plural = (aForm ? 0 : bForm && !bFormException ? 1 : 2)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -158,9 +152,6 @@ msgstr "ZROBIONE"
 
 msgid "Daily Goal"
 msgstr "Cel dnia"
-
-msgid "Daily history"
-msgstr "Historia dnia"
 
 msgid "Date"
 msgstr "Data"
@@ -314,9 +305,6 @@ msgstr "Zaloguj się przy pomocy Github"
 msgid "Login to the service using Google Authentication"
 msgstr "Zaloguj się przy pomocy Google"
 
-msgid "Login to view your stats"
-msgstr "Zaloguj się by zobaczyć swoje statystyki"
-
 msgid "Logout"
 msgstr "Wyloguj"
 
@@ -392,14 +380,14 @@ msgstr "Proszę o nie wysyłania Mi tych wspaniałych, codziennych raportów"
 msgid "Please reload the application."
 msgstr "Proszę przeładować aplikację."
 
+msgid "Please, login to view your stats"
+msgstr "Zaloguj się by zobaczyć swoje statystyki"
+
 msgid "Pomodoro duration:"
 msgstr "Czas trwania Pomodoro:"
 
 msgid "Pomodoro is finished."
 msgstr "Pomodoro zakończone."
-
-msgid "pomodoros"
-msgstr "pomodoro"
 
 msgid "Preferences"
 msgstr "Ustawienia"
@@ -438,9 +426,6 @@ msgstr "STOP"
 
 msgid "Schemes"
 msgstr "Schemat"
-
-msgid "Send Daily Reports"
-msgstr "Wysyłaj codzienne raporty"
 
 msgid "Send reports on email: "
 msgstr "Wysyłaj raporty na ten adres email: "
@@ -678,7 +663,6 @@ msgid "day"
 msgid_plural "days"
 msgstr[0] "dzień"
 msgstr[1] "dni"
-msgstr[2] "dni"
 
 msgid "delay"
 msgstr "opóźnienie"
@@ -695,11 +679,13 @@ msgstr "skupienie"
 msgid "for all time"
 msgstr "od początku istnienia tej aplikacji"
 
+msgid "global"
+msgstr "globalny"
+
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "godzina"
 msgstr[1] "godziny"
-msgstr[2] "godzin"
 
 msgid "in 10 seconds"
 msgstr "po 10 sekundach"
@@ -726,7 +712,6 @@ msgid "like"
 msgid_plural "likes"
 msgstr[0] "polubienie"
 msgstr[1] "polubienia"
-msgstr[2] "polubień"
 
 msgid "median"
 msgstr "mediana"
@@ -735,13 +720,11 @@ msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "minuta"
 msgstr[1] "minuty"
-msgstr[2] "minut"
 
 msgid "month"
 msgid_plural "months"
 msgstr[0] "miesiąć"
 msgstr[1] "miesiące"
-msgstr[2] "miesięcy"
 
 msgid "next page"
 msgstr "następna strona"
@@ -755,14 +738,22 @@ msgstr "ilość"
 msgid "on"
 msgstr "na"
 
+msgid "personal"
+msgstr "personalny"
+
 msgid "pomodoro"
 msgid_plural "pomodoros"
 msgstr[0] "Pomodoro"
 msgstr[1] "Pomodoro"
-msgstr[2] "Pomodoro"
+
+msgid "pomodoros"
+msgstr "pomodoro"
 
 msgid "previous page"
 msgstr "poprzednia strona"
+
+msgid "quarter"
+msgstr "kwartał"
 
 msgid "rating"
 msgstr "ocena"
@@ -804,8 +795,14 @@ msgstr ""
 "do Twojego Telegram'u, wpisz '/start' a następnie wpisz kod otrzymany od "
 "bota w pole poniżej"
 
+msgid "user"
+msgstr "użytkownik"
+
 msgid "version"
 msgstr "wersja"
+
+msgid "week"
+msgstr "tydzień"
 
 msgid "were"
 msgstr "były"
@@ -814,10 +811,12 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "rok"
 msgstr[1] "lata"
-msgstr[2] "lat"
 
 #~ msgid "Configure"
 #~ msgstr "Konfiguruj"
+
+#~ msgid "Daily history"
+#~ msgstr "Historia dnia"
 
 #~ msgid "Pause"
 #~ msgstr "Pauza"
@@ -836,6 +835,9 @@ msgstr[2] "lat"
 
 #~ msgid "Resume"
 #~ msgstr "Wzów"
+
+#~ msgid "Send Daily Reports"
+#~ msgstr "Wysyłaj codzienne raporty"
 
 #~ msgid "Show window"
 #~ msgstr "Pokaż okno"

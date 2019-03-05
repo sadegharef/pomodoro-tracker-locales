@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-02-06 19:24+0300\n"
+"POT-Creation-Date: 2019-03-05 16:35+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -154,9 +154,6 @@ msgstr "KLAAR"
 
 msgid "Daily Goal"
 msgstr "Dagelijks doel"
-
-msgid "Daily history"
-msgstr "Dagelijkse geschiedenis"
 
 msgid "Date"
 msgstr "Datum"
@@ -308,9 +305,6 @@ msgstr "Login met een GitHub-account"
 msgid "Login to the service using Google Authentication"
 msgstr "Login met een Google-account"
 
-msgid "Login to view your stats"
-msgstr "Login om uw statistieken te zien"
-
 msgid "Logout"
 msgstr "Uitloggen"
 
@@ -398,9 +392,6 @@ msgstr "Pomodoro-duur"
 msgid "Pomodoro is finished."
 msgstr "Pomodoro is klaar."
 
-msgid "pomodoros"
-msgstr "pomodori"
-
 msgid "Preferences"
 msgstr "Voorkeuren"
 
@@ -450,9 +441,6 @@ msgstr "STOP"
 
 msgid "Schemes"
 msgstr "Schema's"
-
-msgid "Send Daily Reports"
-msgstr "Stuur dagelijkse rapportages"
 
 msgid "Send reports on email: "
 msgstr "Stuur rapportages naar e-mail: "
@@ -720,6 +708,9 @@ msgstr "focus"
 msgid "for all time"
 msgstr "in totaal"
 
+msgid "global"
+msgstr "globaal"
+
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "uur"
@@ -776,13 +767,22 @@ msgstr "aantal"
 msgid "on"
 msgstr "aan"
 
+msgid "personal"
+msgstr "persoonlijk"
+
 msgid "pomodoro"
 msgid_plural "pomodoros"
 msgstr[0] "pomodoro"
 msgstr[1] "pomodori"
 
+msgid "pomodoros"
+msgstr "pomodori"
+
 msgid "previous page"
 msgstr "vorige pagina"
+
+msgid "quarter"
+msgstr "kwartaal"
 
 msgid "rating"
 msgstr "rating"
@@ -824,8 +824,14 @@ msgstr ""
 "toe aan je telegram, typ `/start`, en vul de code van de bot in "
 "onderstaand veld in."
 
+msgid "user"
+msgstr "gebruiker"
+
 msgid "version"
 msgstr "versie"
+
+msgid "week"
+msgstr "week"
 
 msgid "were"
 msgstr "waren"
@@ -840,6 +846,15 @@ msgstr[1] "jaren"
 
 #~ msgid "Daily Goal Completed."
 #~ msgstr "Dagelijks doel behaald."
+
+#~ msgid "Daily history"
+#~ msgstr "Dagelijkse geschiedenis"
+
+#~ msgid "Login to view your stats"
+#~ msgstr "Login om uw statistieken te zien"
+
+#~ msgid "Send Daily Reports"
+#~ msgstr "Stuur dagelijkse rapportages"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "De pomodoro loopt"

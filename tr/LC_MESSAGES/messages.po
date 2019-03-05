@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-06 19:24+0300\n"
+"POT-Creation-Date: 2019-03-05 16:35+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -155,9 +155,6 @@ msgstr "TAMAMLANDI"
 
 msgid "Daily Goal"
 msgstr "Günlük Gol"
-
-msgid "Daily history"
-msgstr "Günlük geçmişi"
 
 msgid "Date"
 msgstr "Tarih"
@@ -313,9 +310,6 @@ msgstr ""
 msgid "Login to the service using Google Authentication"
 msgstr ""
 
-msgid "Login to view your stats"
-msgstr "Çalışma kaydınızı tutmak için giriş yapın"
-
 msgid "Logout"
 msgstr "Çıkış"
 
@@ -403,9 +397,6 @@ msgstr "Pomodoro süresi:"
 msgid "Pomodoro is finished."
 msgstr "Pomodoro tamamlandı."
 
-msgid "pomodoros"
-msgstr "pomodoro"
-
 msgid "Preferences"
 msgstr "Tercihler"
 
@@ -453,9 +444,6 @@ msgstr "DURDUR"
 
 msgid "Schemes"
 msgstr "Şemalari"
-
-msgid "Send Daily Reports"
-msgstr "Günlük Raporları Gönder"
 
 msgid "Send reports on email: "
 msgstr "E-postayla ilgili rapor gönder:"
@@ -721,6 +709,9 @@ msgstr ""
 msgid "for all time"
 msgstr "tüm zamanlar için"
 
+msgid "global"
+msgstr ""
+
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "saat"
@@ -777,13 +768,22 @@ msgstr "saymak"
 msgid "on"
 msgstr ""
 
+msgid "personal"
+msgstr "kişiye özel"
+
 msgid "pomodoro"
 msgid_plural "pomodoros"
 msgstr[0] ""
 msgstr[1] ""
 
+msgid "pomodoros"
+msgstr "pomodoro"
+
 msgid "previous page"
 msgstr ""
+
+msgid "quarter"
+msgstr "çeyrek"
 
 msgid "rating"
 msgstr "değerlendirme"
@@ -823,8 +823,14 @@ msgid ""
 "bellow"
 msgstr ""
 
+msgid "user"
+msgstr "kullanıcı"
+
 msgid "version"
 msgstr "sürüm"
+
+msgid "week"
+msgstr ""
 
 msgid "were"
 msgstr ""
@@ -839,6 +845,15 @@ msgstr[1] "yil"
 
 #~ msgid "Daily Goal Completed."
 #~ msgstr "Günlük gol tamamlandı."
+
+#~ msgid "Daily history"
+#~ msgstr "Günlük geçmişi"
+
+#~ msgid "Login to view your stats"
+#~ msgstr "Çalışma kaydınızı tutmak için giriş yapın"
+
+#~ msgid "Send Daily Reports"
+#~ msgstr "Günlük Raporları Gönder"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Pomodoro devam ediyor"

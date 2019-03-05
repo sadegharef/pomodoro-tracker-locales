@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-06 19:23+0300\n"
+"POT-Creation-Date: 2019-03-05 16:35+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -155,9 +155,6 @@ msgstr "БІТТІ"
 
 msgid "Daily Goal"
 msgstr "Күн мақсаты"
-
-msgid "Daily history"
-msgstr "Күнделікті жазбалар"
 
 msgid "Date"
 msgstr "Мерзім"
@@ -311,9 +308,6 @@ msgstr "Github арқылы кіру"
 msgid "Login to the service using Google Authentication"
 msgstr "Google арқылы кіру"
 
-msgid "Login to view your stats"
-msgstr "Статистика көргенге кіру керек"
-
 msgid "Logout"
 msgstr "Шығу"
 
@@ -401,9 +395,6 @@ msgstr "Қызанақ ұзақтығы"
 msgid "Pomodoro is finished."
 msgstr "Қызанақ бітіп қалды ғой."
 
-msgid "pomodoros"
-msgstr "қызанақтар"
-
 msgid "Preferences"
 msgstr "Баптаулар"
 
@@ -451,9 +442,6 @@ msgstr "СТОП"
 
 msgid "Schemes"
 msgstr "Сызбалар"
-
-msgid "Send Daily Reports"
-msgstr "Күнделікті есеп жіберу"
 
 msgid "Send reports on email: "
 msgstr "Осы e-mail-ға"
@@ -715,6 +703,9 @@ msgstr "фокус"
 msgid "for all time"
 msgstr "ресурс ашылғалы бері"
 
+msgid "global"
+msgstr "жаһандық"
+
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "сағат"
@@ -771,13 +762,22 @@ msgstr "сан"
 msgid "on"
 msgstr ""
 
+msgid "personal"
+msgstr "жеке"
+
 msgid "pomodoro"
 msgid_plural "pomodoros"
 msgstr[0] "қызанақ"
 msgstr[1] "қызанақ"
 
+msgid "pomodoros"
+msgstr "қызанақтар"
+
 msgid "previous page"
 msgstr "алдыңғы бет"
+
+msgid "quarter"
+msgstr "ширекжыл"
 
 msgid "rating"
 msgstr "рейтинг"
@@ -817,8 +817,14 @@ msgid ""
 "bellow"
 msgstr "телеграмдағы ботта `/start` арқылы кодты енгізіңіз"
 
+msgid "user"
+msgstr "пайдаланушы"
+
 msgid "version"
 msgstr "нұсқасы"
+
+msgid "week"
+msgstr "апта"
 
 msgid "were"
 msgstr "болды"
@@ -833,6 +839,15 @@ msgstr[1] "жыл"
 
 #~ msgid "Daily Goal Completed."
 #~ msgstr "Күн мақсаты орындалды"
+
+#~ msgid "Daily history"
+#~ msgstr "Күнделікті жазбалар"
+
+#~ msgid "Login to view your stats"
+#~ msgstr "Статистика көргенге кіру керек"
+
+#~ msgid "Send Daily Reports"
+#~ msgstr "Күнделікті есеп жіберу"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Қызанақ кетті"

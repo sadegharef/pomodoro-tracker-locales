@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-06 19:24+0300\n"
+"POT-Creation-Date: 2019-03-05 16:35+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -153,9 +153,6 @@ msgstr "已完成"
 
 msgid "Daily Goal"
 msgstr "每日目标"
-
-msgid "Daily history"
-msgstr "历史记录"
 
 msgid "Date"
 msgstr "日期"
@@ -305,9 +302,6 @@ msgstr "使用Github认证登录服务"
 msgid "Login to the service using Google Authentication"
 msgstr "使用谷歌认证登录服务"
 
-msgid "Login to view your stats"
-msgstr "登入后查看你的统计信息"
-
 msgid "Logout"
 msgstr "登出"
 
@@ -395,9 +389,6 @@ msgstr "番茄钟时长："
 msgid "Pomodoro is finished."
 msgstr "番茄钟结束。"
 
-msgid "pomodoros"
-msgstr "番茄钟"
-
 msgid "Preferences"
 msgstr "优先级"
 
@@ -445,9 +436,6 @@ msgstr "停止"
 
 msgid "Schemes"
 msgstr "调度"
-
-msgid "Send Daily Reports"
-msgstr "发送每日报告"
 
 msgid "Send reports on email: "
 msgstr "向该邮箱发送报告："
@@ -698,6 +686,9 @@ msgstr ""
 msgid "for all time"
 msgstr "总计"
 
+msgid "global"
+msgstr ""
+
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "小时"
@@ -750,12 +741,21 @@ msgstr "数量"
 msgid "on"
 msgstr "在"
 
+msgid "personal"
+msgstr ""
+
 msgid "pomodoro"
 msgid_plural "pomodoros"
 msgstr[0] "番茄钟"
 
+msgid "pomodoros"
+msgstr "番茄钟"
+
 msgid "previous page"
 msgstr "上一页"
+
+msgid "quarter"
+msgstr ""
 
 msgid "rating"
 msgstr "评分"
@@ -795,8 +795,14 @@ msgid ""
 "bellow"
 msgstr "到你的telegram，输入‘/start’指令并输入bot字段的编码"
 
+msgid "user"
+msgstr ""
+
 msgid "version"
 msgstr "版本"
+
+msgid "week"
+msgstr ""
 
 msgid "were"
 msgstr "是"
@@ -810,6 +816,15 @@ msgstr[0] "年"
 
 #~ msgid "Daily Goal Completed."
 #~ msgstr "每日目标完成"
+
+#~ msgid "Daily history"
+#~ msgstr "历史记录"
+
+#~ msgid "Login to view your stats"
+#~ msgstr "登入后查看你的统计信息"
+
+#~ msgid "Send Daily Reports"
+#~ msgstr "发送每日报告"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "番茄钟正在运行"

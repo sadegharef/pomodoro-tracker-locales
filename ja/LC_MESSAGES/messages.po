@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-06 19:23+0300\n"
+"POT-Creation-Date: 2019-03-05 16:34+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -153,9 +153,6 @@ msgstr "完了"
 
 msgid "Daily Goal"
 msgstr "毎日の目標"
-
-msgid "Daily history"
-msgstr "毎日の歴史"
 
 msgid "Date"
 msgstr "日付"
@@ -305,9 +302,6 @@ msgstr "Githubアカウントでログインする"
 msgid "Login to the service using Google Authentication"
 msgstr "Googleアカウントでログインする"
 
-msgid "Login to view your stats"
-msgstr "ログインして統計情報を表示する"
-
 msgid "Logout"
 msgstr "ログアウト"
 
@@ -395,9 +389,6 @@ msgstr "ポモドーロの間隔"
 msgid "Pomodoro is finished."
 msgstr "ポモドーロ終了です、"
 
-msgid "pomodoros"
-msgstr "ポモドーロ"
-
 msgid "Preferences"
 msgstr "設定"
 
@@ -445,9 +436,6 @@ msgstr "停止"
 
 msgid "Schemes"
 msgstr "スキーム"
-
-msgid "Send Daily Reports"
-msgstr "日報を送る"
 
 msgid "Send reports on email: "
 msgstr "電子メールでレポートを送信する"
@@ -699,6 +687,9 @@ msgstr ""
 msgid "for all time"
 msgstr "いつでも"
 
+msgid "global"
+msgstr ""
+
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "時"
@@ -755,13 +746,22 @@ msgstr "単位数"
 msgid "on"
 msgstr "に"
 
+msgid "personal"
+msgstr ""
+
 msgid "pomodoro"
 msgid_plural "pomodoros"
 msgstr[0] ""
 msgstr[1] ""
 
+msgid "pomodoros"
+msgstr "ポモドーロ"
+
 msgid "previous page"
 msgstr "前のページ"
+
+msgid "quarter"
+msgstr "四半期"
 
 msgid "rating"
 msgstr "評価"
@@ -801,11 +801,17 @@ msgid ""
 "bellow"
 msgstr "あなたの電報に `/ start`と打ち込んでボットのコードを以下のフィールドに入力してください"
 
+msgid "user"
+msgstr "ユーザー"
+
 msgid "version"
 msgstr "バージョン"
 
-msgid "were"
+msgid "week"
 msgstr "あった"
+
+msgid "were"
+msgstr "週間"
 
 msgid "year"
 msgid_plural "years"
@@ -817,6 +823,15 @@ msgstr[1] "年々"
 
 #~ msgid "Daily Goal Completed."
 #~ msgstr "毎日の目標達成"
+
+#~ msgid "Daily history"
+#~ msgstr "毎日の歴史"
+
+#~ msgid "Login to view your stats"
+#~ msgstr "ログインして統計情報を表示する"
+
+#~ msgid "Send Daily Reports"
+#~ msgstr "日報を送る"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "ポモドーロ中"
