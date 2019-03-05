@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-06 19:23+0300\n"
+"POT-Creation-Date: 2019-03-05 16:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ar\n"
@@ -153,9 +153,6 @@ msgid "DONE"
 msgstr ""
 
 msgid "Daily Goal"
-msgstr ""
-
-msgid "Daily history"
 msgstr ""
 
 msgid "Date"
@@ -306,9 +303,6 @@ msgstr ""
 msgid "Login to the service using Google Authentication"
 msgstr ""
 
-msgid "Login to view your stats"
-msgstr ""
-
 msgid "Logout"
 msgstr ""
 
@@ -396,9 +390,6 @@ msgstr ""
 msgid "Pomodoro is finished."
 msgstr ""
 
-msgid "pomodoros"
-msgstr ""
-
 msgid "Preferences"
 msgstr ""
 
@@ -445,9 +436,6 @@ msgid "STOP"
 msgstr ""
 
 msgid "Schemes"
-msgstr ""
-
-msgid "Send Daily Reports"
 msgstr ""
 
 msgid "Send reports on email: "
@@ -704,6 +692,9 @@ msgstr ""
 msgid "for all time"
 msgstr ""
 
+msgid "global"
+msgstr ""
+
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] ""
@@ -776,6 +767,9 @@ msgstr ""
 msgid "on"
 msgstr ""
 
+msgid "personal"
+msgstr ""
+
 msgid "pomodoro"
 msgid_plural "pomodoros"
 msgstr[0] ""
@@ -785,7 +779,13 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
+msgid "pomodoros"
+msgstr ""
+
 msgid "previous page"
+msgstr ""
+
+msgid "quarter"
 msgstr ""
 
 msgid "rating"
@@ -826,7 +826,13 @@ msgid ""
 "bellow"
 msgstr ""
 
+msgid "user"
+msgstr ""
+
 msgid "version"
+msgstr ""
+
+msgid "week"
 msgstr ""
 
 msgid "were"
@@ -847,7 +853,16 @@ msgstr[5] ""
 #~ msgid "Daily Goal Completed."
 #~ msgstr ""
 
+#~ msgid "Daily history"
+#~ msgstr ""
+
+#~ msgid "Login to view your stats"
+#~ msgstr ""
+
 #~ msgid "Mark done"
+#~ msgstr ""
+
+#~ msgid "Send Daily Reports"
 #~ msgstr ""
 
 #~ msgid "The Pomodoro is running"

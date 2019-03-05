@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-02-06 19:23+0300\n"
+"POT-Creation-Date: 2019-03-05 16:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -153,9 +153,6 @@ msgstr "ERLEDIGT"
 
 msgid "Daily Goal"
 msgstr "Tagesziel"
-
-msgid "Daily history"
-msgstr "Täglicher Verlauf"
 
 msgid "Date"
 msgstr "Datum"
@@ -313,9 +310,6 @@ msgstr "Login mit Github"
 msgid "Login to the service using Google Authentication"
 msgstr "Login mit Google Account"
 
-msgid "Login to view your stats"
-msgstr "Bitte loggen Sie Sich ein um Ihre Statistiken zu sehen"
-
 msgid "Logout"
 msgstr "Logout"
 
@@ -403,9 +397,6 @@ msgstr "Pomodoro-Dauer:"
 msgid "Pomodoro is finished."
 msgstr "Pomodor wurde beendet."
 
-msgid "pomodoros"
-msgstr "pomodoros"
-
 msgid "Preferences"
 msgstr "Einstellungen"
 
@@ -453,9 +444,6 @@ msgstr "STOP"
 
 msgid "Schemes"
 msgstr "Schemes"
-
-msgid "Send Daily Reports"
-msgstr "Sende tägliche Zusammenfassung"
 
 msgid "Send reports on email: "
 msgstr "Sende reports an Email:"
@@ -721,6 +709,9 @@ msgstr "fokus"
 msgid "for all time"
 msgstr "insgesamt"
 
+msgid "global"
+msgstr ""
+
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "Stunde"
@@ -777,13 +768,22 @@ msgstr "Anzahl"
 msgid "on"
 msgstr "für"
 
+msgid "personal"
+msgstr ""
+
 msgid "pomodoro"
 msgid_plural "pomodoros"
 msgstr[0] "Pomodoro"
 msgstr[1] "Pomodoros"
 
+msgid "pomodoros"
+msgstr "pomodoros"
+
 msgid "previous page"
 msgstr ""
+
+msgid "quarter"
+msgstr "quartal"
 
 msgid "rating"
 msgstr "Bewertung"
@@ -825,8 +825,14 @@ msgstr ""
 "tippen Sie `/start` und den Code ein vom Telegram Bot um zu Ihrem "
 "Telegram zugelangen"
 
+msgid "user"
+msgstr "benutzer"
+
 msgid "version"
 msgstr "Version"
+
+msgid "week"
+msgstr "woche"
 
 msgid "were"
 msgstr "waren"
@@ -841,6 +847,15 @@ msgstr[1] "Jahre"
 
 #~ msgid "Daily Goal Completed."
 #~ msgstr "Tagesziel abgeschlossen."
+
+#~ msgid "Daily history"
+#~ msgstr "Täglicher Verlauf"
+
+#~ msgid "Login to view your stats"
+#~ msgstr "Bitte loggen Sie Sich ein um Ihre Statistiken zu sehen"
+
+#~ msgid "Send Daily Reports"
+#~ msgstr "Sende tägliche Zusammenfassung"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Der Pomodoro läuft"

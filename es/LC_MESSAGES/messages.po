@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-06 19:23+0300\n"
+"POT-Creation-Date: 2019-03-05 16:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -155,9 +155,6 @@ msgstr "HECHO"
 
 msgid "Daily Goal"
 msgstr "Objetivo Diario"
-
-msgid "Daily history"
-msgstr "Historial diario"
 
 msgid "Date"
 msgstr "Fecha"
@@ -312,9 +309,6 @@ msgstr "Inicie sesión en el servicio utilizando la autenticación de Github."
 msgid "Login to the service using Google Authentication"
 msgstr "Inicie sesión en el servicio utilizando la autenticación de Google."
 
-msgid "Login to view your stats"
-msgstr "Inicia sesión para ver tus estadísticas"
-
 msgid "Logout"
 msgstr "Salir"
 
@@ -402,9 +396,6 @@ msgstr "Duración del Pomodoro:"
 msgid "Pomodoro is finished."
 msgstr "Pomodoro finalizado."
 
-msgid "pomodoros"
-msgstr "pomodoros"
-
 msgid "Preferences"
 msgstr "Preferencias"
 
@@ -454,9 +445,6 @@ msgstr "PARAR"
 
 msgid "Schemes"
 msgstr "Esquemas"
-
-msgid "Send Daily Reports"
-msgstr "Enviar informes diarios"
 
 msgid "Send reports on email: "
 msgstr "Enviar informes por email: "
@@ -724,6 +712,9 @@ msgstr "focus"
 msgid "for all time"
 msgstr "para todo el tiempo"
 
+msgid "global"
+msgstr ""
+
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "hora"
@@ -780,13 +771,22 @@ msgstr "número"
 msgid "on"
 msgstr "en"
 
+msgid "personal"
+msgstr ""
+
 msgid "pomodoro"
 msgid_plural "pomodoros"
 msgstr[0] "pomodoro"
 msgstr[1] "pomodoros"
 
+msgid "pomodoros"
+msgstr "pomodoros"
+
 msgid "previous page"
 msgstr "pagina anterior"
+
+msgid "quarter"
+msgstr "trimestre"
 
 msgid "rating"
 msgstr "evaluación"
@@ -828,8 +828,14 @@ msgstr ""
 "en tu telegram, escribe `/start` e ingresa el código desde el bot al "
 "campo abajo"
 
+msgid "user"
+msgstr "usuario"
+
 msgid "version"
 msgstr "versión"
+
+msgid "week"
+msgstr "semana"
 
 msgid "were"
 msgstr "fueron"
@@ -844,6 +850,15 @@ msgstr[1] "años"
 
 #~ msgid "Daily Goal Completed."
 #~ msgstr "Obiettivo giornaliero completato."
+
+#~ msgid "Daily history"
+#~ msgstr "Historial diario"
+
+#~ msgid "Login to view your stats"
+#~ msgstr "Inicia sesión para ver tus estadísticas"
+
+#~ msgid "Send Daily Reports"
+#~ msgstr "Enviar informes diarios"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "El Pomodoro está en marcha"
