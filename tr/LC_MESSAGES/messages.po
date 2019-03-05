@@ -403,8 +403,8 @@ msgstr "Pomodoro süresi:"
 msgid "Pomodoro is finished."
 msgstr "Pomodoro tamamlandı."
 
-msgid "Pomodoros"
-msgstr "Pomodoro"
+msgid "pomodoros"
+msgstr "pomodoro"
 
 msgid "Preferences"
 msgstr "Tercihler"

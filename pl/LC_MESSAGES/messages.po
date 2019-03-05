@@ -398,8 +398,8 @@ msgstr "Czas trwania Pomodoro:"
 msgid "Pomodoro is finished."
 msgstr "Pomodoro zakończone."
 
-msgid "Pomodoros"
-msgstr "Pomodoro"
+msgid "pomodoros"
+msgstr "pomodoro"
 
 msgid "Preferences"
 msgstr "Ustawienia"

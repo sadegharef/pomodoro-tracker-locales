@@ -395,7 +395,7 @@ msgstr "ポモドーロの間隔"
 msgid "Pomodoro is finished."
 msgstr "ポモドーロ終了です、"
 
-msgid "Pomodoros"
+msgid "pomodoros"
 msgstr "ポモドーロ"
 
 msgid "Preferences"

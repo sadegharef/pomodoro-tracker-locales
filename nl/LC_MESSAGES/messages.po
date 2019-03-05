@@ -398,8 +398,8 @@ msgstr "Pomodoro-duur"
 msgid "Pomodoro is finished."
 msgstr "Pomodoro is klaar."
 
-msgid "Pomodoros"
-msgstr "Pomodori"
+msgid "pomodoros"
+msgstr "pomodori"
 
 msgid "Preferences"
 msgstr "Voorkeuren"

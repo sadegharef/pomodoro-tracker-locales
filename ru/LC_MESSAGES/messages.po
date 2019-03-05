@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-02-06 19:24+0300\n"
+"POT-Creation-Date: 2019-03-05 15:48+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -156,9 +156,6 @@ msgstr "Сделано"
 
 msgid "Daily Goal"
 msgstr "Цель на день"
-
-msgid "Daily history"
-msgstr "История задач"
 
 msgid "Date"
 msgstr "Дата"
@@ -312,9 +309,6 @@ msgstr "Вход на сервис используя Github"
 msgid "Login to the service using Google Authentication"
 msgstr "Вход на сервис используя Google"
 
-msgid "Login to view your stats"
-msgstr "Войдите для просмотра статистики"
-
 msgid "Logout"
 msgstr "Выход"
 
@@ -402,9 +396,6 @@ msgstr "Продолжительность помидора:"
 msgid "Pomodoro is finished."
 msgstr "Помидор окончен."
 
-msgid "Pomodoros"
-msgstr "Помидоры"
-
 msgid "Preferences"
 msgstr "Настройки"
 
@@ -452,9 +443,6 @@ msgstr "СТОП"
 
 msgid "Schemes"
 msgstr "Схемы"
-
-msgid "Send Daily Reports"
-msgstr "Отправка отчетов"
 
 msgid "Send reports on email: "
 msgstr "Отправлять отчеты на email: "
@@ -719,6 +707,9 @@ msgstr "фокус"
 msgid "for all time"
 msgstr "за все время"
 
+msgid "global"
+msgstr "глобальная"
+
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "час"
@@ -779,14 +770,23 @@ msgstr "кол-во"
 msgid "on"
 msgstr "на"
 
+msgid "personal"
+msgstr "личная"
+
 msgid "pomodoro"
 msgid_plural "pomodoros"
 msgstr[0] "помидор"
 msgstr[1] "помидора"
 msgstr[2] "помидоров"
 
+msgid "pomodoros"
+msgstr "помидоры"
+
 msgid "previous page"
 msgstr "предыдущая страница"
+
+msgid "quarter"
+msgstr "квартал"
 
 msgid "rating"
 msgstr "рейтинг"
@@ -826,8 +826,14 @@ msgid ""
 "bellow"
 msgstr "в ваш telegram, напишите `/start` и введите полученный код в поле ниже"
 
+msgid "user"
+msgstr "пользователь"
+
 msgid "version"
 msgstr "Версия"
+
+msgid "week"
+msgstr "неделя"
 
 msgid "were"
 msgstr "были"
@@ -843,6 +849,15 @@ msgstr[2] "лет"
 
 #~ msgid "Daily Goal Completed."
 #~ msgstr "Цель на день выполнена."
+
+#~ msgid "Daily history"
+#~ msgstr "История задач"
+
+#~ msgid "Login to view your stats"
+#~ msgstr "Войдите для просмотра статистики"
+
+#~ msgid "Send Daily Reports"
+#~ msgstr "Отправка отчетов"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Помидор запущен"

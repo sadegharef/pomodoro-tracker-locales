@@ -395,7 +395,7 @@ msgstr "番茄钟时长："
 msgid "Pomodoro is finished."
 msgstr "番茄钟结束。"
 
-msgid "Pomodoros"
+msgid "pomodoros"
 msgstr "番茄钟"
 
 msgid "Preferences"

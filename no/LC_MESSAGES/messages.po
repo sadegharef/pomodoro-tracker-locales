@@ -395,7 +395,7 @@ msgstr ""
 msgid "Pomodoro is finished."
 msgstr ""
 
-msgid "Pomodoros"
+msgid "pomodoros"
 msgstr ""
 
 msgid "Preferences"

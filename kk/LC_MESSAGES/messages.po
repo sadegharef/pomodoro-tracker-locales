@@ -401,8 +401,8 @@ msgstr "Қызанақ ұзақтығы"
 msgid "Pomodoro is finished."
 msgstr "Қызанақ бітіп қалды ғой."
 
-msgid "Pomodoros"
-msgstr "Қызанақтар"
+msgid "pomodoros"
+msgstr "қызанақтар"
 
 msgid "Preferences"
 msgstr "Баптаулар"

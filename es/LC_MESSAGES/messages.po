@@ -402,8 +402,8 @@ msgstr "Duración del Pomodoro:"
 msgid "Pomodoro is finished."
 msgstr "Pomodoro finalizado."
 
-msgid "Pomodoros"
-msgstr "Pomodoros"
+msgid "pomodoros"
+msgstr "pomodoros"
 
 msgid "Preferences"
 msgstr "Preferencias"

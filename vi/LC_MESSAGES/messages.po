@@ -401,8 +401,8 @@ msgstr "Thời gian Pomodoro:"
 msgid "Pomodoro is finished."
 msgstr "Pomodoro đã hoàn tất."
 
-msgid "Pomodoros"
-msgstr "Pomodoros"
+msgid "pomodoros"
+msgstr "pomodoros"
 
 msgid "Preferences"
 msgstr "Cấu hình"
