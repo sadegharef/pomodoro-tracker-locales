@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-05 16:35+0300\n"
+"POT-Creation-Date: 2019-03-06 12:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -253,6 +253,9 @@ msgstr ""
 
 msgid "January"
 msgstr "Tháng 1"
+
+msgid "Join the global rating"
+msgstr ""
 
 msgid "July"
 msgstr "Tháng 7"
@@ -591,9 +594,6 @@ msgstr "Đồng hồ đếm ngược"
 msgid "Title"
 msgstr "Tên"
 
-msgid "Today"
-msgstr "Hôm nay"
-
 msgid "Toggle fullscreen"
 msgstr "Toggle toàn màn hình"
 
@@ -800,6 +800,9 @@ msgid ""
 "bellow"
 msgstr ""
 
+msgid "today"
+msgstr "hôm nay"
+
 msgid "user"
 msgstr "người dùng"
 
@@ -833,4 +836,3 @@ msgstr[0] ""
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "The Pomodoro đang chạy"
-

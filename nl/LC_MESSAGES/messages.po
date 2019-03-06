@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-03-05 16:35+0300\n"
+"POT-Creation-Date: 2019-03-06 12:50+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -252,6 +252,9 @@ msgstr "Integraties"
 
 msgid "January"
 msgstr "januari"
+
+msgid "Join the global rating"
+msgstr ""
 
 msgid "July"
 msgstr "juli"
@@ -607,9 +610,6 @@ msgstr "Timer"
 msgid "Title"
 msgstr "Titel"
 
-msgid "Today"
-msgstr "Vandaag"
-
 msgid "Toggle fullscreen"
 msgstr "Volledig scherm"
 
@@ -824,6 +824,9 @@ msgstr ""
 "toe aan je telegram, typ `/start`, en vul de code van de bot in "
 "onderstaand veld in."
 
+msgid "today"
+msgstr "vandaag"
+
 msgid "user"
 msgstr "gebruiker"
 
@@ -858,4 +861,3 @@ msgstr[1] "jaren"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "De pomodoro loopt"
-

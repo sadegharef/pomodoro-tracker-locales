@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-05 16:35+0300\n"
+"POT-Creation-Date: 2019-03-06 12:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nb_NO\n"
@@ -250,6 +250,9 @@ msgid "Integrations"
 msgstr ""
 
 msgid "January"
+msgstr ""
+
+msgid "Join the global rating"
 msgstr ""
 
 msgid "July"
@@ -586,9 +589,6 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
-msgid "Today"
-msgstr ""
-
 msgid "Toggle fullscreen"
 msgstr ""
 
@@ -799,6 +799,9 @@ msgstr ""
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
+msgstr ""
+
+msgid "today"
 msgstr ""
 
 msgid "user"

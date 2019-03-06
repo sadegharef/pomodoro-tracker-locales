@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-05 16:35+0300\n"
+"POT-Creation-Date: 2019-03-06 12:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -255,6 +255,9 @@ msgstr "Қызметтер"
 
 msgid "January"
 msgstr "Қаңтар"
+
+msgid "Join the global rating"
+msgstr ""
 
 msgid "July"
 msgstr "Шілде"
@@ -602,9 +605,6 @@ msgstr "Таймер"
 msgid "Title"
 msgstr "Тақырыбы"
 
-msgid "Today"
-msgstr "Бүгін"
-
 msgid "Toggle fullscreen"
 msgstr "Толық экранға кеттік"
 
@@ -817,6 +817,9 @@ msgid ""
 "bellow"
 msgstr "телеграмдағы ботта `/start` арқылы кодты енгізіңіз"
 
+msgid "today"
+msgstr "бүгін"
+
 msgid "user"
 msgstr "пайдаланушы"
 
@@ -851,4 +854,3 @@ msgstr[1] "жыл"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Қызанақ кетті"
-

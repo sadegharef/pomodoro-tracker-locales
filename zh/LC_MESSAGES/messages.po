@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-05 16:35+0300\n"
+"POT-Creation-Date: 2019-03-06 12:50+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -251,6 +251,9 @@ msgstr "关联"
 
 msgid "January"
 msgstr "一月"
+
+msgid "Join the global rating"
+msgstr ""
 
 msgid "July"
 msgstr "七月"
@@ -586,9 +589,6 @@ msgstr "计时器"
 msgid "Title"
 msgstr "标题"
 
-msgid "Today"
-msgstr "今天"
-
 msgid "Toggle fullscreen"
 msgstr "切换全屏"
 
@@ -795,6 +795,9 @@ msgid ""
 "bellow"
 msgstr "到你的telegram，输入‘/start’指令并输入bot字段的编码"
 
+msgid "today"
+msgstr "今天"
+
 msgid "user"
 msgstr ""
 
@@ -828,4 +831,3 @@ msgstr[0] "年"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "番茄钟正在运行"
-

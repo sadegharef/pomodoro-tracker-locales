@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-03-05 16:35+0300\n"
+"POT-Creation-Date: 2019-03-06 12:50+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -252,6 +252,9 @@ msgstr "Integracja z innymi usługami"
 
 msgid "January"
 msgstr "Styczeń"
+
+msgid "Join the global rating"
+msgstr ""
 
 msgid "July"
 msgstr "Lipiec"
@@ -581,9 +584,6 @@ msgstr "Timer"
 msgid "Title"
 msgstr "Tytuł"
 
-msgid "Today"
-msgstr "Dzisiaj"
-
 msgid "Toggle fullscreen"
 msgstr "Pełny ekran"
 
@@ -794,6 +794,9 @@ msgid ""
 msgstr ""
 "do Twojego Telegram'u, wpisz '/start' a następnie wpisz kod otrzymany od "
 "bota w pole poniżej"
+
+msgid "today"
+msgstr "dzisiaj"
 
 msgid "user"
 msgstr "użytkownik"

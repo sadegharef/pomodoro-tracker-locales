@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-05 16:35+0300\n"
+"POT-Creation-Date: 2019-03-06 12:50+0300\n"
 "PO-Revision-Date: 2017-02-06 20:20-0200\n"
 "Last-Translator: LUCAS ERNESTO KINDINGER <kindingerlek@hotmail.com>\n"
 "Language: pt_BR\n"
@@ -255,6 +255,9 @@ msgstr "Integrações"
 
 msgid "January"
 msgstr "Janeiro"
+
+msgid "Join the global rating"
+msgstr ""
 
 msgid "July"
 msgstr "Julho"
@@ -608,9 +611,6 @@ msgstr "Cronômetro"
 msgid "Title"
 msgstr "Título"
 
-msgid "Today"
-msgstr "Hoje"
-
 msgid "Toggle fullscreen"
 msgstr "Alternar para tela cheia"
 
@@ -827,6 +827,9 @@ msgstr ""
 "No seu Telegram, digite `/start` e preencha com um dos códigos do robô "
 "listados abaixo"
 
+msgid "today"
+msgstr "hoje"
+
 msgid "user"
 msgstr "usuário"
 
@@ -861,4 +864,3 @@ msgstr[1] "anos"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "O Pomodoro está executando"
-

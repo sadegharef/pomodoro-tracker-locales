@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-05 16:34+0300\n"
+"POT-Creation-Date: 2019-03-06 12:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ar\n"
@@ -251,6 +251,9 @@ msgid "Integrations"
 msgstr ""
 
 msgid "January"
+msgstr ""
+
+msgid "Join the global rating"
 msgstr ""
 
 msgid "July"
@@ -587,9 +590,6 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
-msgid "Today"
-msgstr ""
-
 msgid "Toggle fullscreen"
 msgstr ""
 
@@ -826,6 +826,9 @@ msgid ""
 "bellow"
 msgstr ""
 
+msgid "today"
+msgstr ""
+
 msgid "user"
 msgstr ""
 
@@ -846,25 +849,3 @@ msgstr[2] ""
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
-
-#~ msgid "Congratulations!"
-#~ msgstr ""
-
-#~ msgid "Daily Goal Completed."
-#~ msgstr ""
-
-#~ msgid "Daily history"
-#~ msgstr ""
-
-#~ msgid "Login to view your stats"
-#~ msgstr ""
-
-#~ msgid "Mark done"
-#~ msgstr ""
-
-#~ msgid "Send Daily Reports"
-#~ msgstr ""
-
-#~ msgid "The Pomodoro is running"
-#~ msgstr ""
-

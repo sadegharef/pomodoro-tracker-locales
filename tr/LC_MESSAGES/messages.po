@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-05 16:35+0300\n"
+"POT-Creation-Date: 2019-03-06 12:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -257,6 +257,9 @@ msgstr "Entegrasyonlar"
 
 msgid "January"
 msgstr "Ocak"
+
+msgid "Join the global rating"
+msgstr ""
 
 msgid "July"
 msgstr "Temmuz"
@@ -608,9 +611,6 @@ msgstr "Zamanlayıcı"
 msgid "Title"
 msgstr "Başlık"
 
-msgid "Today"
-msgstr "Bugün"
-
 msgid "Toggle fullscreen"
 msgstr "Tam ekrana geç"
 
@@ -823,6 +823,9 @@ msgid ""
 "bellow"
 msgstr ""
 
+msgid "today"
+msgstr "bugün"
+
 msgid "user"
 msgstr "kullanıcı"
 
@@ -857,4 +860,3 @@ msgstr[1] "yil"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Pomodoro devam ediyor"
-

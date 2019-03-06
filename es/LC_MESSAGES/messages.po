@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-05 16:34+0300\n"
+"POT-Creation-Date: 2019-03-06 12:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -255,6 +255,9 @@ msgstr "Integraciones"
 
 msgid "January"
 msgstr "Enero"
+
+msgid "Join the global rating"
+msgstr ""
 
 msgid "July"
 msgstr "Julio"
@@ -611,9 +614,6 @@ msgstr "Cronómetro"
 msgid "Title"
 msgstr "Título"
 
-msgid "Today"
-msgstr "Hoy"
-
 msgid "Toggle fullscreen"
 msgstr "Alternar a pantalla completa"
 
@@ -828,6 +828,9 @@ msgstr ""
 "en tu telegram, escribe `/start` e ingresa el código desde el bot al "
 "campo abajo"
 
+msgid "today"
+msgstr "hoy"
+
 msgid "user"
 msgstr "usuario"
 
@@ -862,4 +865,3 @@ msgstr[1] "años"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "El Pomodoro está en marcha"
-

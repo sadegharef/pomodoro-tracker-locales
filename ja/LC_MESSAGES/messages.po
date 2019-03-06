@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-05 16:34+0300\n"
+"POT-Creation-Date: 2019-03-06 12:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -251,6 +251,9 @@ msgstr "連携機能"
 
 msgid "January"
 msgstr "1月"
+
+msgid "Join the global rating"
+msgstr ""
 
 msgid "July"
 msgstr "7月"
@@ -586,9 +589,6 @@ msgstr "タイマー"
 msgid "Title"
 msgstr "タイトル"
 
-msgid "Today"
-msgstr "今日"
-
 msgid "Toggle fullscreen"
 msgstr "フルスクリーン切り替え"
 
@@ -801,6 +801,9 @@ msgid ""
 "bellow"
 msgstr "あなたの電報に `/ start`と打ち込んでボットのコードを以下のフィールドに入力してください"
 
+msgid "today"
+msgstr "今日"
+
 msgid "user"
 msgstr "ユーザー"
 
@@ -835,4 +838,3 @@ msgstr[1] "年々"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "ポモドーロ中"
-
