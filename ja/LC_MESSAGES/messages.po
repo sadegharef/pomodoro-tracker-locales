@@ -308,11 +308,11 @@ msgstr "Googleアカウントでログインする"
 msgid "Logout"
 msgstr "ログアウト"
 
-msgid "Long break delay:"
+msgid "Long break delay"
 msgstr "長い休憩までの回数"
 
-msgid "Long break duration:"
-msgstr "長い休憩時間："
+msgid "Long break duration"
+msgstr "長い休憩時間"
 
 msgid "March"
 msgstr "3月"
@@ -386,7 +386,7 @@ msgstr "アプリケーションを再読み込みする"
 msgid "Please, login to view your stats"
 msgstr "ログインして統計情報を表示する"
 
-msgid "Pomodoro duration:"
+msgid "Pomodoro duration"
 msgstr "ポモドーロの間隔"
 
 msgid "Pomodoro is finished."
@@ -458,8 +458,8 @@ msgstr "サーバーが更新されました。"
 msgid "Settings"
 msgstr "設定"
 
-msgid "Short break duration:"
-msgstr "短い休憩時間："
+msgid "Short break duration"
+msgstr "短い休憩時間"
 
 msgid "Short description"
 msgstr "簡単な説明"

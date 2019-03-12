@@ -315,11 +315,11 @@ msgstr "Inicie sesión en el servicio utilizando la autenticación de Google."
 msgid "Logout"
 msgstr "Salir"
 
-msgid "Long break delay:"
-msgstr "Retraso del descanso largo:"
+msgid "Long break delay"
+msgstr "Retraso del descanso largo"
 
-msgid "Long break duration:"
-msgstr "Duración del descanso largo:"
+msgid "Long break duration"
+msgstr "Duración del descanso largo"
 
 msgid "March"
 msgstr "Marzo"
@@ -393,8 +393,8 @@ msgstr "Por favor recarga la aplicación."
 msgid "Please, login to view your stats"
 msgstr "Inicia sesión para ver tus estadísticas"
 
-msgid "Pomodoro duration:"
-msgstr "Duración del Pomodoro:"
+msgid "Pomodoro duration"
+msgstr "Duración del Pomodoro"
 
 msgid "Pomodoro is finished."
 msgstr "Pomodoro finalizado."
@@ -467,8 +467,8 @@ msgstr "Servidor ha sido actualizado."
 msgid "Settings"
 msgstr "Ajustes"
 
-msgid "Short break duration:"
-msgstr "Duración del descanso corto:"
+msgid "Short break duration"
+msgstr "Duración del descanso corto"
 
 msgid "Short description"
 msgstr "Descripción corta"

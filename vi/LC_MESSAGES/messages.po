@@ -313,10 +313,10 @@ msgstr "Đăng nhập vào hệ thống bằng Google Authentication"
 msgid "Logout"
 msgstr "Đăng xuất"
 
-msgid "Long break delay:"
+msgid "Long break delay"
 msgstr "Trước khi nghỉ dài"
 
-msgid "Long break duration:"
+msgid "Long break duration"
 msgstr "Thời gian nghỉ dài"
 
 msgid "March"
@@ -391,8 +391,8 @@ msgstr "Hãy chạy lại ứng dụng"
 msgid "Please, login to view your stats"
 msgstr "Hãy đăng nhập để xem thống kê của bạn"
 
-msgid "Pomodoro duration:"
-msgstr "Thời gian Pomodoro:"
+msgid "Pomodoro duration"
+msgstr "Thời gian Pomodoro"
 
 msgid "Pomodoro is finished."
 msgstr "Pomodoro đã hoàn tất."
@@ -463,7 +463,7 @@ msgstr "Hệ thống đã được cập nhật."
 msgid "Settings"
 msgstr "Cài đặt"
 
-msgid "Short break duration:"
+msgid "Short break duration"
 msgstr ""
 
 msgid "Short description"
@@ -485,7 +485,7 @@ msgid "Start"
 msgstr "Bắt đầu"
 
 msgid "Start the Pomodoro timer"
-msgstr "Bắt đầu chạy đồng hồ Pomodoro:"
+msgstr "Bắt đầu chạy đồng hồ Pomodoro"
 
 msgid "Start working:"
 msgstr "Bắt đầu làm việc:"

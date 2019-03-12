@@ -160,7 +160,7 @@ msgid "Date"
 msgstr "Data"
 
 msgid "Date format"
-msgstr "Formato da data:"
+msgstr "Formato da data"
 
 msgid "December"
 msgstr "Dezembro"
@@ -314,11 +314,11 @@ msgstr "Faça login no serviço usando a autenticação do Google"
 msgid "Logout"
 msgstr "Sair"
 
-msgid "Long break delay:"
-msgstr "Atraso da pausa longa:"
+msgid "Long break delay"
+msgstr "Atraso da pausa longa"
 
-msgid "Long break duration:"
-msgstr "Duração da pausa longa:"
+msgid "Long break duration"
+msgstr "Duração da pausa longa"
 
 msgid "March"
 msgstr "Março"
@@ -392,8 +392,8 @@ msgstr "Por favor, recarregue o aplicativo."
 msgid "Please, login to view your stats"
 msgstr "Por favor, faça login para ver suas estatísticas"
 
-msgid "Pomodoro duration:"
-msgstr "Duração do pomodoro:"
+msgid "Pomodoro duration"
+msgstr "Duração do pomodoro"
 
 msgid "Pomodoro is finished."
 msgstr "O pomodoro terminou."
@@ -466,7 +466,7 @@ msgstr "Servidor foi atualizado"
 msgid "Settings"
 msgstr "Configurações"
 
-msgid "Short break duration:"
+msgid "Short break duration"
 msgstr "Duração da pausa curta"
 
 msgid "Short description"

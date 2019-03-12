@@ -316,10 +316,10 @@ msgstr "Login mit Google Account"
 msgid "Logout"
 msgstr "Logout"
 
-msgid "Long break delay:"
+msgid "Long break delay"
 msgstr "Wiederholungen bis lange Pause"
 
-msgid "Long break duration:"
+msgid "Long break duration"
 msgstr "Länge der langen Pause"
 
 msgid "March"
@@ -394,8 +394,8 @@ msgstr "Bitte laden Sie die Anwendung neu."
 msgid "Please, login to view your stats"
 msgstr "Bitte loggen Sie Sich ein um Ihre Statistiken zu sehen"
 
-msgid "Pomodoro duration:"
-msgstr "Pomodoro-Dauer:"
+msgid "Pomodoro duration"
+msgstr "Pomodoro-Dauer"
 
 msgid "Pomodoro is finished."
 msgstr "Pomodor wurde beendet."
@@ -466,7 +466,7 @@ msgstr "Server wurde aktualisiert."
 msgid "Settings"
 msgstr "Einstellungen"
 
-msgid "Short break duration:"
+msgid "Short break duration"
 msgstr "Länge der kurzen Pause"
 
 msgid "Short description"

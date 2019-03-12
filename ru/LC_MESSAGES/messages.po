@@ -315,11 +315,11 @@ msgstr "Вход на сервис используя Google"
 msgid "Logout"
 msgstr "Выход"
 
-msgid "Long break delay:"
-msgstr "Длинный перерыв"
+msgid "Long break delay"
+msgstr "Длинный перерыв через каждые"
 
-msgid "Long break duration:"
-msgstr "Продолжительность длинного перерыва:"
+msgid "Long break duration"
+msgstr "Продолжительность длинного перерыва"
 
 msgid "March"
 msgstr "Март"
@@ -393,8 +393,8 @@ msgstr "Пожалуйтста, перезагрузите приложение.
 msgid "Please, login to view your stats"
 msgstr "Войдите для просмотра статистики"
 
-msgid "Pomodoro duration:"
-msgstr "Продолжительность помидора:"
+msgid "Pomodoro duration"
+msgstr "Продолжительность помидора"
 
 msgid "Pomodoro is finished."
 msgstr "Помидор окончен."
@@ -465,8 +465,8 @@ msgstr "Сервер был обновлен."
 msgid "Settings"
 msgstr "Настройки"
 
-msgid "Short break duration:"
-msgstr "Продолжительность короткого перерыва:"
+msgid "Short break duration"
+msgstr "Продолжительность короткого перерыва"
 
 msgid "Short description"
 msgstr "Короткое описание"

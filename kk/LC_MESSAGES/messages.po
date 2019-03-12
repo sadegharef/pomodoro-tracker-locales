@@ -314,10 +314,10 @@ msgstr "Google арқылы кіру"
 msgid "Logout"
 msgstr "Шығу"
 
-msgid "Long break delay:"
+msgid "Long break delay"
 msgstr "Ұзақ үзіліс жиілігі"
 
-msgid "Long break duration:"
+msgid "Long break duration"
 msgstr "Ұзын үзіліс ұзақтығы"
 
 msgid "March"
@@ -392,7 +392,7 @@ msgstr "Қосымшаны қайта қосыңыз"
 msgid "Please, login to view your stats"
 msgstr "Статистика көру үшін тіркелу керек, пара беру үшін емес"
 
-msgid "Pomodoro duration:"
+msgid "Pomodoro duration"
 msgstr "Қызанақ ұзақтығы"
 
 msgid "Pomodoro is finished."
@@ -464,7 +464,7 @@ msgstr "Сервер жаңарды"
 msgid "Settings"
 msgstr "Баптаулар"
 
-msgid "Short break duration:"
+msgid "Short break duration"
 msgstr "Қысқа үзіліс ұзақтығы"
 
 msgid "Short description"

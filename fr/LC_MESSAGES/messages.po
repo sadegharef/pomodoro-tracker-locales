@@ -313,10 +313,10 @@ msgstr "Se connecter au service avec l'authentification Google"
 msgid "Logout"
 msgstr "Déconnexion"
 
-msgid "Long break delay:"
+msgid "Long break delay"
 msgstr "Délai avant la longue pause"
 
-msgid "Long break duration:"
+msgid "Long break duration"
 msgstr "Durée de la longue pause"
 
 msgid "March"
@@ -391,7 +391,7 @@ msgstr "Veuillez recharger l'application."
 msgid "Please, login to view your stats"
 msgstr "Connectez-vous pour consulter vos statistiques"
 
-msgid "Pomodoro duration:"
+msgid "Pomodoro duration"
 msgstr "Durée du pomodoro"
 
 msgid "Pomodoro is finished."
@@ -463,7 +463,7 @@ msgstr "Le serveur a été mis à jour."
 msgid "Settings"
 msgstr "Paramètres"
 
-msgid "Short break duration:"
+msgid "Short break duration"
 msgstr "Durée de la petite pause"
 
 msgid "Short description"

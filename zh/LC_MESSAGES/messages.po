@@ -308,11 +308,11 @@ msgstr "使用谷歌认证登录服务"
 msgid "Logout"
 msgstr "登出"
 
-msgid "Long break delay:"
+msgid "Long break delay"
 msgstr "长休息时长在"
 
-msgid "Long break duration:"
-msgstr "长休息时长："
+msgid "Long break duration"
+msgstr "长休息时长"
 
 msgid "March"
 msgstr "三月"
@@ -386,8 +386,8 @@ msgstr "重新加载应用程序"
 msgid "Please, login to view your stats"
 msgstr "请登入后查看你的统计信息"
 
-msgid "Pomodoro duration:"
-msgstr "番茄钟时长："
+msgid "Pomodoro duration"
+msgstr "番茄钟时长"
 
 msgid "Pomodoro is finished."
 msgstr "番茄钟结束。"
@@ -458,8 +458,8 @@ msgstr "服务器已更新。"
 msgid "Settings"
 msgstr "设置"
 
-msgid "Short break duration:"
-msgstr "短休息时长："
+msgid "Short break duration"
+msgstr "短休息时长"
 
 msgid "Short description"
 msgstr "简短描述"

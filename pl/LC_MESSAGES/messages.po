@@ -311,11 +311,11 @@ msgstr "Zaloguj się przy pomocy Google"
 msgid "Logout"
 msgstr "Wyloguj"
 
-msgid "Long break delay:"
-msgstr "Opóźnienie długiej przerwy:"
+msgid "Long break delay"
+msgstr "Opóźnienie długiej przerwy"
 
-msgid "Long break duration:"
-msgstr "Czas trwania długiej przerwy:"
+msgid "Long break duration"
+msgstr "Czas trwania długiej przerwy"
 
 msgid "March"
 msgstr "Marzec"
@@ -386,8 +386,8 @@ msgstr "Proszę przeładować aplikację."
 msgid "Please, login to view your stats"
 msgstr "Zaloguj się by zobaczyć swoje statystyki"
 
-msgid "Pomodoro duration:"
-msgstr "Czas trwania Pomodoro:"
+msgid "Pomodoro duration"
+msgstr "Czas trwania Pomodoro"
 
 msgid "Pomodoro is finished."
 msgstr "Pomodoro zakończone."
@@ -448,8 +448,8 @@ msgstr "Serwer został zaktualizowany."
 msgid "Settings"
 msgstr "Ustawienia"
 
-msgid "Short break duration:"
-msgstr "Czas trwania krótkiej przerwy:"
+msgid "Short break duration"
+msgstr "Czas trwania krótkiej przerwy"
 
 msgid "Short description"
 msgstr "Krótki opis"

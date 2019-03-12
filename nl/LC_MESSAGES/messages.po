@@ -311,11 +311,11 @@ msgstr "Login met een Google-account"
 msgid "Logout"
 msgstr "Uitloggen"
 
-msgid "Long break delay:"
-msgstr "Lange pazue na:"
+msgid "Long break delay"
+msgstr "Lange pazue na"
 
-msgid "Long break duration:"
-msgstr "Lange-pauzeduur:"
+msgid "Long break duration"
+msgstr "Lange-pauzeduur"
 
 msgid "March"
 msgstr "maart"
@@ -389,7 +389,7 @@ msgstr "Laad de applicatie opnieuw, a.u.b."
 msgid "Please, login to view your stats"
 msgstr "Log a.u.b. in om uw statistieken te zien"
 
-msgid "Pomodoro duration:"
+msgid "Pomodoro duration"
 msgstr "Pomodoro-duur"
 
 msgid "Pomodoro is finished."
@@ -463,8 +463,8 @@ msgstr "Server is geüpdatet."
 msgid "Settings"
 msgstr "Instellingen"
 
-msgid "Short break duration:"
-msgstr "Korte-pauzeduur:"
+msgid "Short break duration"
+msgstr "Korte-pauzeduur"
 
 msgid "Short description"
 msgstr "Korte omschrijving"

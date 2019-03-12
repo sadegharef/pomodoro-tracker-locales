@@ -316,11 +316,11 @@ msgstr ""
 msgid "Logout"
 msgstr "Çıkış"
 
-msgid "Long break delay:"
-msgstr "Uzun mola gecikmesi:"
+msgid "Long break delay"
+msgstr "Uzun mola gecikmesi"
 
-msgid "Long break duration:"
-msgstr "Uzun mola süresi:"
+msgid "Long break duration"
+msgstr "Uzun mola süresi"
 
 msgid "March"
 msgstr "Mart"
@@ -394,8 +394,8 @@ msgstr "Uygulamayı tekrar yükle"
 msgid "Please, login to view your stats"
 msgstr "Çalışma kaydınızı tutmak için giriş yapın"
 
-msgid "Pomodoro duration:"
-msgstr "Pomodoro süresi:"
+msgid "Pomodoro duration"
+msgstr "Pomodoro süresi"
 
 msgid "Pomodoro is finished."
 msgstr "Pomodoro tamamlandı."
@@ -466,8 +466,8 @@ msgstr "Sunucu güncellendi."
 msgid "Settings"
 msgstr "Ayarlar"
 
-msgid "Short break duration:"
-msgstr "Kısa mola süresi:"
+msgid "Short break duration"
+msgstr "Kısa mola süresi"
 
 msgid "Short description"
 msgstr "Kısa açıklama"
