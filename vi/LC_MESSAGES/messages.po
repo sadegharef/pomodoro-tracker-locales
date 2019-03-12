@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 11:33+0300\n"
+"POT-Creation-Date: 2019-03-12 12:15+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -137,9 +137,6 @@ msgstr "Cấu hình"
 
 msgid "Congratulations!"
 msgstr "Chúc mừng!"
-
-msgid "You have finished all your tasks."
-msgstr "Bạn đã hoàn thành tất cả công việc cần làm."
 
 msgid "Connect"
 msgstr "Kết nối"
@@ -644,6 +641,9 @@ msgstr "Hôm qua"
 
 msgid "You are not signed."
 msgstr "Bạn chưa đăng nhập."
+
+msgid "You have finished all your tasks."
+msgstr "Bạn đã hoàn thành tất cả công việc cần làm."
 
 msgid "You spent"
 msgstr "Bạn đã dành"

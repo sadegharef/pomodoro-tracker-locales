@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.3.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 11:33+0300\n"
+"POT-Creation-Date: 2019-03-12 12:15+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ro\n"
@@ -135,9 +135,6 @@ msgid "Configure"
 msgstr ""
 
 msgid "Congratulations!"
-msgstr ""
-
-msgid "You have finished all your tasks."
 msgstr ""
 
 msgid "Connect"
@@ -394,8 +391,6 @@ msgid "Please, login to view your stats"
 msgstr ""
 
 #, fuzzy
-#| msgid "pomodoro"
-#| msgid_plural "pomodoros"
 msgid "Pomodoro duration"
 msgstr ""
 
@@ -642,6 +637,9 @@ msgid "Yesterday"
 msgstr ""
 
 msgid "You are not signed."
+msgstr ""
+
+msgid "You have finished all your tasks."
 msgstr ""
 
 msgid "You spent"

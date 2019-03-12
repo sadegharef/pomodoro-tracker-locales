@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-03-12 11:33+0300\n"
+"POT-Creation-Date: 2019-03-12 12:15+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -134,9 +134,6 @@ msgstr "Kod"
 
 msgid "Congratulations!"
 msgstr "Gratulacje! "
-
-msgid "You have finished all your tasks."
-msgstr "Ukończyłeś/aś wszystkie zadania."
 
 msgid "Connect"
 msgstr "Połącz"
@@ -631,6 +628,9 @@ msgstr "Wczoraj"
 
 msgid "You are not signed."
 msgstr "Nie jesteś zalogowany/a"
+
+msgid "You have finished all your tasks."
+msgstr "Ukończyłeś/aś wszystkie zadania."
 
 msgid "You spent"
 msgstr "Spędziłeś/aś"

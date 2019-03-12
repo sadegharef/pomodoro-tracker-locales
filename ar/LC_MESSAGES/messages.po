@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 11:32+0300\n"
+"POT-Creation-Date: 2019-03-12 12:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ar\n"
@@ -135,9 +135,6 @@ msgid "Configure"
 msgstr ""
 
 msgid "Congratulations!"
-msgstr ""
-
-msgid "You have finished all your tasks."
 msgstr ""
 
 msgid "Connect"
@@ -318,7 +315,7 @@ msgstr ""
 msgid "Long break delay"
 msgstr ""
 
- "Long break duration"
+msgid "Long break duration"
 msgstr ""
 
 msgid "March"
@@ -641,6 +638,9 @@ msgstr ""
 msgid "You are not signed."
 msgstr ""
 
+msgid "You have finished all your tasks."
+msgstr ""
+
 msgid "You spent"
 msgstr ""
 
@@ -855,3 +855,4 @@ msgstr[2] ""
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
+

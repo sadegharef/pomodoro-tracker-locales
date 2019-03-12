@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-03-12 11:33+0300\n"
+"POT-Creation-Date: 2019-03-12 12:15+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -136,9 +136,6 @@ msgstr "Instellingen"
 
 msgid "Congratulations!"
 msgstr "Gefeliciteerd!"
-
-msgid "You have finished all your tasks."
-msgstr "U heeft al uw taken afgerond."
 
 msgid "Connect"
 msgstr "Verbinden"
@@ -660,6 +657,9 @@ msgstr "Gisteren"
 
 msgid "You are not signed."
 msgstr "U bent niet ingelogd."
+
+msgid "You have finished all your tasks."
+msgstr "U heeft al uw taken afgerond."
 
 msgid "You spent"
 msgstr "U heeft besteed"

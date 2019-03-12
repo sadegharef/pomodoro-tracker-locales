@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 11:33+0300\n"
+"POT-Creation-Date: 2019-03-12 12:15+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -137,9 +137,6 @@ msgstr "Yapılandır"
 
 msgid "Congratulations!"
 msgstr "Tebrikler!"
-
-msgid "You have finished all your tasks."
-msgstr "Tüm görevlerinizi bitirdiniz."
 
 msgid "Connect"
 msgstr "Bağlayın"
@@ -661,6 +658,9 @@ msgstr "Dün"
 
 msgid "You are not signed."
 msgstr "Sen imzalanmadın"
+
+msgid "You have finished all your tasks."
+msgstr "Tüm görevlerinizi bitirdiniz."
 
 msgid "You spent"
 msgstr ""

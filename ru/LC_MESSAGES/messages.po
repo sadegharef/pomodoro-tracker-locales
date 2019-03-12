@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 11:32+0300\n"
+"POT-Creation-Date: 2019-03-12 12:14+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -138,9 +138,6 @@ msgstr "Настроить"
 
 msgid "Congratulations!"
 msgstr "Поздравляем!"
-
-msgid "You have finished all your tasks."
-msgstr "Вы выполнили все свои задачи."
 
 msgid "Connect"
 msgstr "Подключить"
@@ -658,6 +655,9 @@ msgstr "Вчера"
 
 msgid "You are not signed."
 msgstr "Вы не авторизированы."
+
+msgid "You have finished all your tasks."
+msgstr "Вы выполнили все свои задачи."
 
 msgid "You spent"
 msgstr "Вы потратили"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 11:32+0300\n"
+"POT-Creation-Date: 2019-03-12 12:15+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -137,9 +137,6 @@ msgstr "Configurer"
 
 msgid "Congratulations!"
 msgstr "Félicitations!"
-
-msgid "You have finished all your tasks."
-msgstr "Vous avez terminé toutes vos tâches."
 
 msgid "Connect"
 msgstr "Se connecter"
@@ -657,6 +654,9 @@ msgstr "hier"
 
 msgid "You are not signed."
 msgstr "Vous n'êtes pas connecté·e."
+
+msgid "You have finished all your tasks."
+msgstr "Vous avez terminé toutes vos tâches."
 
 msgid "You spent"
 msgstr "Vous avez passé"

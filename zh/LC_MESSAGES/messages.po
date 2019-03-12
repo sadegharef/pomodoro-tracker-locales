@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 11:33+0300\n"
+"POT-Creation-Date: 2019-03-12 12:15+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -135,9 +135,6 @@ msgstr "配置"
 
 msgid "Congratulations!"
 msgstr "恭喜!"
-
-msgid "You have finished all your tasks."
-msgstr "你已经完成你的所有任务。"
 
 msgid "Connect"
 msgstr "绑定"
@@ -639,6 +636,9 @@ msgstr "昨天"
 
 msgid "You are not signed."
 msgstr "你没有登陆"
+
+msgid "You have finished all your tasks."
+msgstr "你已经完成你的所有任务。"
 
 msgid "You spent"
 msgstr "您花费"
