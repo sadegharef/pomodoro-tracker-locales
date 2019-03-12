@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.3.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-06 12:50+0300\n"
+"POT-Creation-Date: 2019-03-12 11:33+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ro\n"
@@ -134,7 +134,10 @@ msgstr ""
 msgid "Configure"
 msgstr ""
 
-msgid "Congratulations! You have finished all your tasks."
+msgid "Congratulations!"
+msgstr ""
+
+msgid "You have finished all your tasks."
 msgstr ""
 
 msgid "Connect"
@@ -153,6 +156,9 @@ msgid "DONE"
 msgstr ""
 
 msgid "Daily Goal"
+msgstr ""
+
+msgid "Daily Goal Completed."
 msgstr ""
 
 msgid "Date"
@@ -309,10 +315,10 @@ msgstr ""
 msgid "Logout"
 msgstr ""
 
-msgid "Long break delay:"
+msgid "Long break delay"
 msgstr ""
 
-msgid "Long break duration:"
+msgid "Long break duration"
 msgstr ""
 
 msgid "March"
@@ -387,7 +393,10 @@ msgstr ""
 msgid "Please, login to view your stats"
 msgstr ""
 
-msgid "Pomodoro duration:"
+#, fuzzy
+#| msgid "pomodoro"
+#| msgid_plural "pomodoros"
+msgid "Pomodoro duration"
 msgstr ""
 
 msgid "Pomodoro is finished."
@@ -459,7 +468,7 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-msgid "Short break duration:"
+msgid "Short break duration"
 msgstr ""
 
 msgid "Short description"
@@ -828,3 +837,16 @@ msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+
+#~ msgid "Long break delay:"
+#~ msgstr ""
+
+#~ msgid "Long break duration:"
+#~ msgstr ""
+
+#~ msgid "Pomodoro duration:"
+#~ msgstr ""
+
+#~ msgid "Short break duration:"
+#~ msgstr ""
+

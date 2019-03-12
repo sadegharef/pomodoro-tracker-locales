@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-06 12:49+0300\n"
+"POT-Creation-Date: 2019-03-12 11:32+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -135,8 +135,11 @@ msgstr "Code"
 msgid "Configure"
 msgstr "Configurer"
 
-msgid "Congratulations! You have finished all your tasks."
-msgstr "Félicitations! Vous avez terminé toutes vos tâches."
+msgid "Congratulations!"
+msgstr "Félicitations!"
+
+msgid "You have finished all your tasks."
+msgstr "Vous avez terminé toutes vos tâches."
 
 msgid "Connect"
 msgstr "Se connecter"
@@ -155,6 +158,9 @@ msgstr "TERMINÉ"
 
 msgid "Daily Goal"
 msgstr "Objectif Quotidien"
+
+msgid "Daily Goal Completed."
+msgstr "Objectif quotidien complété."
 
 msgid "Date"
 msgstr "Date"
@@ -843,12 +849,6 @@ msgid_plural "years"
 msgstr[0] "an"
 msgstr[1] "ans"
 
-#~ msgid "Congratulations!"
-#~ msgstr "Félicitations!"
-
-#~ msgid "Daily Goal Completed."
-#~ msgstr "Objectif quotidien complété."
-
 #~ msgid "Daily history"
 #~ msgstr "Historique quotidien"
 
@@ -860,3 +860,4 @@ msgstr[1] "ans"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Le pomodoro est lancé."
+

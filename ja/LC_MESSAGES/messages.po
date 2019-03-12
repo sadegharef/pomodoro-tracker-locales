@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-06 12:50+0300\n"
+"POT-Creation-Date: 2019-03-12 11:32+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -133,8 +133,11 @@ msgstr "暗号"
 msgid "Configure"
 msgstr "設定"
 
-msgid "Congratulations! You have finished all your tasks."
-msgstr "おめでとうございます！ すべてのタスクを完了しました。"
+msgid "Congratulations!"
+msgstr "おめでとうございます！"
+
+msgid "You have finished all your tasks."
+msgstr "すべてのタスクを完了しました。"
 
 msgid "Connect"
 msgstr "連携"
@@ -153,6 +156,9 @@ msgstr "完了"
 
 msgid "Daily Goal"
 msgstr "毎日の目標"
+
+msgid "Daily Goal Completed."
+msgstr "毎日の目標達成"
 
 msgid "Date"
 msgstr "日付"
@@ -821,12 +827,6 @@ msgid_plural "years"
 msgstr[0] "年"
 msgstr[1] "年々"
 
-#~ msgid "Congratulations!"
-#~ msgstr "おめでとうございます！"
-
-#~ msgid "Daily Goal Completed."
-#~ msgstr "毎日の目標達成"
-
 #~ msgid "Daily history"
 #~ msgstr "毎日の歴史"
 
@@ -838,3 +838,4 @@ msgstr[1] "年々"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "ポモドーロ中"
+

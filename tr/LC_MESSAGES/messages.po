@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-06 12:50+0300\n"
+"POT-Creation-Date: 2019-03-12 11:33+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -135,8 +135,11 @@ msgstr "Kod"
 msgid "Configure"
 msgstr "Yapılandır"
 
-msgid "Congratulations! You have finished all your tasks."
-msgstr "Tebrikler! Tüm görevlerinizi bitirdiniz."
+msgid "Congratulations!"
+msgstr "Tebrikler!"
+
+msgid "You have finished all your tasks."
+msgstr "Tüm görevlerinizi bitirdiniz."
 
 msgid "Connect"
 msgstr "Bağlayın"
@@ -155,6 +158,9 @@ msgstr "TAMAMLANDI"
 
 msgid "Daily Goal"
 msgstr "Günlük Gol"
+
+msgid "Daily Goal Completed."
+msgstr "Günlük gol tamamlandı."
 
 msgid "Date"
 msgstr "Tarih"
@@ -843,12 +849,6 @@ msgid_plural "years"
 msgstr[0] "yil"
 msgstr[1] "yil"
 
-#~ msgid "Congratulations!"
-#~ msgstr "Tebrikler!"
-
-#~ msgid "Daily Goal Completed."
-#~ msgstr "Günlük gol tamamlandı."
-
 #~ msgid "Daily history"
 #~ msgstr "Günlük geçmişi"
 
@@ -860,3 +860,4 @@ msgstr[1] "yil"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Pomodoro devam ediyor"
+

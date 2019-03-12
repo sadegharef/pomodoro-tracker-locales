@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-03-06 12:50+0300\n"
+"POT-Creation-Date: 2019-03-12 11:33+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -134,8 +134,11 @@ msgstr "Code"
 msgid "Configure"
 msgstr "Instellingen"
 
-msgid "Congratulations! You have finished all your tasks."
-msgstr "Gefeliciteerd! U heeft al uw taken afgerond."
+msgid "Congratulations!"
+msgstr "Gefeliciteerd!"
+
+msgid "You have finished all your tasks."
+msgstr "U heeft al uw taken afgerond."
 
 msgid "Connect"
 msgstr "Verbinden"
@@ -154,6 +157,9 @@ msgstr "KLAAR"
 
 msgid "Daily Goal"
 msgstr "Dagelijks doel"
+
+msgid "Daily Goal Completed."
+msgstr "Dagelijks doel behaald."
 
 msgid "Date"
 msgstr "Datum"
@@ -844,12 +850,6 @@ msgid_plural "years"
 msgstr[0] "jaar"
 msgstr[1] "jaren"
 
-#~ msgid "Congratulations!"
-#~ msgstr "Gefeliciteerd!"
-
-#~ msgid "Daily Goal Completed."
-#~ msgstr "Dagelijks doel behaald."
-
 #~ msgid "Daily history"
 #~ msgstr "Dagelijkse geschiedenis"
 
@@ -861,3 +861,4 @@ msgstr[1] "jaren"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "De pomodoro loopt"
+

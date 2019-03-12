@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-06 12:49+0300\n"
+"POT-Creation-Date: 2019-03-12 11:32+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -136,8 +136,11 @@ msgstr "Код"
 msgid "Configure"
 msgstr "Настроить"
 
-msgid "Congratulations! You have finished all your tasks."
-msgstr "Поздравляем! Вы выполнили все свои задачи."
+msgid "Congratulations!"
+msgstr "Поздравляем!"
+
+msgid "You have finished all your tasks."
+msgstr "Вы выполнили все свои задачи."
 
 msgid "Connect"
 msgstr "Подключить"
@@ -156,6 +159,9 @@ msgstr "Сделано"
 
 msgid "Daily Goal"
 msgstr "Цель на день"
+
+msgid "Daily Goal Completed."
+msgstr "Цель на день выполнена."
 
 msgid "Date"
 msgstr "Дата"
@@ -846,12 +852,6 @@ msgid_plural "years"
 msgstr[0] "год"
 msgstr[1] "года"
 msgstr[2] "лет"
-
-#~ msgid "Congratulations!"
-#~ msgstr "Поздравляем!"
-
-#~ msgid "Daily Goal Completed."
-#~ msgstr "Цель на день выполнена."
 
 #~ msgid "Daily history"
 #~ msgstr "История задач"

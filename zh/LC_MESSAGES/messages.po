@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-06 12:50+0300\n"
+"POT-Creation-Date: 2019-03-12 11:33+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -133,8 +133,11 @@ msgstr "编码"
 msgid "Configure"
 msgstr "配置"
 
-msgid "Congratulations! You have finished all your tasks."
-msgstr "恭喜！你已经完成你的所有任务。"
+msgid "Congratulations!"
+msgstr "恭喜!"
+
+msgid "You have finished all your tasks."
+msgstr "你已经完成你的所有任务。"
 
 msgid "Connect"
 msgstr "绑定"
@@ -153,6 +156,9 @@ msgstr "已完成"
 
 msgid "Daily Goal"
 msgstr "每日目标"
+
+msgid "Daily Goal Completed."
+msgstr "每日目标完成"
 
 msgid "Date"
 msgstr "日期"
@@ -814,12 +820,6 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "年"
 
-#~ msgid "Congratulations!"
-#~ msgstr "恭喜!"
-
-#~ msgid "Daily Goal Completed."
-#~ msgstr "每日目标完成"
-
 #~ msgid "Daily history"
 #~ msgstr "历史记录"
 
@@ -831,3 +831,4 @@ msgstr[0] "年"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "番茄钟正在运行"
+
