@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 12:15+0300\n"
+"POT-Creation-Date: 2019-03-22 15:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -55,6 +55,9 @@ msgstr "Kategori ekle"
 
 msgid "Add more"
 msgstr "Tekrar ekle"
+
+msgid "Add new tasks to the top"
+msgstr ""
 
 msgid "Add to TODO"
 msgstr "Yapılacaklara ekle"
@@ -131,6 +134,9 @@ msgstr "Kapat"
 
 msgid "Code"
 msgstr "Kod"
+
+msgid "Color Theme"
+msgstr "Tema"
 
 msgid "Configure"
 msgstr "Yapılandır"
@@ -261,6 +267,9 @@ msgstr "Entegrasyonlar"
 msgid "January"
 msgstr "Ocak"
 
+msgid "Join our Slack Community"
+msgstr ""
+
 msgid "Join the global rating"
 msgstr ""
 
@@ -339,6 +348,12 @@ msgstr "Mayis"
 
 msgid "Median per day"
 msgstr "Günlük ortalama"
+
+msgid "Navigate Back"
+msgstr ""
+
+msgid "Navigate Forward"
+msgstr ""
 
 msgid "New"
 msgstr "Yeni"
@@ -581,9 +596,6 @@ msgstr "Bir sonraki Pomodoro daha iyi geçecektir"
 msgid "The next pomodoro will go better!"
 msgstr "Bir sonraki Pomodoro daha iyi geçecektir"
 
-msgid "Theme"
-msgstr "Tema"
-
 msgid "There are completed tasks"
 msgstr ""
 
@@ -714,6 +726,9 @@ msgstr ""
 
 msgid "for all time"
 msgstr "tüm zamanlar için"
+
+msgid "friends"
+msgstr "arkadaş"
 
 msgid "global"
 msgstr ""
@@ -860,4 +875,3 @@ msgstr[1] "yil"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Pomodoro devam ediyor"
-

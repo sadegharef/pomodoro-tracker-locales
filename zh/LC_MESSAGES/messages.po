@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 12:15+0300\n"
+"POT-Creation-Date: 2019-03-22 15:50+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -55,6 +55,9 @@ msgstr "新增类别"
 
 msgid "Add more"
 msgstr "增加一个"
+
+msgid "Add new tasks to the top"
+msgstr ""
 
 msgid "Add to TODO"
 msgstr "新增到代办"
@@ -129,6 +132,9 @@ msgstr "关闭"
 
 msgid "Code"
 msgstr "编码"
+
+msgid "Color Theme"
+msgstr "主题"
 
 msgid "Configure"
 msgstr "配置"
@@ -255,6 +261,9 @@ msgstr "关联"
 msgid "January"
 msgstr "一月"
 
+msgid "Join our Slack Community"
+msgstr ""
+
 msgid "Join the global rating"
 msgstr ""
 
@@ -331,6 +340,12 @@ msgstr "五月"
 
 msgid "Median per day"
 msgstr "按天的中位数"
+
+msgid "Navigate Back"
+msgstr ""
+
+msgid "Navigate Forward"
+msgstr ""
 
 msgid "New"
 msgstr "新消息"
@@ -559,9 +574,6 @@ msgstr "努力将下一个番茄钟做得更好"
 msgid "The next pomodoro will go better!"
 msgstr "努力将下一个番茄钟做得更好"
 
-msgid "Theme"
-msgstr "主题"
-
 msgid "There are completed tasks"
 msgstr "这是已完成的任务"
 
@@ -691,6 +703,9 @@ msgstr ""
 
 msgid "for all time"
 msgstr "总计"
+
+msgid "friends"
+msgstr ""
 
 msgid "global"
 msgstr ""

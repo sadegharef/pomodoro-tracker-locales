@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 12:15+0300\n"
+"POT-Creation-Date: 2019-03-22 15:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -55,6 +55,9 @@ msgstr "Thêm danh mục"
 
 msgid "Add more"
 msgstr "Thêm nhiều hơn"
+
+msgid "Add new tasks to the top"
+msgstr ""
 
 msgid "Add to TODO"
 msgstr "Thêm vào TODO"
@@ -131,6 +134,9 @@ msgstr "Thoát"
 
 msgid "Code"
 msgstr "Mã"
+
+msgid "Color Theme"
+msgstr ""
 
 msgid "Configure"
 msgstr "Cấu hình"
@@ -257,6 +263,9 @@ msgstr ""
 msgid "January"
 msgstr "Tháng 1"
 
+msgid "Join our Slack Community"
+msgstr ""
+
 msgid "Join the global rating"
 msgstr ""
 
@@ -336,6 +345,12 @@ msgstr "Tháng 5"
 
 msgid "Median per day"
 msgstr "Trung bình mỗi ngày"
+
+msgid "Navigate Back"
+msgstr ""
+
+msgid "Navigate Forward"
+msgstr ""
 
 msgid "New"
 msgstr "Mới"
@@ -564,9 +579,6 @@ msgstr "Pomodoro tiếp theo sẽ trở nên tốt hơn"
 msgid "The next pomodoro will go better!"
 msgstr "Pomodoro tiếp theo sẽ trở nên tốt hơn!"
 
-msgid "Theme"
-msgstr ""
-
 msgid "There are completed tasks"
 msgstr "Những công việc đã hoàn thành"
 
@@ -695,6 +707,9 @@ msgid "focus"
 msgstr "tập trung"
 
 msgid "for all time"
+msgstr ""
+
+msgid "friends"
 msgstr ""
 
 msgid "global"
@@ -836,4 +851,3 @@ msgstr[0] ""
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "The Pomodoro đang chạy"
-

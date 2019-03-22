@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 12:15+0300\n"
+"POT-Creation-Date: 2019-03-22 15:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -55,6 +55,9 @@ msgstr "カテゴリの追加"
 
 msgid "Add more"
 msgstr "もう一回"
+
+msgid "Add new tasks to the top"
+msgstr ""
 
 msgid "Add to TODO"
 msgstr "TODOに追加する"
@@ -129,6 +132,9 @@ msgstr "閉じる"
 
 msgid "Code"
 msgstr "暗号"
+
+msgid "Color Theme"
+msgstr "テーマ"
 
 msgid "Configure"
 msgstr "設定"
@@ -255,6 +261,9 @@ msgstr "連携機能"
 msgid "January"
 msgstr "1月"
 
+msgid "Join our Slack Community"
+msgstr ""
+
 msgid "Join the global rating"
 msgstr ""
 
@@ -331,6 +340,12 @@ msgstr "5月"
 
 msgid "Median per day"
 msgstr "1日平均"
+
+msgid "Navigate Back"
+msgstr ""
+
+msgid "Navigate Forward"
+msgstr ""
 
 msgid "New"
 msgstr "新着"
@@ -559,9 +574,6 @@ msgstr "次のポモドーロはより効果的になるでしょう"
 msgid "The next pomodoro will go better!"
 msgstr "次のポモドーロはより効果的になるでしょう"
 
-msgid "Theme"
-msgstr "テーマ"
-
 msgid "There are completed tasks"
 msgstr "完了したタスクがあります"
 
@@ -692,6 +704,9 @@ msgstr ""
 
 msgid "for all time"
 msgstr "いつでも"
+
+msgid "friends"
+msgstr ""
 
 msgid "global"
 msgstr ""
@@ -838,4 +853,3 @@ msgstr[1] "年々"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "ポモドーロ中"
-

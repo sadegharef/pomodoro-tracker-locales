@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 12:14+0300\n"
+"POT-Creation-Date: 2019-03-22 15:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -55,6 +55,9 @@ msgstr "Añadir categoría"
 
 msgid "Add more"
 msgstr "Añadir más"
+
+msgid "Add new tasks to the top"
+msgstr ""
 
 msgid "Add to TODO"
 msgstr "Añadir a TODO"
@@ -131,6 +134,9 @@ msgstr "Cerrar"
 
 msgid "Code"
 msgstr "Código"
+
+msgid "Color Theme"
+msgstr "Tema de color"
 
 msgid "Configure"
 msgstr "Configurar"
@@ -259,6 +265,9 @@ msgstr "Integraciones"
 msgid "January"
 msgstr "Enero"
 
+msgid "Join our Slack Community"
+msgstr ""
+
 msgid "Join the global rating"
 msgstr ""
 
@@ -338,6 +347,12 @@ msgstr "Mayo"
 
 msgid "Median per day"
 msgstr "Mediana por día"
+
+msgid "Navigate Back"
+msgstr ""
+
+msgid "Navigate Forward"
+msgstr ""
 
 msgid "New"
 msgstr "Nuevo"
@@ -584,9 +599,6 @@ msgstr "El siguiente Pomodoro será mejor"
 msgid "The next pomodoro will go better!"
 msgstr "El siguiente Pomodoro será mejor"
 
-msgid "Theme"
-msgstr "Tema"
-
 msgid "There are completed tasks"
 msgstr "Hay tareas completadas"
 
@@ -717,6 +729,9 @@ msgstr "focus"
 
 msgid "for all time"
 msgstr "para todo el tiempo"
+
+msgid "friends"
+msgstr "amigos"
 
 msgid "global"
 msgstr ""

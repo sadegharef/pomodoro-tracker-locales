@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-03-12 12:15+0300\n"
+"POT-Creation-Date: 2019-03-22 15:50+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -54,6 +54,9 @@ msgstr "Voeg categorie toe"
 
 msgid "Add more"
 msgstr "Meer toevoegen"
+
+msgid "Add new tasks to the top"
+msgstr ""
 
 msgid "Add to TODO"
 msgstr "Aan TODO toevoegen"
@@ -130,6 +133,9 @@ msgstr "Sluiten"
 
 msgid "Code"
 msgstr "Code"
+
+msgid "Color Theme"
+msgstr "Thema"
 
 msgid "Configure"
 msgstr "Instellingen"
@@ -256,6 +262,9 @@ msgstr "Integraties"
 msgid "January"
 msgstr "januari"
 
+msgid "Join our Slack Community"
+msgstr ""
+
 msgid "Join the global rating"
 msgstr ""
 
@@ -334,6 +343,12 @@ msgstr "mei"
 
 msgid "Median per day"
 msgstr "Mediaan per dag"
+
+msgid "Navigate Back"
+msgstr ""
+
+msgid "Navigate Forward"
+msgstr ""
 
 msgid "New"
 msgstr "Nieuw"
@@ -580,9 +595,6 @@ msgstr "De volgende pomodoro zal beter gaan"
 msgid "The next pomodoro will go better!"
 msgstr "De volgende pomodoro zal beter gaan!"
 
-msgid "Theme"
-msgstr "Thema"
-
 msgid "There are completed tasks"
 msgstr "Er zijn afgehandelde taken"
 
@@ -713,6 +725,9 @@ msgstr "focus"
 
 msgid "for all time"
 msgstr "in totaal"
+
+msgid "friends"
+msgstr "vrienden"
 
 msgid "global"
 msgstr "globaal"
@@ -861,4 +876,7 @@ msgstr[1] "jaren"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "De pomodoro loopt"
+
+#~ msgid "Theme"
+#~ msgstr ""
 

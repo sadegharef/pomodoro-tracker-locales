@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-03-12 12:15+0300\n"
+"POT-Creation-Date: 2019-03-22 15:50+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -55,6 +55,9 @@ msgstr "Dodaj kategorię"
 
 msgid "Add more"
 msgstr "Dodaj kolejne"
+
+msgid "Add new tasks to the top"
+msgstr ""
 
 msgid "Add to TODO"
 msgstr "Dodaj zadanie"
@@ -131,6 +134,9 @@ msgstr "Zamknij"
 
 msgid "Code"
 msgstr "Kod"
+
+msgid "Color Theme"
+msgstr "Motyw"
 
 msgid "Congratulations!"
 msgstr "Gratulacje! "
@@ -255,6 +261,9 @@ msgstr "Integracja z innymi usługami"
 
 msgid "January"
 msgstr "Styczeń"
+
+msgid "Join our Slack Community"
+msgstr ""
 
 msgid "Join the global rating"
 msgstr ""
@@ -554,9 +563,6 @@ msgstr "Następne Pomodoro będzie lepsze"
 msgid "The next pomodoro will go better!"
 msgstr "Następne Pomodoro będzie lepsze!"
 
-msgid "Theme"
-msgstr "Motyw"
-
 msgid "There are completed tasks"
 msgstr "Ukończone zadania"
 
@@ -684,6 +690,9 @@ msgstr "skupienie"
 
 msgid "for all time"
 msgstr "od początku istnienia tej aplikacji"
+
+msgid "friends"
+msgstr "przyjaciele"
 
 msgid "global"
 msgstr "globalny"

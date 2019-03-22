@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 12:14+0300\n"
+"POT-Creation-Date: 2019-03-22 15:49+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -56,6 +56,9 @@ msgstr "Добавить категорию"
 
 msgid "Add more"
 msgstr "Добавить"
+
+msgid "Add new tasks to the top"
+msgstr "Добавлять новые задачи в начало списка"
 
 msgid "Add to TODO"
 msgstr "Добавить в список задач"
@@ -132,6 +135,9 @@ msgstr "Закрыть"
 
 msgid "Code"
 msgstr "Код"
+
+msgid "Color Theme"
+msgstr "Цветовая схема"
 
 msgid "Configure"
 msgstr "Настроить"
@@ -260,6 +266,9 @@ msgstr "Сервисы"
 msgid "January"
 msgstr "Январь"
 
+msgid "Join our Slack Community"
+msgstr ""
+
 msgid "Join the global rating"
 msgstr "Участвовать в глобальном рейтинге"
 
@@ -338,6 +347,12 @@ msgstr "Май"
 
 msgid "Median per day"
 msgstr "Медиана/день"
+
+msgid "Navigate Back"
+msgstr "Назад"
+
+msgid "Navigate Forward"
+msgstr "Вперед"
 
 msgid "New"
 msgstr "Новое"
@@ -578,9 +593,6 @@ msgstr "Следующий «помидор» будет лучше"
 msgid "The next pomodoro will go better!"
 msgstr "Следующий «помидор» будет лучше"
 
-msgid "Theme"
-msgstr "Тема оформления"
-
 msgid "There are completed tasks"
 msgstr "Выполненные задачи"
 
@@ -712,6 +724,9 @@ msgstr "фокус"
 
 msgid "for all time"
 msgstr "за все время"
+
+msgid "friends"
+msgstr "друзья"
 
 msgid "global"
 msgstr "глобальная"
@@ -864,4 +879,3 @@ msgstr[2] "лет"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Помидор запущен"
-

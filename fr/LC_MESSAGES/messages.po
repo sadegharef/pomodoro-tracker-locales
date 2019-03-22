@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-12 12:15+0300\n"
+"POT-Creation-Date: 2019-03-22 15:49+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -55,6 +55,9 @@ msgstr "Ajouter une catégorie"
 
 msgid "Add more"
 msgstr "Ajouter plus"
+
+msgid "Add new tasks to the top"
+msgstr ""
 
 msgid "Add to TODO"
 msgstr "Ajouter à TODO"
@@ -131,6 +134,9 @@ msgstr "Fermer"
 
 msgid "Code"
 msgstr "Code"
+
+msgid "Color Theme"
+msgstr "Thème de couleur"
 
 msgid "Configure"
 msgstr "Configurer"
@@ -257,6 +263,9 @@ msgstr "Intégrations"
 msgid "January"
 msgstr "janvier"
 
+msgid "Join our Slack Community"
+msgstr ""
+
 msgid "Join the global rating"
 msgstr ""
 
@@ -336,6 +345,12 @@ msgstr "mai"
 
 msgid "Median per day"
 msgstr "médiane par jour"
+
+msgid "Navigate Back"
+msgstr ""
+
+msgid "Navigate Forward"
+msgstr ""
 
 msgid "New"
 msgstr "Nouveau"
@@ -577,9 +592,6 @@ msgstr "Chaque pomodoro est meilleur que le précédent."
 msgid "The next pomodoro will go better!"
 msgstr "Chaque pomodoro est meilleur que le précédent."
 
-msgid "Theme"
-msgstr "Thème"
-
 msgid "There are completed tasks"
 msgstr "Ces tâches ont été terminées."
 
@@ -710,6 +722,9 @@ msgstr "focus"
 
 msgid "for all time"
 msgstr "depuis le début"
+
+msgid "friends"
+msgstr "copains"
 
 msgid "global"
 msgstr ""
