@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-22 15:49+0300\n"
+"POT-Creation-Date: 2019-03-25 22:04+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -833,6 +833,9 @@ msgstr "сохранить"
 msgid "start"
 msgstr "старт"
 
+msgid "system"
+msgstr "системная"
+
 msgid "take a long break"
 msgstr "сделайте длинный перерыв"
 
@@ -879,3 +882,4 @@ msgstr[2] "лет"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Помидор запущен"
+

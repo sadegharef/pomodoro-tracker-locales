@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-22 15:49+0300\n"
+"POT-Creation-Date: 2019-03-25 22:04+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -832,6 +832,9 @@ msgstr "salvar"
 
 msgid "start"
 msgstr "inicio"
+
+msgid "system"
+msgstr "sistema"
 
 msgid "take a long break"
 msgstr "haz un descanso largo"

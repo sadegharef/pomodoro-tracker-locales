@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.3.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-22 15:50+0300\n"
+"POT-Creation-Date: 2019-03-25 22:05+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ro\n"
@@ -816,6 +816,9 @@ msgstr ""
 msgid "start"
 msgstr ""
 
+msgid "system"
+msgstr ""
+
 msgid "take a long break"
 msgstr ""
 
@@ -862,3 +865,4 @@ msgstr[2] ""
 
 #~ msgid "Short break duration:"
 #~ msgstr ""
+

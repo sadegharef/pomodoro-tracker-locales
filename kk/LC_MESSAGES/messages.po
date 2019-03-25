@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-22 15:49+0300\n"
+"POT-Creation-Date: 2019-03-25 22:04+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -824,6 +824,9 @@ msgstr "сақтау"
 msgid "start"
 msgstr "старт"
 
+msgid "system"
+msgstr "жүйе"
+
 msgid "take a long break"
 msgstr "ұзақ үзілістен"
 
@@ -869,3 +872,4 @@ msgstr[1] "жыл"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Қызанақ кетті"
+

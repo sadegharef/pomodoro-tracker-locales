@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-22 15:50+0300\n"
+"POT-Creation-Date: 2019-03-25 22:05+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -830,6 +830,9 @@ msgstr ""
 msgid "start"
 msgstr "başlat"
 
+msgid "system"
+msgstr ""
+
 msgid "take a long break"
 msgstr "uzun bir mola al"
 
@@ -875,3 +878,4 @@ msgstr[1] "yil"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Pomodoro devam ediyor"
+
