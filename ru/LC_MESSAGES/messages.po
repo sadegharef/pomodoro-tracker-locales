@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-25 22:04+0300\n"
+"POT-Creation-Date: 2019-03-29 17:01+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -106,9 +106,6 @@ msgstr "Улучшения и сохранения мотивации"
 msgid "Break is over."
 msgstr "Перерыв окончен."
 
-msgid "Cancel"
-msgstr "Отмена"
-
 msgid "Categories"
 msgstr "Категории"
 
@@ -157,9 +154,6 @@ msgstr "Создать категорию"
 msgid "Custom"
 msgstr "Выбрать"
 
-msgid "DONE"
-msgstr "Сделано"
-
 msgid "Daily Goal"
 msgstr "Цель на день"
 
@@ -183,9 +177,6 @@ msgstr "Отключить"
 
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "Не начинать следующий помидор если список задач пуст"
-
-msgid "Done"
-msgstr "Сделано"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Перетаскивайте для сортировки."
@@ -327,6 +318,9 @@ msgstr "Вход на сервис используя Google"
 msgid "Logout"
 msgstr "Выход"
 
+msgid "Long break"
+msgstr "Длинный перерыв"
+
 msgid "Long break delay"
 msgstr "Длинный перерыв через каждые"
 
@@ -381,14 +375,8 @@ msgstr "Если вы начали «помидор» — вы должны ег
 msgid "One minute left"
 msgstr "Осталась одна минута"
 
-msgid "PAUSE"
-msgstr "ПАУЗА"
-
 msgid "POMODORO"
 msgstr "ПОМИДОР"
-
-msgid "Pause"
-msgstr "Пауза"
 
 msgid "Pin to favorites"
 msgstr "Добавить в избранное"
@@ -407,6 +395,9 @@ msgstr "Пожалуйста, не присылайте мне эти замеч
 
 msgid "Please reload the application."
 msgstr "Пожалуйтста, перезагрузите приложение."
+
+msgid "Please unblock notifications in your browser"
+msgstr "Нотификации заблокированы в вашем браузере"
 
 msgid "Please, login to view your stats"
 msgstr "Войдите для просмотра статистики"
@@ -450,17 +441,8 @@ msgstr "Время отчетов"
 msgid "Reports and notifications"
 msgstr "Отчеты и оповещения"
 
-msgid "Resume"
-msgstr "Продолжить"
-
 msgid "Rules & Tips"
 msgstr "Правила и советы"
-
-msgid "SKIP"
-msgstr "ПРОПУСТИТЬ"
-
-msgid "STOP"
-msgstr "СТОП"
 
 msgid "Schemes"
 msgstr "Схемы"
@@ -495,14 +477,8 @@ msgstr "Показать окно"
 msgid "Sign Up / Login"
 msgstr "Регистрация / Вход"
 
-msgid "Skip"
-msgstr "Пропустить"
-
 msgid "Sort by"
 msgstr "Сортировать по"
-
-msgid "Start"
-msgstr "Старт"
 
 msgid "Start the Pomodoro timer"
 msgstr "Запустите таймер («помидор»)"
@@ -512,9 +488,6 @@ msgstr "Начинайте работать:"
 
 msgid "Stats"
 msgstr "Статистика"
-
-msgid "Stop"
-msgstr "Стоп"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -719,6 +692,9 @@ msgstr "задержки"
 msgid "delete"
 msgstr "удалить"
 
+msgid "done"
+msgstr "сделано"
+
 msgid "focus"
 msgstr "фокус"
 
@@ -791,6 +767,9 @@ msgstr "кол-во"
 msgid "on"
 msgstr "на"
 
+msgid "pause"
+msgstr "пауза"
+
 msgid "personal"
 msgstr "личная"
 
@@ -802,6 +781,9 @@ msgstr[2] "помидоров"
 
 msgid "pomodoros"
 msgstr "помидоры"
+
+msgid "preview"
+msgstr "предпросмотр"
 
 msgid "previous page"
 msgstr "предыдущая страница"
@@ -824,14 +806,23 @@ msgstr "пользователи сервиса потратили на зада
 msgid "registered users spend on completing pomodoros today."
 msgstr "пользователи сервиса работали сегодня"
 
+msgid "remove categories"
+msgstr "удалить категории"
+
 msgid "resume"
 msgstr "продолжить"
 
 msgid "save"
 msgstr "сохранить"
 
+msgid "skip"
+msgstr "пропустить"
+
 msgid "start"
 msgstr "старт"
+
+msgid "stop"
+msgstr "стоп"
 
 msgid "system"
 msgstr "системная"

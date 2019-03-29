@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.12.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-25 22:04+0300\n"
+"POT-Creation-Date: 2019-03-29 17:01+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: cs\n"
@@ -104,9 +104,6 @@ msgstr ""
 msgid "Break is over."
 msgstr ""
 
-msgid "Cancel"
-msgstr ""
-
 msgid "Categories"
 msgstr ""
 
@@ -155,9 +152,6 @@ msgstr ""
 msgid "Custom"
 msgstr ""
 
-msgid "DONE"
-msgstr ""
-
 msgid "Daily Goal"
 msgstr ""
 
@@ -180,9 +174,6 @@ msgid "Disconnect"
 msgstr ""
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr ""
-
-msgid "Done"
 msgstr ""
 
 msgid "Drag&Drop/Touch to sort items."
@@ -321,6 +312,9 @@ msgstr ""
 msgid "Logout"
 msgstr ""
 
+msgid "Long break"
+msgstr ""
+
 msgid "Long break delay"
 msgstr ""
 
@@ -375,13 +369,7 @@ msgstr ""
 msgid "One minute left"
 msgstr ""
 
-msgid "PAUSE"
-msgstr ""
-
 msgid "POMODORO"
-msgstr ""
-
-msgid "Pause"
 msgstr ""
 
 msgid "Pin to favorites"
@@ -400,6 +388,9 @@ msgid "Please don't send me these awesome daily reports"
 msgstr ""
 
 msgid "Please reload the application."
+msgstr ""
+
+msgid "Please unblock notifications in your browser"
 msgstr ""
 
 msgid "Please, login to view your stats"
@@ -444,16 +435,7 @@ msgstr ""
 msgid "Reports and notifications"
 msgstr ""
 
-msgid "Resume"
-msgstr ""
-
 msgid "Rules & Tips"
-msgstr ""
-
-msgid "SKIP"
-msgstr ""
-
-msgid "STOP"
 msgstr ""
 
 msgid "Schemes"
@@ -489,13 +471,7 @@ msgstr ""
 msgid "Sign Up / Login"
 msgstr ""
 
-msgid "Skip"
-msgstr ""
-
 msgid "Sort by"
-msgstr ""
-
-msgid "Start"
 msgstr ""
 
 msgid "Start the Pomodoro timer"
@@ -505,9 +481,6 @@ msgid "Start working:"
 msgstr ""
 
 msgid "Stats"
-msgstr ""
-
-msgid "Stop"
 msgstr ""
 
 msgid ""
@@ -701,6 +674,9 @@ msgstr ""
 msgid "delete"
 msgstr ""
 
+msgid "done"
+msgstr ""
+
 msgid "focus"
 msgstr ""
 
@@ -773,6 +749,9 @@ msgstr ""
 msgid "on"
 msgstr ""
 
+msgid "pause"
+msgstr ""
+
 msgid "personal"
 msgstr ""
 
@@ -783,6 +762,9 @@ msgstr[1] ""
 msgstr[2] ""
 
 msgid "pomodoros"
+msgstr ""
+
+msgid "preview"
 msgstr ""
 
 msgid "previous page"
@@ -806,13 +788,22 @@ msgstr ""
 msgid "registered users spend on completing pomodoros today."
 msgstr ""
 
+msgid "remove categories"
+msgstr ""
+
 msgid "resume"
 msgstr ""
 
 msgid "save"
 msgstr ""
 
+msgid "skip"
+msgstr ""
+
 msgid "start"
+msgstr ""
+
+msgid "stop"
 msgstr ""
 
 msgid "system"
@@ -852,4 +843,3 @@ msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-03-25 22:05+0300\n"
+"POT-Creation-Date: 2019-03-29 17:02+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -104,9 +104,6 @@ msgstr "Motivatie verhogen en constant houden"
 msgid "Break is over."
 msgstr "Pauze is voobij."
 
-msgid "Cancel"
-msgstr "Annuleren"
-
 msgid "Categories"
 msgstr "Categorieën"
 
@@ -155,9 +152,6 @@ msgstr "Maak een categorie"
 msgid "Custom"
 msgstr "Aangepast"
 
-msgid "DONE"
-msgstr "KLAAR"
-
 msgid "Daily Goal"
 msgstr "Dagelijks doel"
 
@@ -181,9 +175,6 @@ msgstr "Verbinding verbreken"
 
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "Start de volgende pomodoro niet als de TODO-lijst leeg is"
-
-msgid "Done"
-msgstr "Afgehandeld"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Sleep om te sorteren."
@@ -323,6 +314,9 @@ msgstr "Login met een Google-account"
 msgid "Logout"
 msgstr "Uitloggen"
 
+msgid "Long break"
+msgstr "Lange pauze"
+
 msgid "Long break delay"
 msgstr "Lange pazue na"
 
@@ -377,14 +371,8 @@ msgstr "Als een pomodoro begint, moet hij rinkelen"
 msgid "One minute left"
 msgstr "Eén minuut over"
 
-msgid "PAUSE"
-msgstr "PAUZE"
-
 msgid "POMODORO"
 msgstr "POMODORO"
-
-msgid "Pause"
-msgstr "Pauze"
 
 msgid "Pin to favorites"
 msgstr "Pin aan favorieten"
@@ -403,6 +391,9 @@ msgstr "Stuur me a.u.b. deze awesome dagelijkse rapportages niet meer"
 
 msgid "Please reload the application."
 msgstr "Laad de applicatie opnieuw, a.u.b."
+
+msgid "Please unblock notifications in your browser"
+msgstr ""
 
 msgid "Please, login to view your stats"
 msgstr "Log a.u.b. in om uw statistieken te zien"
@@ -448,17 +439,8 @@ msgstr "Rapportagetijd"
 msgid "Reports and notifications"
 msgstr "Rapporten en meldingen"
 
-msgid "Resume"
-msgstr "Verdergaan"
-
 msgid "Rules & Tips"
 msgstr "Regels & tips"
-
-msgid "SKIP"
-msgstr "OVERSLAAN"
-
-msgid "STOP"
-msgstr "STOP"
 
 msgid "Schemes"
 msgstr "Schema's"
@@ -493,14 +475,8 @@ msgstr "Toon venster"
 msgid "Sign Up / Login"
 msgstr "Aanmelden / inloggen"
 
-msgid "Skip"
-msgstr "Overslaan"
-
 msgid "Sort by"
 msgstr "Sorteer op"
-
-msgid "Start"
-msgstr "Start"
 
 msgid "Start the Pomodoro timer"
 msgstr "Start de Pomodoro-timer"
@@ -510,9 +486,6 @@ msgstr "Begin met werken:"
 
 msgid "Stats"
 msgstr "Statistieken"
-
-msgid "Stop"
-msgstr "Stop"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -720,6 +693,9 @@ msgstr "uitstel"
 msgid "delete"
 msgstr "verwijderen"
 
+msgid "done"
+msgstr "afgehandeld"
+
 msgid "focus"
 msgstr "focus"
 
@@ -788,6 +764,9 @@ msgstr "aantal"
 msgid "on"
 msgstr "aan"
 
+msgid "pause"
+msgstr "pauze"
+
 msgid "personal"
 msgstr "persoonlijk"
 
@@ -798,6 +777,9 @@ msgstr[1] "pomodori"
 
 msgid "pomodoros"
 msgstr "pomodori"
+
+msgid "preview"
+msgstr "voorvertoning"
 
 msgid "previous page"
 msgstr "vorige pagina"
@@ -820,14 +802,23 @@ msgstr "hebben geregistreerde gebruikers besteed oon pomodori"
 msgid "registered users spend on completing pomodoros today."
 msgstr "hebben geregistreerde gebruikers besteed aan pomodori vandaag."
 
+msgid "remove categories"
+msgstr "verwijder categorieën"
+
 msgid "resume"
 msgstr "verdergaan"
 
 msgid "save"
 msgstr "opslaan"
 
+msgid "skip"
+msgstr "overslaan"
+
 msgid "start"
 msgstr "start"
+
+msgid "stop"
+msgstr "stop"
 
 msgid "system"
 msgstr "systeem"
@@ -879,7 +870,4 @@ msgstr[1] "jaren"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "De pomodoro loopt"
-
-#~ msgid "Theme"
-#~ msgstr ""
 

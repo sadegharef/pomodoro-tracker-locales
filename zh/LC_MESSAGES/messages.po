@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-25 22:05+0300\n"
+"POT-Creation-Date: 2019-03-29 17:02+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -103,9 +103,6 @@ msgstr "提高并维持动力"
 msgid "Break is over."
 msgstr ""
 
-msgid "Cancel"
-msgstr "取消"
-
 msgid "Categories"
 msgstr "类别"
 
@@ -154,9 +151,6 @@ msgstr "创建一个类别"
 msgid "Custom"
 msgstr "自定义"
 
-msgid "DONE"
-msgstr "已完成"
-
 msgid "Daily Goal"
 msgstr "每日目标"
 
@@ -180,9 +174,6 @@ msgstr "解除绑定"
 
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "当代办是空的时候不开启下一个番茄钟"
-
-msgid "Done"
-msgstr "已完成"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "拖动来排序"
@@ -320,6 +311,9 @@ msgstr "使用谷歌认证登录服务"
 msgid "Logout"
 msgstr "登出"
 
+msgid "Long break"
+msgstr "长休息时"
+
 msgid "Long break delay"
 msgstr "长休息时长在"
 
@@ -374,14 +368,8 @@ msgstr "一旦番茄钟开始了，必须持续到番茄钟响起"
 msgid "One minute left"
 msgstr "剩余一分钟"
 
-msgid "PAUSE"
-msgstr "暂停"
-
 msgid "POMODORO"
 msgstr "番茄钟"
-
-msgid "Pause"
-msgstr "暂停"
 
 msgid "Pin to favorites"
 msgstr "添加到收藏夹"
@@ -400,6 +388,9 @@ msgstr "请不要将这些精彩的每日报道寄给我"
 
 msgid "Please reload the application."
 msgstr "重新加载应用程序"
+
+msgid "Please unblock notifications in your browser"
+msgstr ""
 
 msgid "Please, login to view your stats"
 msgstr "请登入后查看你的统计信息"
@@ -443,17 +434,8 @@ msgstr ""
 msgid "Reports and notifications"
 msgstr "报告和通知"
 
-msgid "Resume"
-msgstr "继续"
-
 msgid "Rules & Tips"
 msgstr "规则 & 提示"
-
-msgid "SKIP"
-msgstr "跳过"
-
-msgid "STOP"
-msgstr "停止"
 
 msgid "Schemes"
 msgstr "调度"
@@ -488,14 +470,8 @@ msgstr "显示窗口"
 msgid "Sign Up / Login"
 msgstr "注册 / 登入"
 
-msgid "Skip"
-msgstr "跳过"
-
 msgid "Sort by"
 msgstr "排序根据"
-
-msgid "Start"
-msgstr "开始"
 
 msgid "Start the Pomodoro timer"
 msgstr "启动番茄钟的计时器"
@@ -505,9 +481,6 @@ msgstr "开始工作"
 
 msgid "Stats"
 msgstr "统计"
-
-msgid "Stop"
-msgstr "停止"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -698,6 +671,9 @@ msgstr "推迟"
 msgid "delete"
 msgstr "删除"
 
+msgid "done"
+msgstr "已完成"
+
 msgid "focus"
 msgstr ""
 
@@ -762,6 +738,9 @@ msgstr "数量"
 msgid "on"
 msgstr "在"
 
+msgid "pause"
+msgstr "暂停"
+
 msgid "personal"
 msgstr ""
 
@@ -771,6 +750,9 @@ msgstr[0] "番茄钟"
 
 msgid "pomodoros"
 msgstr "番茄钟"
+
+msgid "preview"
+msgstr ""
 
 msgid "previous page"
 msgstr "上一页"
@@ -793,14 +775,23 @@ msgstr "已注册用户在番茄钟花费的总时间"
 msgid "registered users spend on completing pomodoros today."
 msgstr "已注册用户今天在番茄钟花费的时间"
 
+msgid "remove categories"
+msgstr ""
+
 msgid "resume"
 msgstr "继续"
 
 msgid "save"
 msgstr ""
 
+msgid "skip"
+msgstr "跳过"
+
 msgid "start"
 msgstr "开始"
+
+msgid "stop"
+msgstr "停止"
 
 msgid "system"
 msgstr ""

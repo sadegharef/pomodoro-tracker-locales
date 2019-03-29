@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-25 22:04+0300\n"
+"POT-Creation-Date: 2019-03-29 17:02+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -105,9 +105,6 @@ msgstr "Booster et conserver votre motivation"
 msgid "Break is over."
 msgstr "La pause est terminée."
 
-msgid "Cancel"
-msgstr "Annuler"
-
 msgid "Categories"
 msgstr "Catégories"
 
@@ -156,9 +153,6 @@ msgstr "Сréer une catégorie"
 msgid "Custom"
 msgstr "Personnalisé"
 
-msgid "DONE"
-msgstr "TERMINÉ"
-
 msgid "Daily Goal"
 msgstr "Objectif Quotidien"
 
@@ -182,9 +176,6 @@ msgstr "Se déconnecter"
 
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "Ne pas commencer le pomodoro suivant si la liste TODO est vide"
-
-msgid "Done"
-msgstr "Terminé"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Cliquez-glissez/maintenez pour trier les éléments"
@@ -325,6 +316,9 @@ msgstr "Se connecter au service avec l'authentification Google"
 msgid "Logout"
 msgstr "Déconnexion"
 
+msgid "Long break"
+msgstr "Longue pause"
+
 msgid "Long break delay"
 msgstr "Délai avant la longue pause"
 
@@ -379,14 +373,8 @@ msgstr "Un pomodoro entamé doit sonner."
 msgid "One minute left"
 msgstr "Il ne reste qu'une minute."
 
-msgid "PAUSE"
-msgstr "PAUSE"
-
 msgid "POMODORO"
 msgstr "POMODORO"
-
-msgid "Pause"
-msgstr "Pause"
 
 msgid "Pin to favorites"
 msgstr "ajouter aux favoris"
@@ -405,6 +393,9 @@ msgstr "Je préfère ne pas recevoir ces rapports quotidiens."
 
 msgid "Please reload the application."
 msgstr "Veuillez recharger l'application."
+
+msgid "Please unblock notifications in your browser"
+msgstr ""
 
 msgid "Please, login to view your stats"
 msgstr "Connectez-vous pour consulter vos statistiques"
@@ -448,17 +439,8 @@ msgstr "Heure du rapport"
 msgid "Reports and notifications"
 msgstr "Rapports et notifications"
 
-msgid "Resume"
-msgstr "Reprendre"
-
 msgid "Rules & Tips"
 msgstr "Règles et conseils"
-
-msgid "SKIP"
-msgstr "PASSER"
-
-msgid "STOP"
-msgstr "ARRÊTER"
 
 msgid "Schemes"
 msgstr "Modèles"
@@ -493,14 +475,8 @@ msgstr "Afficher la fenêtre"
 msgid "Sign Up / Login"
 msgstr "Inscription / Connexion"
 
-msgid "Skip"
-msgstr "Passer"
-
 msgid "Sort by"
 msgstr "Trier par"
-
-msgid "Start"
-msgstr "Début"
 
 msgid "Start the Pomodoro timer"
 msgstr "Lancez le minuteur Pomodoro."
@@ -510,9 +486,6 @@ msgstr "Mettez-vous au travail :"
 
 msgid "Stats"
 msgstr "Stats"
-
-msgid "Stop"
-msgstr "Arrêter"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -717,6 +690,9 @@ msgstr "retards"
 msgid "delete"
 msgstr "supprimer"
 
+msgid "done"
+msgstr "terminé"
+
 msgid "focus"
 msgstr "focus"
 
@@ -785,6 +761,9 @@ msgstr "nombre"
 msgid "on"
 msgstr "sur"
 
+msgid "pause"
+msgstr "pause"
+
 msgid "personal"
 msgstr "personnel"
 
@@ -795,6 +774,9 @@ msgstr[1] "pomodoros"
 
 msgid "pomodoros"
 msgstr "pomodoros"
+
+msgid "preview"
+msgstr "aperçu"
 
 msgid "previous page"
 msgstr "page précédente"
@@ -821,14 +803,23 @@ msgstr ""
 ", c'est le temps passé aujourd'hui sur la méthode pomodoro par les "
 "utilisateurs enregistrés."
 
+msgid "remove categories"
+msgstr "supprimer des catégories"
+
 msgid "resume"
 msgstr "reprendre"
 
 msgid "save"
 msgstr ""
 
+msgid "skip"
+msgstr "passer"
+
 msgid "start"
 msgstr "début"
+
+msgid "stop"
+msgstr "arrêter"
 
 msgid "system"
 msgstr "système"

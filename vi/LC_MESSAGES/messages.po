@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-25 22:05+0300\n"
+"POT-Creation-Date: 2019-03-29 17:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -105,9 +105,6 @@ msgstr ""
 msgid "Break is over."
 msgstr ""
 
-msgid "Cancel"
-msgstr "Huỷ"
-
 msgid "Categories"
 msgstr "Các danh mục"
 
@@ -156,9 +153,6 @@ msgstr "Tạo một danh mục"
 msgid "Custom"
 msgstr "Tuỳ chỉnh"
 
-msgid "DONE"
-msgstr "HOÀN THÀNH"
-
 msgid "Daily Goal"
 msgstr "Mục tiêu hằng ngày"
 
@@ -182,9 +176,6 @@ msgstr "Mất kết nối"
 
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "Không bắt đầu pomorodo tiếp theo nếu danh sách TODO trống"
-
-msgid "Done"
-msgstr "Hoàn thành"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Kéo và thả / Chạm để sắp xếp các mục"
@@ -325,6 +316,9 @@ msgstr "Đăng nhập vào hệ thống bằng Google Authentication"
 msgid "Logout"
 msgstr "Đăng xuất"
 
+msgid "Long break"
+msgstr "Nghỉ dài"
+
 msgid "Long break delay"
 msgstr "Trước khi nghỉ dài"
 
@@ -379,14 +373,8 @@ msgstr "Khi một Pomodoro bắt đầu, nó sẽ reng"
 msgid "One minute left"
 msgstr "Còn một phút"
 
-msgid "PAUSE"
-msgstr "TẠM DỪNG"
-
 msgid "POMODORO"
 msgstr "POMODORO"
-
-msgid "Pause"
-msgstr "Tạm dừng"
 
 msgid "Pin to favorites"
 msgstr "Gắn lên Yêu thích"
@@ -405,6 +393,9 @@ msgstr "Đừng gửi cho tôi những bản báo cáo hằng ngày tuyệt vờ
 
 msgid "Please reload the application."
 msgstr "Hãy chạy lại ứng dụng"
+
+msgid "Please unblock notifications in your browser"
+msgstr ""
 
 msgid "Please, login to view your stats"
 msgstr "Hãy đăng nhập để xem thống kê của bạn"
@@ -448,17 +439,8 @@ msgstr ""
 msgid "Reports and notifications"
 msgstr ""
 
-msgid "Resume"
-msgstr "Tiếp tục"
-
 msgid "Rules & Tips"
 msgstr ""
-
-msgid "SKIP"
-msgstr "BỎ QUA"
-
-msgid "STOP"
-msgstr "DỪNG LẠI"
 
 msgid "Schemes"
 msgstr ""
@@ -493,14 +475,8 @@ msgstr ""
 msgid "Sign Up / Login"
 msgstr "Đăng kí / Đăng nhập"
 
-msgid "Skip"
-msgstr "Bỏ qua"
-
 msgid "Sort by"
 msgstr "Sắp xếp theo"
-
-msgid "Start"
-msgstr "Bắt đầu"
 
 msgid "Start the Pomodoro timer"
 msgstr "Bắt đầu chạy đồng hồ Pomodoro"
@@ -510,9 +486,6 @@ msgstr "Bắt đầu làm việc:"
 
 msgid "Stats"
 msgstr "Thống kê"
-
-msgid "Stop"
-msgstr "Dừng lại"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -703,6 +676,9 @@ msgstr "hoãn"
 msgid "delete"
 msgstr "xoá"
 
+msgid "done"
+msgstr "hoàn thành"
+
 msgid "focus"
 msgstr "tập trung"
 
@@ -767,6 +743,9 @@ msgstr ""
 msgid "on"
 msgstr ""
 
+msgid "pause"
+msgstr "tạm dừng"
+
 msgid "personal"
 msgstr ""
 
@@ -776,6 +755,9 @@ msgstr[0] ""
 
 msgid "pomodoros"
 msgstr "pomodoros"
+
+msgid "preview"
+msgstr "xem trước"
 
 msgid "previous page"
 msgstr "trang trước"
@@ -798,14 +780,23 @@ msgstr ""
 msgid "registered users spend on completing pomodoros today."
 msgstr ""
 
+msgid "remove categories"
+msgstr "xóa danh mục"
+
 msgid "resume"
 msgstr "tiếp tục"
 
 msgid "save"
 msgstr "lưu"
 
+msgid "skip"
+msgstr "bỏ qua"
+
 msgid "start"
 msgstr "bắt đầu"
+
+msgid "stop"
+msgstr "dừng lại"
 
 msgid "system"
 msgstr ""

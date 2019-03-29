@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-25 22:04+0300\n"
+"POT-Creation-Date: 2019-03-29 17:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -103,9 +103,6 @@ msgstr "モチベーションを高い状態に保ちます"
 msgid "Break is over."
 msgstr "休憩が終わった"
 
-msgid "Cancel"
-msgstr "キャンセル"
-
 msgid "Categories"
 msgstr "カテゴリー"
 
@@ -154,9 +151,6 @@ msgstr "カテゴリを作成する"
 msgid "Custom"
 msgstr "カスタム"
 
-msgid "DONE"
-msgstr "完了"
-
 msgid "Daily Goal"
 msgstr "毎日の目標"
 
@@ -180,9 +174,6 @@ msgstr "連携解除"
 
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "TODOが空の場合、次のポモドーロを開始しないでください"
-
-msgid "Done"
-msgstr "完了"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "項目を編集するにはダブルクリックまたはタップしてください。ドラッグ＆ドロップで項目の並べ替えができます。"
@@ -320,6 +311,9 @@ msgstr "Googleアカウントでログインする"
 msgid "Logout"
 msgstr "ログアウト"
 
+msgid "Long break"
+msgstr "長い休憩"
+
 msgid "Long break delay"
 msgstr "長い休憩までの回数"
 
@@ -374,14 +368,8 @@ msgstr "開始したポモドーロは、タイマーが鳴るまで集中して
 msgid "One minute left"
 msgstr "残り1分です"
 
-msgid "PAUSE"
-msgstr "一時停止"
-
 msgid "POMODORO"
 msgstr "ポモドーロ"
-
-msgid "Pause"
-msgstr "一時停止"
 
 msgid "Pin to favorites"
 msgstr "お気に入りに追加"
@@ -400,6 +388,9 @@ msgstr "これらのすばらしい日報を私に送らないでください"
 
 msgid "Please reload the application."
 msgstr "アプリケーションを再読み込みする"
+
+msgid "Please unblock notifications in your browser"
+msgstr ""
 
 msgid "Please, login to view your stats"
 msgstr "ログインして統計情報を表示する"
@@ -443,17 +434,8 @@ msgstr ""
 msgid "Reports and notifications"
 msgstr "レポートと通知"
 
-msgid "Resume"
-msgstr "再開"
-
 msgid "Rules & Tips"
 msgstr "ルールとヒント"
-
-msgid "SKIP"
-msgstr "スキップ"
-
-msgid "STOP"
-msgstr "停止"
 
 msgid "Schemes"
 msgstr "スキーム"
@@ -488,14 +470,8 @@ msgstr "ウィンドウを表示"
 msgid "Sign Up / Login"
 msgstr "ユーザー登録 / ログイン"
 
-msgid "Skip"
-msgstr "スキップ"
-
 msgid "Sort by"
 msgstr "並び替え"
-
-msgid "Start"
-msgstr "開始"
 
 msgid "Start the Pomodoro timer"
 msgstr "ポモドーロ・タイマーを開始する"
@@ -505,9 +481,6 @@ msgstr "作業を開始する"
 
 msgid "Stats"
 msgstr "統計"
-
-msgid "Stop"
-msgstr "停止"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -699,6 +672,9 @@ msgstr "遅れ"
 msgid "delete"
 msgstr "削除"
 
+msgid "done"
+msgstr "完了"
+
 msgid "focus"
 msgstr ""
 
@@ -767,6 +743,9 @@ msgstr "単位数"
 msgid "on"
 msgstr "に"
 
+msgid "pause"
+msgstr "一時停止"
+
 msgid "personal"
 msgstr ""
 
@@ -777,6 +756,9 @@ msgstr[1] ""
 
 msgid "pomodoros"
 msgstr "ポモドーロ"
+
+msgid "preview"
+msgstr "プレビュー"
 
 msgid "previous page"
 msgstr "前のページ"
@@ -799,14 +781,23 @@ msgstr "登録ユーザーはポモドーロを完了するのに費やす"
 msgid "registered users spend on completing pomodoros today."
 msgstr "登録ユーザーは今日のポモドーロを完了するのに費やす"
 
+msgid "remove categories"
+msgstr ""
+
 msgid "resume"
 msgstr "再開"
 
 msgid "save"
 msgstr ""
 
+msgid "skip"
+msgstr "スキップ"
+
 msgid "start"
 msgstr "開始"
+
+msgid "stop"
+msgstr "停止"
 
 msgid "system"
 msgstr ""

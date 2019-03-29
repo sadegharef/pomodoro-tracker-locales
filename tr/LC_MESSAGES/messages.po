@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-25 22:05+0300\n"
+"POT-Creation-Date: 2019-03-29 17:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -105,9 +105,6 @@ msgstr "Motivasyonunuzu yükseltin ve sabit kılın"
 msgid "Break is over."
 msgstr ""
 
-msgid "Cancel"
-msgstr "İptal"
-
 msgid "Categories"
 msgstr "Kategoriler"
 
@@ -156,9 +153,6 @@ msgstr "Kategori yarat"
 msgid "Custom"
 msgstr "Seçmek"
 
-msgid "DONE"
-msgstr "TAMAMLANDI"
-
 msgid "Daily Goal"
 msgstr "Günlük Gol"
 
@@ -182,9 +176,6 @@ msgstr "Bağlantısını kesin"
 
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "TODO boşsa, bir sonraki pomodoroya başlamayın"
-
-msgid "Done"
-msgstr "Tamam"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr ""
@@ -328,6 +319,9 @@ msgstr ""
 msgid "Logout"
 msgstr "Çıkış"
 
+msgid "Long break"
+msgstr "Uzun mola"
+
 msgid "Long break delay"
 msgstr "Uzun mola gecikmesi"
 
@@ -382,14 +376,8 @@ msgstr "Pomodoro bir kere başladıktan sonra bitmek zorundadır"
 msgid "One minute left"
 msgstr "bir dakika kaldı"
 
-msgid "PAUSE"
-msgstr "DURAKLAT"
-
 msgid "POMODORO"
 msgstr "POMODORO"
-
-msgid "Pause"
-msgstr "Duraklat"
 
 msgid "Pin to favorites"
 msgstr "Favorilere ekle"
@@ -408,6 +396,9 @@ msgstr ""
 
 msgid "Please reload the application."
 msgstr "Uygulamayı tekrar yükle"
+
+msgid "Please unblock notifications in your browser"
+msgstr ""
 
 msgid "Please, login to view your stats"
 msgstr "Çalışma kaydınızı tutmak için giriş yapın"
@@ -451,17 +442,8 @@ msgstr ""
 msgid "Reports and notifications"
 msgstr ""
 
-msgid "Resume"
-msgstr "Devam et"
-
 msgid "Rules & Tips"
 msgstr "Kurallar & İpuçları"
-
-msgid "SKIP"
-msgstr "GEÇ"
-
-msgid "STOP"
-msgstr "DURDUR"
 
 msgid "Schemes"
 msgstr "Şemalari"
@@ -496,14 +478,8 @@ msgstr "Pencere göster"
 msgid "Sign Up / Login"
 msgstr "Kayıt / Giriş"
 
-msgid "Skip"
-msgstr "Geç"
-
 msgid "Sort by"
 msgstr "Göre sırala"
-
-msgid "Start"
-msgstr "Başlat"
 
 msgid "Start the Pomodoro timer"
 msgstr "Pomodoro zamanlayıcısını başlat"
@@ -513,9 +489,6 @@ msgstr "Çalışmaya başlayın:"
 
 msgid "Stats"
 msgstr "İstatistikler"
-
-msgid "Stop"
-msgstr "Durdur"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -721,6 +694,9 @@ msgstr "gecikme"
 msgid "delete"
 msgstr "sil"
 
+msgid "done"
+msgstr "tamam"
+
 msgid "focus"
 msgstr ""
 
@@ -789,6 +765,9 @@ msgstr "saymak"
 msgid "on"
 msgstr ""
 
+msgid "pause"
+msgstr "duraklat"
+
 msgid "personal"
 msgstr "kişiye özel"
 
@@ -799,6 +778,9 @@ msgstr[1] ""
 
 msgid "pomodoros"
 msgstr "pomodoro"
+
+msgid "preview"
+msgstr ""
 
 msgid "previous page"
 msgstr ""
@@ -821,14 +803,23 @@ msgstr "kayıtlı kullanıcılar pomodoros tamamlamaya harcıyor"
 msgid "registered users spend on completing pomodoros today."
 msgstr "kayıtlı kullanıcılar bugün pomodoros'u tamamlamak için harcıyorlar"
 
+msgid "remove categories"
+msgstr "kategorileri kaldır"
+
 msgid "resume"
 msgstr "devam et"
 
 msgid "save"
 msgstr ""
 
+msgid "skip"
+msgstr "geç"
+
 msgid "start"
 msgstr "başlat"
+
+msgid "stop"
+msgstr "durdur"
 
 msgid "system"
 msgstr ""

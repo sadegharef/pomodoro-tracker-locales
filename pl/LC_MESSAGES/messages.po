@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-03-25 22:05+0300\n"
+"POT-Creation-Date: 2019-03-29 17:02+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -105,9 +105,6 @@ msgstr "Poprawić motywację i utrzymywać ją"
 msgid "Break is over."
 msgstr "Przerwa zakończona."
 
-msgid "Cancel"
-msgstr "Anuluj"
-
 msgid "Categories"
 msgstr "Kategorie"
 
@@ -153,9 +150,6 @@ msgstr "Stwórz kategorię"
 msgid "Custom"
 msgstr "Własny"
 
-msgid "DONE"
-msgstr "ZROBIONE"
-
 msgid "Daily Goal"
 msgstr "Cel dnia"
 
@@ -179,9 +173,6 @@ msgstr "Rozłącz"
 
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "Nie zaczynaj kolejnego pomodoro jeśli lista zadań jest pusta"
-
-msgid "Done"
-msgstr "Zrobione"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Przeciągaj by sortować elementy."
@@ -323,6 +314,9 @@ msgstr "Zaloguj się przy pomocy Google"
 msgid "Logout"
 msgstr "Wyloguj"
 
+msgid "Long break"
+msgstr "Długa przerwa"
+
 msgid "Long break delay"
 msgstr "Opóźnienie długiej przerwy"
 
@@ -371,9 +365,6 @@ msgstr "Pomodoro musi zadzwonić gdy się zaczyna"
 msgid "One minute left"
 msgstr "Pozostała jedna minuta"
 
-msgid "PAUSE"
-msgstr "PAUZA"
-
 msgid "POMODORO"
 msgstr "POMODORO"
 
@@ -394,6 +385,9 @@ msgstr "Proszę o nie wysyłania Mi tych wspaniałych, codziennych raportów"
 
 msgid "Please reload the application."
 msgstr "Proszę przeładować aplikację."
+
+msgid "Please unblock notifications in your browser"
+msgstr ""
 
 msgid "Please, login to view your stats"
 msgstr "Zaloguj się by zobaczyć swoje statystyki"
@@ -432,12 +426,6 @@ msgstr "Raporty i powiadomienia"
 
 msgid "Rules & Tips"
 msgstr "Zasady i wskazówki"
-
-msgid "SKIP"
-msgstr "POMIŃ"
-
-msgid "STOP"
-msgstr "STOP"
 
 msgid "Schemes"
 msgstr "Schemat"
@@ -685,6 +673,9 @@ msgstr "opóźnienia"
 msgid "delete"
 msgstr "Usuń"
 
+msgid "done"
+msgstr "zrobione"
+
 msgid "focus"
 msgstr "skupienie"
 
@@ -753,6 +744,9 @@ msgstr "ilość"
 msgid "on"
 msgstr "na"
 
+msgid "pause"
+msgstr "użytkownik"
+
 msgid "personal"
 msgstr "personalny"
 
@@ -763,6 +757,9 @@ msgstr[1] "Pomodoro"
 
 msgid "pomodoros"
 msgstr "pomodoro"
+
+msgid "preview"
+msgstr "zapowiedź"
 
 msgid "previous page"
 msgstr "poprzednia strona"
@@ -785,14 +782,23 @@ msgstr "aktywni użytkownicy spędzili korzystając z Pomodoro"
 msgid "registered users spend on completing pomodoros today."
 msgstr "aktywni użytkownicy spędzili korzystając dzisiaj z Pomodoro."
 
+msgid "remove categories"
+msgstr "usuń kategorie"
+
 msgid "resume"
 msgstr "wznów"
 
 msgid "save"
 msgstr "zapisz"
 
+msgid "skip"
+msgstr ""
+
 msgid "start"
 msgstr "start"
+
+msgid "stop"
+msgstr "własny"
 
 msgid "system"
 msgstr "system"
@@ -833,14 +839,8 @@ msgid_plural "years"
 msgstr[0] "rok"
 msgstr[1] "lata"
 
-#~ msgid "Configure"
-#~ msgstr "Konfiguruj"
-
 #~ msgid "Daily history"
 #~ msgstr "Historia dnia"
-
-#~ msgid "Pause"
-#~ msgstr "Pauza"
 
 #~ msgid "Please, login to view your stats"
 #~ msgstr "Zaloguj się aby zobaczyć swoje statystyki"
@@ -848,29 +848,14 @@ msgstr[1] "lata"
 #~ msgid "Provide Feedback"
 #~ msgstr "Oceń"
 
-#~ msgid "Quit"
-#~ msgstr "Wyjdź"
-
 #~ msgid "Release Notes"
 #~ msgstr "Release Notes"
-
-#~ msgid "Resume"
-#~ msgstr "Wzów"
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "Wysyłaj codzienne raporty"
 
 #~ msgid "Show window"
 #~ msgstr "Pokaż okno"
-
-#~ msgid "Skip"
-#~ msgstr "Pomiń"
-
-#~ msgid "Start"
-#~ msgstr "Start"
-
-#~ msgid "Stop"
-#~ msgstr "Stop"
 
 #~ msgid "View"
 #~ msgstr "Widok"

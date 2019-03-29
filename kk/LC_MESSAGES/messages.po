@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-25 22:04+0300\n"
+"POT-Creation-Date: 2019-03-29 17:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -105,9 +105,6 @@ msgstr "Мотивацияны еселеп, тұрақты деңгейде ұ�
 msgid "Break is over."
 msgstr "Үзіліс аяқталды."
 
-msgid "Cancel"
-msgstr "Жоқ"
-
 msgid "Categories"
 msgstr "Категория"
 
@@ -156,9 +153,6 @@ msgstr "Жаңа категория"
 msgid "Custom"
 msgstr "Таңдау"
 
-msgid "DONE"
-msgstr "БІТТІ"
-
 msgid "Daily Goal"
 msgstr "Күн мақсаты"
 
@@ -182,9 +176,6 @@ msgstr "Ажырау"
 
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "TODO тізімі бос болса, келесі қызанақты бастамау"
-
-msgid "Done"
-msgstr "Аяқталған"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Іріктеу үшін қозғаңыз"
@@ -326,6 +317,9 @@ msgstr "Google арқылы кіру"
 msgid "Logout"
 msgstr "Шығу"
 
+msgid "Long break"
+msgstr "ұзақ үзілістен"
+
 msgid "Long break delay"
 msgstr "Ұзақ үзіліс жиілігі"
 
@@ -380,14 +374,8 @@ msgstr "Қызанақ бастасаңыз, міндетті түрде аяқ�
 msgid "One minute left"
 msgstr "Бір минут қалды"
 
-msgid "PAUSE"
-msgstr "ПАУЗА"
-
 msgid "POMODORO"
 msgstr "ҚЫЗАНАҚ"
-
-msgid "Pause"
-msgstr "Пауза"
 
 msgid "Pin to favorites"
 msgstr "Сүйіктілер тізіміне апару"
@@ -406,6 +394,9 @@ msgstr "Осы керемет, әп-әдемі репорттарды маған
 
 msgid "Please reload the application."
 msgstr "Қосымшаны қайта қосыңыз"
+
+msgid "Please unblock notifications in your browser"
+msgstr ""
 
 msgid "Please, login to view your stats"
 msgstr "Статистика көру үшін тіркелу керек, пара беру үшін емес"
@@ -449,17 +440,8 @@ msgstr "Осы уақытта"
 msgid "Reports and notifications"
 msgstr "Есептер мен хабарландырулар"
 
-msgid "Resume"
-msgstr "Жалғастыру"
-
 msgid "Rules & Tips"
 msgstr "Ереже мен Айлалар"
-
-msgid "SKIP"
-msgstr "ӨТКІЗУ"
-
-msgid "STOP"
-msgstr "СТОП"
 
 msgid "Schemes"
 msgstr "Сызбалар"
@@ -494,14 +476,8 @@ msgstr "Терезені көрсету"
 msgid "Sign Up / Login"
 msgstr "Тіркелу / Кіру"
 
-msgid "Skip"
-msgstr "Өткізу"
-
 msgid "Sort by"
 msgstr "Бойынша реттеу"
-
-msgid "Start"
-msgstr "Бастау"
 
 msgid "Start the Pomodoro timer"
 msgstr "Қызанақ таймерін бастаңыз"
@@ -511,9 +487,6 @@ msgstr "Жұмысты бастаңыз"
 
 msgid "Stats"
 msgstr "Статистика"
-
-msgid "Stop"
-msgstr "Стоп"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -715,6 +688,9 @@ msgstr "кідіріс"
 msgid "delete"
 msgstr "өшір"
 
+msgid "done"
+msgstr "аяқталған"
+
 msgid "focus"
 msgstr "фокус"
 
@@ -783,6 +759,9 @@ msgstr "сан"
 msgid "on"
 msgstr ""
 
+msgid "pause"
+msgstr "пауза"
+
 msgid "personal"
 msgstr "жеке"
 
@@ -793,6 +772,9 @@ msgstr[1] "қызанақ"
 
 msgid "pomodoros"
 msgstr "қызанақтар"
+
+msgid "preview"
+msgstr "алдын-ала қарау"
 
 msgid "previous page"
 msgstr "алдыңғы бет"
@@ -815,14 +797,23 @@ msgstr "- қызанақ орындау кезінде осындай уақыт
 msgid "registered users spend on completing pomodoros today."
 msgstr "- бүгінгі қолданушылар жұмсаған уақыт"
 
+msgid "remove categories"
+msgstr "санаттарды жою"
+
 msgid "resume"
 msgstr "жалғастыру"
 
 msgid "save"
 msgstr "сақтау"
 
+msgid "skip"
+msgstr "өткізу"
+
 msgid "start"
 msgstr "старт"
+
+msgid "stop"
+msgstr "стоп"
 
 msgid "system"
 msgstr "жүйе"
