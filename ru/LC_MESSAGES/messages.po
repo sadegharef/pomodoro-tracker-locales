@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-29 17:01+0300\n"
+"POT-Creation-Date: 2019-04-05 15:25+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -599,11 +599,11 @@ msgstr "Заголовок"
 msgid "Toggle fullscreen"
 msgstr "Переключить полный экран"
 
+msgid "Toggle mini timer"
+msgstr "Переключить мини-таймер"
+
 msgid "Try to add some tasks use the form above"
 msgstr "Попробуйте добавить задачи используя форму выше."
-
-msgid "Try to complete some pomodoros above"
-msgstr "Попробуйте выполнить несколько помидоров"
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Попробуйте выполнить несколько помидоров или выберите другой период"
@@ -873,4 +873,7 @@ msgstr[2] "лет"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Помидор запущен"
+
+#~ msgid "Try to complete some pomodoros above"
+#~ msgstr "Попробуйте выполнить несколько помидоров"
 

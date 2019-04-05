@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-29 17:02+0300\n"
+"POT-Creation-Date: 2019-04-05 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -580,11 +580,11 @@ msgstr "タイトル"
 msgid "Toggle fullscreen"
 msgstr "フルスクリーン切り替え"
 
+msgid "Toggle mini timer"
+msgstr ""
+
 msgid "Try to add some tasks use the form above"
 msgstr "上のフォームに入力してタスクを追加してください"
-
-msgid "Try to complete some pomodoros above"
-msgstr "上記のポモドーロを完了してください"
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "ポモドーロを完了するか、別の期間をえらんでください。"
@@ -847,4 +847,7 @@ msgstr[1] "年々"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "ポモドーロ中"
+
+#~ msgid "Try to complete some pomodoros above"
+#~ msgstr "上記のポモドーロを完了してください"
 

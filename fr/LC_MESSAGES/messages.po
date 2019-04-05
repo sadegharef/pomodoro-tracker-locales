@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-29 17:02+0300\n"
+"POT-Creation-Date: 2019-04-05 15:25+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -598,11 +598,11 @@ msgstr "Titre"
 msgid "Toggle fullscreen"
 msgstr "Passer en plein écran"
 
+msgid "Toggle mini timer"
+msgstr "Changer la Timer"
+
 msgid "Try to add some tasks use the form above"
 msgstr "Pour ajouter des tâches, remplissez le champ ci-dessus"
-
-msgid "Try to complete some pomodoros above"
-msgstr "Essayez de terminer quelques pomodoros ci-dessus"
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Essayez de faire quelques pomodoros ou choisissez une autre période"
@@ -869,4 +869,7 @@ msgstr[1] "ans"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Le pomodoro est lancé."
+
+#~ msgid "Try to complete some pomodoros above"
+#~ msgstr "Essayez de terminer quelques pomodoros ci-dessus"
 

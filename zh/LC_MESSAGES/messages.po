@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-29 17:02+0300\n"
+"POT-Creation-Date: 2019-04-05 15:26+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -580,11 +580,11 @@ msgstr "标题"
 msgid "Toggle fullscreen"
 msgstr "切换全屏"
 
+msgid "Toggle mini timer"
+msgstr ""
+
 msgid "Try to add some tasks use the form above"
 msgstr "尝试使用上面表格添加一些任务"
-
-msgid "Try to complete some pomodoros above"
-msgstr "尝试完成上面的一些番茄钟"
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "尝试完成一些番茄钟或者选择别的时间"
@@ -840,4 +840,7 @@ msgstr[0] "年"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "番茄钟正在运行"
+
+#~ msgid "Try to complete some pomodoros above"
+#~ msgstr "尝试完成上面的一些番茄钟"
 

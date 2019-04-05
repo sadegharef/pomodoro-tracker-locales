@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-03-29 17:02+0300\n"
+"POT-Creation-Date: 2019-04-05 15:26+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -587,9 +587,6 @@ msgstr "Pełny ekran"
 msgid "Try to add some tasks use the form above"
 msgstr "Dodaj zadania w powyższym formularzu"
 
-msgid "Try to complete some pomodoros above"
-msgstr "Spróbuj ukończyć dowolne z powyższych Pomodoro"
-
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Spróbuj ukończyć dowolne Pomodoro lub wybierz inny przedział czasowy"
 
@@ -856,6 +853,9 @@ msgstr[1] "lata"
 
 #~ msgid "Show window"
 #~ msgstr "Pokaż okno"
+
+#~ msgid "Try to complete some pomodoros above"
+#~ msgstr "Spróbuj ukończyć dowolne z powyższych Pomodoro"
 
 #~ msgid "View"
 #~ msgstr "Widok"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-03-29 17:02+0300\n"
+"POT-Creation-Date: 2019-04-05 15:26+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -601,11 +601,11 @@ msgstr "Titel"
 msgid "Toggle fullscreen"
 msgstr "Volledig scherm"
 
+msgid "Toggle mini timer"
+msgstr "Schakel de timer "
+
 msgid "Try to add some tasks use the form above"
 msgstr "Probeer wat taken toe te voegen met bovenstaand formulier"
-
-msgid "Try to complete some pomodoros above"
-msgstr "Probeer wat pomodori hierboven af te ronden"
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Probeer wat pomodori af te ronden, of kies een andere periode"
@@ -870,4 +870,7 @@ msgstr[1] "jaren"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "De pomodoro loopt"
+
+#~ msgid "Try to complete some pomodoros above"
+#~ msgstr "Probeer wat pomodori hierboven af te ronden"
 

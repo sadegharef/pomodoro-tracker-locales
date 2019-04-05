@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-29 17:02+0300\n"
+"POT-Creation-Date: 2019-04-05 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -596,11 +596,11 @@ msgstr "Тақырыбы"
 msgid "Toggle fullscreen"
 msgstr "Толық экранға кеттік"
 
+msgid "Toggle mini timer"
+msgstr "Таймерді ауыстырыңыз"
+
 msgid "Try to add some tasks use the form above"
 msgstr "Үлгіні қолданып, қосымша жұмыс қосыңыз"
-
-msgid "Try to complete some pomodoros above"
-msgstr "Жоғарыдағы қей қызанақтарды аяқтау"
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Тағы қосымша қызанақ жарыңыз немесе басқа период таңдаңыз"
@@ -863,4 +863,7 @@ msgstr[1] "жыл"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Қызанақ кетті"
+
+#~ msgid "Try to complete some pomodoros above"
+#~ msgstr "Жоғарыдағы қей қызанақтарды аяқтау"
 
