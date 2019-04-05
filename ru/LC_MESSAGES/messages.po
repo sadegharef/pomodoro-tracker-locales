@@ -394,7 +394,7 @@ msgid "Please don't send me these awesome daily reports"
 msgstr "Пожалуйста, не присылайте мне эти замечательные отчеты"
 
 msgid "Please reload the application."
-msgstr "Пожалуйтста, перезагрузите приложение."
+msgstr "Пожалуйста, перезагрузите приложение."
 
 msgid "Please unblock notifications in your browser"
 msgstr "Нотификации заблокированы в вашем браузере"
