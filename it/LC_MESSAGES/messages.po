@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-05 15:26+0300\n"
+"POT-Creation-Date: 2019-05-03 12:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -48,7 +48,7 @@ msgid "Add Activity"
 msgstr "Aggiungi attività"
 
 msgid "Add TODO"
-msgstr "Aggiungi TODO"
+msgstr "Aggiungi ai TODO"
 
 msgid "Add category"
 msgstr "Aggiungi una categoria"
@@ -58,9 +58,6 @@ msgstr "Aggiungi"
 
 msgid "Add new tasks to the top"
 msgstr ""
-
-msgid "Add to TODO"
-msgstr "Aggiungi ai TODO"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr "Allevia l'ansia legata all'iniziare"
@@ -207,8 +204,8 @@ msgstr "Febbraio"
 msgid "Feedback"
 msgstr "Commento"
 
-msgid "Great work! TODO list is empty."
-msgstr "Ottimo lavoro! La lista è vuota"
+msgid "Great work!"
+msgstr "Ottimo lavoro!"
 
 msgid "Hide notificaions"
 msgstr "Nascondi le notifiche"
@@ -505,7 +502,7 @@ msgstr ""
 msgid "TODO"
 msgstr "TODO"
 
-msgid "TODO list is empty"
+msgid "TODO list is empty."
 msgstr "L'elenco TODO è vuoto"
 
 msgid "TODO list was updated."

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-05 15:26+0300\n"
+"POT-Creation-Date: 2019-05-03 12:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -58,9 +58,6 @@ msgstr "もう一回"
 
 msgid "Add new tasks to the top"
 msgstr ""
-
-msgid "Add to TODO"
-msgstr "TODOに追加する"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr "迫りくる不安を和らげます"
@@ -205,8 +202,8 @@ msgstr "2月"
 msgid "Feedback"
 msgstr "フィードバック"
 
-msgid "Great work! TODO list is empty."
-msgstr "リストは空です。"
+msgid "Great work!"
+msgstr "すごい仕事！"
 
 msgid "Hide notificaions"
 msgstr "通知が隠れるまで"
@@ -496,7 +493,7 @@ msgstr ""
 msgid "TODO"
 msgstr "TODO"
 
-msgid "TODO list is empty"
+msgid "TODO list is empty."
 msgstr "TODOリストが空です"
 
 msgid "TODO list was updated."

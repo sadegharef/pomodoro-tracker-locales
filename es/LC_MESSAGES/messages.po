@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-05 15:25+0300\n"
+"POT-Creation-Date: 2019-05-03 12:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -58,9 +58,6 @@ msgstr "Añadir más"
 
 msgid "Add new tasks to the top"
 msgstr ""
-
-msgid "Add to TODO"
-msgstr "Añadir a TODO"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr "Alivia la ansiedad vinculada a comenzar"
@@ -207,8 +204,8 @@ msgstr "Febrero"
 msgid "Feedback"
 msgstr "Sugerencias"
 
-msgid "Great work! TODO list is empty."
-msgstr "¡Buen trabajo! La lista TODO está vacía."
+msgid "Great work!"
+msgstr "¡Buen trabajo!"
 
 msgid "Hide notificaions"
 msgstr "Ocultar notificaciones"
@@ -507,7 +504,7 @@ msgstr "Sincronizar con Google Tasks"
 msgid "TODO"
 msgstr "TODO"
 
-msgid "TODO list is empty"
+msgid "TODO list is empty."
 msgstr "La lista TODO está vacía"
 
 msgid "TODO list was updated."

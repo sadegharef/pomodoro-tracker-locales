@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-05 15:25+0300\n"
+"POT-Creation-Date: 2019-05-03 12:19+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -48,7 +48,7 @@ msgid "Add Activity"
 msgstr "Ajouter une activité"
 
 msgid "Add TODO"
-msgstr "Ajouter un « TODO »"
+msgstr "Ajouter à TODO"
 
 msgid "Add category"
 msgstr "Ajouter une catégorie"
@@ -58,9 +58,6 @@ msgstr "Ajouter plus"
 
 msgid "Add new tasks to the top"
 msgstr ""
-
-msgid "Add to TODO"
-msgstr "Ajouter à TODO"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr "Soulager l'angoisse de la page blanche"
@@ -207,8 +204,8 @@ msgstr "février"
 msgid "Feedback"
 msgstr "Avis"
 
-msgid "Great work! TODO list is empty."
-msgstr "Beau travail ! La liste TODO est vide."
+msgid "Great work!"
+msgstr "Beau travail!"
 
 msgid "Hide notificaions"
 msgstr "Cacher les notifications"
@@ -501,7 +498,7 @@ msgstr "Synchroniser avec Google Tasks"
 msgid "TODO"
 msgstr "TODO"
 
-msgid "TODO list is empty"
+msgid "TODO list is empty."
 msgstr "La liste TODO est vide"
 
 msgid "TODO list was updated."
