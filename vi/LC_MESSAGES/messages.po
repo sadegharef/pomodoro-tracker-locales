@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-03 12:20+0300\n"
+"POT-Creation-Date: 2019-05-07 16:11+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -57,7 +57,7 @@ msgid "Add more"
 msgstr "Thêm nhiều hơn"
 
 msgid "Add new tasks to the top"
-msgstr ""
+msgstr "Thêm nhiệm vụ mới lên hàng đầu"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr ""
@@ -429,6 +429,9 @@ msgstr "Đăng kí"
 
 msgid "Release Notes"
 msgstr ""
+
+msgid "Remove a task from TODO when Pomodoro is complete"
+msgstr "Xóa tác vụ khỏi TODO khi Pomodoro hoàn tất"
 
 msgid "Reports Time"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-03 12:19+0300\n"
+"POT-Creation-Date: 2019-05-07 16:11+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nb_NO\n"
@@ -424,6 +424,9 @@ msgid "Register"
 msgstr ""
 
 msgid "Release Notes"
+msgstr ""
+
+msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr ""
 
 msgid "Reports Time"

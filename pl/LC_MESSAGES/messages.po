@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-05-03 12:20+0300\n"
+"POT-Creation-Date: 2019-05-07 16:11+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -57,7 +57,7 @@ msgid "Add more"
 msgstr "Dodaj kolejne"
 
 msgid "Add new tasks to the top"
-msgstr ""
+msgstr "Dodaj nowe zadania do góry"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr "Złagodzić uczucie niepokoju towarzyszące rozpoczynaniu nowego zadania"
@@ -414,6 +414,9 @@ msgstr ""
 
 msgid "Register"
 msgstr "Zarejestruj"
+
+msgid "Remove a task from TODO when Pomodoro is complete"
+msgstr "Usuń zadanie z TODO, gdy Pomodoro jest ukończone"
 
 msgid "Reports Time"
 msgstr "Czas raportów"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-05-03 12:19+0300\n"
+"POT-Creation-Date: 2019-05-07 16:11+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -57,7 +57,7 @@ msgid "Add more"
 msgstr "Mehr hinzufügen"
 
 msgid "Add new tasks to the top"
-msgstr ""
+msgstr "Füge neue Aufgaben an der Spitze hinzu"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr "Angstzustände vermeiden"
@@ -432,6 +432,9 @@ msgstr "Registrieren"
 
 msgid "Release Notes"
 msgstr "Versionshinweise"
+
+msgid "Remove a task from TODO when Pomodoro is complete"
+msgstr "Entfernen Sie eine Aufgabe aus TODO, wenn Pomodoro abgeschlossen ist"
 
 msgid "Reports Time"
 msgstr "Bericht ist Zeit"
