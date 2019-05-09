@@ -249,7 +249,7 @@ msgid "Integration with Telegram"
 msgstr "Интеграция с Telegram"
 
 msgid "Integrations"
-msgstr "Сервисы"
+msgstr "Интеграции"
 
 msgid "January"
 msgstr "Январь"
