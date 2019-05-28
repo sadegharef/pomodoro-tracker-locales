@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-07 16:11+0300\n"
+"POT-Creation-Date: 2019-05-28 11:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -70,9 +70,6 @@ msgstr "Қабылдау"
 
 msgid "April"
 msgstr "Сәуір"
-
-msgid "Are you sure want to delete"
-msgstr "Шынымен өшіресіз бе?"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -194,6 +191,9 @@ msgstr "Концентрация арттыру, алаңдауды азайту
 
 msgid "Export the records as CSV"
 msgstr "CSV-ға жазбаларды порттау"
+
+msgid "Eye Keeper is enabled"
+msgstr ""
 
 msgid "Favorites"
 msgstr "Таңдамалы"
@@ -323,6 +323,9 @@ msgstr "Ұзақ үзіліс жиілігі"
 msgid "Long break duration"
 msgstr "Ұзын үзіліс ұзақтығы"
 
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr ""
+
 msgid "March"
 msgstr "Наурыз"
 
@@ -374,6 +377,9 @@ msgstr "Бір минут қалды"
 msgid "POMODORO"
 msgstr "ҚЫЗАНАҚ"
 
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr ""
+
 msgid "Pin to favorites"
 msgstr "Сүйіктілер тізіміне апару"
 
@@ -407,6 +413,9 @@ msgstr "Қызанақ бітіп қалды ғой."
 msgid "Preferences"
 msgstr "Баптаулар"
 
+msgid "Press"
+msgstr ""
+
 msgid "Privacy Policy"
 msgstr "Құпия келісімі"
 
@@ -427,6 +436,9 @@ msgstr "Жұмыс процесін сапасы мен саны жағынан 
 
 msgid "Register"
 msgstr "Тіркелу"
+
+msgid "Relax"
+msgstr ""
 
 msgid "Release Notes"
 msgstr "Жаңалықтар"
@@ -475,6 +487,9 @@ msgstr "Терезені көрсету"
 
 msgid "Sign Up / Login"
 msgstr "Тіркелу / Кіру"
+
+msgid "Sleep Mode is enabled"
+msgstr ""
 
 msgid "Sort by"
 msgstr "Бойынша реттеу"
@@ -593,6 +608,9 @@ msgstr "Таймер"
 msgid "Title"
 msgstr "Тақырыбы"
 
+msgid "Toggle eye keeper"
+msgstr ""
+
 msgid "Toggle fullscreen"
 msgstr "Толық экранға кеттік"
 
@@ -708,6 +726,9 @@ msgid_plural "hours"
 msgstr[0] "сағат"
 msgstr[1] "сағат"
 
+msgid "if you must exit now"
+msgstr ""
+
 msgid "in 10 seconds"
 msgstr "10 сек кейін"
 
@@ -747,6 +768,9 @@ msgid_plural "months"
 msgstr[0] "ай"
 msgstr[1] "ай"
 
+msgid "never"
+msgstr ""
+
 msgid "next page"
 msgstr "келесі бет"
 
@@ -784,9 +808,6 @@ msgstr "ширекжыл"
 
 msgid "rating"
 msgstr "рейтинг"
-
-msgid "record"
-msgstr "баспа"
 
 msgid "refresh"
 msgstr "жаңару"
@@ -852,11 +873,17 @@ msgid_plural "years"
 msgstr[0] "жыл"
 msgstr[1] "жыл"
 
+#~ msgid "Are you sure want to delete"
+#~ msgstr "Шынымен өшіресіз бе?"
+
 #~ msgid "Daily history"
 #~ msgstr "Күнделікті жазбалар"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "Статистика көргенге кіру керек"
+
+#~ msgid "Look away at something that is 6 metres away for 20 seconds"
+#~ msgstr ""
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "Күнделікті есеп жіберу"
@@ -866,4 +893,7 @@ msgstr[1] "жыл"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Жоғарыдағы қей қызанақтарды аяқтау"
+
+#~ msgid "record"
+#~ msgstr "баспа"
 

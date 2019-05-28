@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-05-07 16:11+0300\n"
+"POT-Creation-Date: 2019-05-28 11:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -70,9 +70,6 @@ msgstr "Anwenden"
 
 msgid "April"
 msgstr "April"
-
-msgid "Are you sure want to delete"
-msgstr "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -195,6 +192,9 @@ msgstr ""
 msgid "Export the records as CSV"
 msgstr "Exportieren der Einträge (*.csv)"
 
+msgid "Eye Keeper is enabled"
+msgstr "Eye-Keeper ist aktiviert"
+
 msgid "Favorites"
 msgstr "Favoriten"
 
@@ -261,7 +261,7 @@ msgid "Join our Slack Community"
 msgstr ""
 
 msgid "Join the global rating"
-msgstr ""
+msgstr "Treten Sie dem globalen Rating bei"
 
 msgid "July"
 msgstr "Juli"
@@ -325,6 +325,11 @@ msgstr "Wiederholungen bis lange Pause"
 msgid "Long break duration"
 msgstr "Länge der langen Pause"
 
+#, fuzzy
+#| msgid "Look away at something that is 6 metres away for 20 seconds"
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr "Schauen Sie %1$s Sekunden lang auf etwas, das 6 Meter entfernt ist"
+
 msgid "March"
 msgstr "März"
 
@@ -376,6 +381,9 @@ msgstr "Eine Minute noch"
 msgid "POMODORO"
 msgstr "POMODORO"
 
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr "Timer anhalten, wenn der Computer in den Energiesparmodus wechselt"
+
 msgid "Pin to favorites"
 msgstr "Markiere als Favorit"
 
@@ -409,6 +417,9 @@ msgstr "Pomodor wurde beendet."
 msgid "Preferences"
 msgstr "Einstellungen"
 
+msgid "Press"
+msgstr "Drücke"
+
 msgid "Privacy Policy"
 msgstr "Datenschutzbestimmungen"
 
@@ -429,6 +440,9 @@ msgstr "Verbessern der Abschätzung von Arbeitsaufwand"
 
 msgid "Register"
 msgstr "Registrieren"
+
+msgid "Relax"
+msgstr "Entspannen Sie Sich"
 
 msgid "Release Notes"
 msgstr "Versionshinweise"
@@ -477,6 +491,9 @@ msgstr "Schaufenster"
 
 msgid "Sign Up / Login"
 msgstr "Anmelden / Einloggen"
+
+msgid "Sleep Mode is enabled"
+msgstr "Schlafmodus ist aktiviert"
 
 msgid "Sort by"
 msgstr "Sortieren nach"
@@ -599,6 +616,9 @@ msgstr "Timer"
 msgid "Title"
 msgstr "Titel"
 
+msgid "Toggle eye keeper"
+msgstr "Augenwächter umschalten"
+
 msgid "Toggle fullscreen"
 msgstr "Vollbild"
 
@@ -714,6 +734,9 @@ msgid_plural "hours"
 msgstr[0] "Stunde"
 msgstr[1] "Stunden"
 
+msgid "if you must exit now"
+msgstr "wenn Sie jetzt beenden müssen"
+
 msgid "in 10 seconds"
 msgstr "nach 10 Sekunden"
 
@@ -753,6 +776,9 @@ msgid_plural "months"
 msgstr[0] "Monat"
 msgstr[1] "Monate"
 
+msgid "never"
+msgstr "noch nie"
+
 msgid "next page"
 msgstr "nächste seite"
 
@@ -790,9 +816,6 @@ msgstr "quartal"
 
 msgid "rating"
 msgstr "Bewertung"
-
-msgid "record"
-msgstr "Eintrag"
 
 msgid "refresh"
 msgstr "aktualisierung"
@@ -860,6 +883,9 @@ msgid_plural "years"
 msgstr[0] "Jahr"
 msgstr[1] "Jahre"
 
+#~ msgid "Are you sure want to delete"
+#~ msgstr "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten"
+
 #~ msgid "Daily history"
 #~ msgstr "Täglicher Verlauf"
 
@@ -874,4 +900,7 @@ msgstr[1] "Jahre"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Versuche ein paar Pomodoros abzuarbeiten"
+
+#~ msgid "record"
+#~ msgstr "Eintrag"
 

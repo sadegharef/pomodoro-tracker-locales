@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.3.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-07 16:11+0300\n"
+"POT-Creation-Date: 2019-05-28 11:42+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ro\n"
@@ -70,9 +70,6 @@ msgid "Apply"
 msgstr ""
 
 msgid "April"
-msgstr ""
-
-msgid "Are you sure want to delete"
 msgstr ""
 
 msgid ""
@@ -192,6 +189,9 @@ msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr ""
 
 msgid "Export the records as CSV"
+msgstr ""
+
+msgid "Eye Keeper is enabled"
 msgstr ""
 
 msgid "Favorites"
@@ -318,6 +318,9 @@ msgstr ""
 msgid "Long break duration"
 msgstr ""
 
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr ""
+
 msgid "March"
 msgstr ""
 
@@ -369,6 +372,9 @@ msgstr ""
 msgid "POMODORO"
 msgstr ""
 
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr ""
+
 msgid "Pin to favorites"
 msgstr ""
 
@@ -393,7 +399,6 @@ msgstr ""
 msgid "Please, login to view your stats"
 msgstr ""
 
-#, fuzzy
 msgid "Pomodoro duration"
 msgstr ""
 
@@ -401,6 +406,9 @@ msgid "Pomodoro is finished."
 msgstr ""
 
 msgid "Preferences"
+msgstr ""
+
+msgid "Press"
 msgstr ""
 
 msgid "Privacy Policy"
@@ -422,6 +430,9 @@ msgid "Refine the estimation process, both in qualitative and quantitative terms
 msgstr ""
 
 msgid "Register"
+msgstr ""
+
+msgid "Relax"
 msgstr ""
 
 msgid "Release Notes"
@@ -470,6 +481,9 @@ msgid "Show window"
 msgstr ""
 
 msgid "Sign Up / Login"
+msgstr ""
+
+msgid "Sleep Mode is enabled"
 msgstr ""
 
 msgid "Sort by"
@@ -577,6 +591,9 @@ msgid "Timer"
 msgstr ""
 
 msgid "Title"
+msgstr ""
+
+msgid "Toggle eye keeper"
 msgstr ""
 
 msgid "Toggle fullscreen"
@@ -696,6 +713,9 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
+msgid "if you must exit now"
+msgstr ""
+
 msgid "in 10 seconds"
 msgstr ""
 
@@ -738,6 +758,9 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
+msgid "never"
+msgstr ""
+
 msgid "next page"
 msgstr ""
 
@@ -775,9 +798,6 @@ msgid "quarter"
 msgstr ""
 
 msgid "rating"
-msgstr ""
-
-msgid "record"
 msgstr ""
 
 msgid "refresh"
@@ -844,4 +864,13 @@ msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+
+#~ msgid "Are you sure want to delete"
+#~ msgstr ""
+
+#~ msgid "Look away at something that is 6 metres away for 20 seconds"
+#~ msgstr ""
+
+#~ msgid "record"
+#~ msgstr ""
 

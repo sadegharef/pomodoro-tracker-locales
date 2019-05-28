@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-05-07 16:11+0300\n"
+"POT-Creation-Date: 2019-05-28 11:42+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -70,9 +70,6 @@ msgstr "Potwierdź"
 
 msgid "April"
 msgstr "Kwiecień"
-
-msgid "Are you sure want to delete"
-msgstr "Czy na pewno usunąć?"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -729,6 +726,9 @@ msgid_plural "months"
 msgstr[0] "miesiąć"
 msgstr[1] "miesiące"
 
+msgid "never"
+msgstr ""
+
 msgid "next page"
 msgstr "następna strona"
 
@@ -766,9 +766,6 @@ msgstr "kwartał"
 
 msgid "rating"
 msgstr "ocena"
-
-msgid "record"
-msgstr "rekord"
 
 msgid "refresh"
 msgstr "odświeżać"
@@ -836,6 +833,9 @@ msgid_plural "years"
 msgstr[0] "rok"
 msgstr[1] "lata"
 
+#~ msgid "Are you sure want to delete"
+#~ msgstr "Czy na pewno usunąć?"
+
 #~ msgid "Daily history"
 #~ msgstr "Historia dnia"
 
@@ -859,4 +859,7 @@ msgstr[1] "lata"
 
 #~ msgid "View"
 #~ msgstr "Widok"
+
+#~ msgid "record"
+#~ msgstr "rekord"
 

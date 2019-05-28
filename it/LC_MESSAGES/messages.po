@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-07 16:11+0300\n"
+"POT-Creation-Date: 2019-05-28 11:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -70,9 +70,6 @@ msgstr "Applica"
 
 msgid "April"
 msgstr "Aprile"
-
-msgid "Are you sure want to delete"
-msgstr "Sei sicuro di volere eliminare"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -194,6 +191,9 @@ msgstr "Accresce il focus e la concentrazione riducendo le interruzioni"
 
 msgid "Export the records as CSV"
 msgstr "Esporta i record come CSV"
+
+msgid "Eye Keeper is enabled"
+msgstr ""
 
 msgid "Favorites"
 msgstr "Preferiti"
@@ -322,6 +322,9 @@ msgstr "Ritardo lunga pausa"
 msgid "Long break duration"
 msgstr "Durata pausa lunga"
 
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr ""
+
 msgid "March"
 msgstr "Marzo"
 
@@ -373,6 +376,9 @@ msgstr "Un minuto rimasto"
 msgid "POMODORO"
 msgstr "POMODORO"
 
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr ""
+
 msgid "Pin to favorites"
 msgstr "Pin ai preferiti"
 
@@ -406,6 +412,9 @@ msgstr "Pomodoro è finito."
 msgid "Preferences"
 msgstr "Preferenze"
 
+msgid "Press"
+msgstr ""
+
 msgid "Privacy Policy"
 msgstr "Informativa sulla privacy"
 
@@ -428,6 +437,9 @@ msgstr ""
 
 msgid "Register"
 msgstr "Registrati"
+
+msgid "Relax"
+msgstr ""
 
 msgid "Release Notes"
 msgstr "Note di rilascio"
@@ -476,6 +488,9 @@ msgstr "Mostra la finestra"
 
 msgid "Sign Up / Login"
 msgstr "Registrati / Login"
+
+msgid "Sleep Mode is enabled"
+msgstr ""
 
 msgid "Sort by"
 msgstr "Ordina per"
@@ -597,6 +612,9 @@ msgstr "Orologio"
 msgid "Title"
 msgstr "Titolo"
 
+msgid "Toggle eye keeper"
+msgstr ""
+
 msgid "Toggle fullscreen"
 msgstr "Passa a schermo intero"
 
@@ -712,6 +730,9 @@ msgid_plural "hours"
 msgstr[0] "ora"
 msgstr[1] "ore"
 
+msgid "if you must exit now"
+msgstr ""
+
 msgid "in 10 seconds"
 msgstr "in 10 secondi"
 
@@ -751,6 +772,9 @@ msgid_plural "months"
 msgstr[0] "mese"
 msgstr[1] "mesi"
 
+msgid "never"
+msgstr ""
+
 msgid "next page"
 msgstr "pagina successiva"
 
@@ -788,9 +812,6 @@ msgstr "trimestre"
 
 msgid "rating"
 msgstr "valutazione"
-
-msgid "record"
-msgstr "record"
 
 msgid "refresh"
 msgstr "ricaricare"
@@ -858,11 +879,17 @@ msgid_plural "years"
 msgstr[0] "anno"
 msgstr[1] "anni"
 
+#~ msgid "Are you sure want to delete"
+#~ msgstr "Sei sicuro di volere eliminare"
+
 #~ msgid "Daily history"
 #~ msgstr "Storico quotidiano"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "Entra per salvare il tuo lavoro"
+
+#~ msgid "Look away at something that is 6 metres away for 20 seconds"
+#~ msgstr ""
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "Invia Report Giornalieri"
@@ -872,4 +899,7 @@ msgstr[1] "anni"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Prova a completare alcuni pomodori sopra"
+
+#~ msgid "record"
+#~ msgstr "record"
 

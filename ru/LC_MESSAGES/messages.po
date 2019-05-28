@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-07 16:10+0300\n"
+"POT-Creation-Date: 2019-05-28 11:41+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -71,9 +71,6 @@ msgstr "Применить"
 
 msgid "April"
 msgstr "Апрель"
-
-msgid "Are you sure want to delete"
-msgstr "Вы уверены, что хотите удалить"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -195,6 +192,9 @@ msgstr "Улучшения концентрации, избавления от �
 
 msgid "Export the records as CSV"
 msgstr "Экспорт записей в CSV"
+
+msgid "Eye Keeper is enabled"
+msgstr "Хранитель глаз включен"
 
 msgid "Favorites"
 msgstr "Избранное"
@@ -324,6 +324,9 @@ msgstr "Длинный перерыв через каждые"
 msgid "Long break duration"
 msgstr "Продолжительность длинного перерыва"
 
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr "Смотрите вдаль (от 6 метров) в течении %1$s секунд"
+
 msgid "March"
 msgstr "Март"
 
@@ -375,6 +378,9 @@ msgstr "Осталась одна минута"
 msgid "POMODORO"
 msgstr "ПОМИДОР"
 
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr "Останавливать таймер когда комьютер уходит в спящий режим"
+
 msgid "Pin to favorites"
 msgstr "Добавить в избранное"
 
@@ -408,6 +414,9 @@ msgstr "Помидор окончен."
 msgid "Preferences"
 msgstr "Настройки"
 
+msgid "Press"
+msgstr "Нажмите"
+
 msgid "Privacy Policy"
 msgstr "Политика конфиденциальности"
 
@@ -428,6 +437,9 @@ msgstr "Уточнения процесса оценки задач, качес�
 
 msgid "Register"
 msgstr "Зарегистрировать"
+
+msgid "Relax"
+msgstr "Пора отдохнуть"
 
 msgid "Release Notes"
 msgstr "Новости проекта"
@@ -476,6 +488,9 @@ msgstr "Показать окно"
 
 msgid "Sign Up / Login"
 msgstr "Регистрация / Вход"
+
+msgid "Sleep Mode is enabled"
+msgstr "Спящий режим включен"
 
 msgid "Sort by"
 msgstr "Сортировать по"
@@ -596,6 +611,9 @@ msgstr "Таймер"
 msgid "Title"
 msgstr "Заголовок"
 
+msgid "Toggle eye keeper"
+msgstr "Включить/выключить хранитель глаз"
+
 msgid "Toggle fullscreen"
 msgstr "Переключить полный экран"
 
@@ -713,6 +731,9 @@ msgstr[0] "час"
 msgstr[1] "часа"
 msgstr[2] "часов"
 
+msgid "if you must exit now"
+msgstr "чтобы немедленно выйти"
+
 msgid "in 10 seconds"
 msgstr "через 10 секунд"
 
@@ -755,6 +776,9 @@ msgstr[0] "месяц"
 msgstr[1] "месяца"
 msgstr[2] "месяцев"
 
+msgid "never"
+msgstr "никогда"
+
 msgid "next page"
 msgstr "следующая страница"
 
@@ -793,9 +817,6 @@ msgstr "квартал"
 
 msgid "rating"
 msgstr "рейтинг"
-
-msgid "record"
-msgstr "запись"
 
 msgid "refresh"
 msgstr "обновить"
@@ -862,6 +883,9 @@ msgstr[0] "год"
 msgstr[1] "года"
 msgstr[2] "лет"
 
+#~ msgid "Are you sure want to delete"
+#~ msgstr "Вы уверены, что хотите удалить"
+
 #~ msgid "Daily history"
 #~ msgstr "История задач"
 
@@ -876,4 +900,7 @@ msgstr[2] "лет"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Попробуйте выполнить несколько помидоров"
+
+#~ msgid "record"
+#~ msgstr "запись"
 

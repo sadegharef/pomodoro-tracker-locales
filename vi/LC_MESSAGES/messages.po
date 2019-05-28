@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-07 16:11+0300\n"
+"POT-Creation-Date: 2019-05-28 11:42+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -70,9 +70,6 @@ msgstr "Áp dụng"
 
 msgid "April"
 msgstr "Tháng 4"
-
-msgid "Are you sure want to delete"
-msgstr "Bạn có chắc muốn xoá đi?"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -194,6 +191,9 @@ msgstr ""
 
 msgid "Export the records as CSV"
 msgstr "Xuất các bản ghi dưới dạng CSV "
+
+msgid "Eye Keeper is enabled"
+msgstr ""
 
 msgid "Favorites"
 msgstr "Yêu thích"
@@ -322,6 +322,9 @@ msgstr "Trước khi nghỉ dài"
 msgid "Long break duration"
 msgstr "Thời gian nghỉ dài"
 
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr ""
+
 msgid "March"
 msgstr "Tháng 3"
 
@@ -373,6 +376,9 @@ msgstr "Còn một phút"
 msgid "POMODORO"
 msgstr "POMODORO"
 
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr ""
+
 msgid "Pin to favorites"
 msgstr "Gắn lên Yêu thích"
 
@@ -406,6 +412,9 @@ msgstr "Pomodoro đã hoàn tất."
 msgid "Preferences"
 msgstr "Cấu hình"
 
+msgid "Press"
+msgstr ""
+
 msgid "Privacy Policy"
 msgstr "Chính sách bảo mật"
 
@@ -426,6 +435,9 @@ msgstr ""
 
 msgid "Register"
 msgstr "Đăng kí"
+
+msgid "Relax"
+msgstr ""
 
 msgid "Release Notes"
 msgstr ""
@@ -474,6 +486,9 @@ msgstr ""
 
 msgid "Sign Up / Login"
 msgstr "Đăng kí / Đăng nhập"
+
+msgid "Sleep Mode is enabled"
+msgstr ""
 
 msgid "Sort by"
 msgstr "Sắp xếp theo"
@@ -581,6 +596,9 @@ msgstr "Đồng hồ đếm ngược"
 
 msgid "Title"
 msgstr "Tên"
+
+msgid "Toggle eye keeper"
+msgstr ""
 
 msgid "Toggle fullscreen"
 msgstr "Toggle toàn màn hình"
@@ -695,6 +713,9 @@ msgid "hour"
 msgid_plural "hours"
 msgstr[0] ""
 
+msgid "if you must exit now"
+msgstr ""
+
 msgid "in 10 seconds"
 msgstr "trong 10 giây"
 
@@ -730,6 +751,9 @@ msgstr[0] ""
 msgid "month"
 msgid_plural "months"
 msgstr[0] ""
+
+msgid "never"
+msgstr ""
 
 msgid "next page"
 msgstr "trang tiếp theo"
@@ -767,9 +791,6 @@ msgstr "quý"
 
 msgid "rating"
 msgstr "đánh giá"
-
-msgid "record"
-msgstr ""
 
 msgid "refresh"
 msgstr "làm tươi"
@@ -834,11 +855,17 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] ""
 
+#~ msgid "Are you sure want to delete"
+#~ msgstr "Bạn có chắc muốn xoá đi?"
+
 #~ msgid "Daily history"
 #~ msgstr "Lịch sử hằng ngày"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "Đăng nhập để xem số liệu thống kê của bạn"
+
+#~ msgid "Look away at something that is 6 metres away for 20 seconds"
+#~ msgstr ""
 
 #~ msgid "Send Daily Reports"
 #~ msgstr ""
@@ -848,4 +875,7 @@ msgstr[0] ""
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Hãy thử hoàn thành vài pomodoros ở trên"
+
+#~ msgid "record"
+#~ msgstr ""
 

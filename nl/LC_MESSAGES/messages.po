@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-05-07 16:11+0300\n"
+"POT-Creation-Date: 2019-05-28 11:41+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -69,9 +69,6 @@ msgstr "Toepassen"
 
 msgid "April"
 msgstr "april"
-
-msgid "Are you sure want to delete"
-msgstr "Weet u zeker dat u dit wilt verwijderen"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -193,6 +190,9 @@ msgstr "Verbeteren van focus en concentratie, door onderbrekingen te verminderen
 
 msgid "Export the records as CSV"
 msgstr "Exporteer als csv"
+
+msgid "Eye Keeper is enabled"
+msgstr ""
 
 msgid "Favorites"
 msgstr "Favorieten"
@@ -320,6 +320,9 @@ msgstr "Lange pazue na"
 msgid "Long break duration"
 msgstr "Lange-pauzeduur"
 
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr ""
+
 msgid "March"
 msgstr "maart"
 
@@ -371,6 +374,9 @@ msgstr "Eén minuut over"
 msgid "POMODORO"
 msgstr "POMODORO"
 
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr ""
+
 msgid "Pin to favorites"
 msgstr "Pin aan favorieten"
 
@@ -404,6 +410,9 @@ msgstr "Pomodoro is klaar."
 msgid "Preferences"
 msgstr "Voorkeuren"
 
+msgid "Press"
+msgstr ""
+
 msgid "Privacy Policy"
 msgstr "Privacy Policy"
 
@@ -426,6 +435,9 @@ msgstr ""
 
 msgid "Register"
 msgstr "Registreren"
+
+msgid "Relax"
+msgstr ""
 
 msgid "Release Notes"
 msgstr "Release Notes"
@@ -474,6 +486,9 @@ msgstr "Toon venster"
 
 msgid "Sign Up / Login"
 msgstr "Aanmelden / inloggen"
+
+msgid "Sleep Mode is enabled"
+msgstr ""
 
 msgid "Sort by"
 msgstr "Sorteer op"
@@ -598,6 +613,9 @@ msgstr "Timer"
 msgid "Title"
 msgstr "Titel"
 
+msgid "Toggle eye keeper"
+msgstr ""
+
 msgid "Toggle fullscreen"
 msgstr "Volledig scherm"
 
@@ -713,6 +731,9 @@ msgid_plural "hours"
 msgstr[0] "uur"
 msgstr[1] "uren"
 
+msgid "if you must exit now"
+msgstr ""
+
 msgid "in 10 seconds"
 msgstr "na 10 seconden"
 
@@ -752,6 +773,9 @@ msgid_plural "months"
 msgstr[0] "maand"
 msgstr[1] "maanden"
 
+msgid "never"
+msgstr ""
+
 msgid "next page"
 msgstr "volgende pagina"
 
@@ -789,9 +813,6 @@ msgstr "kwartaal"
 
 msgid "rating"
 msgstr "rating"
-
-msgid "record"
-msgstr "record"
 
 msgid "refresh"
 msgstr "verfrissen"
@@ -859,11 +880,17 @@ msgid_plural "years"
 msgstr[0] "jaar"
 msgstr[1] "jaren"
 
+#~ msgid "Are you sure want to delete"
+#~ msgstr "Weet u zeker dat u dit wilt verwijderen"
+
 #~ msgid "Daily history"
 #~ msgstr "Dagelijkse geschiedenis"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "Login om uw statistieken te zien"
+
+#~ msgid "Look away at something that is 6 metres away for 20 seconds"
+#~ msgstr ""
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "Stuur dagelijkse rapportages"
@@ -873,4 +900,7 @@ msgstr[1] "jaren"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Probeer wat pomodori hierboven af te ronden"
+
+#~ msgid "record"
+#~ msgstr "record"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-07 16:11+0300\n"
+"POT-Creation-Date: 2019-05-28 11:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -70,9 +70,6 @@ msgstr "適用"
 
 msgid "April"
 msgstr "4月"
-
-msgid "Are you sure want to delete"
-msgstr "削除してよろしいですか？"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -192,6 +189,9 @@ msgstr "作業の割り込みを断ち切ることで集中力を向上させま
 
 msgid "Export the records as CSV"
 msgstr "CSV出力"
+
+msgid "Eye Keeper is enabled"
+msgstr ""
 
 msgid "Favorites"
 msgstr "お気に入り"
@@ -317,6 +317,9 @@ msgstr "長い休憩までの回数"
 msgid "Long break duration"
 msgstr "長い休憩時間"
 
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr ""
+
 msgid "March"
 msgstr "3月"
 
@@ -368,6 +371,9 @@ msgstr "残り1分です"
 msgid "POMODORO"
 msgstr "ポモドーロ"
 
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr ""
+
 msgid "Pin to favorites"
 msgstr "お気に入りに追加"
 
@@ -401,6 +407,9 @@ msgstr "ポモドーロ終了です、"
 msgid "Preferences"
 msgstr "設定"
 
+msgid "Press"
+msgstr ""
+
 msgid "Privacy Policy"
 msgstr "個人情報保護方針"
 
@@ -421,6 +430,9 @@ msgstr "定性的および定量的な見積もりの精度を改善します"
 
 msgid "Register"
 msgstr "登録"
+
+msgid "Relax"
+msgstr ""
 
 msgid "Release Notes"
 msgstr "リリースノート"
@@ -469,6 +481,9 @@ msgstr "ウィンドウを表示"
 
 msgid "Sign Up / Login"
 msgstr "ユーザー登録 / ログイン"
+
+msgid "Sleep Mode is enabled"
+msgstr ""
 
 msgid "Sort by"
 msgstr "並び替え"
@@ -576,6 +591,9 @@ msgstr "タイマー"
 
 msgid "Title"
 msgstr "タイトル"
+
+msgid "Toggle eye keeper"
+msgstr ""
 
 msgid "Toggle fullscreen"
 msgstr "フルスクリーン切り替え"
@@ -692,6 +710,9 @@ msgid_plural "hours"
 msgstr[0] "時"
 msgstr[1] "時間"
 
+msgid "if you must exit now"
+msgstr ""
+
 msgid "in 10 seconds"
 msgstr "10秒"
 
@@ -731,6 +752,9 @@ msgid_plural "months"
 msgstr[0] "月"
 msgstr[1] "数ヶ月"
 
+msgid "never"
+msgstr ""
+
 msgid "next page"
 msgstr "次のページ"
 
@@ -768,9 +792,6 @@ msgstr "四半期"
 
 msgid "rating"
 msgstr "評価"
-
-msgid "record"
-msgstr "記録"
 
 msgid "refresh"
 msgstr "リフレシュ"
@@ -836,11 +857,17 @@ msgid_plural "years"
 msgstr[0] "年"
 msgstr[1] "年々"
 
+#~ msgid "Are you sure want to delete"
+#~ msgstr "削除してよろしいですか？"
+
 #~ msgid "Daily history"
 #~ msgstr "毎日の歴史"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "ログインして統計情報を表示する"
+
+#~ msgid "Look away at something that is 6 metres away for 20 seconds"
+#~ msgstr ""
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "日報を送る"
@@ -850,4 +877,7 @@ msgstr[1] "年々"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "上記のポモドーロを完了してください"
+
+#~ msgid "record"
+#~ msgstr "記録"
 
