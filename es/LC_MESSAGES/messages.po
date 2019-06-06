@@ -112,7 +112,7 @@ msgid "Clear DONE history once per day"
 msgstr "Borrar el historial de HECHO una vez por día"
 
 msgid "Clear the list"
-msgstr "Limpiar el lista"
+msgstr "Limpiar la lista"
 
 msgid "Click on a number to add more."
 msgstr "Click en un número para agregar más"
