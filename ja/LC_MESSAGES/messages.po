@@ -51,7 +51,7 @@ msgid "Add TODO"
 msgstr "TODOの追加"
 
 msgid "Add category"
-msgstr "カテゴリの追加"
+msgstr "カテゴリーの追加"
 
 msgid "Add more"
 msgstr "もう一回"
@@ -140,7 +140,7 @@ msgid "Create"
 msgstr "作成"
 
 msgid "Create a category"
-msgstr "カテゴリを作成する"
+msgstr "カテゴリーを作成する"
 
 msgid "Custom"
 msgstr "カスタム"
