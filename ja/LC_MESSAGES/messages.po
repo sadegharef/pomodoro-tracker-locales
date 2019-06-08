@@ -57,7 +57,7 @@ msgid "Add more"
 msgstr "もう一回"
 
 msgid "Add new tasks to the top"
-msgstr ""
+msgstr "新しいタスクを一番上にする"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr "迫りくる不安を和らげます"
@@ -250,10 +250,10 @@ msgid "January"
 msgstr "1月"
 
 msgid "Join our Slack Community"
-msgstr ""
+msgstr "Slackのコミュニティに参加する"
 
 msgid "Join the global rating"
-msgstr ""
+msgstr "レーティングに参加する"
 
 msgid "July"
 msgstr "7月"
@@ -438,7 +438,7 @@ msgid "Release Notes"
 msgstr "リリースノート"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
-msgstr ""
+msgstr "ポモドーロが完了した時、TODOからタスクを取り除く"
 
 msgid "Reports Time"
 msgstr ""
@@ -506,7 +506,7 @@ msgid "Support the Project"
 msgstr "プロジェクトをサポートする"
 
 msgid "Sync with Google Tasks"
-msgstr ""
+msgstr "Google Tasksに同期する"
 
 msgid "TODO"
 msgstr "TODO"
@@ -803,7 +803,7 @@ msgid "registered users spend on completing pomodoros today."
 msgstr "登録ユーザーは今日のポモドーロを完了するのに費やす"
 
 msgid "remove categories"
-msgstr ""
+msgstr "カテゴリーを削除する"
 
 msgid "resume"
 msgstr "再開"
