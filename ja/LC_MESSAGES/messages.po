@@ -489,10 +489,10 @@ msgid "Sort by"
 msgstr "並び替え"
 
 msgid "Start the Pomodoro timer"
-msgstr "ポモドーロ・タイマーを開始する"
+msgstr "ポモドーロ・タイマーを開始します"
 
 msgid "Start working:"
-msgstr "作業を開始する"
+msgstr "作業の進め方："
 
 msgid "Stats"
 msgstr "統計"
@@ -518,7 +518,7 @@ msgid "TODO list was updated."
 msgstr "TODOリストが更新されました"
 
 msgid "Take a short break (3-5 minutes)"
-msgstr "（3-5分）の短時間休憩"
+msgstr "（3-5分）の短時間休憩を取ってください"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "フィードバックをいただきありがとうございます！あなたのメッセージは承認待ちです。"
@@ -551,7 +551,7 @@ msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
-msgstr "ポモドーロ・テクニックを使うことで、やりたいことをやりたい方法で成し遂げる為の強力な味方として時間を利用することが出来ます。そして、仕事や勉強の仕方を絶え間なく改善することが可能になります。"
+msgstr "ポモドーロ・テクニックを使うことで、やりたいことをやりたいように達成することができます。そして、仕事や勉強の仕方を絶え間なく改善することが可能になります。"
 
 msgid "The list is empty"
 msgstr "リストは空です。"
@@ -629,7 +629,7 @@ msgid "Work history won`t be saved."
 msgstr "仕事の歴史は保存されません。"
 
 msgid "Work until the Pomodoro rings"
-msgstr "タイマーが鳴るまでの作業"
+msgstr "タイマーが鳴るまで作業します"
 
 msgid "Write your ideas here"
 msgstr "あなたのアイデアを書いてください"
