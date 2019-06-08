@@ -411,7 +411,7 @@ msgid "Press"
 msgstr ""
 
 msgid "Privacy Policy"
-msgstr "個人情報保護方針"
+msgstr "Privacy Policy"
 
 msgid "Provide Feedback"
 msgstr "フィードバックを提供します"
@@ -659,7 +659,7 @@ msgid "as Google user"
 msgstr "Googleアカウントでログインする"
 
 msgid "auto"
-msgstr "自動の"
+msgstr "auto"
 
 msgid "average"
 msgstr "平均"
@@ -674,7 +674,7 @@ msgid "created"
 msgstr "作成した"
 
 msgid "dark"
-msgstr "ダーク"
+msgstr "dark"
 
 msgid "day"
 msgid_plural "days"
@@ -732,7 +732,7 @@ msgid "in pomodoros"
 msgstr "ポモドーロ"
 
 msgid "light"
-msgstr "光"
+msgstr "light"
 
 msgid "like"
 msgid_plural "likes"
@@ -844,7 +844,7 @@ msgid "user"
 msgstr "ユーザー"
 
 msgid "version"
-msgstr "バージョン"
+msgstr "version"
 
 msgid "week"
 msgstr "週"
