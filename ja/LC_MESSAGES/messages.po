@@ -33,13 +33,13 @@ msgid "Activities"
 msgstr "アクティビティ"
 
 msgid "Activity by days"
-msgstr "日別"
+msgstr "アクティビティ / 日ごと"
 
 msgid "Activity by months"
-msgstr "月別"
+msgstr "アクティビティ / 月ごと"
 
 msgid "Activity by weeks"
-msgstr "週別"
+msgstr "アクティビティ / 週ごと"
 
 msgid "Add"
 msgstr "追加"
@@ -294,7 +294,7 @@ msgid "Loading"
 msgstr "読み込み中"
 
 msgid "Login to the service and track your progress"
-msgstr "ログインして進捗を確認する"
+msgstr "ログインして進捗を確認しましょう"
 
 msgid "Login to the service using Facebook authentication."
 msgstr "Facebookアカウントでログインする"
@@ -351,7 +351,7 @@ msgid "Notifications"
 msgstr "通知"
 
 msgid "Notify when there is one minute left"
-msgstr "1分が残っているときに通知する"
+msgstr "残り1分で通知する"
 
 msgid "November"
 msgstr "11月"
@@ -671,7 +671,7 @@ msgid "close"
 msgstr "閉じる"
 
 msgid "created"
-msgstr "作成した"
+msgstr "新しい順"
 
 msgid "dark"
 msgstr "dark"
@@ -697,7 +697,7 @@ msgid "focus"
 msgstr ""
 
 msgid "for all time"
-msgstr "いつでも"
+msgstr "経ちました"
 
 msgid "friends"
 msgstr ""
@@ -791,16 +791,16 @@ msgid "quarter"
 msgstr "四半期"
 
 msgid "rating"
-msgstr "評価"
+msgstr "評価順"
 
 msgid "refresh"
 msgstr "リフレシュ"
 
 msgid "registered users spend on completing pomodoros"
-msgstr "登録ユーザーはポモドーロを完了するのに費やす"
+msgstr " / 登録ユーザの今日のポモドーロの合計"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr "登録ユーザーは今日のポモドーロを完了するのに費やす"
+msgstr " / 登録ユーザの今日のポモドーロの合計"
 
 msgid "remove categories"
 msgstr "カテゴリーを削除する"
