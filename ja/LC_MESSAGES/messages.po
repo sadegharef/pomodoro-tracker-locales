@@ -333,7 +333,7 @@ msgid "May"
 msgstr "5月"
 
 msgid "Median per day"
-msgstr "1日平均"
+msgstr "1日の中央値"
 
 msgid "Navigate Back"
 msgstr ""
@@ -740,7 +740,7 @@ msgstr[0] "いいね"
 msgstr[1] "いいね"
 
 msgid "median"
-msgstr "平均"
+msgstr "中央値"
 
 msgid "minute"
 msgid_plural "minutes"
