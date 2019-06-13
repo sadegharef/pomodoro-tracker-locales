@@ -33,13 +33,13 @@ msgid "Activities"
 msgstr "アクティビティ"
 
 msgid "Activity by days"
-msgstr "日別"
+msgstr "アクティビティ / 日ごと"
 
 msgid "Activity by months"
-msgstr "月別"
+msgstr "アクティビティ / 月ごと"
 
 msgid "Activity by weeks"
-msgstr "週別"
+msgstr "アクティビティ / 週ごと"
 
 msgid "Add"
 msgstr "追加"
@@ -51,13 +51,13 @@ msgid "Add TODO"
 msgstr "TODOの追加"
 
 msgid "Add category"
-msgstr "カテゴリの追加"
+msgstr "カテゴリーの追加"
 
 msgid "Add more"
 msgstr "もう一回"
 
 msgid "Add new tasks to the top"
-msgstr ""
+msgstr "新しいタスクを一番上にする"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr "迫りくる不安を和らげます"
@@ -131,7 +131,7 @@ msgid "Create"
 msgstr "作成"
 
 msgid "Create a category"
-msgstr "カテゴリを作成する"
+msgstr "カテゴリーを作成する"
 
 msgid "Daily Goal"
 msgstr "毎日の目標"
@@ -229,10 +229,10 @@ msgid "Integrations"
 msgstr "連携機能"
 
 msgid "Join our Slack Community"
-msgstr ""
+msgstr "Slackのコミュニティに参加する"
 
 msgid "Join the global rating"
-msgstr ""
+msgstr "レーティングに参加する"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -267,7 +267,7 @@ msgid "Loading"
 msgstr "読み込み中"
 
 msgid "Login to the service and track your progress"
-msgstr "ログインして進捗を確認する"
+msgstr "ログインして進捗を確認しましょう"
 
 msgid "Login to the service using Facebook authentication."
 msgstr "Facebookアカウントでログインする"
@@ -300,7 +300,7 @@ msgid "Mark as done"
 msgstr "完了にする"
 
 msgid "Median per day"
-msgstr "1日平均"
+msgstr "1日の中央値"
 
 msgid "Navigate Back"
 msgstr ""
@@ -318,7 +318,7 @@ msgid "Notifications"
 msgstr "通知"
 
 msgid "Notify when there is one minute left"
-msgstr "1分が残っているときに通知する"
+msgstr "残り1分で通知する"
 
 msgid "Of those"
 msgstr "それらのうち"
@@ -360,7 +360,7 @@ msgid "Please, login to view your stats"
 msgstr "ログインして統計情報を表示する"
 
 msgid "Pomodoro duration"
-msgstr "ポモドーロの間隔"
+msgstr "ポモドーロの長さ"
 
 msgid "Pomodoro is finished."
 msgstr "ポモドーロ終了です、"
@@ -372,7 +372,7 @@ msgid "Press"
 msgstr ""
 
 msgid "Privacy Policy"
-msgstr "個人情報保護方針"
+msgstr "Privacy Policy"
 
 msgid "Provide Feedback"
 msgstr "フィードバックを提供します"
@@ -399,7 +399,7 @@ msgid "Release Notes"
 msgstr "リリースノート"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
-msgstr ""
+msgstr "ポモドーロが完了した時、TODOからタスクを取り除く"
 
 msgid "Reports Time"
 msgstr ""
@@ -447,10 +447,10 @@ msgid "Sort by"
 msgstr "並び替え"
 
 msgid "Start the Pomodoro timer"
-msgstr "ポモドーロ・タイマーを開始する"
+msgstr "ポモドーロ・タイマーを開始します"
 
 msgid "Start working:"
-msgstr "作業を開始する"
+msgstr "作業の進め方："
 
 msgid "Stats"
 msgstr "統計"
@@ -464,7 +464,7 @@ msgid "Support the Project"
 msgstr "プロジェクトをサポートする"
 
 msgid "Sync with Google Tasks"
-msgstr ""
+msgstr "Google Tasksに同期する"
 
 msgid "TODO"
 msgstr "TODO"
@@ -476,7 +476,7 @@ msgid "TODO list was updated."
 msgstr "TODOリストが更新されました"
 
 msgid "Take a short break (3-5 minutes)"
-msgstr "（3-5分）の短時間休憩"
+msgstr "（3-5分）の短時間休憩を取ってください"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "フィードバックをいただきありがとうございます！あなたのメッセージは承認待ちです。"
@@ -509,7 +509,7 @@ msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
-msgstr "ポモドーロ・テクニックを使うことで、やりたいことをやりたい方法で成し遂げる為の強力な味方として時間を利用することが出来ます。そして、仕事や勉強の仕方を絶え間なく改善することが可能になります。"
+msgstr "ポモドーロ・テクニックを使うことで、やりたいことをやりたいように達成することができます。そして、仕事や勉強の仕方を絶え間なく改善することが可能になります。"
 
 msgid "The list is empty"
 msgstr "リストは空です。"
@@ -587,7 +587,7 @@ msgid "Work history won`t be saved."
 msgstr "仕事の歴史は保存されません。"
 
 msgid "Work until the Pomodoro rings"
-msgstr "タイマーが鳴るまでの作業"
+msgstr "タイマーが鳴るまで作業します"
 
 msgid "Write your ideas here"
 msgstr "あなたのアイデアを書いてください"
@@ -617,7 +617,7 @@ msgid "as Google user"
 msgstr "Googleアカウントでログインする"
 
 msgid "auto"
-msgstr "自動の"
+msgstr "auto"
 
 msgid "average"
 msgstr "平均"
@@ -629,15 +629,15 @@ msgid "close"
 msgstr "閉じる"
 
 msgid "created"
-msgstr "作成した"
+msgstr "新しい順"
 
 msgid "dark"
-msgstr "ダーク"
+msgstr "dark"
 
 msgid "day"
 msgid_plural "days"
 msgstr[0] "日"
-msgstr[1] "月日"
+msgstr[1] "日"
 
 msgid "delay"
 msgstr "遅れ"
@@ -655,7 +655,7 @@ msgid "focus"
 msgstr ""
 
 msgid "for all time"
-msgstr "いつでも"
+msgstr "経ちました"
 
 msgid "friends"
 msgstr ""
@@ -684,13 +684,13 @@ msgid "in 5 seconds"
 msgstr "5秒"
 
 msgid "in minutes"
-msgstr "分単位"
+msgstr "分間"
 
 msgid "in pomodoros"
 msgstr "ポモドーロ"
 
 msgid "light"
-msgstr "光"
+msgstr "light"
 
 msgid "like"
 msgid_plural "likes"
@@ -698,7 +698,7 @@ msgstr[0] "いいね"
 msgstr[1] "いいね"
 
 msgid "median"
-msgstr "平均"
+msgstr "中央値"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -708,7 +708,7 @@ msgstr[1] "分"
 msgid "month"
 msgid_plural "months"
 msgstr[0] "月"
-msgstr[1] "数ヶ月"
+msgstr[1] "月"
 
 msgid "never"
 msgstr ""
@@ -720,7 +720,7 @@ msgid "no description"
 msgstr "説明無し"
 
 msgid "number"
-msgstr "単位数"
+msgstr "単位"
 
 msgid "on"
 msgstr "に"
@@ -749,19 +749,19 @@ msgid "quarter"
 msgstr "四半期"
 
 msgid "rating"
-msgstr "評価"
+msgstr "評価順"
 
 msgid "refresh"
 msgstr "リフレシュ"
 
 msgid "registered users spend on completing pomodoros"
-msgstr "登録ユーザーはポモドーロを完了するのに費やす"
+msgstr " / 登録ユーザの今日のポモドーロの合計"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr "登録ユーザーは今日のポモドーロを完了するのに費やす"
+msgstr " / 登録ユーザの今日のポモドーロの合計"
 
 msgid "remove categories"
-msgstr ""
+msgstr "カテゴリーを削除する"
 
 msgid "resume"
 msgstr "再開"
@@ -788,7 +788,7 @@ msgid "take a short break"
 msgstr "短時間休憩"
 
 msgid "time"
-msgstr "時間数"
+msgstr "時間"
 
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
@@ -802,10 +802,10 @@ msgid "user"
 msgstr "ユーザー"
 
 msgid "version"
-msgstr "バージョン"
+msgstr "version"
 
 msgid "week"
-msgstr "あった"
+msgstr "週"
 
 msgid "were"
 msgstr "週間"
@@ -813,7 +813,7 @@ msgstr "週間"
 msgid "year"
 msgid_plural "years"
 msgstr[0] "年"
-msgstr[1] "年々"
+msgstr[1] "年"
 
 #~ msgid "Apply"
 #~ msgstr "適用"
