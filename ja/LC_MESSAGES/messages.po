@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-13 11:22+0300\n"
+"POT-Creation-Date: 2019-06-13 14:01+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -359,6 +359,9 @@ msgstr ""
 msgid "Please, login to view your stats"
 msgstr "ログインして統計情報を表示する"
 
+msgid "Pomodoro Tracker is a productivity app designed for your work and study."
+msgstr ""
+
 msgid "Pomodoro duration"
 msgstr "ポモドーロの長さ"
 
@@ -455,6 +458,9 @@ msgstr "作業の進め方："
 msgid "Stats"
 msgstr "統計"
 
+msgid "Stay focused and finish tasks effectively."
+msgstr ""
+
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
@@ -477,6 +483,9 @@ msgstr "TODOリストが更新されました"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "（3-5分）の短時間休憩を取ってください"
+
+msgid "Take more time to your life."
+msgstr ""
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "フィードバックをいただきありがとうございます！あなたのメッセージは承認待ちです。"
@@ -504,6 +513,11 @@ msgid ""
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr "ポモドーロ・テクニックは、（あなた自身と他のチームメンバーの）生産性を向上させるためのシンプルなツールとプロセスを提供します。"
+
+msgid ""
+"The Pomodoro Tracker — A useful tool for time management based on "
+"Pomodoro Technique."
+msgstr ""
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "

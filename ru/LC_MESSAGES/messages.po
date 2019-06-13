@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-13 11:21+0300\n"
+"POT-Creation-Date: 2019-06-13 14:01+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -366,6 +366,11 @@ msgstr "Нотификации заблокированы в вашем брау
 msgid "Please, login to view your stats"
 msgstr "Войдите для просмотра статистики"
 
+msgid "Pomodoro Tracker is a productivity app designed for your work and study."
+msgstr ""
+"Pomodoro Tracker это приложение продуктивности разработанное для работы и"
+" учебы."
+
 msgid "Pomodoro duration"
 msgstr "Продолжительность помидора"
 
@@ -462,6 +467,9 @@ msgstr "Начинайте работать:"
 msgid "Stats"
 msgstr "Статистика"
 
+msgid "Stay focused and finish tasks effectively."
+msgstr "Оставайтесь в фокусе и добивайтесь своих целей эффективно."
+
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
@@ -484,6 +492,9 @@ msgstr "Список планирования был обновлен."
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "Сделайте короткий перерыв (3-5 минут)"
+
+msgid "Take more time to your life."
+msgstr "Получите больше времени для жизни."
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Спасибо за отзыв/предложение! Ваше сообщение ожидает модерации."
@@ -520,6 +531,13 @@ msgstr ""
 "Техника «Помидора» предоставляет простой инструмент для улучшения "
 "производительности (для Вас или вашей команды) и может быть использована "
 "для:"
+
+msgid ""
+"The Pomodoro Tracker — A useful tool for time management based on "
+"Pomodoro Technique."
+msgstr ""
+"Pomodoro Tracker — Удобное приложение для управления временем на основе "
+"«Техники Pomodoro»"
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
