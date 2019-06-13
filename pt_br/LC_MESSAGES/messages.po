@@ -832,7 +832,7 @@ msgid "remove categories"
 msgstr "remover categorias"
 
 msgid "resume"
-msgstr "retormar"
+msgstr "retornar"
 
 msgid "save"
 msgstr "salvar"
