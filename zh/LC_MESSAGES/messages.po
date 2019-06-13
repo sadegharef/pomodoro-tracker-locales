@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-28 11:42+0300\n"
+"POT-Creation-Date: 2019-06-13 11:23+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -65,12 +65,6 @@ msgstr "减轻开始工作时的焦虑"
 msgid "Application"
 msgstr "应用"
 
-msgid "Apply"
-msgstr "应用"
-
-msgid "April"
-msgstr "四月"
-
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
@@ -78,9 +72,6 @@ msgstr "在每天开始时选择您需要完成的任务，并将其放在上面
 
 msgid "At time"
 msgstr "时间"
-
-msgid "August"
-msgstr "八月"
 
 msgid "Auto start breaks"
 msgstr "自动启动休息"
@@ -142,9 +133,6 @@ msgstr "新建"
 msgid "Create a category"
 msgstr "创建一个类别"
 
-msgid "Custom"
-msgstr "自定义"
-
 msgid "Daily Goal"
 msgstr "每日目标"
 
@@ -156,9 +144,6 @@ msgstr "日期"
 
 msgid "Date format"
 msgstr "日期格式"
-
-msgid "December"
-msgstr "十二月"
 
 msgid "Description"
 msgstr "描述"
@@ -195,9 +180,6 @@ msgstr ""
 
 msgid "Favorites"
 msgstr "收藏"
-
-msgid "February"
-msgstr "二月"
 
 msgid "Feedback"
 msgstr "反馈"
@@ -246,20 +228,11 @@ msgstr "与电报整合"
 msgid "Integrations"
 msgstr "关联"
 
-msgid "January"
-msgstr "一月"
-
 msgid "Join our Slack Community"
 msgstr ""
 
 msgid "Join the global rating"
 msgstr ""
-
-msgid "July"
-msgstr "七月"
-
-msgid "June"
-msgstr "六月"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -320,17 +293,11 @@ msgstr "长休息时长"
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr ""
 
-msgid "March"
-msgstr "三月"
-
 msgid "Mark as daily task"
 msgstr "标记为每日任务"
 
 msgid "Mark as done"
 msgstr "标记为完成"
-
-msgid "May"
-msgstr "五月"
 
 msgid "Median per day"
 msgstr "按天的中位数"
@@ -352,12 +319,6 @@ msgstr "通知"
 
 msgid "Notify when there is one minute left"
 msgstr "只剩一分钟的时候通知"
-
-msgid "November"
-msgstr "十一月"
-
-msgid "October"
-msgstr "十月"
 
 msgid "Of those"
 msgstr "的这些"
@@ -460,9 +421,6 @@ msgstr "通过telegram发送报告"
 
 msgid "Send test notification"
 msgstr "发送测试通知"
-
-msgid "September"
-msgstr "九月"
 
 msgid "Server has been updated."
 msgstr "服务器已更新。"
@@ -850,11 +808,38 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "年"
 
+#~ msgid "Apply"
+#~ msgstr "应用"
+
+#~ msgid "April"
+#~ msgstr "四月"
+
 #~ msgid "Are you sure want to delete"
 #~ msgstr "确认希望删除吗"
 
+#~ msgid "August"
+#~ msgstr "八月"
+
+#~ msgid "Custom"
+#~ msgstr "自定义"
+
 #~ msgid "Daily history"
 #~ msgstr "历史记录"
+
+#~ msgid "December"
+#~ msgstr "十二月"
+
+#~ msgid "February"
+#~ msgstr "二月"
+
+#~ msgid "January"
+#~ msgstr "一月"
+
+#~ msgid "July"
+#~ msgstr "七月"
+
+#~ msgid "June"
+#~ msgstr "六月"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "登入后查看你的统计信息"
@@ -862,8 +847,23 @@ msgstr[0] "年"
 #~ msgid "Look away at something that is 6 metres away for 20 seconds"
 #~ msgstr ""
 
+#~ msgid "March"
+#~ msgstr "三月"
+
+#~ msgid "May"
+#~ msgstr "五月"
+
+#~ msgid "November"
+#~ msgstr "十一月"
+
+#~ msgid "October"
+#~ msgstr "十月"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "发送每日报告"
+
+#~ msgid "September"
+#~ msgstr "九月"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "番茄钟正在运行"

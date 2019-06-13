@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.12.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-28 11:41+0300\n"
+"POT-Creation-Date: 2019-06-13 11:22+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: cs\n"
@@ -66,21 +66,12 @@ msgstr ""
 msgid "Application"
 msgstr ""
 
-msgid "Apply"
-msgstr ""
-
-msgid "April"
-msgstr ""
-
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
 
 msgid "At time"
-msgstr ""
-
-msgid "August"
 msgstr ""
 
 msgid "Auto start breaks"
@@ -143,9 +134,6 @@ msgstr ""
 msgid "Create a category"
 msgstr ""
 
-msgid "Custom"
-msgstr ""
-
 msgid "Daily Goal"
 msgstr ""
 
@@ -156,9 +144,6 @@ msgid "Date"
 msgstr ""
 
 msgid "Date format"
-msgstr ""
-
-msgid "December"
 msgstr ""
 
 msgid "Description"
@@ -195,9 +180,6 @@ msgid "Eye Keeper is enabled"
 msgstr ""
 
 msgid "Favorites"
-msgstr ""
-
-msgid "February"
 msgstr ""
 
 msgid "Feedback"
@@ -247,19 +229,10 @@ msgstr ""
 msgid "Integrations"
 msgstr ""
 
-msgid "January"
-msgstr ""
-
 msgid "Join our Slack Community"
 msgstr ""
 
 msgid "Join the global rating"
-msgstr ""
-
-msgid "July"
-msgstr ""
-
-msgid "June"
 msgstr ""
 
 msgid ""
@@ -321,16 +294,10 @@ msgstr ""
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr ""
 
-msgid "March"
-msgstr ""
-
 msgid "Mark as daily task"
 msgstr ""
 
 msgid "Mark as done"
-msgstr ""
-
-msgid "May"
 msgstr ""
 
 msgid "Median per day"
@@ -352,12 +319,6 @@ msgid "Notifications"
 msgstr ""
 
 msgid "Notify when there is one minute left"
-msgstr ""
-
-msgid "November"
-msgstr ""
-
-msgid "October"
 msgstr ""
 
 msgid "Of those"
@@ -460,9 +421,6 @@ msgid "Send reports on telegram"
 msgstr ""
 
 msgid "Send test notification"
-msgstr ""
-
-msgid "September"
 msgstr ""
 
 msgid "Server has been updated."
@@ -864,13 +822,3 @@ msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-
-#~ msgid "Are you sure want to delete"
-#~ msgstr ""
-
-#~ msgid "Look away at something that is 6 metres away for 20 seconds"
-#~ msgstr ""
-
-#~ msgid "record"
-#~ msgstr ""
-

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-28 11:42+0300\n"
+"POT-Creation-Date: 2019-06-13 11:22+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -65,12 +65,6 @@ msgstr ""
 msgid "Application"
 msgstr "Ứng dụng"
 
-msgid "Apply"
-msgstr "Áp dụng"
-
-msgid "April"
-msgstr "Tháng 4"
-
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
@@ -80,9 +74,6 @@ msgstr ""
 
 msgid "At time"
 msgstr "Lúc"
-
-msgid "August"
-msgstr "Tháng 8"
 
 msgid "Auto start breaks"
 msgstr "Tự động bắt đầu thời gian nghỉ"
@@ -144,9 +135,6 @@ msgstr "Tạo"
 msgid "Create a category"
 msgstr "Tạo một danh mục"
 
-msgid "Custom"
-msgstr "Tuỳ chỉnh"
-
 msgid "Daily Goal"
 msgstr "Mục tiêu hằng ngày"
 
@@ -158,9 +146,6 @@ msgstr "Ngày"
 
 msgid "Date format"
 msgstr "Định dạng ngày"
-
-msgid "December"
-msgstr "Tháng 12"
 
 msgid "Description"
 msgstr "Mô tả"
@@ -197,9 +182,6 @@ msgstr ""
 
 msgid "Favorites"
 msgstr "Yêu thích"
-
-msgid "February"
-msgstr "Tháng 2"
 
 msgid "Feedback"
 msgstr "Phản hồi"
@@ -248,20 +230,11 @@ msgstr ""
 msgid "Integrations"
 msgstr ""
 
-msgid "January"
-msgstr "Tháng 1"
-
 msgid "Join our Slack Community"
 msgstr ""
 
 msgid "Join the global rating"
 msgstr ""
-
-msgid "July"
-msgstr "Tháng 7"
-
-msgid "June"
-msgstr "Tháng 6"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -325,17 +298,11 @@ msgstr "Thời gian nghỉ dài"
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr ""
 
-msgid "March"
-msgstr "Tháng 3"
-
 msgid "Mark as daily task"
 msgstr "Đánh dấu như công việc hằng ngày"
 
 msgid "Mark as done"
 msgstr "Đánh dấu là Xong"
-
-msgid "May"
-msgstr "Tháng 5"
 
 msgid "Median per day"
 msgstr "Trung bình mỗi ngày"
@@ -357,12 +324,6 @@ msgstr "Thông báo"
 
 msgid "Notify when there is one minute left"
 msgstr "Thông báo khi còn một phút"
-
-msgid "November"
-msgstr "Tháng 11"
-
-msgid "October"
-msgstr "Tháng 10"
 
 msgid "Of those"
 msgstr ""
@@ -465,9 +426,6 @@ msgstr ""
 
 msgid "Send test notification"
 msgstr ""
-
-msgid "September"
-msgstr "Tháng 9"
 
 msgid "Server has been updated."
 msgstr "Hệ thống đã được cập nhật."
@@ -855,11 +813,38 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] ""
 
+#~ msgid "Apply"
+#~ msgstr "Áp dụng"
+
+#~ msgid "April"
+#~ msgstr "Tháng 4"
+
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Bạn có chắc muốn xoá đi?"
 
+#~ msgid "August"
+#~ msgstr "Tháng 8"
+
+#~ msgid "Custom"
+#~ msgstr "Tuỳ chỉnh"
+
 #~ msgid "Daily history"
 #~ msgstr "Lịch sử hằng ngày"
+
+#~ msgid "December"
+#~ msgstr "Tháng 12"
+
+#~ msgid "February"
+#~ msgstr "Tháng 2"
+
+#~ msgid "January"
+#~ msgstr "Tháng 1"
+
+#~ msgid "July"
+#~ msgstr "Tháng 7"
+
+#~ msgid "June"
+#~ msgstr "Tháng 6"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "Đăng nhập để xem số liệu thống kê của bạn"
@@ -867,8 +852,23 @@ msgstr[0] ""
 #~ msgid "Look away at something that is 6 metres away for 20 seconds"
 #~ msgstr ""
 
+#~ msgid "March"
+#~ msgstr "Tháng 3"
+
+#~ msgid "May"
+#~ msgstr "Tháng 5"
+
+#~ msgid "November"
+#~ msgstr "Tháng 11"
+
+#~ msgid "October"
+#~ msgstr "Tháng 10"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr ""
+
+#~ msgid "September"
+#~ msgstr "Tháng 9"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "The Pomodoro đang chạy"

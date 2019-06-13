@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-28 11:41+0300\n"
+"POT-Creation-Date: 2019-06-13 11:22+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -65,12 +65,6 @@ msgstr "Жұмыс бастауды жеңілдету"
 msgid "Application"
 msgstr "Қосымша іші"
 
-msgid "Apply"
-msgstr "Қабылдау"
-
-msgid "April"
-msgstr "Сәуір"
-
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
@@ -80,9 +74,6 @@ msgstr ""
 
 msgid "At time"
 msgstr "осы уақытта"
-
-msgid "August"
-msgstr "Тамыз"
 
 msgid "Auto start breaks"
 msgstr "Авто-үзіліс"
@@ -144,9 +135,6 @@ msgstr "Қосу"
 msgid "Create a category"
 msgstr "Жаңа категория"
 
-msgid "Custom"
-msgstr "Таңдау"
-
 msgid "Daily Goal"
 msgstr "Күн мақсаты"
 
@@ -158,9 +146,6 @@ msgstr "Мерзім"
 
 msgid "Date format"
 msgstr "Күн форматы"
-
-msgid "December"
-msgstr "Желтоқсан"
 
 msgid "Description"
 msgstr "Сипаттамасы"
@@ -197,9 +182,6 @@ msgstr ""
 
 msgid "Favorites"
 msgstr "Таңдамалы"
-
-msgid "February"
-msgstr "Ақпан"
 
 msgid "Feedback"
 msgstr "Пікір"
@@ -250,20 +232,11 @@ msgstr "Telegram-мен қосылу"
 msgid "Integrations"
 msgstr "Қызметтер"
 
-msgid "January"
-msgstr "Қаңтар"
-
 msgid "Join our Slack Community"
 msgstr ""
 
 msgid "Join the global rating"
 msgstr ""
-
-msgid "July"
-msgstr "Шілде"
-
-msgid "June"
-msgstr "Маусым"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -326,17 +299,11 @@ msgstr "Ұзын үзіліс ұзақтығы"
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr ""
 
-msgid "March"
-msgstr "Наурыз"
-
 msgid "Mark as daily task"
 msgstr "Күн іСі қылу"
 
 msgid "Mark as done"
 msgstr "Аяқталған қылу"
-
-msgid "May"
-msgstr "Мамыр"
 
 msgid "Median per day"
 msgstr "Медиана/күн"
@@ -358,12 +325,6 @@ msgstr "Хабарламалар"
 
 msgid "Notify when there is one minute left"
 msgstr "Бір минут қалғанда ескерту"
-
-msgid "November"
-msgstr "Қараша"
-
-msgid "October"
-msgstr "Қазан"
 
 msgid "Of those"
 msgstr "Оны ішінде"
@@ -466,9 +427,6 @@ msgstr "Осы telegram-ға"
 
 msgid "Send test notification"
 msgstr "Тест күйінде хабарламаны көру"
-
-msgid "September"
-msgstr "Қыркүйек"
 
 msgid "Server has been updated."
 msgstr "Сервер жаңарды"
@@ -873,11 +831,38 @@ msgid_plural "years"
 msgstr[0] "жыл"
 msgstr[1] "жыл"
 
+#~ msgid "Apply"
+#~ msgstr "Қабылдау"
+
+#~ msgid "April"
+#~ msgstr "Сәуір"
+
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Шынымен өшіресіз бе?"
 
+#~ msgid "August"
+#~ msgstr "Тамыз"
+
+#~ msgid "Custom"
+#~ msgstr "Таңдау"
+
 #~ msgid "Daily history"
 #~ msgstr "Күнделікті жазбалар"
+
+#~ msgid "December"
+#~ msgstr "Желтоқсан"
+
+#~ msgid "February"
+#~ msgstr "Ақпан"
+
+#~ msgid "January"
+#~ msgstr "Қаңтар"
+
+#~ msgid "July"
+#~ msgstr "Шілде"
+
+#~ msgid "June"
+#~ msgstr "Маусым"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "Статистика көргенге кіру керек"
@@ -885,8 +870,23 @@ msgstr[1] "жыл"
 #~ msgid "Look away at something that is 6 metres away for 20 seconds"
 #~ msgstr ""
 
+#~ msgid "March"
+#~ msgstr "Наурыз"
+
+#~ msgid "May"
+#~ msgstr "Мамыр"
+
+#~ msgid "November"
+#~ msgstr "Қараша"
+
+#~ msgid "October"
+#~ msgstr "Қазан"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "Күнделікті есеп жіберу"
+
+#~ msgid "September"
+#~ msgstr "Қыркүйек"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Қызанақ кетті"

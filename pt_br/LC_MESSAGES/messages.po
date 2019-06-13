@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-28 11:42+0300\n"
+"POT-Creation-Date: 2019-06-13 11:22+0300\n"
 "PO-Revision-Date: 2017-02-06 20:20-0200\n"
 "Last-Translator: LUCAS ERNESTO KINDINGER <kindingerlek@hotmail.com>\n"
 "Language: pt_BR\n"
@@ -65,12 +65,6 @@ msgstr "Alivío da ansiedade ligada a algo que está por vir"
 msgid "Application"
 msgstr "Aplicação"
 
-msgid "Apply"
-msgstr "Aplique"
-
-msgid "April"
-msgstr "Abril"
-
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
@@ -80,9 +74,6 @@ msgstr ""
 
 msgid "At time"
 msgstr "cronômetro"
-
-msgid "August"
-msgstr "Agosto"
 
 msgid "Auto start breaks"
 msgstr "Iniciar automaticamente as pausas"
@@ -144,9 +135,6 @@ msgstr "Criar"
 msgid "Create a category"
 msgstr "Criar uma categoria"
 
-msgid "Custom"
-msgstr "Personalizado"
-
 msgid "Daily Goal"
 msgstr "Objetivo Diário"
 
@@ -158,9 +146,6 @@ msgstr "Data"
 
 msgid "Date format"
 msgstr "Formato da data"
-
-msgid "December"
-msgstr "Dezembro"
 
 msgid "Description"
 msgstr "Descrição"
@@ -197,9 +182,6 @@ msgstr "O detentor de olho está ativado"
 
 msgid "Favorites"
 msgstr "Favoritos"
-
-msgid "February"
-msgstr "Fevereiro"
 
 msgid "Feedback"
 msgstr "Comentários"
@@ -250,20 +232,11 @@ msgstr "Integração com Telegram"
 msgid "Integrations"
 msgstr "Integrações"
 
-msgid "January"
-msgstr "Janeiro"
-
 msgid "Join our Slack Community"
 msgstr ""
 
 msgid "Join the global rating"
 msgstr "Junte-se à classificação global"
-
-msgid "July"
-msgstr "Julho"
-
-msgid "June"
-msgstr "Junho"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -324,21 +297,14 @@ msgid "Long break duration"
 msgstr "Duração da pausa longa"
 
 #, fuzzy
-#| msgid "Look away at something that is 6 metres away for 20 seconds"
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr "Olhe para algo que está a 6 metros de distância por %1$s segundos"
-
-msgid "March"
-msgstr "Março"
 
 msgid "Mark as daily task"
 msgstr "Marcar como uma tarefa diária"
 
 msgid "Mark as done"
 msgstr "Marcar como feito"
-
-msgid "May"
-msgstr "Maio"
 
 msgid "Median per day"
 msgstr "Mediana por dia"
@@ -360,12 +326,6 @@ msgstr "Notificações"
 
 msgid "Notify when there is one minute left"
 msgstr "Notificar quando faltar um minuto"
-
-msgid "November"
-msgstr "Novembro"
-
-msgid "October"
-msgstr "Outubro"
 
 msgid "Of those"
 msgstr "Desses"
@@ -470,9 +430,6 @@ msgstr "Enviar relatórios no Telegram"
 
 msgid "Send test notification"
 msgstr "Enviar notificação de teste"
-
-msgid "September"
-msgstr "Setembro"
 
 msgid "Server has been updated."
 msgstr "Servidor foi atualizado"
@@ -885,17 +842,59 @@ msgid_plural "years"
 msgstr[0] "ano"
 msgstr[1] "anos"
 
+#~ msgid "Apply"
+#~ msgstr "Aplique"
+
+#~ msgid "April"
+#~ msgstr "Abril"
+
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Tem certeza que deseja apagar"
+
+#~ msgid "August"
+#~ msgstr "Agosto"
+
+#~ msgid "Custom"
+#~ msgstr "Personalizado"
 
 #~ msgid "Daily history"
 #~ msgstr "Histórico diário"
 
+#~ msgid "December"
+#~ msgstr "Dezembro"
+
+#~ msgid "February"
+#~ msgstr "Fevereiro"
+
+#~ msgid "January"
+#~ msgstr "Janeiro"
+
+#~ msgid "July"
+#~ msgstr "Julho"
+
+#~ msgid "June"
+#~ msgstr "Junho"
+
 #~ msgid "Login to view your stats"
 #~ msgstr "Entre para ver suas estatísticas"
 
+#~ msgid "March"
+#~ msgstr "Março"
+
+#~ msgid "May"
+#~ msgstr "Maio"
+
+#~ msgid "November"
+#~ msgstr "Novembro"
+
+#~ msgid "October"
+#~ msgstr "Outubro"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "Enviar relatórios diários"
+
+#~ msgid "September"
+#~ msgstr "Setembro"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "O Pomodoro está executando"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-28 11:41+0300\n"
+"POT-Creation-Date: 2019-06-13 11:21+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -66,12 +66,6 @@ msgstr "Облегчения начала работы"
 msgid "Application"
 msgstr "Приложение"
 
-msgid "Apply"
-msgstr "Применить"
-
-msgid "April"
-msgstr "Апрель"
-
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
@@ -81,9 +75,6 @@ msgstr ""
 
 msgid "At time"
 msgstr "на время"
-
-msgid "August"
-msgstr "Август"
 
 msgid "Auto start breaks"
 msgstr "Автостарт для перерыва"
@@ -145,9 +136,6 @@ msgstr "Добавить"
 msgid "Create a category"
 msgstr "Создать категорию"
 
-msgid "Custom"
-msgstr "Выбрать"
-
 msgid "Daily Goal"
 msgstr "Цель на день"
 
@@ -159,9 +147,6 @@ msgstr "Дата"
 
 msgid "Date format"
 msgstr "Формат даты"
-
-msgid "December"
-msgstr "Декабрь"
 
 msgid "Description"
 msgstr "Описание"
@@ -198,9 +183,6 @@ msgstr "Хранитель глаз включен"
 
 msgid "Favorites"
 msgstr "Избранное"
-
-msgid "February"
-msgstr "Февраль"
 
 msgid "Feedback"
 msgstr "Идеи"
@@ -251,20 +233,11 @@ msgstr "Интеграция с Telegram"
 msgid "Integrations"
 msgstr "Интеграции"
 
-msgid "January"
-msgstr "Январь"
-
 msgid "Join our Slack Community"
 msgstr ""
 
 msgid "Join the global rating"
 msgstr "Участвовать в глобальном рейтинге"
-
-msgid "July"
-msgstr "Июль"
-
-msgid "June"
-msgstr "Июнь"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -327,17 +300,11 @@ msgstr "Продолжительность длинного перерыва"
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr "Смотрите вдаль (от 6 метров) в течении %1$s секунд"
 
-msgid "March"
-msgstr "Март"
-
 msgid "Mark as daily task"
 msgstr "Повторять ежедневно"
 
 msgid "Mark as done"
 msgstr "Отметить как выполненное"
-
-msgid "May"
-msgstr "Май"
 
 msgid "Median per day"
 msgstr "Медиана/день"
@@ -359,12 +326,6 @@ msgstr "Оповещения"
 
 msgid "Notify when there is one minute left"
 msgstr "Оповещать за минуту до завершения"
-
-msgid "November"
-msgstr "Ноябрь"
-
-msgid "October"
-msgstr "Октябрь"
 
 msgid "Of those"
 msgstr "Из них"
@@ -467,9 +428,6 @@ msgstr "Отправлять отчеты на телеграм"
 
 msgid "Send test notification"
 msgstr "Отправить тестовое оповещение"
-
-msgid "September"
-msgstr "Сентябрь"
 
 msgid "Server has been updated."
 msgstr "Сервер был обновлен."
@@ -883,17 +841,59 @@ msgstr[0] "год"
 msgstr[1] "года"
 msgstr[2] "лет"
 
+#~ msgid "Apply"
+#~ msgstr "Применить"
+
+#~ msgid "April"
+#~ msgstr "Апрель"
+
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Вы уверены, что хотите удалить"
+
+#~ msgid "August"
+#~ msgstr "Август"
+
+#~ msgid "Custom"
+#~ msgstr "Выбрать"
 
 #~ msgid "Daily history"
 #~ msgstr "История задач"
 
+#~ msgid "December"
+#~ msgstr "Декабрь"
+
+#~ msgid "February"
+#~ msgstr "Февраль"
+
+#~ msgid "January"
+#~ msgstr "Январь"
+
+#~ msgid "July"
+#~ msgstr "Июль"
+
+#~ msgid "June"
+#~ msgstr "Июнь"
+
 #~ msgid "Login to view your stats"
 #~ msgstr "Войдите для просмотра статистики"
 
+#~ msgid "March"
+#~ msgstr "Март"
+
+#~ msgid "May"
+#~ msgstr "Май"
+
+#~ msgid "November"
+#~ msgstr "Ноябрь"
+
+#~ msgid "October"
+#~ msgstr "Октябрь"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "Отправка отчетов"
+
+#~ msgid "September"
+#~ msgstr "Сентябрь"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Помидор запущен"

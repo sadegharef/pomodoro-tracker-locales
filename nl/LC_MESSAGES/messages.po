@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-05-28 11:41+0300\n"
+"POT-Creation-Date: 2019-06-13 11:22+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -64,12 +64,6 @@ msgstr "Onrust die te maken heeft met „beginnen” verlichten"
 msgid "Application"
 msgstr "Applicatie"
 
-msgid "Apply"
-msgstr "Toepassen"
-
-msgid "April"
-msgstr "april"
-
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
@@ -79,9 +73,6 @@ msgstr ""
 
 msgid "At time"
 msgstr "Op tijdstip"
-
-msgid "August"
-msgstr "augustus"
 
 msgid "Auto start breaks"
 msgstr "Start pauzes automatisch"
@@ -143,9 +134,6 @@ msgstr "Maak"
 msgid "Create a category"
 msgstr "Maak een categorie"
 
-msgid "Custom"
-msgstr "Aangepast"
-
 msgid "Daily Goal"
 msgstr "Dagelijks doel"
 
@@ -157,9 +145,6 @@ msgstr "Datum"
 
 msgid "Date format"
 msgstr "Datumformaat"
-
-msgid "December"
-msgstr "december"
 
 msgid "Description"
 msgstr "Omschrijving"
@@ -196,9 +181,6 @@ msgstr ""
 
 msgid "Favorites"
 msgstr "Favorieten"
-
-msgid "February"
-msgstr "februari"
 
 msgid "Feedback"
 msgstr "Feedback"
@@ -247,20 +229,11 @@ msgstr "Integratie met Telegram"
 msgid "Integrations"
 msgstr "Integraties"
 
-msgid "January"
-msgstr "januari"
-
 msgid "Join our Slack Community"
 msgstr ""
 
 msgid "Join the global rating"
 msgstr ""
-
-msgid "July"
-msgstr "juli"
-
-msgid "June"
-msgstr "juni"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -323,17 +296,11 @@ msgstr "Lange-pauzeduur"
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr ""
 
-msgid "March"
-msgstr "maart"
-
 msgid "Mark as daily task"
 msgstr "Markeer als dagelijkse taak"
 
 msgid "Mark as done"
 msgstr "Markeer als klaar"
-
-msgid "May"
-msgstr "mei"
 
 msgid "Median per day"
 msgstr "Mediaan per dag"
@@ -355,12 +322,6 @@ msgstr "Notificaties"
 
 msgid "Notify when there is one minute left"
 msgstr "Waarschuw als er één minuut over is"
-
-msgid "November"
-msgstr "november"
-
-msgid "October"
-msgstr "oktober"
 
 msgid "Of those"
 msgstr "Hiervan"
@@ -465,9 +426,6 @@ msgstr "Stuur rapportages op Telegram"
 
 msgid "Send test notification"
 msgstr "Stuur testnotificatie"
-
-msgid "September"
-msgstr "september"
 
 msgid "Server has been updated."
 msgstr "Server is geüpdatet."
@@ -880,11 +838,38 @@ msgid_plural "years"
 msgstr[0] "jaar"
 msgstr[1] "jaren"
 
+#~ msgid "Apply"
+#~ msgstr "Toepassen"
+
+#~ msgid "April"
+#~ msgstr "april"
+
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Weet u zeker dat u dit wilt verwijderen"
 
+#~ msgid "August"
+#~ msgstr "augustus"
+
+#~ msgid "Custom"
+#~ msgstr "Aangepast"
+
 #~ msgid "Daily history"
 #~ msgstr "Dagelijkse geschiedenis"
+
+#~ msgid "December"
+#~ msgstr "december"
+
+#~ msgid "February"
+#~ msgstr "februari"
+
+#~ msgid "January"
+#~ msgstr "januari"
+
+#~ msgid "July"
+#~ msgstr "juli"
+
+#~ msgid "June"
+#~ msgstr "juni"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "Login om uw statistieken te zien"
@@ -892,8 +877,23 @@ msgstr[1] "jaren"
 #~ msgid "Look away at something that is 6 metres away for 20 seconds"
 #~ msgstr ""
 
+#~ msgid "March"
+#~ msgstr "maart"
+
+#~ msgid "May"
+#~ msgstr "mei"
+
+#~ msgid "November"
+#~ msgstr "november"
+
+#~ msgid "October"
+#~ msgstr "oktober"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "Stuur dagelijkse rapportages"
+
+#~ msgid "September"
+#~ msgstr "september"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "De pomodoro loopt"

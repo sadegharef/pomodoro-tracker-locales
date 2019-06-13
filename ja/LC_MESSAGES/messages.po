@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-05-28 11:41+0300\n"
+"POT-Creation-Date: 2019-06-13 11:22+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -65,12 +65,6 @@ msgstr "迫りくる不安を和らげます"
 msgid "Application"
 msgstr "基本設定"
 
-msgid "Apply"
-msgstr "適用"
-
-msgid "April"
-msgstr "4月"
-
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
@@ -78,9 +72,6 @@ msgstr "その日に完了させたいタスクを選択し、上部のTODOリ�
 
 msgid "At time"
 msgstr "時間数"
-
-msgid "August"
-msgstr "8月"
 
 msgid "Auto start breaks"
 msgstr "休憩時間を自動的に開始する"
@@ -142,9 +133,6 @@ msgstr "作成"
 msgid "Create a category"
 msgstr "カテゴリを作成する"
 
-msgid "Custom"
-msgstr "カスタム"
-
 msgid "Daily Goal"
 msgstr "毎日の目標"
 
@@ -156,9 +144,6 @@ msgstr "日付"
 
 msgid "Date format"
 msgstr "日付の表示形式"
-
-msgid "December"
-msgstr "12月"
 
 msgid "Description"
 msgstr "説明"
@@ -195,9 +180,6 @@ msgstr ""
 
 msgid "Favorites"
 msgstr "お気に入り"
-
-msgid "February"
-msgstr "2月"
 
 msgid "Feedback"
 msgstr "フィードバック"
@@ -246,20 +228,11 @@ msgstr "Telegramアカウントとの連携"
 msgid "Integrations"
 msgstr "連携機能"
 
-msgid "January"
-msgstr "1月"
-
 msgid "Join our Slack Community"
 msgstr ""
 
 msgid "Join the global rating"
 msgstr ""
-
-msgid "July"
-msgstr "7月"
-
-msgid "June"
-msgstr "6月"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -320,17 +293,11 @@ msgstr "長い休憩時間"
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr ""
 
-msgid "March"
-msgstr "3月"
-
 msgid "Mark as daily task"
 msgstr "毎日のタスクとして登録する"
 
 msgid "Mark as done"
 msgstr "完了にする"
-
-msgid "May"
-msgstr "5月"
 
 msgid "Median per day"
 msgstr "1日平均"
@@ -352,12 +319,6 @@ msgstr "通知"
 
 msgid "Notify when there is one minute left"
 msgstr "1分が残っているときに通知する"
-
-msgid "November"
-msgstr "11月"
-
-msgid "October"
-msgstr "10月"
 
 msgid "Of those"
 msgstr "それらのうち"
@@ -460,9 +421,6 @@ msgstr "電報に関するレポートを送信する"
 
 msgid "Send test notification"
 msgstr "テスト通知を送信する"
-
-msgid "September"
-msgstr "9月"
 
 msgid "Server has been updated."
 msgstr "サーバーが更新されました。"
@@ -857,11 +815,38 @@ msgid_plural "years"
 msgstr[0] "年"
 msgstr[1] "年々"
 
+#~ msgid "Apply"
+#~ msgstr "適用"
+
+#~ msgid "April"
+#~ msgstr "4月"
+
 #~ msgid "Are you sure want to delete"
 #~ msgstr "削除してよろしいですか？"
 
+#~ msgid "August"
+#~ msgstr "8月"
+
+#~ msgid "Custom"
+#~ msgstr "カスタム"
+
 #~ msgid "Daily history"
 #~ msgstr "毎日の歴史"
+
+#~ msgid "December"
+#~ msgstr "12月"
+
+#~ msgid "February"
+#~ msgstr "2月"
+
+#~ msgid "January"
+#~ msgstr "1月"
+
+#~ msgid "July"
+#~ msgstr "7月"
+
+#~ msgid "June"
+#~ msgstr "6月"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "ログインして統計情報を表示する"
@@ -869,8 +854,23 @@ msgstr[1] "年々"
 #~ msgid "Look away at something that is 6 metres away for 20 seconds"
 #~ msgstr ""
 
+#~ msgid "March"
+#~ msgstr "3月"
+
+#~ msgid "May"
+#~ msgstr "5月"
+
+#~ msgid "November"
+#~ msgstr "11月"
+
+#~ msgid "October"
+#~ msgstr "10月"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "日報を送る"
+
+#~ msgid "September"
+#~ msgstr "9月"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "ポモドーロ中"
