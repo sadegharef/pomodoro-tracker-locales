@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-13 14:02+0300\n"
+"POT-Creation-Date: 2019-06-27 15:59+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -18,9 +18,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
-
-msgid "%1$s left"
-msgstr "%1$s қалды"
 
 msgid "%1$s records were imported"
 msgstr "%1$s жазба кіргізілді"
@@ -93,9 +90,6 @@ msgstr "Үзіліс аяқталды."
 msgid "Categories"
 msgstr "Категория"
 
-msgid "Category"
-msgstr "Категория"
-
 msgid "Changes saved"
 msgstr "Сақталды"
 
@@ -107,6 +101,9 @@ msgstr "Тізімді тазалау"
 
 msgid "Click on a number to add more."
 msgstr "Тағы қосу үшін санға басыңыз"
+
+msgid "Click to open menu"
+msgstr "Aшық мәзір"
 
 msgid "Click/tap to edit items."
 msgstr "Өңдеу үшін басу"
@@ -141,14 +138,11 @@ msgstr "Күн мақсаты"
 msgid "Daily Goal Completed."
 msgstr "Күн мақсаты орындалды"
 
-msgid "Date"
-msgstr "Мерзім"
+msgid "Daily Task"
+msgstr "Күн іСі қылу"
 
 msgid "Date format"
 msgstr "Күн форматы"
-
-msgid "Description"
-msgstr "Сипаттамасы"
 
 msgid "Disconnect"
 msgstr "Ажырау"
@@ -299,9 +293,6 @@ msgstr "Ұзын үзіліс ұзақтығы"
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr ""
 
-msgid "Mark as daily task"
-msgstr "Күн іСі қылу"
-
 msgid "Mark as done"
 msgstr "Аяқталған қылу"
 
@@ -341,7 +332,7 @@ msgstr "ҚЫЗАНАҚ"
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
-msgid "Pin to favorites"
+msgid "Pin to activities"
 msgstr "Сүйіктілер тізіміне апару"
 
 msgid "Play alarm sound"
@@ -409,6 +400,12 @@ msgstr "Жаңалықтар"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Pomodoro аяқталған кезде TODO-ден тапсырманы алып тастаңыз"
+
+msgid "Remove one"
+msgstr ""
+
+msgid "Repeat"
+msgstr "Қайталаңыз"
 
 msgid "Reports Time"
 msgstr "Осы уақытта"
@@ -655,6 +652,9 @@ msgstr "ортасы"
 msgid "cancel"
 msgstr "жоқ"
 
+msgid "category"
+msgstr "категория"
+
 msgid "close"
 msgstr "жап"
 
@@ -678,8 +678,17 @@ msgstr "кідіріс"
 msgid "delete"
 msgstr "өшір"
 
+msgid "description"
+msgstr "сипаттамасы"
+
 msgid "done"
 msgstr "аяқталған"
+
+msgid "duplicate"
+msgstr "көшірме"
+
+msgid "duration"
+msgstr "ұзақтығы"
 
 msgid "focus"
 msgstr "фокус"
@@ -845,6 +854,9 @@ msgid_plural "years"
 msgstr[0] "жыл"
 msgstr[1] "жыл"
 
+#~ msgid "%1$s left"
+#~ msgstr "%1$s қалды"
+
 #~ msgid "Apply"
 #~ msgstr "Қабылдау"
 
@@ -862,6 +874,9 @@ msgstr[1] "жыл"
 
 #~ msgid "Daily history"
 #~ msgstr "Күнделікті жазбалар"
+
+#~ msgid "Date"
+#~ msgstr "Мерзім"
 
 #~ msgid "December"
 #~ msgstr "Желтоқсан"

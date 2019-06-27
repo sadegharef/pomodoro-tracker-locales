@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-13 14:01+0300\n"
+"POT-Creation-Date: 2019-06-27 15:58+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -19,9 +19,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
-
-msgid "%1$s left"
-msgstr "осталось %1$s"
 
 msgid "%1$s records were imported"
 msgstr "%1$s записей импортировано"
@@ -94,9 +91,6 @@ msgstr "Перерыв окончен."
 msgid "Categories"
 msgstr "Категории"
 
-msgid "Category"
-msgstr "Категория"
-
 msgid "Changes saved"
 msgstr "Изменения сохранены"
 
@@ -108,6 +102,9 @@ msgstr "Очистить список"
 
 msgid "Click on a number to add more."
 msgstr "Кликните на номер для добавления."
+
+msgid "Click to open menu"
+msgstr "Открыть меню"
 
 msgid "Click/tap to edit items."
 msgstr "Kлик/тап для редактирования."
@@ -142,14 +139,11 @@ msgstr "Цель на день"
 msgid "Daily Goal Completed."
 msgstr "Цель на день выполнена."
 
-msgid "Date"
-msgstr "Дата"
+msgid "Daily Task"
+msgstr "Повторять ежедневно"
 
 msgid "Date format"
 msgstr "Формат даты"
-
-msgid "Description"
-msgstr "Описание"
 
 msgid "Disconnect"
 msgstr "Отключить"
@@ -300,9 +294,6 @@ msgstr "Продолжительность длинного перерыва"
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr "Смотрите вдаль (от 6 метров) в течении %1$s секунд"
 
-msgid "Mark as daily task"
-msgstr "Повторять ежедневно"
-
 msgid "Mark as done"
 msgstr "Отметить как выполненное"
 
@@ -342,7 +333,7 @@ msgstr "ПОМИДОР"
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Останавливать таймер когда комьютер уходит в спящий режим"
 
-msgid "Pin to favorites"
+msgid "Pin to activities"
 msgstr "Добавить в избранное"
 
 msgid "Play alarm sound"
@@ -412,6 +403,12 @@ msgstr "Новости проекта"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "После окончания помидора отмечать задачу выполненной"
+
+msgid "Remove one"
+msgstr "Убрать один"
+
+msgid "Repeat"
+msgstr "Повторить"
 
 msgid "Reports Time"
 msgstr "Время отчетов"
@@ -662,6 +659,9 @@ msgstr "среднее"
 msgid "cancel"
 msgstr "отмена"
 
+msgid "category"
+msgstr "категория"
+
 msgid "close"
 msgstr "закрыть"
 
@@ -686,8 +686,17 @@ msgstr "задержки"
 msgid "delete"
 msgstr "удалить"
 
+msgid "description"
+msgstr "описание"
+
 msgid "done"
 msgstr "сделано"
+
+msgid "duplicate"
+msgstr "скопировать"
+
+msgid "duration"
+msgstr "продолжительность"
 
 msgid "focus"
 msgstr "фокус"
@@ -859,6 +868,9 @@ msgstr[0] "год"
 msgstr[1] "года"
 msgstr[2] "лет"
 
+#~ msgid "%1$s left"
+#~ msgstr "осталось %1$s"
+
 #~ msgid "Apply"
 #~ msgstr "Применить"
 
@@ -876,6 +888,9 @@ msgstr[2] "лет"
 
 #~ msgid "Daily history"
 #~ msgstr "История задач"
+
+#~ msgid "Date"
+#~ msgstr "Дата"
 
 #~ msgid "December"
 #~ msgstr "Декабрь"

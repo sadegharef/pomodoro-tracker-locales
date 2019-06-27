@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-13 14:02+0300\n"
+"POT-Creation-Date: 2019-06-27 15:59+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nb_NO\n"
@@ -18,9 +18,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
-
-msgid "%1$s left"
-msgstr ""
 
 msgid "%1$s records were imported"
 msgstr ""
@@ -91,9 +88,6 @@ msgstr ""
 msgid "Categories"
 msgstr ""
 
-msgid "Category"
-msgstr ""
-
 msgid "Changes saved"
 msgstr ""
 
@@ -104,6 +98,9 @@ msgid "Clear the list"
 msgstr ""
 
 msgid "Click on a number to add more."
+msgstr ""
+
+msgid "Click to open menu"
 msgstr ""
 
 msgid "Click/tap to edit items."
@@ -139,13 +136,10 @@ msgstr ""
 msgid "Daily Goal Completed."
 msgstr ""
 
-msgid "Date"
+msgid "Daily Task"
 msgstr ""
 
 msgid "Date format"
-msgstr ""
-
-msgid "Description"
 msgstr ""
 
 msgid "Disconnect"
@@ -293,9 +287,6 @@ msgstr ""
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr ""
 
-msgid "Mark as daily task"
-msgstr ""
-
 msgid "Mark as done"
 msgstr ""
 
@@ -335,7 +326,7 @@ msgstr ""
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
-msgid "Pin to favorites"
+msgid "Pin to activities"
 msgstr ""
 
 msgid "Play alarm sound"
@@ -402,6 +393,12 @@ msgid "Release Notes"
 msgstr ""
 
 msgid "Remove a task from TODO when Pomodoro is complete"
+msgstr ""
+
+msgid "Remove one"
+msgstr ""
+
+msgid "Repeat"
 msgstr ""
 
 msgid "Reports Time"
@@ -639,6 +636,9 @@ msgstr ""
 msgid "cancel"
 msgstr ""
 
+msgid "category"
+msgstr ""
+
 msgid "close"
 msgstr ""
 
@@ -662,7 +662,16 @@ msgstr ""
 msgid "delete"
 msgstr ""
 
+msgid "description"
+msgstr ""
+
 msgid "done"
+msgstr ""
+
+msgid "duplicate"
+msgstr ""
+
+msgid "duration"
 msgstr ""
 
 msgid "focus"
@@ -828,4 +837,16 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
+
+#~ msgid "%1$s left"
+#~ msgstr ""
+
+#~ msgid "Date"
+#~ msgstr ""
+
+#~ msgid "Mark as daily task"
+#~ msgstr ""
+
+#~ msgid "Pin to favorites"
+#~ msgstr ""
 

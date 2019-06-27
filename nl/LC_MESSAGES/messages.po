@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-06-13 14:02+0300\n"
+"POT-Creation-Date: 2019-06-27 15:59+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -17,9 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
-
-msgid "%1$s left"
-msgstr "%1$s over"
 
 msgid "%1$s records were imported"
 msgstr "%1$s recods werden geïmporteerd"
@@ -92,9 +89,6 @@ msgstr "Pauze is voobij."
 msgid "Categories"
 msgstr "Categorieën"
 
-msgid "Category"
-msgstr "Categorie"
-
 msgid "Changes saved"
 msgstr "Wijzigingen opgeslagen"
 
@@ -106,6 +100,9 @@ msgstr "Lijst leegmaken"
 
 msgid "Click on a number to add more."
 msgstr "Klik op een nummer om meer toe te voegen."
+
+msgid "Click to open menu"
+msgstr "Open menu"
 
 msgid "Click/tap to edit items."
 msgstr "Klik/tap om items te bewerken."
@@ -140,14 +137,11 @@ msgstr "Dagelijks doel"
 msgid "Daily Goal Completed."
 msgstr "Dagelijks doel behaald."
 
-msgid "Date"
-msgstr "Datum"
+msgid "Daily Task"
+msgstr "Markeer als dagelijkse taak"
 
 msgid "Date format"
 msgstr "Datumformaat"
-
-msgid "Description"
-msgstr "Omschrijving"
 
 msgid "Disconnect"
 msgstr "Verbinding verbreken"
@@ -296,9 +290,6 @@ msgstr "Lange-pauzeduur"
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr ""
 
-msgid "Mark as daily task"
-msgstr "Markeer als dagelijkse taak"
-
 msgid "Mark as done"
 msgstr "Markeer als klaar"
 
@@ -338,7 +329,7 @@ msgstr "POMODORO"
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
-msgid "Pin to favorites"
+msgid "Pin to activities"
 msgstr "Pin aan favorieten"
 
 msgid "Play alarm sound"
@@ -408,6 +399,12 @@ msgstr "Release Notes"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Verwijder een taak uit TODO als Pomodoro klaar is"
+
+msgid "Remove one"
+msgstr "Verwijder er een"
+
+msgid "Repeat"
+msgstr "Herhaling"
 
 msgid "Reports Time"
 msgstr "Rapportagetijd"
@@ -660,6 +657,9 @@ msgstr "gemiddelde"
 msgid "cancel"
 msgstr "annuleren"
 
+msgid "category"
+msgstr "categorie"
+
 msgid "close"
 msgstr "sluiten"
 
@@ -683,8 +683,17 @@ msgstr "uitstel"
 msgid "delete"
 msgstr "verwijderen"
 
+msgid "description"
+msgstr "omschrijving"
+
 msgid "done"
 msgstr "afgehandeld"
+
+msgid "duplicate"
+msgstr "duplicaat"
+
+msgid "duration"
+msgstr "looptijd"
 
 msgid "focus"
 msgstr "focus"
@@ -852,6 +861,9 @@ msgid_plural "years"
 msgstr[0] "jaar"
 msgstr[1] "jaren"
 
+#~ msgid "%1$s left"
+#~ msgstr "%1$s over"
+
 #~ msgid "Apply"
 #~ msgstr "Toepassen"
 
@@ -869,6 +881,9 @@ msgstr[1] "jaren"
 
 #~ msgid "Daily history"
 #~ msgstr "Dagelijkse geschiedenis"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
 
 #~ msgid "December"
 #~ msgstr "december"

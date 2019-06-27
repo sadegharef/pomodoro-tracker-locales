@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-13 14:02+0300\n"
+"POT-Creation-Date: 2019-06-27 15:59+0300\n"
 "PO-Revision-Date: 2017-02-06 20:20-0200\n"
 "Last-Translator: LUCAS ERNESTO KINDINGER <kindingerlek@hotmail.com>\n"
 "Language: pt_BR\n"
@@ -18,9 +18,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
-
-msgid "%1$s left"
-msgstr "faltam %1$s"
 
 msgid "%1$s records were imported"
 msgstr "Foram importados %1$s registros"
@@ -93,9 +90,6 @@ msgstr "Pausa acabou."
 msgid "Categories"
 msgstr "Categorias"
 
-msgid "Category"
-msgstr "Categoria"
-
 msgid "Changes saved"
 msgstr "Mudanças salvas"
 
@@ -107,6 +101,9 @@ msgstr "Limpe a lista"
 
 msgid "Click on a number to add more."
 msgstr "Clique em um número para adicionar mais."
+
+msgid "Click to open menu"
+msgstr "Menu aberto"
 
 msgid "Click/tap to edit items."
 msgstr "Clique duplo para editar os itens."
@@ -141,14 +138,11 @@ msgstr "Objetivo Diário"
 msgid "Daily Goal Completed."
 msgstr "Meta diária concluída."
 
-msgid "Date"
-msgstr "Data"
+msgid "Daily Task"
+msgstr "Marcar como uma tarefa diária"
 
 msgid "Date format"
 msgstr "Formato da data"
-
-msgid "Description"
-msgstr "Descrição"
 
 msgid "Disconnect"
 msgstr "Desligar"
@@ -296,12 +290,8 @@ msgstr "Atraso da pausa longa"
 msgid "Long break duration"
 msgstr "Duração da pausa longa"
 
-#, fuzzy
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr "Olhe para algo que está a 6 metros de distância por %1$s segundos"
-
-msgid "Mark as daily task"
-msgstr "Marcar como uma tarefa diária"
 
 msgid "Mark as done"
 msgstr "Marcar como feito"
@@ -342,7 +332,7 @@ msgstr "POMODORO"
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Pausa temporizador quando o computador vai dormir"
 
-msgid "Pin to favorites"
+msgid "Pin to activities"
 msgstr "Fixar em favoritos"
 
 msgid "Play alarm sound"
@@ -412,6 +402,12 @@ msgstr "Notas de lançamento"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Remover uma tarefa de TODO quando o Pomodoro estiver concluído"
+
+msgid "Remove one"
+msgstr "Remova um"
+
+msgid "Repeat"
+msgstr "Repetir"
 
 msgid "Reports Time"
 msgstr ""
@@ -664,6 +660,9 @@ msgstr "média"
 msgid "cancel"
 msgstr "cancelar"
 
+msgid "category"
+msgstr "categoria"
+
 msgid "close"
 msgstr "fechar"
 
@@ -687,8 +686,17 @@ msgstr "atrasos"
 msgid "delete"
 msgstr "apagar"
 
+msgid "description"
+msgstr "descrição"
+
 msgid "done"
 msgstr "feito"
+
+msgid "duplicate"
+msgstr "duplicado"
+
+msgid "duration"
+msgstr "duração"
 
 msgid "focus"
 msgstr "foco"
@@ -856,6 +864,9 @@ msgid_plural "years"
 msgstr[0] "ano"
 msgstr[1] "anos"
 
+#~ msgid "%1$s left"
+#~ msgstr "faltam %1$s"
+
 #~ msgid "Apply"
 #~ msgstr "Aplique"
 
@@ -873,6 +884,9 @@ msgstr[1] "anos"
 
 #~ msgid "Daily history"
 #~ msgstr "Histórico diário"
+
+#~ msgid "Date"
+#~ msgstr "Data"
 
 #~ msgid "December"
 #~ msgstr "Dezembro"

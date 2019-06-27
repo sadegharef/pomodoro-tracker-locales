@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-13 14:01+0300\n"
+"POT-Creation-Date: 2019-06-27 15:59+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -18,9 +18,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
-
-msgid "%1$s left"
-msgstr "%s$s"
 
 msgid "%1$s records were imported"
 msgstr "%1$s レコードがインポートされました。"
@@ -91,9 +88,6 @@ msgstr "休憩が終わった"
 msgid "Categories"
 msgstr "カテゴリー"
 
-msgid "Category"
-msgstr "カテゴリー"
-
 msgid "Changes saved"
 msgstr "変更が保存されました"
 
@@ -105,6 +99,9 @@ msgstr "リストをクリアする"
 
 msgid "Click on a number to add more."
 msgstr "追加する番号をクリックしてください。"
+
+msgid "Click to open menu"
+msgstr ""
 
 msgid "Click/tap to edit items."
 msgstr "アイテムを編集するには、ダブルクリックまたはタップしてください。"
@@ -139,14 +136,11 @@ msgstr "毎日の目標"
 msgid "Daily Goal Completed."
 msgstr "毎日の目標達成"
 
-msgid "Date"
-msgstr "日付"
+msgid "Daily Task"
+msgstr "毎日のタスクとして登録する"
 
 msgid "Date format"
 msgstr "日付の表示形式"
-
-msgid "Description"
-msgstr "説明"
 
 msgid "Disconnect"
 msgstr "連携解除"
@@ -293,9 +287,6 @@ msgstr "長い休憩時間"
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr ""
 
-msgid "Mark as daily task"
-msgstr "毎日のタスクとして登録する"
-
 msgid "Mark as done"
 msgstr "完了にする"
 
@@ -335,7 +326,7 @@ msgstr "ポモドーロ"
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
-msgid "Pin to favorites"
+msgid "Pin to activities"
 msgstr "お気に入りに追加"
 
 msgid "Play alarm sound"
@@ -403,6 +394,12 @@ msgstr "リリースノート"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "ポモドーロが完了した時、TODOからタスクを取り除く"
+
+msgid "Remove one"
+msgstr "削除する"
+
+msgid "Repeat"
+msgstr "繰り返す"
 
 msgid "Reports Time"
 msgstr ""
@@ -639,6 +636,9 @@ msgstr "平均"
 msgid "cancel"
 msgstr ""
 
+msgid "category"
+msgstr "カテゴリー"
+
 msgid "close"
 msgstr "閉じる"
 
@@ -662,8 +662,18 @@ msgstr "遅れ"
 msgid "delete"
 msgstr "削除"
 
+msgid "description"
+msgstr "説明"
+
 msgid "done"
 msgstr "完了"
+
+msgid "duplicate"
+msgstr "複製する"
+
+#, fuzzy
+msgid "duration"
+msgstr "期間"
 
 msgid "focus"
 msgstr ""
@@ -829,6 +839,9 @@ msgid_plural "years"
 msgstr[0] "年"
 msgstr[1] "年"
 
+#~ msgid "%1$s left"
+#~ msgstr "%s$s"
+
 #~ msgid "Apply"
 #~ msgstr "適用"
 
@@ -846,6 +859,9 @@ msgstr[1] "年"
 
 #~ msgid "Daily history"
 #~ msgstr "毎日の歴史"
+
+#~ msgid "Date"
+#~ msgstr "日付"
 
 #~ msgid "December"
 #~ msgstr "12月"

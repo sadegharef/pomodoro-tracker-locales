@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-13 14:02+0300\n"
+"POT-Creation-Date: 2019-06-27 15:59+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -18,9 +18,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
-
-msgid "%1$s left"
-msgstr "2离开"
 
 msgid "%1$s records were imported"
 msgstr "%1$s个记录已导入"
@@ -91,9 +88,6 @@ msgstr ""
 msgid "Categories"
 msgstr "类别"
 
-msgid "Category"
-msgstr "类别"
-
 msgid "Changes saved"
 msgstr "保存更改"
 
@@ -105,6 +99,9 @@ msgstr "清除列表"
 
 msgid "Click on a number to add more."
 msgstr "在数字上点击来新增一个。"
+
+msgid "Click to open menu"
+msgstr ""
 
 msgid "Click/tap to edit items."
 msgstr "点击编辑项目"
@@ -139,14 +136,11 @@ msgstr "每日目标"
 msgid "Daily Goal Completed."
 msgstr "每日目标完成"
 
-msgid "Date"
-msgstr "日期"
+msgid "Daily Task"
+msgstr "标记为每日任务"
 
 msgid "Date format"
 msgstr "日期格式"
-
-msgid "Description"
-msgstr "描述"
 
 msgid "Disconnect"
 msgstr "解除绑定"
@@ -293,9 +287,6 @@ msgstr "长休息时长"
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr ""
 
-msgid "Mark as daily task"
-msgstr "标记为每日任务"
-
 msgid "Mark as done"
 msgstr "标记为完成"
 
@@ -335,7 +326,7 @@ msgstr "番茄钟"
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
-msgid "Pin to favorites"
+msgid "Pin to activities"
 msgstr "添加到收藏夹"
 
 msgid "Play alarm sound"
@@ -403,6 +394,12 @@ msgstr "发布记录"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr ""
+
+msgid "Remove one"
+msgstr "删除一个"
+
+msgid "Repeat"
+msgstr "重复"
 
 msgid "Reports Time"
 msgstr ""
@@ -639,6 +636,9 @@ msgstr "平均"
 msgid "cancel"
 msgstr "取消"
 
+msgid "category"
+msgstr "类别"
+
 msgid "close"
 msgstr "关闭"
 
@@ -661,8 +661,17 @@ msgstr "推迟"
 msgid "delete"
 msgstr "删除"
 
+msgid "description"
+msgstr "描述"
+
 msgid "done"
 msgstr "已完成"
+
+msgid "duplicate"
+msgstr "重复"
+
+msgid "duration"
+msgstr "持续时间"
 
 msgid "focus"
 msgstr ""
@@ -822,6 +831,9 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "年"
 
+#~ msgid "%1$s left"
+#~ msgstr "2离开"
+
 #~ msgid "Apply"
 #~ msgstr "应用"
 
@@ -839,6 +851,9 @@ msgstr[0] "年"
 
 #~ msgid "Daily history"
 #~ msgstr "历史记录"
+
+#~ msgid "Date"
+#~ msgstr "日期"
 
 #~ msgid "December"
 #~ msgstr "十二月"

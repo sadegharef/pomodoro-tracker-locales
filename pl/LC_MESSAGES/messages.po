@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-06-13 14:02+0300\n"
+"POT-Creation-Date: 2019-06-27 15:59+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -18,9 +18,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
-
-msgid "%1$s left"
-msgstr "Pozostało: %1$s"
 
 msgid "%1$s records were imported"
 msgstr "Zaimportowano rekordy: %1$s"
@@ -93,9 +90,6 @@ msgstr "Przerwa zakończona."
 msgid "Categories"
 msgstr "Kategorie"
 
-msgid "Category"
-msgstr "Kategoria"
-
 msgid "Changes saved"
 msgstr "Zmiany zapisane"
 
@@ -107,6 +101,9 @@ msgstr "Wyczyść listę"
 
 msgid "Click on a number to add more."
 msgstr "Naciśnij na numer by dodać więcej Pomodoro w ramach wybranego zadania."
+
+msgid "Click to open menu"
+msgstr "Otwórz menu"
 
 msgid "Click/tap to edit items."
 msgstr "Naciśnij zadanie aby je edytować."
@@ -138,14 +135,11 @@ msgstr "Cel dnia"
 msgid "Daily Goal Completed."
 msgstr "Cel dnia zakończony"
 
-msgid "Date"
-msgstr "Data"
+msgid "Daily Task"
+msgstr "Oznacz jako codzienne zadanie"
 
 msgid "Date format"
 msgstr "Format daty"
-
-msgid "Description"
-msgstr "Opis"
 
 msgid "Disconnect"
 msgstr "Rozłącz"
@@ -290,9 +284,6 @@ msgstr "Opóźnienie długiej przerwy"
 msgid "Long break duration"
 msgstr "Czas trwania długiej przerwy"
 
-msgid "Mark as daily task"
-msgstr "Oznacz jako codzienne zadanie"
-
 msgid "Mark as done"
 msgstr "Oznacz jako wykonane"
 
@@ -323,7 +314,7 @@ msgstr "Pozostała jedna minuta"
 msgid "POMODORO"
 msgstr "POMODORO"
 
-msgid "Pin to favorites"
+msgid "Pin to activities"
 msgstr "Przypnij do ulubionych"
 
 msgid "Play alarm sound"
@@ -378,6 +369,12 @@ msgstr "Zarejestruj"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Usuń zadanie z TODO, gdy Pomodoro jest ukończone"
+
+msgid "Remove one"
+msgstr "Usuń jeden"
+
+msgid "Repeat"
+msgstr "Powtarzać"
 
 msgid "Reports Time"
 msgstr "Czas raportów"
@@ -616,6 +613,9 @@ msgstr "średnia"
 msgid "cancel"
 msgstr "anuluj"
 
+msgid "category"
+msgstr "kategoria"
+
 msgid "close"
 msgstr "zamknij"
 
@@ -639,8 +639,17 @@ msgstr "opóźnienia"
 msgid "delete"
 msgstr "Usuń"
 
+msgid "description"
+msgstr "opis"
+
 msgid "done"
 msgstr "zrobione"
+
+msgid "duplicate"
+msgstr "duplikować"
+
+msgid "duration"
+msgstr "trwanie"
 
 msgid "focus"
 msgstr "skupienie"
@@ -805,6 +814,9 @@ msgid_plural "years"
 msgstr[0] "rok"
 msgstr[1] "lata"
 
+#~ msgid "%1$s left"
+#~ msgstr "Pozostało: %1$s"
+
 #~ msgid "Apply"
 #~ msgstr "Potwierdź"
 
@@ -822,6 +834,9 @@ msgstr[1] "lata"
 
 #~ msgid "Daily history"
 #~ msgstr "Historia dnia"
+
+#~ msgid "Date"
+#~ msgstr "Data"
 
 #~ msgid "December"
 #~ msgstr "Grudzień"
