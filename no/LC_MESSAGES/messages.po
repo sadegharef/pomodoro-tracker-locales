@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-27 15:59+0300\n"
+"POT-Creation-Date: 2019-06-28 12:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nb_NO\n"
@@ -18,6 +18,9 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+
+msgid "%1$s left"
+msgstr ""
 
 msgid "%1$s records were imported"
 msgstr ""
@@ -837,16 +840,3 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
-
-#~ msgid "%1$s left"
-#~ msgstr ""
-
-#~ msgid "Date"
-#~ msgstr ""
-
-#~ msgid "Mark as daily task"
-#~ msgstr ""
-
-#~ msgid "Pin to favorites"
-#~ msgstr ""
-
