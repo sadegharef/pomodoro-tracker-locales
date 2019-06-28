@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-28 12:38+0300\n"
+"POT-Creation-Date: 2019-06-28 13:43+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -568,9 +568,6 @@ msgstr "Этот квартал"
 
 msgid "This Week"
 msgstr "Эта неделя"
-
-msgid "Time"
-msgstr "Время"
 
 msgid "Time format"
 msgstr "Формат времени"

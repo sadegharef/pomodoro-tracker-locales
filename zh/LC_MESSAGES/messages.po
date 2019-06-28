@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-28 12:39+0300\n"
+"POT-Creation-Date: 2019-06-28 13:44+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -545,9 +545,6 @@ msgstr "本季度"
 
 msgid "This Week"
 msgstr "本周"
-
-msgid "Time"
-msgstr "时间"
 
 msgid "Time format"
 msgstr "时间格式"

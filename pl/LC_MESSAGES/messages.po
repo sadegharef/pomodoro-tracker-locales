@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-06-28 12:39+0300\n"
+"POT-Creation-Date: 2019-06-28 13:44+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -531,9 +531,6 @@ msgstr "Ten kwartał"
 
 msgid "This Week"
 msgstr "Ten tydzień"
-
-msgid "Time"
-msgstr "Czas"
 
 msgid "Time format"
 msgstr "Format czasu"
