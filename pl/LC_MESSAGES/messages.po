@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-06-28 13:44+0300\n"
+"POT-Creation-Date: 2019-07-04 13:30+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -595,6 +595,9 @@ msgstr "Spędziłeś/aś"
 msgid "and"
 msgstr "i"
 
+msgid "as Bitbucket user"
+msgstr "jako użytkownik Bitbucket"
+
 msgid "as Facebook user"
 msgstr "jako użytkownik Facebook"
 
@@ -603,6 +606,15 @@ msgstr "jako użytkownik Github"
 
 msgid "as Google user"
 msgstr "jako użytkownik Google"
+
+msgid "as Twitter user"
+msgstr "jako użytkownik Twitter"
+
+msgid "as VK user"
+msgstr "jako użytkownik VK"
+
+msgid "as Yandex user"
+msgstr "jako użytkownik Yandex"
 
 msgid "auto"
 msgstr "automatycznie"

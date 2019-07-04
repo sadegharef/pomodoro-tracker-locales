@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-28 13:44+0300\n"
+"POT-Creation-Date: 2019-07-04 13:30+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -292,7 +292,6 @@ msgstr "Délai avant la longue pause"
 msgid "Long break duration"
 msgstr "Durée de la longue pause"
 
-#, fuzzy
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr "Regarder quelque chose qui est à 6 mètres pendant %1$s secondes"
 
@@ -637,6 +636,9 @@ msgstr "Vous avez passé"
 msgid "and"
 msgstr "et"
 
+msgid "as Bitbucket user"
+msgstr "avec votre compte Bitbucket"
+
 msgid "as Facebook user"
 msgstr "avec votre compte Facebook"
 
@@ -645,6 +647,15 @@ msgstr "avec votre compte GitHub"
 
 msgid "as Google user"
 msgstr "avec votre compte Google"
+
+msgid "as Twitter user"
+msgstr "avec votre compte Twitter"
+
+msgid "as VK user"
+msgstr "avec votre compte VK"
+
+msgid "as Yandex user"
+msgstr "avec votre compte Yandex"
 
 msgid "auto"
 msgstr "auto"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-28 13:44+0300\n"
+"POT-Creation-Date: 2019-07-04 13:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -634,6 +634,9 @@ msgstr "Жұмсалды"
 msgid "and"
 msgstr "және"
 
+msgid "as Bitbucket user"
+msgstr "Bitbucket-пен"
+
 msgid "as Facebook user"
 msgstr "Facebook-пен"
 
@@ -642,6 +645,15 @@ msgstr "Github-пен"
 
 msgid "as Google user"
 msgstr "Google-мен"
+
+msgid "as Twitter user"
+msgstr "Twitter-пен"
+
+msgid "as VK user"
+msgstr "VK-пен"
+
+msgid "as Yandex user"
+msgstr "Yandex-пен"
 
 msgid "auto"
 msgstr "авто"

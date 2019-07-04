@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-28 13:44+0300\n"
+"POT-Creation-Date: 2019-07-04 13:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -638,6 +638,9 @@ msgstr "Hai speso"
 msgid "and"
 msgstr "e"
 
+msgid "as Bitbucket user"
+msgstr "come utente Bitbucket"
+
 msgid "as Facebook user"
 msgstr "come utente Facebook"
 
@@ -646,6 +649,15 @@ msgstr "come utente Github"
 
 msgid "as Google user"
 msgstr "come utente Google"
+
+msgid "as Twitter user"
+msgstr "come utente Twitter"
+
+msgid "as VK user"
+msgstr "come utente VK"
+
+msgid "as Yandex user"
+msgstr "come utente Yandex"
 
 msgid "auto"
 msgstr "auto"

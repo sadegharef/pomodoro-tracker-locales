@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-28 13:44+0300\n"
+"POT-Creation-Date: 2019-07-04 13:30+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -618,6 +618,9 @@ msgstr "您花费"
 msgid "and"
 msgstr "以及"
 
+msgid "as Bitbucket user"
+msgstr "作为Bitbucket用户"
+
 msgid "as Facebook user"
 msgstr "作为Facebook用户"
 
@@ -626,6 +629,15 @@ msgstr "作为Github用户"
 
 msgid "as Google user"
 msgstr "作为Google用户"
+
+msgid "as Twitter user"
+msgstr "作为Twitter用户"
+
+msgid "as VK user"
+msgstr "作为VK用户"
+
+msgid "as Yandex user"
+msgstr "作为Yandex用户"
 
 msgid "auto"
 msgstr "自动"

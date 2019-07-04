@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-06-28 13:43+0300\n"
+"POT-Creation-Date: 2019-07-04 13:29+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -641,6 +641,9 @@ msgstr "Вы потратили"
 msgid "and"
 msgstr "и"
 
+msgid "as Bitbucket user"
+msgstr "используя Bitbucket"
+
 msgid "as Facebook user"
 msgstr "используя Facebook"
 
@@ -649,6 +652,15 @@ msgstr "используя Github"
 
 msgid "as Google user"
 msgstr "используя Google"
+
+msgid "as Twitter user"
+msgstr "используя Twitter"
+
+msgid "as VK user"
+msgstr "используя ВК"
+
+msgid "as Yandex user"
+msgstr "используя Яндекс"
 
 msgid "auto"
 msgstr "автоматически"

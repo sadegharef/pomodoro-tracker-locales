@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-06-28 13:44+0300\n"
+"POT-Creation-Date: 2019-07-04 13:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -640,6 +640,9 @@ msgstr "Sie haben verbracht"
 msgid "and"
 msgstr "und"
 
+msgid "as Bitbucket user"
+msgstr "mit Bitbucket Account"
+
 msgid "as Facebook user"
 msgstr "mit Facebook"
 
@@ -648,6 +651,15 @@ msgstr "mit Github Account"
 
 msgid "as Google user"
 msgstr "mit Google Account"
+
+msgid "as Twitter user"
+msgstr "mit Twitter Account"
+
+msgid "as VK user"
+msgstr "mit VK Account"
+
+msgid "as Yandex user"
+msgstr "mit Yandex Account"
 
 msgid "auto"
 msgstr "auto"
