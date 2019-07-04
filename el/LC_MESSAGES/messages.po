@@ -840,4 +840,3 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "χρόνο"
 msgstr[1] "χρονία"
-
