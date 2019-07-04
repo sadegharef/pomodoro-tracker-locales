@@ -107,11 +107,17 @@ msgstr "Στην ώρα"
 
 msgid "Auto start breaks"
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "Αυτοματο ξεκίνημα διάλειμματα"
 ||||||| merged common ancestors
 msgstr ""
 =======
 msgstr "Αυτόματο ξεκίνημα διάλειμματων"
+>>>>>>> Update messages.po
+||||||| merged common ancestors
+msgstr "Αυτόματο ξεκίνημα διάλειμματων"
+=======
+msgstr "Αυτοματο ξεκίνημα διάλειμματα"
 >>>>>>> Update messages.po
 
 msgid "Auto start pomodoros"
