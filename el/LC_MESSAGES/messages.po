@@ -25,6 +25,7 @@ msgstr "%1$s αριστερά"
 msgid "%1$s records were imported"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "%1$s τα αρχεία έχουν εισήχθη"
 ||||||| merged common ancestors
 msgstr ""
@@ -36,15 +37,26 @@ msgstr "%1$s τα αρχεία έχουν εισαχθεί"
 =======
 msgstr "%1$s τα αρχεία έχουν εισάχθη"
 >>>>>>> Update messages.po
+||||||| merged common ancestors
+msgstr "%1$s τα αρχεία έχουν εισάχθη"
+=======
+msgstr "%1$s τα αρχεία έχουν εισήχθη"
+>>>>>>> Update messages.po
 
 #, python-format
 msgid "%s here's your Daily report for %s"
+<<<<<<< HEAD
 <<<<<<< HEAD
 msgstr "%s οριστε η καθημερινή σου αναφορά για %s"
 ||||||| merged common ancestors
 msgstr ""
 =======
 msgstr "%s ορίστε η καθημερινή σου αναφορά για %s"
+>>>>>>> Update messages.po
+||||||| merged common ancestors
+msgstr "%s ορίστε η καθημερινή σου αναφορά για %s"
+=======
+msgstr "%s οριστε η καθημερινή σου αναφορά για %s"
 >>>>>>> Update messages.po
 
 msgid "Activities"
