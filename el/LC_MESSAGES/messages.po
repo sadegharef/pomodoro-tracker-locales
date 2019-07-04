@@ -24,11 +24,17 @@ msgstr "%1$s αριστερά"
 
 msgid "%1$s records were imported"
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "%1$s τα αρχεία έχουν εισήχθη"
 ||||||| merged common ancestors
 msgstr ""
 =======
 msgstr "%1$s τα αρχεία έχουν εισαχθεί"
+>>>>>>> Update messages.po
+||||||| merged common ancestors
+msgstr "%1$s τα αρχεία έχουν εισαχθεί"
+=======
+msgstr "%1$s τα αρχεία έχουν εισάχθη"
 >>>>>>> Update messages.po
 
 #, python-format
