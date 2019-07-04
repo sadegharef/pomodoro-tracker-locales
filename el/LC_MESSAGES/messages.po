@@ -23,11 +23,23 @@ msgid "%1$s left"
 msgstr "%1$s αριστερά"
 
 msgid "%1$s records were imported"
+<<<<<<< HEAD
 msgstr "%1$s τα αρχεία έχουν εισήχθη"
+||||||| merged common ancestors
+msgstr ""
+=======
+msgstr "%1$s τα αρχεία έχουν εισαχθεί"
+>>>>>>> Update messages.po
 
 #, python-format
 msgid "%s here's your Daily report for %s"
+<<<<<<< HEAD
 msgstr "%s οριστε η καθημερινή σου αναφορά για %s"
+||||||| merged common ancestors
+msgstr ""
+=======
+msgstr "%s ορίστε η καθημερινή σου αναφορά για %s"
+>>>>>>> Update messages.po
 
 msgid "Activities"
 msgstr "Δραστηριότητες"
@@ -73,40 +85,46 @@ msgstr ""
 "βάλτες στην λίστα TODO παραπάνω"
 
 msgid "At time"
-msgstr ""
+msgstr "Στην ώρα"
 
 msgid "Auto start breaks"
+<<<<<<< HEAD
 msgstr "Αυτοματο ξεκίνημα διάλειμματα"
+||||||| merged common ancestors
+msgstr ""
+=======
+msgstr "Αυτόματο ξεκίνημα διάλειμματων"
+>>>>>>> Update messages.po
 
 msgid "Auto start pomodoros"
-msgstr ""
+msgstr "Αυτόματο ξεκίνημα των πομοντόρο"
 
 msgid "Bolster the determination to achieve your goals"
-msgstr ""
+msgstr "Υποστήρηξε την αποφασιστικότητα σου να καταφέρεις τους στόχους σου"
 
 msgid "Boost motivation and keep it constant"
-msgstr ""
+msgstr "Ενίσχυση ώθησης να το κρατήσεις συνεχής"
 
 msgid "Break is over."
-msgstr ""
+msgstr "Το Διάλειμμα τελείωσε"
 
 msgid "Categories"
-msgstr ""
+msgstr "Κατηγορίες"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "Η Αλλαγές αποθηκεύτηκαν"
 
 msgid "Clear DONE history once per day"
-msgstr ""
+msgstr "Καθάρισε την ολοκληρωμένη ιστορία μια φορά την ημέρα"
 
 msgid "Clear the list"
-msgstr ""
+msgstr "Καθάρισε την λίστα"
 
 msgid "Click on a number to add more."
-msgstr ""
+msgstr "Κανε κλικ σε εναν αριθμό να βάλεις εξτρά"
 
 msgid "Click to open menu"
-msgstr ""
+msgstr "Κανε κλικ για να άνοιξης το μενού"
 
 msgid "Click/tap to edit items."
 msgstr ""
