@@ -190,10 +190,10 @@ msgid "Export the records as CSV"
 msgstr "Κανε εξαγωή τα αρχεία σαν CSV"
 
 msgid "Favorites"
-msgstr ""
+msgstr "Αγαπημένα"
 
 msgid "Feedback"
-msgstr ""
+msgstr "Ανατροφοδότηση"
 
 msgid "Great work!"
 msgstr ""
