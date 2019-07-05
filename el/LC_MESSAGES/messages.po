@@ -172,13 +172,13 @@ msgid "Drag&Drop/Touch to sort items."
 msgstr "Σύρε&Άφησε/Ακούμπα για να ταξινομήσεις τα αντικείμενα"
 
 msgid "Edit"
-msgstr ""
+msgstr "Επεξεργασία"
 
 msgid "Enable Browser Alerts"
-msgstr ""
+msgstr "Ενεργοποίησε Ειδοποιήσεις Ιστοσελιδας"
 
 msgid "Enable Telegram Notifications"
-msgstr ""
+msgstr "Ενεργοποίησε Ειδοποιήσεις απο το Telegram"
 
 msgid "Enable Web Notifications"
 msgstr ""
