@@ -212,10 +212,10 @@ msgstr ""
 "με μια αλλη ασχολία"
 
 msgid "Import records from CSV"
-msgstr ""
+msgstr "Κανε εισαγωγή τα αρχεία απο csv"
 
 msgid "Import was failed. Check your CSV and try again."
-msgstr ""
+msgstr "Η εισαγωγή αποτυχέ. Τσέκαρε το CSV σου και ξανά προσπάθησε"
 
 msgid "Imported from External Sources"
 msgstr ""
