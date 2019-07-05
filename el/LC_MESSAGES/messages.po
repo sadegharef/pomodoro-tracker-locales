@@ -127,49 +127,49 @@ msgid "Click to open menu"
 msgstr "Κανε κλικ για να άνοιξης το μενού"
 
 msgid "Click/tap to edit items."
-msgstr ""
+msgstr "Κανε κλικ/πάτα για επεξεργασία των αντικειμένων"
 
 msgid "Close"
-msgstr ""
+msgstr "Κλείσε"
 
 msgid "Code"
-msgstr ""
+msgstr "Κωδικός"
 
 msgid "Color Theme"
-msgstr ""
+msgstr "Χρώμα Θέματος"
 
 msgid "Congratulations!"
-msgstr ""
+msgstr "Συγχαρητήρια!"
 
 msgid "Connect"
-msgstr ""
+msgstr "Συνδέσου"
 
 msgid "Create"
-msgstr ""
+msgstr "Δημιούργησε"
 
 msgid "Create a category"
-msgstr ""
+msgstr "Δημιούργησε μια Κατηγόρια"
 
 msgid "Daily Goal"
-msgstr ""
+msgstr "Καθημερινός Στόχος"
 
 msgid "Daily Goal Completed."
-msgstr ""
+msgstr "Καθημερινός Στόχος Επιτευχθεί"
 
 msgid "Daily Task"
-msgstr ""
+msgstr "Καθημερίνη Ασχολία"
 
 msgid "Date format"
-msgstr ""
+msgstr "Μορφή Ημερομηνίας"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "Αποσύνδεση"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr ""
+msgstr "Μην ξεκινήσεις το επόμενο πομοντόρο αμα το TODO είναι άδειο"
 
 msgid "Drag&Drop/Touch to sort items."
-msgstr ""
+msgstr "Σύρε&Άφησε/Ακούμπα για να ταξινομήσεις τα αντικείμενα"
 
 msgid "Edit"
 msgstr ""
