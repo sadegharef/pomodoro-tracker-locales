@@ -181,10 +181,10 @@ msgid "Enable Telegram Notifications"
 msgstr "Ενεργοποίησε Ειδοποιήσεις απο το Telegram"
 
 msgid "Enable Web Notifications"
-msgstr ""
+msgstr "Ενεργοποίησε Ειδοποιήσεις Ιστοσελιδας"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
-msgstr ""
+msgstr "Ενίσχυσε την συγκέντρωση κόβοντας της αποσπάσεις"
 
 msgid "Export the records as CSV"
 msgstr ""
