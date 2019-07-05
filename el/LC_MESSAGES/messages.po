@@ -218,13 +218,13 @@ msgid "Import was failed. Check your CSV and try again."
 msgstr "Η εισαγωγή αποτυχέ. Τσέκαρε το CSV σου και ξανά προσπάθησε"
 
 msgid "Imported from External Sources"
-msgstr ""
+msgstr "Έγινε εισαγωγή απο εξοτερικές πηγές"
 
 msgid "Improve your work or study process"
-msgstr ""
+msgstr "Βελτίωσε την διαδικασία δουλειάς και διαβάσματος"
 
 msgid "Increase awareness of your decisions"
-msgstr ""
+msgstr "Ανεβασε την γνώση των αποφάσεων σου"
 
 msgid "Integration with Facebook"
 msgstr ""
