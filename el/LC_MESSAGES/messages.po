@@ -187,7 +187,7 @@ msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Ενίσχυσε την συγκέντρωση κόβοντας της αποσπάσεις"
 
 msgid "Export the records as CSV"
-msgstr ""
+msgstr "Κανε εξαγωή τα αρχεία σαν CSV"
 
 msgid "Favorites"
 msgstr ""
