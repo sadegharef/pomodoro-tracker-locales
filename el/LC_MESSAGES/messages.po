@@ -218,7 +218,7 @@ msgid "Import was failed. Check your CSV and try again."
 msgstr "Η εισαγωγή αποτυχέ. Τσέκαρε το CSV σου και ξανά προσπάθησε"
 
 msgid "Imported from External Sources"
-msgstr "Έγινε εισαγωγή απο εξοτερικές πηγές"
+msgstr "Έγινε εισαγωγή απο Εξωτερικές Πηγές"
 
 msgid "Improve your work or study process"
 msgstr "Βελτίωσε την διαδικασία δουλειάς και διαβάσματος"
@@ -227,69 +227,71 @@ msgid "Increase awareness of your decisions"
 msgstr "Ανεβασε την γνώση των αποφάσεων σου"
 
 msgid "Integration with Facebook"
-msgstr ""
+msgstr "Ενωσμάτωση με Facebook"
 
 msgid "Integration with Github"
-msgstr ""
+msgstr "Ενωσμάτωση με Github"
 
 msgid "Integration with Google"
-msgstr ""
+msgstr "Ενωσμάτωση με Google"
 
 msgid "Integration with Telegram"
-msgstr ""
+msgstr "Ενωσμάτωση με Telegram"
 
 msgid "Integrations"
-msgstr ""
+msgstr "Ενωσμάτωση"
 
 msgid "Join our Slack Community"
-msgstr ""
+msgstr "Συνδέσου με την Slack Κοινότητα μας"
 
 msgid "Join the global rating"
-msgstr ""
+msgstr "Πάρε μέρος στην παγκόσμια ταξινόμηση"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
 msgstr ""
+"Συνέχισε να δουλεύεις, Πομοντόρο μετα απο Πομορντόρο, μεχρι η δουλεια να έχει"
+"Τελείωση. Καθε 4 Πομοντόρο παρε μεγαλύτερο διάλειμμα, (15-30 λεπτα)."
 
 msgid "Language"
-msgstr ""
+msgstr "Γλώσσα"
 
 msgid "Last 180 days"
-msgstr ""
+msgstr "Τελευταίες 180 ημέρες"
 
 msgid "Last 90 days"
-msgstr ""
+msgstr "Τελευταίες 90 ημέρες"
 
 msgid "Last Month"
-msgstr ""
+msgstr "Τελευταίος Μήνας"
 
 msgid "Last Quarter"
-msgstr ""
+msgstr "Τελεταία Τριμηνία"
 
 msgid "Last Week"
-msgstr ""
+msgstr "Τελεταία Εβδομάδα"
 
 msgid "Like"
-msgstr ""
+msgstr "Μου Αρέσει"
 
 msgid "Load daily tasks from Google Calendar"
-msgstr ""
+msgstr "Φόρτωσε καθημερινές ασχολίες απο το Ημερολόγιο Google"
 
 msgid "Loading"
-msgstr ""
+msgstr "Φόρτωμα"
 
 msgid "Login to the service and track your progress"
-msgstr ""
+msgstr "Συνδέσου στην υπηρεσία και κατέγραψε την προοδο σου"
 
 msgid "Login to the service using Facebook authentication."
-msgstr ""
+msgstr "Συνδέσου στην υπηρεσία χρησιμοποιώντας αυθεντικοποίηση απο το Facebook"
 
 msgid "Login to the service using Github authentication."
-msgstr ""
+msgstr "Συνδέσου στην υπηρεσία χρησιμοποιώντας αυθεντικοποίηση απο το Github"
 
 msgid "Login to the service using Google Authentication"
-msgstr ""
+msgstr "Συνδέσου στην υπηρεσία χρησιμοποιώντας αυθεντικοποίηση απο το Google"
 
 msgid "Logout"
 msgstr ""
