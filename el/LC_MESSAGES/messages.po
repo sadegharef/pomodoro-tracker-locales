@@ -196,13 +196,13 @@ msgid "Feedback"
 msgstr "Ανατροφοδότηση"
 
 msgid "Great work!"
-msgstr ""
+msgstr "Σπουδαία Δουλειά"
 
 msgid "Hide notificaions"
-msgstr ""
+msgstr "κρύψε της ειδοποιήσεις"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr ""
+msgstr "Αμα μια ασχολία παίρνει παραπανο απο 5-7 Πομοντορος, σπαστο"
 
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
