@@ -100,7 +100,7 @@ msgid "Auto start pomodoros"
 msgstr "Αυτόματο ξεκίνημα των πομοντόρο"
 
 msgid "Bolster the determination to achieve your goals"
-msgstr "Υποστήρηξε την αποφασιστικότητα σου να καταφέρεις τους στόχους σου"
+msgstr "Υποστήρηξε την αποφασιστικότητα σου για να καταφέρεις τους στόχους σου"
 
 msgid "Boost motivation and keep it constant"
 msgstr "Ενίσχυση ώθησης να το κρατήσεις συνεχής"
@@ -175,7 +175,7 @@ msgid "Edit"
 msgstr "Επεξεργασία"
 
 msgid "Enable Browser Alerts"
-msgstr "Ενεργοποίησε Ειδοποιήσεις Ιστοσελιδας"
+msgstr "Ενεργοποίησε Ειδοποιήσεις Λογισμικού Πλοήγησης"
 
 msgid "Enable Telegram Notifications"
 msgstr "Ενεργοποίησε Ειδοποιήσεις απο το Telegram"
@@ -294,31 +294,31 @@ msgid "Login to the service using Google Authentication"
 msgstr "Συνδέσου στην υπηρεσία χρησιμοποιώντας αυθεντικοποίηση απο το Google"
 
 msgid "Logout"
-msgstr ""
+msgstr "Αποσύνδεση"
 
 msgid "Long break"
-msgstr ""
+msgstr "Μεγάλο διάλειμμα"
 
 msgid "Long break delay"
-msgstr ""
+msgstr "Μεγάλο διάλειμμα αναβολή"
 
 msgid "Long break duration"
-msgstr ""
+msgstr "Μεγάλο διάλειμμα διάρκεια"
 
 msgid "Mark as done"
-msgstr ""
+msgstr "Σημείωσε σαν ολοκληρωμένο"
 
 msgid "Median per day"
-msgstr ""
+msgstr "Μέσο ανα ημέρα"
 
 msgid "New"
-msgstr ""
+msgstr "Καινούργιο"
 
 msgid "Notification Test"
-msgstr ""
+msgstr "Δοκιμή Ειδοποιήσεων"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Ειδοποίησεις"
 
 msgid "Notify when there is one minute left"
 msgstr ""
