@@ -321,22 +321,22 @@ msgid "Notifications"
 msgstr "Ειδοποίησεις"
 
 msgid "Notify when there is one minute left"
-msgstr ""
+msgstr "Κανε ειδοποίηση οταν εχει μείνει ενα λέπτο"
 
 msgid "Of those"
-msgstr ""
+msgstr "Από Αυτά"
 
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr ""
+msgstr "Οταν η Πομοντόρο ξεκίνα, πρεπει να κουδουνίζει"
 
 msgid "One minute left"
-msgstr ""
+msgstr "Απέμεινε ενα λέπτο"
 
 msgid "POMODORO"
-msgstr ""
+msgstr "ΠΟΜΟΝΤΌΡΟ"
 
 msgid "Pin to activities"
-msgstr ""
+msgstr "Καρφίτσωμα στης δραστηριότητες"
 
 msgid "Play alarm sound"
 msgstr ""
