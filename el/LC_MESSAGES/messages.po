@@ -339,13 +339,13 @@ msgid "Pin to activities"
 msgstr "Καρφίτσωμα στης δραστηριότητες"
 
 msgid "Play alarm sound"
-msgstr ""
+msgstr "Παίξε ηχο συναγερμού"
 
 msgid "Play ticking sound"
-msgstr ""
+msgstr "Παίξε ήχο τικαρίσματος"
 
 msgid "Play ticking sound while breaks"
-msgstr ""
+msgstr "Παίξε ήχο τικαρίσματος στα διαλείματα"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr ""
