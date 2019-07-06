@@ -348,16 +348,16 @@ msgid "Play ticking sound while breaks"
 msgstr "Παίξε ήχο τικαρίσματος στα διαλείματα"
 
 msgid "Please don't send me these awesome daily reports"
-msgstr ""
+msgstr "Παρακαλώ μην μου στέλνετε αυτες της φοβερές καθημερινές αναφορές"
 
 msgid "Please reload the application."
-msgstr ""
+msgstr "Παρακαλώ ξανά φορτώστε το πρόγραμμα"
 
 msgid "Please unblock notifications in your browser"
-msgstr ""
+msgstr "Παρακαλώ ξεμπλοκάρε της ειδοποίησης στο λογισμικό πλοήγησης σας"
 
 msgid "Please, login to view your stats"
-msgstr ""
+msgstr "Παρακαλώ, συνδεθείτε για να δείτε τα στατιστικά σας"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
 msgstr ""
