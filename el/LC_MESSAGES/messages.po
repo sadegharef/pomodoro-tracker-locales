@@ -360,28 +360,28 @@ msgid "Please, login to view your stats"
 msgstr "Παρακαλώ, συνδεθείτε για να δείτε τα στατιστικά σας"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
-msgstr ""
+msgstr "Το Pomodoro Tracker ειναι ενα πρόγραμμα παραγωγικότητας που σχεδιάστηκε για την δουλειά και το διάβασμα σου"
 
 msgid "Pomodoro duration"
-msgstr ""
+msgstr "Διάρκεια Πομοντόρο"
 
 msgid "Pomodoro is finished."
-msgstr ""
+msgstr "Το πομοντόρο εχει τελείωση"
 
 msgid "Preferences"
-msgstr ""
+msgstr "Προτιμήσεις"
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Πολιτική Απορρήτου"
 
 msgid "Raise browser alert when pomodoro/break is over"
-msgstr ""
+msgstr "Δώσε ειδοποιήση λογισμικού πλοήγησης οταν το πομοντόρο/διάλειμμα εχει τελείωση"
 
 msgid "Records are empty"
-msgstr ""
+msgstr "Τα έγγραφα ειναι άδειο"
 
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
-msgstr ""
+msgstr "Βελτίωσε την διαδικασιά εκτιμήσεις, και σε όρους ποιότητας και σε ορους ποσότητας"
 
 msgid "Register"
 msgstr ""
