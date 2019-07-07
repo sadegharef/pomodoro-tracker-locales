@@ -384,34 +384,34 @@ msgid "Refine the estimation process, both in qualitative and quantitative terms
 msgstr "Βελτίωσε την διαδικασιά εκτιμήσεις, και σε όρους ποιότητας και σε ορους ποσότητας"
 
 msgid "Register"
-msgstr ""
+msgstr "Κάνε εγγραφή"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
-msgstr ""
+msgstr "Αφαίρεσε μια ασχολία απο το TODO οταν το Πομοντόρο έχει ολοκληρωθεί"
 
 msgid "Remove one"
-msgstr ""
+msgstr "Αφαίρεσε ενα"
 
 msgid "Repeat"
-msgstr ""
+msgstr "Επανάλαβε"
 
 msgid "Reports Time"
-msgstr ""
+msgstr "Αναφορές Ώρας"
 
 msgid "Reports and notifications"
-msgstr ""
+msgstr "Αναφορές και ειδοποίησεις"
 
 msgid "Rules & Tips"
-msgstr ""
+msgstr "Κανόνες & Συμβουλές"
 
 msgid "Schemes"
-msgstr ""
+msgstr "Σχέδια"
 
 msgid "Send reports on email: "
-msgstr ""
+msgstr "Στείλε αναφορές στο email"
 
 msgid "Send reports on telegram"
-msgstr ""
+msgstr "Στείλε αναφορές στο telegram"
 
 msgid "Send test notification"
 msgstr ""
