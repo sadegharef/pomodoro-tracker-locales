@@ -423,48 +423,50 @@ msgid "Settings"
 msgstr "Ρυθμίσεις"
 
 msgid "Short break duration"
-msgstr ""
+msgstr "Διάρκεια μικρών διαλειμμάτων"
 
 msgid "Short description"
-msgstr ""
+msgstr "Μικρή περιγραφή"
 
 msgid "Sign Up / Login"
-msgstr ""
+msgstr "Εγγραφή / Συνδεση"
 
 msgid "Sort by"
-msgstr ""
+msgstr "Ταξινόμηση με"
 
 msgid "Start the Pomodoro timer"
-msgstr ""
+msgstr "Ξεκίνα το Πομοντόρο χρονόμετρο"
 
 msgid "Start working:"
-msgstr ""
+msgstr "Ξεκίνα να δουλεύεις"
 
 msgid "Stats"
-msgstr ""
+msgstr "Στατιστικά"
 
 msgid "Stay focused and finish tasks effectively."
-msgstr ""
+msgstr "Μείνε συγκεντρωμένος και τελείωσε την ασχολία αποτελεσματικά"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
 msgstr ""
+"Δυνάμωσε την αποφασιστικότητα να συνεχίσεις να σπρώχνεσαι εναντίον"
+"δύσκολες καταστάσεις"
 
 msgid "Support the Project"
-msgstr ""
+msgstr "Υποστήριξε το Έργο"
 
 msgid "Sync with Google Tasks"
-msgstr ""
+msgstr "Κανε συγχρονισμό με το Google Tasks"
 
 msgid "TODO"
-msgstr ""
+msgstr "TODO"
 
 msgid "TODO list is empty."
-msgstr ""
+msgstr "TODO λίστα είναι άδεια"
 
 msgid "TODO list was updated."
-msgstr ""
+msgstr "Η TODO λίστα έχει ενημερωθεί"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr ""
