@@ -414,13 +414,13 @@ msgid "Send reports on telegram"
 msgstr "Στείλε αναφορές στο telegram"
 
 msgid "Send test notification"
-msgstr ""
+msgstr "Στείλε ειδοποίησεις δοκιμής"
 
 msgid "Server has been updated."
-msgstr ""
+msgstr "Έχει γίνει ενημέρωση της υπηρεσίας"
 
 msgid "Settings"
-msgstr ""
+msgstr "Ρυθμίσεις"
 
 msgid "Short break duration"
 msgstr ""
