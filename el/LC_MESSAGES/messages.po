@@ -54,22 +54,22 @@ msgid "Activity by weeks"
 msgstr "Δραστηριότητα ανα εβδομάδες"
 
 msgid "Add"
-msgstr "Προσθέστε"
+msgstr "Πρόσθεσε"
 
 msgid "Add Activity"
-msgstr "Προσθέστε Δραστηριότητα"
+msgstr "Πρόσθεσε Δραστηριότητα"
 
 msgid "Add TODO"
-msgstr "Προσθέστε TODO"
+msgstr "Πρόσθεσε TODO"
 
 msgid "Add category"
-msgstr "Προσθέστε κατηγορία"
+msgstr "Πρόσθεσε κατηγορία"
 
 msgid "Add more"
-msgstr "Προσθέστε και άλλα"
+msgstr "Πρόσθεσε και άλλα"
 
 msgid "Add new tasks to the top"
-msgstr "Προσθέστε νέες ασχολίες στην κορυφή"
+msgstr "Πρόσθεσε νέες ασχολίες στην κορυφή"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr "Ανακούφιση άγχους συνδεδεμένο με το ξεκίνημα"
@@ -196,7 +196,7 @@ msgid "Feedback"
 msgstr "Ανατροφοδότηση"
 
 msgid "Great work!"
-msgstr "Σπουδαία Δουλειά"
+msgstr "Σπουδαία δουλειά"
 
 msgid "Hide notificaions"
 msgstr "κρύψε της ειδοποιήσεις"
@@ -221,7 +221,7 @@ msgid "Imported from External Sources"
 msgstr "Έγινε εισαγωγή απο Εξωτερικές Πηγές"
 
 msgid "Improve your work or study process"
-msgstr "Βελτίωσε την διαδικασία δουλειάς και διαβάσματος"
+msgstr "Βελτίωσε την διαδικασία δουλειάς η διαβάσματος"
 
 msgid "Increase awareness of your decisions"
 msgstr "Ανεβασε την γνώση των αποφάσεων σου"
@@ -267,10 +267,10 @@ msgid "Last Month"
 msgstr "Τελευταίος Μήνας"
 
 msgid "Last Quarter"
-msgstr "Τελεταία Τριμηνία"
+msgstr "Τελευταία Τριμηνία"
 
 msgid "Last Week"
-msgstr "Τελεταία Εβδομάδα"
+msgstr "Τελευταία Εβδομάδα"
 
 msgid "Like"
 msgstr "Μου Αρέσει"
@@ -378,7 +378,7 @@ msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Δώσε ειδοποιήση λογισμικού πλοήγησης οταν το πομοντόρο/διάλειμμα εχει τελείωση"
 
 msgid "Records are empty"
-msgstr "Τα έγγραφα ειναι άδειο"
+msgstr "Τα έγγραφα ειναι άδεια"
 
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
 msgstr "Βελτίωσε την διαδικασιά εκτιμήσεις, και σε όρους ποιότητας και σε ορους ποσότητας"
