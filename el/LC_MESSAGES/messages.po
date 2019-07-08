@@ -396,7 +396,7 @@ msgid "Repeat"
 msgstr "Επανάλαβε"
 
 msgid "Reports Time"
-msgstr "Αναφορές Ώρας"
+msgstr "'Ωρα Αναφοράς"
 
 msgid "Reports and notifications"
 msgstr "Αναφορές και ειδοποίησεις"
