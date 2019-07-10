@@ -599,7 +599,7 @@ msgid "Yesterday"
 msgstr "Χθες"
 
 msgid "You are not signed."
-msgstr "Δεν είσαι εγγεγραμμένος."
+msgstr "Δεν έκανες είσοδο."
 
 msgid "You have finished all your tasks."
 msgstr "Έχεις τελείωση ολες της ασχολίες σου."
@@ -714,7 +714,7 @@ msgid "in pomodoros"
 msgstr "σε Πομοντόρος"
 
 msgid "light"
-msgstr "Ελαφρύ"
+msgstr "φωτεινό"
 
 msgid "like"
 msgid_plural "likes"
@@ -785,34 +785,34 @@ msgid "registered users spend on completing pomodoros today."
 msgstr "Εγγεγραμμεένη χρήστες ξοδέψαν στο να ολοκληρώνουν πομοντόρος σημερα."
 
 msgid "remove categories"
-msgstr ""
+msgstr "αφαίρεσε κατηγοριές"
 
 msgid "resume"
-msgstr ""
+msgstr "ξανάρχισε"
 
 msgid "save"
-msgstr ""
+msgstr "αποθήκευση"
 
 msgid "skip"
-msgstr ""
+msgstr "παράλειψη"
 
 msgid "start"
-msgstr ""
+msgstr "ξεκίνα"
 
 msgid "stop"
-msgstr ""
+msgstr "σταμάτα"
 
 msgid "system"
-msgstr ""
+msgstr "σύστημα"
 
 msgid "take a long break"
-msgstr ""
+msgstr "κανε ενα μεγάλο διάλειμμα"
 
 msgid "take a short break"
-msgstr ""
+msgstr "κανε ενα μικρό διάλειμμα"
 
 msgid "time"
-msgstr ""
+msgstr "χρόνος"
 
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
