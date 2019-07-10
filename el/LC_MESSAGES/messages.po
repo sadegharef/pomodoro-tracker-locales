@@ -57,13 +57,13 @@ msgid "Add more"
 msgstr "Προσθέστε και άλλα"
 
 msgid "Add new tasks to the top"
-msgstr ""
+msgstr "Προσθέστε νέες ασχολίες στην κορυφή"
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr ""
+msgstr "Ανακούφιση άγχους συνδεδεμένο με το ξεκίνημα"
 
 msgid "Application"
-msgstr ""
+msgstr "Εφαρμογή"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
