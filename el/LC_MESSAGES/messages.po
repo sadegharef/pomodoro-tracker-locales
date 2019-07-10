@@ -726,63 +726,63 @@ msgstr "διάμεσος"
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "λεπτό"
+msgstr[1] "λεπτά"
 
 msgid "month"
 msgid_plural "months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "μήνας"
+msgstr[1] "μήνες"
 
 msgid "never"
-msgstr ""
+msgstr "Ποτέ"
 
 msgid "next page"
-msgstr ""
+msgstr "Επομένη σελίδα"
 
 msgid "no description"
-msgstr ""
+msgstr "χωρίς περιγραφή"
 
 msgid "number"
-msgstr ""
+msgstr "αριθμός"
 
 msgid "on"
-msgstr ""
+msgstr "στο"
 
 msgid "pause"
-msgstr ""
+msgstr "παύση"
 
 msgid "personal"
-msgstr ""
+msgstr "Προσωπικό"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Πομοντόρο"
+msgstr[1] "Πομοντόρος"
 
 msgid "pomodoros"
-msgstr ""
+msgstr "Πομοντόρος"
 
 msgid "preview"
-msgstr ""
+msgstr "προεπισκόπση"
 
 msgid "previous page"
-msgstr ""
+msgstr "προηγούμενη σελίδα"
 
 msgid "quarter"
-msgstr ""
+msgstr "τριμηνία"
 
 msgid "rating"
-msgstr ""
+msgstr "εκτίμηση"
 
 msgid "refresh"
-msgstr ""
+msgstr "ανανεώσει"
 
 msgid "registered users spend on completing pomodoros"
-msgstr ""
+msgstr "Εγγεγραμμένη χρήστες ξόδεψαν στο να ολοκληρώνουν πομοντόρος"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
+msgstr "Εγγεγραμμεένη χρήστες ξοδέψαν στο να ολοκληρώνουν πομοντόρος σημερα."
 
 msgid "remove categories"
 msgstr ""
