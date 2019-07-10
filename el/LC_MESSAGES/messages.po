@@ -566,163 +566,163 @@ msgid "Toggle fullscreen"
 msgstr "Ενεργοποίησε πλήρης οθόνη"
 
 msgid "Try to add some tasks use the form above"
-msgstr "Προσπάθησε να βάλεις περισσότερες ασχολίες χρησημοποιήσε την φόρμα απο πάνω"
+msgstr "Προσπάθησε να βάλεις μερικές ασχολίες χρησημοποιήσε την φόρμα απο πάνω"
 
 msgid "Try to complete some pomodoros or choose a different period"
-msgstr ""
+msgstr "Προσπάθησε να ολοκληρώσεις μερικά Πομοντόρο η διάλεξε διαφορετική περίοδο"
 
 msgid "Try to mark TODO as activity or use the form above"
-msgstr ""
+msgstr "Προσπάθησε να μαρκάρεις το TODO σαν δραστηριότητα η χρησημοποιήσε την φόρμα απο πάνω"
 
 msgid "Tune the timer"
-msgstr ""
+msgstr "Κούρδισε το χρονόμετρο"
 
 msgid "Volume"
-msgstr ""
+msgstr "Ένταση"
 
 msgid "What is it?"
-msgstr ""
+msgstr "Τι είναι?"
 
 msgid "Work days"
-msgstr ""
+msgstr "Ημέρες δουλειάς"
 
 msgid "Work history won`t be saved."
-msgstr ""
+msgstr "Ιστορία δουλειάς δεν θα αποθηκεύτη."
 
 msgid "Work until the Pomodoro rings"
-msgstr ""
+msgstr "Δούλεψε μεχρι το Πομοντόρο χτυπήσει"
 
 msgid "Write your ideas here"
-msgstr ""
+msgstr "Γράψε της ιδέες σου εδω"
 
 msgid "Yesterday"
-msgstr ""
+msgstr "Χθες"
 
 msgid "You are not signed."
-msgstr ""
+msgstr "Δεν είσαι εγγεγραμμένος."
 
 msgid "You have finished all your tasks."
-msgstr ""
+msgstr "Έχεις τελείωση ολες της ασχολίες σου."
 
 msgid "You spent"
-msgstr ""
+msgstr "Ξόδεψες"
 
 msgid "and"
-msgstr ""
+msgstr "και"
 
 msgid "as Bitbucket user"
-msgstr ""
+msgstr "σαν Bitbucket Χρήστης"
 
 msgid "as Facebook user"
-msgstr ""
+msgstr "σαν Facebook Χρήστης"
 
 msgid "as Github user"
-msgstr ""
+msgstr "σαν Github Χρήστης"
 
 msgid "as Google user"
-msgstr ""
+msgstr "σαν Google Χρήστης"
 
 msgid "as Twitter user"
-msgstr ""
+msgstr "σαν Twitter Χρήστης"
 
 msgid "as VK user"
-msgstr ""
+msgstr "σαν VK Χρήστης"
 
 msgid "as Yandex user"
-msgstr ""
+msgstr "σαν Yandex Χρήστης"
 
 msgid "auto"
-msgstr ""
+msgstr "Αυτόματα"
 
 msgid "average"
-msgstr ""
+msgstr "μέσος όρος"
 
 msgid "cancel"
-msgstr ""
+msgstr "Ακύρωσε"
 
 msgid "category"
-msgstr ""
+msgstr "Κατηγορία"
 
 msgid "close"
-msgstr ""
+msgstr "Κλείσε"
 
 msgid "created"
-msgstr ""
+msgstr "δημιουργημένα"
 
 msgid "dark"
-msgstr ""
+msgstr "Σκοτεινό"
 
 msgid "day"
 msgid_plural "days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ημέρα"
+msgstr[1] "ημέρες"
 
 msgid "delay"
-msgstr ""
+msgstr "Καθυστέρηση"
 
 msgid "delays"
-msgstr ""
+msgstr "Καθυστέρησεις"
 
 msgid "delete"
-msgstr ""
+msgstr "Διαγραφή"
 
 msgid "description"
-msgstr ""
+msgstr "Περιγραφή"
 
 msgid "done"
-msgstr ""
+msgstr "Τελείωσε"
 
 msgid "duplicate"
-msgstr ""
+msgstr "Διπλότυπο"
 
 msgid "duration"
-msgstr ""
+msgstr "Διάρκεια"
 
 msgid "focus"
-msgstr ""
+msgstr "Συγκεντρώση"
 
 msgid "for all time"
-msgstr ""
+msgstr "Για όλη την ώρα"
 
 msgid "friends"
-msgstr ""
+msgstr "Φίλοι"
 
 msgid "global"
 msgstr ""
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ώρα"
+msgstr[1] "ώρες"
 
 msgid "in 10 seconds"
-msgstr ""
+msgstr "σε 10 δευτερόλεπτα"
 
 msgid "in 2 seconds"
-msgstr ""
+msgstr "σε 2 δευτερόλεπτα"
 
 msgid "in 3 seconds"
-msgstr ""
+msgstr "σε 3 δευτερόλεπτα"
 
 msgid "in 5 seconds"
-msgstr ""
+msgstr "σε 5 δευτερόλεπτα"
 
 msgid "in minutes"
-msgstr ""
+msgstr "σε λεπτά"
 
 msgid "in pomodoros"
-msgstr ""
+msgstr "σε Πομοντόρος"
 
 msgid "light"
-msgstr ""
+msgstr "Ελαφρύ"
 
 msgid "like"
 msgid_plural "likes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "like"
+msgstr[1] "likes"
 
 msgid "median"
-msgstr ""
+msgstr "διάμεσος"
 
 msgid "minute"
 msgid_plural "minutes"
