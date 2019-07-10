@@ -69,12 +69,14 @@ msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
+"Στην αρχή καθε μέρας διάλεξε της ασχολίες που χρειάζεται να ολοκληρώσης και"
+"βάλτες στην λίστα TODO παραπάνω"
 
 msgid "At time"
 msgstr ""
 
 msgid "Auto start breaks"
-msgstr ""
+msgstr "Αυτοματο ξεκίνημα διάλειμματα"
 
 msgid "Auto start pomodoros"
 msgstr ""
