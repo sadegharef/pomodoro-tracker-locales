@@ -23,41 +23,11 @@ msgid "%1$s left"
 msgstr "%1$s αριστερά"
 
 msgid "%1$s records were imported"
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-msgstr "%1$s τα αρχεία έχουν εισήχθη"
-||||||| merged common ancestors
-msgstr ""
-=======
 msgstr "%1$s τα αρχεία έχουν εισαχθεί"
->>>>>>> Update messages.po
-||||||| merged common ancestors
-msgstr "%1$s τα αρχεία έχουν εισαχθεί"
-=======
-msgstr "%1$s τα αρχεία έχουν εισάχθη"
->>>>>>> Update messages.po
-||||||| merged common ancestors
-msgstr "%1$s τα αρχεία έχουν εισάχθη"
-=======
-msgstr "%1$s τα αρχεία έχουν εισήχθη"
->>>>>>> Update messages.po
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-<<<<<<< HEAD
-<<<<<<< HEAD
-msgstr "%s οριστε η καθημερινή σου αναφορά για %s"
-||||||| merged common ancestors
-msgstr ""
-=======
 msgstr "%s ορίστε η καθημερινή σου αναφορά για %s"
->>>>>>> Update messages.po
-||||||| merged common ancestors
-msgstr "%s ορίστε η καθημερινή σου αναφορά για %s"
-=======
-msgstr "%s οριστε η καθημερινή σου αναφορά για %s"
->>>>>>> Update messages.po
 
 msgid "Activities"
 msgstr "Δραστηριότητες"
@@ -106,19 +76,7 @@ msgid "At time"
 msgstr "Στην ώρα"
 
 msgid "Auto start breaks"
-<<<<<<< HEAD
-<<<<<<< HEAD
-msgstr "Αυτοματο ξεκίνημα διάλειμματα"
-||||||| merged common ancestors
-msgstr ""
-=======
 msgstr "Αυτόματο ξεκίνημα διάλειμματων"
->>>>>>> Update messages.po
-||||||| merged common ancestors
-msgstr "Αυτόματο ξεκίνημα διάλειμματων"
-=======
-msgstr "Αυτοματο ξεκίνημα διάλειμματα"
->>>>>>> Update messages.po
 
 msgid "Auto start pomodoros"
 msgstr "Αυτόματο ξεκίνημα των πομοντόρο"
