@@ -818,24 +818,26 @@ msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
 msgstr ""
+"στο telegram σου, γράξε '/start' και βάλε ενα κωδικό απο το bot στο πεδίο"
+""
 
 msgid "today"
-msgstr ""
+msgstr "σήμερα"
 
 msgid "user"
-msgstr ""
+msgstr "χρήστης"
 
 msgid "version"
-msgstr ""
+msgstr "έκδοση"
 
 msgid "week"
-msgstr ""
+msgstr "εβδομάδα"
 
 msgid "were"
-msgstr ""
+msgstr "ήταν"
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "χρόνο"
+msgstr[1] "χρονία"
 
