@@ -527,46 +527,46 @@ msgstr ""
 "επιτρέψει να καλυτερέψουμε συνεχώς των τρόπο που δουλεύουμε η διαβάζουμε."
 
 msgid "The list is empty"
-msgstr ""
+msgstr "Η λίστα είιναι άδεια"
 
 msgid "The next Pomodoro will go better"
-msgstr ""
+msgstr "Το Επόμενο Πομοντόρο θα πάει καλύτερα"
 
 msgid "The next pomodoro will go better!"
-msgstr ""
+msgstr "Το Επόμενο Πομοντόρο θα πάει καλύτερα!"
 
 msgid "There are completed tasks"
-msgstr ""
+msgstr "Υπάρχουν τελειωμένες ασχολίες"
 
 msgid "This Month"
-msgstr ""
+msgstr "Αυτών των Μήνα"
 
 msgid "This Quarter"
-msgstr ""
+msgstr "Αυτή την Τριμηνία"
 
 msgid "This Week"
-msgstr ""
+msgstr "Αυτή την εβδομαδα"
 
 msgid "Time format"
-msgstr ""
+msgstr "Μορφή Χρονου"
 
 msgid "Time spent"
-msgstr ""
+msgstr "Χρόνος που καταναλώθηκε"
 
 msgid "Time zone"
-msgstr ""
+msgstr "Ζώνη Ώρας"
 
 msgid "Timer"
-msgstr ""
+msgstr "Χρονόμετρο"
 
 msgid "Title"
-msgstr ""
+msgstr "Τίτλος"
 
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "Ενεργοποίησε πλήρης οθόνη"
 
 msgid "Try to add some tasks use the form above"
-msgstr ""
+msgstr "Προσπάθησε να βάλεις περισσότερες ασχολίες χρησημοποιήσε την φόρμα απο πάνω"
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr ""
