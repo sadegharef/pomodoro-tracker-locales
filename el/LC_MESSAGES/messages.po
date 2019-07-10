@@ -309,7 +309,7 @@ msgid "Mark as done"
 msgstr "Σημείωσε σαν ολοκληρωμένο"
 
 msgid "Median per day"
-msgstr "Μέσο ανα ημέρα"
+msgstr "διάμεσο ανα ημέρα"
 
 msgid "New"
 msgstr "Καινούργιο"
@@ -321,7 +321,7 @@ msgid "Notifications"
 msgstr "Ειδοποίησεις"
 
 msgid "Notify when there is one minute left"
-msgstr "Κανε ειδοποίηση οταν εχει μείνει ενα λέπτο"
+msgstr "Ειδοποίησε οταν εχει μείνει ενα λέπτο"
 
 msgid "Of those"
 msgstr "Από Αυτά"
@@ -688,7 +688,7 @@ msgid "friends"
 msgstr "Φίλοι"
 
 msgid "global"
-msgstr ""
+msgstr "Παγκόσμιο"
 
 msgid "hour"
 msgid_plural "hours"
@@ -818,8 +818,8 @@ msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
 msgstr ""
-"στο telegram σου, γράξε '/start' και βάλε ενα κωδικό απο το bot στο πεδίο"
-""
+"στο telegram σου, γράξε '/start' και βάλε ενα κωδικό απο το bot στο πεδίο "
+"παρακάτω"
 
 msgid "today"
 msgstr "σήμερα"
