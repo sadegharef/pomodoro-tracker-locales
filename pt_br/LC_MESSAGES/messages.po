@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-10 15:05+0300\n"
+"POT-Creation-Date: 2019-07-18 16:28+0300\n"
 "PO-Revision-Date: 2017-02-06 20:20-0200\n"
 "Last-Translator: LUCAS ERNESTO KINDINGER <kindingerlek@hotmail.com>\n"
 "Language: pt_BR\n"
@@ -214,17 +214,8 @@ msgstr "Melhorar seu processo de estudo e trabalho"
 msgid "Increase awareness of your decisions"
 msgstr "Aumento da sua consciência sobre suas decisões"
 
-msgid "Integration with Facebook"
-msgstr "Integração com Facebook"
-
-msgid "Integration with Github"
-msgstr "Integração com Github"
-
-msgid "Integration with Google"
-msgstr "Integração com Google"
-
-msgid "Integration with Telegram"
-msgstr "Integração com Telegram"
+msgid "Integration with %1$s"
+msgstr "Integração com %1$s"
 
 msgid "Integrations"
 msgstr "Integrações"
@@ -272,14 +263,8 @@ msgstr "Carregando"
 msgid "Login to the service and track your progress"
 msgstr "Entre no serviço para acompanhar seu progresso"
 
-msgid "Login to the service using Facebook authentication."
-msgstr "Faça login no serviço usando autenticação do Facebook."
-
-msgid "Login to the service using Github authentication."
-msgstr "Faça login no serviço usando a autenticação do Github."
-
-msgid "Login to the service using Google Authentication"
-msgstr "Faça login no serviço usando a autenticação do Google"
+msgid "Login to the service using %1$s authentication."
+msgstr "Faça login no serviço usando a autenticação do %1$s."
 
 msgid "Logout"
 msgstr "Sair"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-07-10 15:05+0300\n"
+"POT-Creation-Date: 2019-07-18 16:28+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -211,17 +211,8 @@ msgstr "Uw werk- of leerproces verbeteren"
 msgid "Increase awareness of your decisions"
 msgstr "Toename van bewustwording van eigen beslissingen"
 
-msgid "Integration with Facebook"
-msgstr "Integratie met Facebook"
-
-msgid "Integration with Github"
-msgstr "Integratie met GitHub"
-
-msgid "Integration with Google"
-msgstr "Integratie met Google"
-
-msgid "Integration with Telegram"
-msgstr "Integratie met Telegram"
+msgid "Integration with %1$s"
+msgstr "Integratie met %1$s"
 
 msgid "Integrations"
 msgstr "Integraties"
@@ -269,14 +260,8 @@ msgstr "Bezig met laden"
 msgid "Login to the service and track your progress"
 msgstr "Log in en houdt uw voortgang bij"
 
-msgid "Login to the service using Facebook authentication."
-msgstr "Login met een Facebook-account"
-
-msgid "Login to the service using Github authentication."
-msgstr "Login met een GitHub-account"
-
-msgid "Login to the service using Google Authentication"
-msgstr "Login met een Google-account"
+msgid "Login to the service using %1$s authentication."
+msgstr "Login met een %1$s-account"
 
 msgid "Logout"
 msgstr "Uitloggen"

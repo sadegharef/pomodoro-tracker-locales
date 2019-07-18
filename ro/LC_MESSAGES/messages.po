@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.3.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-10 15:05+0300\n"
+"POT-Creation-Date: 2019-07-18 16:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ro\n"
@@ -211,16 +211,7 @@ msgstr ""
 msgid "Increase awareness of your decisions"
 msgstr ""
 
-msgid "Integration with Facebook"
-msgstr ""
-
-msgid "Integration with Github"
-msgstr ""
-
-msgid "Integration with Google"
-msgstr ""
-
-msgid "Integration with Telegram"
+msgid "Integration with %1$s"
 msgstr ""
 
 msgid "Integrations"
@@ -267,13 +258,7 @@ msgstr ""
 msgid "Login to the service and track your progress"
 msgstr ""
 
-msgid "Login to the service using Facebook authentication."
-msgstr ""
-
-msgid "Login to the service using Github authentication."
-msgstr ""
-
-msgid "Login to the service using Google Authentication"
+msgid "Login to the service using %1$s authentication."
 msgstr ""
 
 msgid "Logout"

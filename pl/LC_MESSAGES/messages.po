@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-07-10 15:06+0300\n"
+"POT-Creation-Date: 2019-07-18 16:29+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -208,17 +208,8 @@ msgstr "Poprawić jakość Twojego procesu pracy lub nauki"
 msgid "Increase awareness of your decisions"
 msgstr "Zwiększyć świadomość o znaczeniu podejmowanych decyzji"
 
-msgid "Integration with Facebook"
-msgstr "Połącz z Facebook"
-
-msgid "Integration with Github"
-msgstr "Połącz z Github"
-
-msgid "Integration with Google"
-msgstr "Połącz z Google"
-
-msgid "Integration with Telegram"
-msgstr "Połącz z Telegram"
+msgid "Integration with %1$s"
+msgstr "Połącz z %1$s"
 
 msgid "Integrations"
 msgstr "Integracja z innymi usługami"
@@ -266,14 +257,8 @@ msgstr "Ładowanie"
 msgid "Login to the service and track your progress"
 msgstr "Zaloguj się by śledzić swoje postępy"
 
-msgid "Login to the service using Facebook authentication."
-msgstr "Zaloguj się przy pomocy Facebook"
-
-msgid "Login to the service using Github authentication."
-msgstr "Zaloguj się przy pomocy Github"
-
-msgid "Login to the service using Google Authentication"
-msgstr "Zaloguj się przy pomocy Google"
+msgid "Login to the service using %1$s authentication."
+msgstr "Zaloguj się przy pomocy %1$s"
 
 msgid "Logout"
 msgstr "Wyloguj"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-10 15:05+0300\n"
+"POT-Creation-Date: 2019-07-18 16:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -214,17 +214,8 @@ msgstr "Жұмыс немесе оқу дағдысын жақсарту"
 msgid "Increase awareness of your decisions"
 msgstr "Қабылдаған шешімдерден хабардар боп отыру"
 
-msgid "Integration with Facebook"
-msgstr "Facebook-пен кіру"
-
-msgid "Integration with Github"
-msgstr "Github-пен қосылу"
-
-msgid "Integration with Google"
-msgstr "Google-мен қосылу"
-
-msgid "Integration with Telegram"
-msgstr "Telegram-мен қосылу"
+msgid "Integration with %1$s"
+msgstr "%1$s-мен қосылу"
 
 msgid "Integrations"
 msgstr "Қызметтер"
@@ -272,14 +263,8 @@ msgstr "Қазір"
 msgid "Login to the service and track your progress"
 msgstr "Аккаунқа кіріп, прогрессті бақылап отырыңыз"
 
-msgid "Login to the service using Facebook authentication."
-msgstr "Facebook арқылы кіру"
-
-msgid "Login to the service using Github authentication."
-msgstr "Github арқылы кіру"
-
-msgid "Login to the service using Google Authentication"
-msgstr "Google арқылы кіру"
+msgid "Login to the service using %1$s authentication."
+msgstr "%1$s арқылы кіру"
 
 msgid "Logout"
 msgstr "Шығу"

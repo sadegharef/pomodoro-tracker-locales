@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-10 15:06+0300\n"
+"POT-Creation-Date: 2019-07-18 16:28+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -210,17 +210,8 @@ msgstr "改善工作学习过程"
 msgid "Increase awareness of your decisions"
 msgstr "提高您的决定意识"
 
-msgid "Integration with Facebook"
-msgstr "关联Facebook"
-
-msgid "Integration with Github"
-msgstr "关联Github"
-
-msgid "Integration with Google"
-msgstr "关联谷歌"
-
-msgid "Integration with Telegram"
-msgstr "与电报整合"
+msgid "Integration with %1$s"
+msgstr "关联%1$s"
 
 msgid "Integrations"
 msgstr "关联"
@@ -266,14 +257,8 @@ msgstr "载入中"
 msgid "Login to the service and track your progress"
 msgstr "登入服务器并追踪你的进度"
 
-msgid "Login to the service using Facebook authentication."
-msgstr "使用Facebook认证登录服务"
-
-msgid "Login to the service using Github authentication."
-msgstr "使用Github认证登录服务"
-
-msgid "Login to the service using Google Authentication"
-msgstr "使用谷歌认证登录服务"
+msgid "Login to the service using %1$s authentication."
+msgstr "使用%1$s认证登录服务"
 
 msgid "Logout"
 msgstr "登出"

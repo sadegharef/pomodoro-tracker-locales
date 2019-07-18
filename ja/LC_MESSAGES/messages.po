@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-10 15:05+0300\n"
+"POT-Creation-Date: 2019-07-18 16:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -210,17 +210,8 @@ msgstr "仕事や学習の効果を高めます"
 msgid "Increase awareness of your decisions"
 msgstr "決断力を向上させます"
 
-msgid "Integration with Facebook"
-msgstr "Facebookアカウントとの連携"
-
-msgid "Integration with Github"
-msgstr "Githubアカウントとの連携"
-
-msgid "Integration with Google"
-msgstr "Googleアカウントとの連携"
-
-msgid "Integration with Telegram"
-msgstr "Telegramアカウントとの連携"
+msgid "Integration with %1$s"
+msgstr "%1$sアカウントとの連携"
 
 msgid "Integrations"
 msgstr "連携機能"
@@ -266,14 +257,8 @@ msgstr "読み込み中"
 msgid "Login to the service and track your progress"
 msgstr "ログインして進捗を確認しましょう"
 
-msgid "Login to the service using Facebook authentication."
-msgstr "Facebookアカウントでログインする"
-
-msgid "Login to the service using Github authentication."
-msgstr "Githubアカウントでログインする"
-
-msgid "Login to the service using Google Authentication"
-msgstr "Googleアカウントでログインする"
+msgid "Login to the service using %1$s authentication."
+msgstr "%1$sアカウントでログインする"
 
 msgid "Logout"
 msgstr "ログアウト"
@@ -683,7 +668,6 @@ msgstr "完了"
 msgid "duplicate"
 msgstr "複製する"
 
-#, fuzzy
 msgid "duration"
 msgstr "期間"
 

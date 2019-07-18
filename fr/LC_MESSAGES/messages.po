@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-10 15:05+0300\n"
+"POT-Creation-Date: 2019-07-18 16:28+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -212,17 +212,8 @@ msgstr "Améliorer votre méthode de travail ou d'étude"
 msgid "Increase awareness of your decisions"
 msgstr "Mieux comprendre vos décisions"
 
-msgid "Integration with Facebook"
-msgstr "Intégration avec Facebook"
-
-msgid "Integration with Github"
-msgstr "Intégration avec Github"
-
-msgid "Integration with Google"
-msgstr "Intégration avec Google"
-
-msgid "Integration with Telegram"
-msgstr "Intégration avec Telegram"
+msgid "Integration with %1$s"
+msgstr "Intégration avec %1$s"
 
 msgid "Integrations"
 msgstr "Intégrations"
@@ -271,14 +262,8 @@ msgstr "Chargement en cours"
 msgid "Login to the service and track your progress"
 msgstr "Pensez à vous connecter pour suivre vos progrès."
 
-msgid "Login to the service using Facebook authentication."
-msgstr "Se connecter au service avec l'authentification Facebook"
-
-msgid "Login to the service using Github authentication."
-msgstr "Se connecter au service avec l'authentification Github"
-
-msgid "Login to the service using Google Authentication"
-msgstr "Se connecter au service avec l'authentification Google"
+msgid "Login to the service using %1$s authentication."
+msgstr "Se connecter au service avec l'authentification %1$s"
 
 msgid "Logout"
 msgstr "Déconnexion"

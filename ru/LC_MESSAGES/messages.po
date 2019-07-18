@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-10 15:05+0300\n"
+"POT-Creation-Date: 2019-07-18 16:28+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -215,17 +215,8 @@ msgstr "Улучшения вашего рабочего или учебного
 msgid "Increase awareness of your decisions"
 msgstr "Повышения осведомлённости о ваших решениях"
 
-msgid "Integration with Facebook"
-msgstr "Интеграция с Facebook"
-
-msgid "Integration with Github"
-msgstr "Интеграция с Github"
-
-msgid "Integration with Google"
-msgstr "Интеграция с Google"
-
-msgid "Integration with Telegram"
-msgstr "Интеграция с Telegram"
+msgid "Integration with %1$s"
+msgstr "Интеграция с %1$s"
 
 msgid "Integrations"
 msgstr "Интеграции"
@@ -273,14 +264,8 @@ msgstr "Загрузка"
 msgid "Login to the service and track your progress"
 msgstr "Войдите на сервис и отслеживайте ваш прогресс"
 
-msgid "Login to the service using Facebook authentication."
-msgstr "Вход на сервис используя Facebook"
-
-msgid "Login to the service using Github authentication."
-msgstr "Вход на сервис используя Github"
-
-msgid "Login to the service using Google Authentication"
-msgstr "Вход на сервис используя Google"
+msgid "Login to the service using %1$s authentication."
+msgstr "Вход на сервис используя %1$s"
 
 msgid "Logout"
 msgstr "Выход"

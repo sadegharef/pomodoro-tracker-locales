@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-10 15:06+0300\n"
+"POT-Creation-Date: 2019-07-18 16:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -208,17 +208,8 @@ msgstr "Βελτίωσε την διαδικασία δουλειάς η δια�
 msgid "Increase awareness of your decisions"
 msgstr "Ανεβασε την γνώση των αποφάσεων σου"
 
-msgid "Integration with Facebook"
-msgstr "Ενσωσμάτωση με Facebook"
-
-msgid "Integration with Github"
-msgstr "Ενσωσμάτωση με Github"
-
-msgid "Integration with Google"
-msgstr "Ενσωσμάτωση με Google"
-
-msgid "Integration with Telegram"
-msgstr "Ενσωσμάτωση με Telegram"
+msgid "Integration with %1$s"
+msgstr "Ενσωσμάτωση με %1$s"
 
 msgid "Integrations"
 msgstr "Ενωσμάτωσης"
@@ -266,14 +257,8 @@ msgstr "Φόρτωμα"
 msgid "Login to the service and track your progress"
 msgstr "Συνδέσου στην υπηρεσία και κατέγραψε την πρόοδο σου"
 
-msgid "Login to the service using Facebook authentication."
-msgstr "Συνδέσου στην υπηρεσία χρησιμοποιώντας αυθεντικοποίηση απο το Facebook"
-
-msgid "Login to the service using Github authentication."
-msgstr "Συνδέσου στην υπηρεσία χρησιμοποιώντας αυθεντικοποίηση απο το Github"
-
-msgid "Login to the service using Google Authentication"
-msgstr "Συνδέσου στην υπηρεσία χρησιμοποιώντας αυθεντικοποίηση απο το Google"
+msgid "Login to the service using %1$s authentication."
+msgstr "Συνδέσου στην υπηρεσία χρησιμοποιώντας αυθεντικοποίηση απο το %1$s"
 
 msgid "Logout"
 msgstr "Αποσύνδεση"
