@@ -20,7 +20,7 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 msgid "%1$s left"
-msgstr "%1$s à gauche"
+msgstr "%1$s restant"
 
 msgid "%1$s records were imported"
 msgstr "%1$s enregistrements ont été importés"
