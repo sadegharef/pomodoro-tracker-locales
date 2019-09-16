@@ -784,7 +784,7 @@ msgid "start"
 msgstr "start"
 
 msgid "stop"
-msgstr "własny"
+msgstr "zatrzymać"
 
 msgid "system"
 msgstr "system"
