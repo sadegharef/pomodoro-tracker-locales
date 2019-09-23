@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-08-19 10:05+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2019-09-23 13:01+0200\n"
+"Last-Translator: Serganth <serganth@ukr.net>\n"
 "Language: uk\n"
 "Language-Team: uk <LL@li.org>\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
@@ -21,64 +21,65 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 msgid "%1$s left"
-msgstr ""
+msgstr "залишилось %1$s"
 
 msgid "%1$s records were imported"
-msgstr ""
+msgstr "%1$s записів імпортовано"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr ""
+msgstr "%s, ваш щоденний звіт за %s"
 
 msgid "Activities"
-msgstr ""
+msgstr "Вибране"
 
 msgid "Activity by days"
-msgstr ""
+msgstr "Активність за днями"
 
 msgid "Activity by months"
-msgstr ""
+msgstr "Активність за місяцями"
 
 msgid "Activity by weeks"
-msgstr ""
+msgstr "Активність за тижнями"
 
 msgid "Add"
-msgstr ""
+msgstr "Додати"
 
 msgid "Add Activity"
-msgstr ""
+msgstr "Додати у вибране"
 
 msgid "Add TODO"
-msgstr ""
+msgstr "Запланувати"
 
 msgid "Add category"
-msgstr ""
+msgstr "Додати категорію"
 
 msgid "Add more"
-msgstr ""
+msgstr "Додати більше"
 
 msgid "Add new tasks to the top"
-msgstr ""
+msgstr "Додавати нові завдання на початок списку"
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr ""
+msgstr "Полегшити бентегу перед початком роботи"
 
 msgid "Application"
-msgstr ""
+msgstr "Додаток"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
-msgstr ""
+msgstr "На початку кожного дня вибирайте завдання й заносьте їх"
+"у список планування вище"
 
 msgid "At time"
-msgstr ""
+msgstr "на час"
 
 msgid "Auto start breaks"
-msgstr ""
+msgstr "Автостарт перерви"
 
 msgid "Auto start pomodoros"
-msgstr ""
+msgstr "Автостарт помідору"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr ""
@@ -87,13 +88,13 @@ msgid "Boost motivation and keep it constant"
 msgstr ""
 
 msgid "Break is over."
-msgstr ""
+msgstr "Перерву закінчено"
 
 msgid "Categories"
-msgstr ""
+msgstr "Категорії"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "Зміни збережені"
 
 msgid "Clear DONE history once per day"
 msgstr ""
