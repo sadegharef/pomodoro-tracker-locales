@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-08-19 10:05+0300\n"
+"POT-Creation-Date: 2019-09-23 21:00+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -472,6 +472,9 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr ""
 
+msgid "The integration is outdated. Please reconnect."
+msgstr ""
+
 msgid "The list is empty"
 msgstr ""
 
@@ -661,6 +664,9 @@ msgstr ""
 msgid "in pomodoros"
 msgstr ""
 
+msgid "interruptions"
+msgstr ""
+
 msgid "light"
 msgstr ""
 
@@ -743,6 +749,9 @@ msgid "resume"
 msgstr ""
 
 msgid "save"
+msgstr ""
+
+msgid "series"
 msgstr ""
 
 msgid "skip"

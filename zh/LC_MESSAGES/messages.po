@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-09-23 21:00+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -510,6 +510,9 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr "番茄工作法的目的是把时间作为一个有价值的盟友，以我们想要的方式完成我们想要做的事情，并使我们能够不断地改进我们的工作或学习方式。"
 
+msgid "The integration is outdated. Please reconnect."
+msgstr ""
+
 msgid "The list is empty"
 msgstr "这个列表为空"
 
@@ -707,6 +710,9 @@ msgstr "分钟"
 msgid "in pomodoros"
 msgstr "个番茄时间之后"
 
+msgid "interruptions"
+msgstr "中断"
+
 msgid "light"
 msgstr "明亮"
 
@@ -782,6 +788,9 @@ msgstr "继续"
 
 msgid "save"
 msgstr ""
+
+msgid "series"
+msgstr "系列"
 
 msgid "skip"
 msgstr "跳过"

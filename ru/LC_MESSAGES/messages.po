@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-09-23 20:59+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -533,6 +533,9 @@ msgstr ""
 "достижении того, что мы хотим сделать и как мы хотим это сделать. Она "
 "даёт нам возможность постоянно улучшать то, как мы работаем или учимся."
 
+msgid "The integration is outdated. Please reconnect."
+msgstr "Интеграция просрочена. Пожалуйста переподключитесь."
+
 msgid "The list is empty"
 msgstr "Список пуст."
 
@@ -734,6 +737,9 @@ msgstr "в минутах"
 msgid "in pomodoros"
 msgstr "в помидорах"
 
+msgid "interruptions"
+msgstr "помехи"
+
 msgid "light"
 msgstr "светлая"
 
@@ -817,6 +823,9 @@ msgstr "продолжить"
 
 msgid "save"
 msgstr "сохранить"
+
+msgid "series"
+msgstr "серия"
 
 msgid "skip"
 msgstr "пропустить"

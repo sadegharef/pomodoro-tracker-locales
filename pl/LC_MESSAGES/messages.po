@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-07-18 16:29+0300\n"
+"POT-Creation-Date: 2019-09-23 21:00+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -504,6 +504,9 @@ msgstr ""
 " Technika ta pozwala nieustannie usprawniać sposób w jaki uczymy się i "
 "pracujemy."
 
+msgid "The integration is outdated. Please reconnect."
+msgstr "Integracja jest przestarzała. Połącz się ponownie."
+
 msgid "The list is empty"
 msgstr "Ta lista jest pusta"
 
@@ -693,6 +696,9 @@ msgstr "w minutach"
 msgid "in pomodoros"
 msgstr "w Pomodoro"
 
+msgid "interruptions"
+msgstr "zakłócenia"
+
 msgid "light"
 msgstr "Jasny"
 
@@ -776,6 +782,9 @@ msgstr "wznów"
 
 msgid "save"
 msgstr "zapisz"
+
+msgid "series"
+msgstr "seria"
 
 msgid "skip"
 msgstr ""

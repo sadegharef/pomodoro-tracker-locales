@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-09-23 20:59+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -510,6 +510,9 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr "ポモドーロ・テクニックを使うことで、やりたいことをやりたいように達成することができます。そして、仕事や勉強の仕方を絶え間なく改善することが可能になります。"
 
+msgid "The integration is outdated. Please reconnect."
+msgstr ""
+
 msgid "The list is empty"
 msgstr "リストは空です。"
 
@@ -709,6 +712,9 @@ msgstr "分間"
 msgid "in pomodoros"
 msgstr "ポモドーロ"
 
+msgid "interruptions"
+msgstr "中断"
+
 msgid "light"
 msgstr "light"
 
@@ -788,6 +794,9 @@ msgstr "再開"
 
 msgid "save"
 msgstr ""
+
+msgid "series"
+msgstr "シリーズ"
 
 msgid "skip"
 msgstr "スキップ"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:29+0300\n"
+"POT-Creation-Date: 2019-09-23 21:00+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -501,6 +501,9 @@ msgstr ""
 "τρόπο που θέλουμε να το κάνουμε, και να μας επιτρέψει να καλυτερέψουμε "
 "συνεχώς των τρόπο που δουλεύουμε η διαβάζουμε."
 
+msgid "The integration is outdated. Please reconnect."
+msgstr "Η ολοκλήρωση είναι ξεπερασμένη. Επανασυνδεθείτε."
+
 msgid "The list is empty"
 msgstr "Η λίστα είιναι άδεια"
 
@@ -690,6 +693,9 @@ msgstr "σε λεπτά"
 msgid "in pomodoros"
 msgstr "σε Πομοντόρος"
 
+msgid "interruptions"
+msgstr "διακοπών"
+
 msgid "light"
 msgstr "φωτεινό"
 
@@ -769,6 +775,9 @@ msgstr "ξανάρχισε"
 
 msgid "save"
 msgstr "αποθήκευση"
+
+msgid "series"
+msgstr "σειρά"
 
 msgid "skip"
 msgstr "παράλειψη"

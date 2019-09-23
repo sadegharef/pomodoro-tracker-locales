@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-09-23 21:00+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -515,6 +515,9 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr ""
 
+msgid "The integration is outdated. Please reconnect."
+msgstr ""
+
 msgid "The list is empty"
 msgstr "Danh sách trống"
 
@@ -712,6 +715,9 @@ msgstr "trong 1 phút"
 msgid "in pomodoros"
 msgstr "trong những pomodoro"
 
+msgid "interruptions"
+msgstr ""
+
 msgid "light"
 msgstr "sáng"
 
@@ -787,6 +793,11 @@ msgstr "tiếp tục"
 
 msgid "save"
 msgstr "lưu"
+
+#, fuzzy
+#| msgid "Categories"
+msgid "series"
+msgstr "Các danh mục"
 
 msgid "skip"
 msgstr "bỏ qua"
