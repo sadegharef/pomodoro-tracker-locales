@@ -161,13 +161,13 @@ msgid "Edit"
 msgstr "Редагувати"
 
 msgid "Enable Browser Alerts"
-msgstr "Включити спливні вікна"
+msgstr "Увімкнути спливні вікна"
 
 msgid "Enable Telegram Notifications"
-msgstr "Включити сповіщення в Телеграмі"
+msgstr "Увімкнути сповіщення в Телеграмі"
 
 msgid "Enable Web Notifications"
-msgstr "Включити сповіщення в браузері"
+msgstr "Увімкнути сповіщення в браузері"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Поліпшити зосередженість та концентрацію, звільняючи від відволікань"
@@ -176,7 +176,7 @@ msgid "Export the records as CSV"
 msgstr "Експортувати записи у файл CSV"
 
 msgid "Eye Keeper is enabled"
-msgstr "Оберігач очей включено"
+msgstr "Оберігач очей увімкнено"
 
 msgid "Favorites"
 msgstr "Вибране"
@@ -278,6 +278,9 @@ msgstr "Довга перерва через кожні"
 msgid "Long break duration"
 msgstr "Тривалість довгої перерви"
 
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr "Дивіться в далечінь (від 6 метрів) впродовж %1$s секунд"
+
 msgid "Mark as done"
 msgstr "Відмітити як виконане"
 
@@ -314,6 +317,9 @@ msgstr "Залишилася хвилина"
 msgid "POMODORO"
 msgstr "ПОМІДОР"
 
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr "Зупиняти таймер, коли компьютер іде в режим сну"
+
 msgid "Pin to activities"
 msgstr "Додати у вибране"
 
@@ -339,82 +345,103 @@ msgid "Please, login to view your stats"
 msgstr "Будь ласка, увійдіть для перегляду статистики"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
-msgstr ""
+msgstr "Pomodoro Tracker – це застосунок продуктивності, розроблений для вашої роботи й навчання"
 
 msgid "Pomodoro duration"
-msgstr ""
+msgstr "Тривалість Помідора"
 
 msgid "Pomodoro is finished."
-msgstr ""
+msgstr "Помідор закінчено."
 
 msgid "Preferences"
-msgstr ""
+msgstr "Налаштування"
+
+msgid "Press"
+msgstr "Натисніть"
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Політика конфеденційності"
+
+msgid "Provide Feedback"
+msgstr "Відправити відгук"
+
+msgid "Quit"
+msgstr "Вихід"
 
 msgid "Raise browser alert when pomodoro/break is over"
-msgstr ""
+msgstr "Викликати спливне вікно з попередженням, коли Помідор/перерву закінчено"
 
 msgid "Records are empty"
-msgstr ""
+msgstr "Записів не знайдено"
 
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
-msgstr ""
+msgstr "Вдосконалити процес оцінки завдань, в сенсі кількості й якості"
 
 msgid "Register"
-msgstr ""
+msgstr "Зареєструватися"
+
+msgid "Relax"
+msgstr "Час відпочити"
+
+msgid "Release Notes"
+msgstr "Новини проекту"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
-msgstr ""
+msgstr "Видалити завдання зі списку, коли Помідор закінчено"
 
 msgid "Remove one"
-msgstr ""
+msgstr "Прибрати один"
 
 msgid "Repeat"
-msgstr ""
+msgstr "Повторити"
 
 msgid "Reports Time"
-msgstr ""
+msgstr "Час звітів"
 
 msgid "Reports and notifications"
-msgstr ""
+msgstr "Звіти та сповіщення"
 
 msgid "Rules & Tips"
-msgstr ""
+msgstr "Правила й поради"
 
 msgid "Schemes"
-msgstr ""
+msgstr "Схеми"
 
 msgid "Send reports on email: "
-msgstr ""
+msgstr "Відправляти звіти на мейл:"
 
 msgid "Send reports on telegram"
-msgstr ""
+msgstr "Відправляти звіти на Телеграм"
 
 msgid "Send test notification"
-msgstr ""
+msgstr "Відправити тестове сповіщення"
 
 msgid "Server has been updated."
-msgstr ""
+msgstr "Сервер було оновлено"
 
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgid "Short break duration"
-msgstr ""
+msgstr "Тривалість короткої перерви"
 
 msgid "Short description"
-msgstr ""
+msgstr "Короткий опис"
+
+msgid "Show window"
+msgstr "Показати вікно"
 
 msgid "Sign Up / Login"
-msgstr ""
+msgstr "Реєстрація / Вхід"
+
+msgid "Sleep Mode is enabled"
+msgstr "Режим сну увімкнено"
 
 msgid "Sort by"
-msgstr ""
+msgstr "Сортувати за"
 
 msgid "Start the Pomodoro timer"
-msgstr ""
+msgstr "Почати Помідор"
 
 msgid "Start working:"
 msgstr ""
