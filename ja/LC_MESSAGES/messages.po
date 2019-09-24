@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-23 20:59+0300\n"
+"POT-Creation-Date: 2019-09-24 10:09+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -352,9 +352,6 @@ msgstr "設定"
 
 msgid "Press"
 msgstr ""
-
-msgid "Privacy Policy"
-msgstr "Privacy Policy"
 
 msgid "Provide Feedback"
 msgstr "フィードバックを提供します"
@@ -830,9 +827,6 @@ msgstr "今日"
 msgid "user"
 msgstr "ユーザー"
 
-msgid "version"
-msgstr "version"
-
 msgid "week"
 msgstr "週"
 
@@ -898,6 +892,9 @@ msgstr[1] "年"
 #~ msgid "October"
 #~ msgstr "10月"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "Privacy Policy"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "日報を送る"
 
@@ -912,4 +909,7 @@ msgstr[1] "年"
 
 #~ msgid "record"
 #~ msgstr "記録"
+
+#~ msgid "version"
+#~ msgstr "version"
 

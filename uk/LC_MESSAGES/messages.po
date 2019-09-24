@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-23 21:00+0300\n"
+"POT-Creation-Date: 2019-09-24 10:09+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -331,9 +331,6 @@ msgid "Pomodoro is finished."
 msgstr ""
 
 msgid "Preferences"
-msgstr ""
-
-msgid "Privacy Policy"
 msgstr ""
 
 msgid "Raise browser alert when pomodoro/break is over"
@@ -786,9 +783,6 @@ msgstr ""
 msgid "user"
 msgstr ""
 
-msgid "version"
-msgstr ""
-
 msgid "week"
 msgstr ""
 
@@ -800,4 +794,3 @@ msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-

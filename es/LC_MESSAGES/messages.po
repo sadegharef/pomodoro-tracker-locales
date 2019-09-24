@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-23 20:59+0300\n"
+"POT-Creation-Date: 2019-09-24 10:09+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -361,9 +361,6 @@ msgstr "Preferencias"
 
 msgid "Press"
 msgstr "Presione"
-
-msgid "Privacy Policy"
-msgstr "Política de privacidad"
 
 msgid "Provide Feedback"
 msgstr "Suministre realimentación"
@@ -859,9 +856,6 @@ msgstr "hoy"
 msgid "user"
 msgstr "usuario"
 
-msgid "version"
-msgstr "versión"
-
 msgid "week"
 msgstr "semana"
 
@@ -924,6 +918,9 @@ msgstr[1] "años"
 #~ msgid "October"
 #~ msgstr "Octubre"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "Política de privacidad"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "Enviar informes diarios"
 
@@ -938,4 +935,7 @@ msgstr[1] "años"
 
 #~ msgid "record"
 #~ msgstr "registrar"
+
+#~ msgid "version"
+#~ msgstr "versión"
 

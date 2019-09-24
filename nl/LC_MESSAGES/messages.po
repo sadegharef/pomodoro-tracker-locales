@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-09-23 21:00+0300\n"
+"POT-Creation-Date: 2019-09-24 10:09+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -355,9 +355,6 @@ msgstr "Voorkeuren"
 
 msgid "Press"
 msgstr ""
-
-msgid "Privacy Policy"
-msgstr "Privacy Policy"
 
 msgid "Provide Feedback"
 msgstr "Geef feedback"
@@ -853,9 +850,6 @@ msgstr "vandaag"
 msgid "user"
 msgstr "gebruiker"
 
-msgid "version"
-msgstr "versie"
-
 msgid "week"
 msgstr "week"
 
@@ -921,6 +915,9 @@ msgstr[1] "jaren"
 #~ msgid "October"
 #~ msgstr "oktober"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "Privacy Policy"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "Stuur dagelijkse rapportages"
 
@@ -935,4 +932,7 @@ msgstr[1] "jaren"
 
 #~ msgid "record"
 #~ msgstr "record"
+
+#~ msgid "version"
+#~ msgstr "versie"
 

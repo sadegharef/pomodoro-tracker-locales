@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-23 21:00+0300\n"
+"POT-Creation-Date: 2019-09-24 10:09+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -352,9 +352,6 @@ msgstr "优先级"
 
 msgid "Press"
 msgstr ""
-
-msgid "Privacy Policy"
-msgstr "隐私权政策"
 
 msgid "Provide Feedback"
 msgstr "提供反馈信息"
@@ -824,9 +821,6 @@ msgstr "今天"
 msgid "user"
 msgstr ""
 
-msgid "version"
-msgstr "版本"
-
 msgid "week"
 msgstr ""
 
@@ -891,6 +885,9 @@ msgstr[0] "年"
 #~ msgid "October"
 #~ msgstr "十月"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "隐私权政策"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "发送每日报告"
 
@@ -905,4 +902,7 @@ msgstr[0] "年"
 
 #~ msgid "record"
 #~ msgstr "记录"
+
+#~ msgid "version"
+#~ msgstr "版本"
 

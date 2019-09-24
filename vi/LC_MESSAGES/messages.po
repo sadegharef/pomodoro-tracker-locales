@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-23 21:00+0300\n"
+"POT-Creation-Date: 2019-09-24 10:09+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -357,9 +357,6 @@ msgstr "Cấu hình"
 
 msgid "Press"
 msgstr ""
-
-msgid "Privacy Policy"
-msgstr "Chính sách bảo mật"
 
 msgid "Provide Feedback"
 msgstr "Phản hồi"
@@ -795,7 +792,6 @@ msgid "save"
 msgstr "lưu"
 
 #, fuzzy
-#| msgid "Categories"
 msgid "series"
 msgstr "Các danh mục"
 
@@ -830,9 +826,6 @@ msgstr "hôm nay"
 
 msgid "user"
 msgstr "người dùng"
-
-msgid "version"
-msgstr "phiên bản"
 
 msgid "week"
 msgstr ""
@@ -898,6 +891,9 @@ msgstr[0] ""
 #~ msgid "October"
 #~ msgstr "Tháng 10"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "Chính sách bảo mật"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr ""
 
@@ -912,4 +908,7 @@ msgstr[0] ""
 
 #~ msgid "record"
 #~ msgstr ""
+
+#~ msgid "version"
+#~ msgstr "phiên bản"
 

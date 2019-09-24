@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-23 21:00+0300\n"
+"POT-Creation-Date: 2019-09-24 10:09+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -339,9 +339,6 @@ msgstr "Το πομοντόρο εχει τελείωση."
 
 msgid "Preferences"
 msgstr "Προτιμήσεις"
-
-msgid "Privacy Policy"
-msgstr "Πολιτική Απορρήτου"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr ""
@@ -813,9 +810,6 @@ msgstr "σήμερα"
 msgid "user"
 msgstr "χρήστης"
 
-msgid "version"
-msgstr "έκδοση"
-
 msgid "week"
 msgstr "εβδομάδα"
 
@@ -826,4 +820,10 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "χρόνο"
 msgstr[1] "χρόνια"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "Πολιτική Απορρήτου"
+
+#~ msgid "version"
+#~ msgstr "έκδοση"
 
