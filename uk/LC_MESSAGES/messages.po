@@ -560,52 +560,61 @@ msgid "Time zone"
 msgstr "Часовий пояс"
 
 msgid "Timer"
-msgstr ""
+msgstr "Таймер"
 
 msgid "Title"
-msgstr ""
+msgstr "Заголовок"
+
+msgid "Toggle eye keeper"
+msgstr "Увімкнути/вимкнути оберігач очей"
 
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "Увімкнути/вимкнути повний екран"
+
+msgid "Toggle mini timer"
+msgstr "Увімкнути/вимкнути міні-таймер"
 
 msgid "Try to add some tasks use the form above"
-msgstr ""
+msgstr "Спробуйте додати завдання, використовуючи форму вище"
 
 msgid "Try to complete some pomodoros or choose a different period"
-msgstr ""
+msgstr "Спробуйте виконати кілька Помідорів або виберіть інший період"
 
 msgid "Try to mark TODO as activity or use the form above"
-msgstr ""
+msgstr "Спробуйте додати завдання у Вибране або використайте форму вище"
 
 msgid "Tune the timer"
-msgstr ""
+msgstr "Налаштування таймера"
+
+msgid "View"
+msgstr "Вигляд"
 
 msgid "Volume"
-msgstr ""
+msgstr "Гучність"
 
 msgid "What is it?"
-msgstr ""
+msgstr "Що це?"
 
 msgid "Work days"
-msgstr ""
+msgstr "Робочі дні"
 
 msgid "Work history won`t be saved."
-msgstr ""
+msgstr "Історію роботи не буде збережено."
 
 msgid "Work until the Pomodoro rings"
-msgstr ""
+msgstr "Працюйте, доки Помідор не дзенькне"
 
 msgid "Write your ideas here"
-msgstr ""
+msgstr "Додайте свої ідеї тут"
 
 msgid "Yesterday"
-msgstr ""
+msgstr "Вчора"
 
 msgid "You are not signed."
-msgstr ""
+msgstr "Ви не увійшли."
 
 msgid "You have finished all your tasks."
-msgstr ""
+msgstr "Ви завершили всі свої завдання."
 
 msgid "You spent"
 msgstr ""
