@@ -444,48 +444,48 @@ msgid "Start the Pomodoro timer"
 msgstr "Почати Помідор"
 
 msgid "Start working:"
-msgstr ""
+msgstr "Починайте працювати:"
 
 msgid "Stats"
-msgstr ""
+msgstr "Статистика"
 
 msgid "Stay focused and finish tasks effectively."
-msgstr ""
+msgstr "Залишайтесь сфокусованими й ефективно завершуйте завдання."
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
-msgstr ""
+msgstr "Посилити вашу рішучість продовжувати у складних ситуаціях"
 
 msgid "Support the Project"
-msgstr ""
+msgstr "Підтримати проект"
 
 msgid "Sync with Google Tasks"
-msgstr ""
+msgstr "Синхронізація з Google Tasks"
 
 msgid "TODO"
-msgstr ""
+msgstr "Заплановано"
 
 msgid "TODO list is empty."
-msgstr ""
+msgstr "Список запланованого пустий."
 
 msgid "TODO list was updated."
-msgstr ""
+msgstr "Список запланованого оновлено."
 
 msgid "Take a short break (3-5 minutes)"
-msgstr ""
+msgstr "Зробіть коротку перерву (3-5 хвилин)"
 
 msgid "Take more time to your life."
-msgstr ""
+msgstr "Отримайте більше часу для свого життя."
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr ""
+msgstr "Дяка за відгук! Ваше повідомлення чекає на модерацію."
 
 msgid "The Basics"
-msgstr ""
+msgstr "Основи"
 
 msgid "The Goals"
-msgstr ""
+msgstr "Цілі"
 
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
@@ -493,58 +493,71 @@ msgid ""
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
+"Техніка Помідора – це метод управління часом, що може бути використаний "
+"для будь-яких завдань. Для багатьох людей час є ворогом. Тривожність, викликана "
+"«цоканням годинника», особливо за наявності дедлайну, веде до неефективних "
+"звичок в роботі й навчанні, які в свою чергу призводять до прокрастинації (відкладання завдань)."
 
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
 msgstr ""
+"Тахніка Помідора не має використовуватися для діяльностей у ваш вільний час. "
+"Насолоджуйтесь вільним часом!"
 
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
+"Техніка Помідора надає простий інструмент для поліпшення продуктивності "
+"(вашої власної та членів вашої команди), який може зробити наступне:"
 
 msgid ""
 "The Pomodoro Tracker — A useful tool for time management based on "
 "Pomodoro Technique."
 msgstr ""
+"Pomodoro Tracker – зручний застосунок для управління часом на основі "
+"техніки Помідора."
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr ""
+"Ціль техніки Помідора полягає в тому, щоб використовувати час як цінного союзника "
+"в досягненні того, чого ми хочемо, тим шляхом, яким ми хочемо, й дати нам можливість "
+"постійно вдосконалювати те, як ми працюємо чи навчаємося."
 
 msgid "The list is empty"
-msgstr ""
+msgstr "Список пустий"
 
 msgid "The next Pomodoro will go better"
-msgstr ""
+msgstr "Наступний Помідор буде кращим"
 
 msgid "The next pomodoro will go better!"
-msgstr ""
+msgstr "Наступний Помідор буде кращим!"
 
 msgid "There are completed tasks"
-msgstr ""
+msgstr "Виконані завдання"
 
 msgid "This Month"
-msgstr ""
+msgstr "Цей місяць"
 
 msgid "This Quarter"
-msgstr ""
+msgstr "Цей квартал"
 
 msgid "This Week"
-msgstr ""
+msgstr "Цей тиждень"
 
 msgid "Time format"
-msgstr ""
+msgstr "Формат часу"
 
 msgid "Time spent"
-msgstr ""
+msgstr "Затрачений час"
 
 msgid "Time zone"
-msgstr ""
+msgstr "Часовий пояс"
 
 msgid "Timer"
 msgstr ""
