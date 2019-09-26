@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-09-26 11:47+0300\n"
+"POT-Creation-Date: 2019-09-26 13:00+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -749,6 +749,9 @@ msgstr[1] "likes"
 
 msgid "median"
 msgstr "mediaan"
+
+msgid "merge"
+msgstr "samenvoegen"
 
 msgid "minute"
 msgid_plural "minutes"
