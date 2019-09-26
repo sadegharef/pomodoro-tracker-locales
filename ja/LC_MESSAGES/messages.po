@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-24 10:09+0300\n"
+"POT-Creation-Date: 2019-09-26 11:47+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -215,6 +215,9 @@ msgstr "%1$sアカウントとの連携"
 
 msgid "Integrations"
 msgstr "連携機能"
+
+msgid "Interruption tracked"
+msgstr "中断の追跡"
 
 msgid "Join our Slack Community"
 msgstr "Slackのコミュニティに参加する"
@@ -670,6 +673,9 @@ msgstr "複製する"
 
 msgid "duration"
 msgstr "期間"
+
+msgid "finish time"
+msgstr "終了時間"
 
 msgid "focus"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-24 10:09+0300\n"
+"POT-Creation-Date: 2019-09-26 11:47+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -219,6 +219,9 @@ msgstr "Integración con %1$s"
 
 msgid "Integrations"
 msgstr "Integraciones"
+
+msgid "Interruption tracked"
+msgstr "Interrupción rastreada"
 
 msgid "Join our Slack Community"
 msgstr ""
@@ -697,6 +700,9 @@ msgstr "duplicar"
 
 msgid "duration"
 msgstr "duración"
+
+msgid "finish time"
+msgstr "tiempo de finalización"
 
 msgid "focus"
 msgstr "focus"

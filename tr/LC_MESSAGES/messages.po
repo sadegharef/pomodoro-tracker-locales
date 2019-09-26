@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-24 10:09+0300\n"
+"POT-Creation-Date: 2019-09-26 11:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -221,6 +221,9 @@ msgstr "%1$s ile entegrasyon"
 
 msgid "Integrations"
 msgstr "Entegrasyonlar"
+
+msgid "Interruption tracked"
+msgstr "Kesinti izlenir"
 
 msgid "Join our Slack Community"
 msgstr ""
@@ -692,6 +695,9 @@ msgstr "Çift"
 
 msgid "duration"
 msgstr "Süre"
+
+msgid "finish time"
+msgstr "bitirme zamanı"
 
 msgid "focus"
 msgstr ""

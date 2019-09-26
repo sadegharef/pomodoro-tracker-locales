@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-24 10:08+0300\n"
+"POT-Creation-Date: 2019-09-26 11:47+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -220,6 +220,9 @@ msgstr "Интеграция с %1$s"
 
 msgid "Integrations"
 msgstr "Интеграции"
+
+msgid "Interruption tracked"
+msgstr "Помеха записана"
 
 msgid "Join our Slack Community"
 msgstr ""
@@ -694,6 +697,9 @@ msgstr "скопировать"
 
 msgid "duration"
 msgstr "продолжительность"
+
+msgid "finish time"
+msgstr "время окончания"
 
 msgid "focus"
 msgstr "фокус"

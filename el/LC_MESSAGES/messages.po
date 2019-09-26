@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-24 10:09+0300\n"
+"POT-Creation-Date: 2019-09-26 11:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -213,6 +213,9 @@ msgstr "Ενσωσμάτωση με %1$s"
 
 msgid "Integrations"
 msgstr "Ενωσμάτωσης"
+
+msgid "Interruption tracked"
+msgstr "Η διακοπή παρακολουθείται"
 
 msgid "Join our Slack Community"
 msgstr "Συνδέσου με την Slack Κοινότητα μας"
@@ -654,6 +657,9 @@ msgstr "Διπλότυπο"
 
 msgid "duration"
 msgstr "Διάρκεια"
+
+msgid "finish time"
+msgstr "τελειώστε το χρόνο"
 
 msgid "focus"
 msgstr "Συγκεντρώση"

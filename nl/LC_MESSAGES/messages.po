@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-09-24 10:09+0300\n"
+"POT-Creation-Date: 2019-09-26 11:47+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -216,6 +216,9 @@ msgstr "Integratie met %1$s"
 
 msgid "Integrations"
 msgstr "Integraties"
+
+msgid "Interruption tracked"
+msgstr "Onderbreking gevolgd"
 
 msgid "Join our Slack Community"
 msgstr ""
@@ -691,6 +694,9 @@ msgstr "duplicaat"
 
 msgid "duration"
 msgstr "looptijd"
+
+msgid "finish time"
+msgstr "eindtijd"
 
 msgid "focus"
 msgstr "focus"
