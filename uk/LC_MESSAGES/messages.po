@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-30 15:41+0300\n"
+"POT-Creation-Date: 2019-09-30 16:05+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -80,6 +80,9 @@ msgstr ""
 msgid "Auto start pomodoros"
 msgstr ""
 
+msgid "Block computer entirely on breaks"
+msgstr ""
+
 msgid "Bolster the determination to achieve your goals"
 msgstr ""
 
@@ -117,6 +120,9 @@ msgid "Code"
 msgstr ""
 
 msgid "Color Theme"
+msgstr ""
+
+msgid "Configure"
 msgstr ""
 
 msgid "Congratulations!"
@@ -167,7 +173,13 @@ msgstr ""
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr ""
 
+msgid "Enjoy your break"
+msgstr ""
+
 msgid "Export the records as CSV"
+msgstr ""
+
+msgid "Eye Keeper is enabled"
 msgstr ""
 
 msgid "Favorites"
@@ -252,6 +264,9 @@ msgstr ""
 msgid "Loading"
 msgstr ""
 
+msgid "Lock is enabled"
+msgstr ""
+
 msgid "Login to the service and track your progress"
 msgstr ""
 
@@ -270,10 +285,19 @@ msgstr ""
 msgid "Long break duration"
 msgstr ""
 
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr ""
+
 msgid "Mark as done"
 msgstr ""
 
 msgid "Median per day"
+msgstr ""
+
+msgid "Navigate Back"
+msgstr ""
+
+msgid "Navigate Forward"
 msgstr ""
 
 msgid "New"
@@ -298,6 +322,9 @@ msgid "One minute left"
 msgstr ""
 
 msgid "POMODORO"
+msgstr ""
+
+msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
 msgid "Pin to activities"
@@ -336,6 +363,15 @@ msgstr ""
 msgid "Preferences"
 msgstr ""
 
+msgid "Press"
+msgstr ""
+
+msgid "Provide Feedback"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr ""
 
@@ -346,6 +382,12 @@ msgid "Refine the estimation process, both in qualitative and quantitative terms
 msgstr ""
 
 msgid "Register"
+msgstr ""
+
+msgid "Relax"
+msgstr ""
+
+msgid "Release Notes"
 msgstr ""
 
 msgid "Remove a task from TODO when Pomodoro is complete"
@@ -390,7 +432,13 @@ msgstr ""
 msgid "Short description"
 msgstr ""
 
+msgid "Show window"
+msgstr ""
+
 msgid "Sign Up / Login"
+msgstr ""
+
+msgid "Sleep Mode is enabled"
 msgstr ""
 
 msgid "Sort by"
@@ -511,7 +559,13 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
+msgid "Toggle eye keeper"
+msgstr ""
+
 msgid "Toggle fullscreen"
+msgstr ""
+
+msgid "Toggle mini timer"
 msgstr ""
 
 msgid "Try to add some tasks use the form above"
@@ -524,6 +578,9 @@ msgid "Try to mark TODO as activity or use the form above"
 msgstr ""
 
 msgid "Tune the timer"
+msgstr ""
+
+msgid "View"
 msgstr ""
 
 msgid "Volume"
@@ -648,6 +705,9 @@ msgid_plural "hours"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+
+msgid "if you must exit now"
+msgstr ""
 
 msgid "in 10 seconds"
 msgstr ""
