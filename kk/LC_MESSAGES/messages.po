@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-26 13:00+0300\n"
+"POT-Creation-Date: 2019-09-30 15:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -80,6 +80,9 @@ msgstr "Авто-үзіліс"
 
 msgid "Auto start pomodoros"
 msgstr "Автоматты қызанақ"
+
+msgid "Block computer entirely on breaks"
+msgstr "Компьютерді үзіліс кезінде толығымен блоктаңыз"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "Қойылған мақсатты анық қылып ұстау"
@@ -170,6 +173,9 @@ msgstr "Web-хабарлама"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Концентрация арттыру, алаңдауды азайту"
+
+msgid "Enjoy your break"
+msgstr "Үзіліспен рахаттаныңыз"
 
 msgid "Export the records as CSV"
 msgstr "CSV-ға жазбаларды порттау"
@@ -262,6 +268,9 @@ msgstr "Күнделікті тапсырмаларды Google Calendar арқы
 
 msgid "Loading"
 msgstr "Қазір"
+
+msgid "Lock is enabled"
+msgstr "Құлыптау қосылған"
 
 msgid "Login to the service and track your progress"
 msgstr "Аккаунқа кіріп, прогрессті бақылап отырыңыз"

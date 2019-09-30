@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-26 13:00+0300\n"
+"POT-Creation-Date: 2019-09-30 15:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -78,6 +78,9 @@ msgstr "休憩時間を自動的に開始する"
 
 msgid "Auto start pomodoros"
 msgstr "ポモドーロを自動的に開始する"
+
+msgid "Block computer entirely on breaks"
+msgstr ""
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "目標達成の決心をより強固にします"
@@ -169,6 +172,9 @@ msgstr "Web通知機能を有効にする"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "作業の割り込みを断ち切ることで集中力を向上させます"
 
+msgid "Enjoy your break"
+msgstr ""
+
 msgid "Export the records as CSV"
 msgstr "CSV出力"
 
@@ -256,6 +262,9 @@ msgstr "Googleカレンダーから毎日のタスクを読み込む"
 
 msgid "Loading"
 msgstr "読み込み中"
+
+msgid "Lock is enabled"
+msgstr ""
 
 msgid "Login to the service and track your progress"
 msgstr "ログインして進捗を確認しましょう"

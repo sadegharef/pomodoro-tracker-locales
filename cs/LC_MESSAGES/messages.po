@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.12.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-26 12:59+0300\n"
+"POT-Creation-Date: 2019-09-30 15:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: cs\n"
@@ -78,6 +78,9 @@ msgid "Auto start breaks"
 msgstr ""
 
 msgid "Auto start pomodoros"
+msgstr ""
+
+msgid "Block computer entirely on breaks"
 msgstr ""
 
 msgid "Bolster the determination to achieve your goals"
@@ -170,6 +173,9 @@ msgstr ""
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr ""
 
+msgid "Enjoy your break"
+msgstr ""
+
 msgid "Export the records as CSV"
 msgstr ""
 
@@ -256,6 +262,9 @@ msgid "Load daily tasks from Google Calendar"
 msgstr ""
 
 msgid "Loading"
+msgstr ""
+
+msgid "Lock is enabled"
 msgstr ""
 
 msgid "Login to the service and track your progress"

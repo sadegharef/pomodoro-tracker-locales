@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-26 13:00+0300\n"
+"POT-Creation-Date: 2019-09-30 15:41+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -78,6 +78,9 @@ msgstr "自动启动休息"
 
 msgid "Auto start pomodoros"
 msgstr "自动启动番茄钟"
+
+msgid "Block computer entirely on breaks"
+msgstr ""
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "加强实现目标的决心"
@@ -169,6 +172,9 @@ msgstr "启用网页通知"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "通过减少中断来提高注意力和专注力"
 
+msgid "Enjoy your break"
+msgstr ""
+
 msgid "Export the records as CSV"
 msgstr "导出CSV格式记录"
 
@@ -256,6 +262,9 @@ msgstr "从Google日历加载每日任务"
 
 msgid "Loading"
 msgstr "载入中"
+
+msgid "Lock is enabled"
+msgstr ""
 
 msgid "Login to the service and track your progress"
 msgstr "登入服务器并追踪你的进度"

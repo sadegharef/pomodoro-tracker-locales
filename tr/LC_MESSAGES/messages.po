@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-26 13:00+0300\n"
+"POT-Creation-Date: 2019-09-30 15:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -80,6 +80,9 @@ msgstr "Molaları otomatik başlat"
 
 msgid "Auto start pomodoros"
 msgstr "Pomodoroları otomatik başlat"
+
+msgid "Block computer entirely on breaks"
+msgstr "Bilgisayarı tamamen kopuk olarak engelleyin"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "Hedeflerinize ulaşmak için kararlılığınızı arttırın"
@@ -173,6 +176,9 @@ msgstr "Web Bildirimlerini Etkinleştir"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Odaklanma ve konsantrasyon kabiliyetlerinizi geliştirin"
 
+msgid "Enjoy your break"
+msgstr "Aranın tadını çıkar"
+
 msgid "Export the records as CSV"
 msgstr "Kayıtları CSV olarak dışarı aktar"
 
@@ -264,6 +270,9 @@ msgstr ""
 
 msgid "Loading"
 msgstr ""
+
+msgid "Lock is enabled"
+msgstr "Kilit etkin"
 
 msgid "Login to the service and track your progress"
 msgstr "Sürecinizi takip etmek için giriş yapın"

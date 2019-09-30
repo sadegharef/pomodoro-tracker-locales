@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-26 12:59+0300\n"
+"POT-Creation-Date: 2019-09-30 15:40+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -81,6 +81,9 @@ msgstr "Автостарт для перерыва"
 
 msgid "Auto start pomodoros"
 msgstr "Автостарт для помидора"
+
+msgid "Block computer entirely on breaks"
+msgstr "Блокировать экран на перерывах"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "Определенности с пониманием достижения ваших целей"
@@ -171,6 +174,9 @@ msgstr "Включить оповещения в браузере"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Улучшения концентрации, избавления от отвлекающих факторов"
+
+msgid "Enjoy your break"
+msgstr "Хорошего отдыха"
 
 msgid "Export the records as CSV"
 msgstr "Экспорт записей в CSV"
@@ -263,6 +269,9 @@ msgstr "Загружать ежедневные задачи из календа
 
 msgid "Loading"
 msgstr "Загрузка"
+
+msgid "Lock is enabled"
+msgstr "Блокировка включена"
 
 msgid "Login to the service and track your progress"
 msgstr "Войдите на сервис и отслеживайте ваш прогресс"

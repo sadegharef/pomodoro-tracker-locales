@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-09-26 13:00+0300\n"
+"POT-Creation-Date: 2019-09-30 15:40+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -79,6 +79,9 @@ msgstr "Start pauzes automatisch"
 
 msgid "Auto start pomodoros"
 msgstr "Start pomodori automatisch"
+
+msgid "Block computer entirely on breaks"
+msgstr "Blok computer volledig op pauzes"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "De vastberadenheid om doelen te bereiken versterken"
@@ -170,6 +173,9 @@ msgstr "Activeer web-notificaties"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Verbeteren van focus en concentratie, door onderbrekingen te verminderen"
 
+msgid "Enjoy your break"
+msgstr "Geniet van je pauze"
+
 msgid "Export the records as CSV"
 msgstr "Exporteer als csv"
 
@@ -259,6 +265,9 @@ msgstr "Laad dagelijkse taken uit Google Agenda"
 
 msgid "Loading"
 msgstr "Bezig met laden"
+
+msgid "Lock is enabled"
+msgstr "Vergrendeling is ingeschakeld"
 
 msgid "Login to the service and track your progress"
 msgstr "Log in en houdt uw voortgang bij"

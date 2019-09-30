@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-26 13:00+0300\n"
+"POT-Creation-Date: 2019-09-30 15:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -80,6 +80,9 @@ msgstr "Tự động bắt đầu thời gian nghỉ"
 
 msgid "Auto start pomodoros"
 msgstr "Tự động bắt đầu các Pomodoros"
+
+msgid "Block computer entirely on breaks"
+msgstr ""
 
 msgid "Bolster the determination to achieve your goals"
 msgstr ""
@@ -169,6 +172,9 @@ msgid "Enable Web Notifications"
 msgstr "Bật Thông báo Web"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
+msgstr ""
+
+msgid "Enjoy your break"
 msgstr ""
 
 msgid "Export the records as CSV"
@@ -261,6 +267,9 @@ msgstr "Nhập công việc hằng ngày từ Google Calendar"
 
 msgid "Loading"
 msgstr "Đang nhập"
+
+msgid "Lock is enabled"
+msgstr ""
 
 msgid "Login to the service and track your progress"
 msgstr "Đăng nhập vào hệ thống và theoprogress dõi tiến độ của bạn"
