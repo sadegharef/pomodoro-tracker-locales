@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-30 16:15+0300\n"
+"POT-Creation-Date: 2019-10-01 16:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -227,9 +227,6 @@ msgstr "Integrazioni"
 msgid "Interruption tracked"
 msgstr "Tracciamento interrotto"
 
-msgid "Join our Slack Community"
-msgstr ""
-
 msgid "Join the global rating"
 msgstr ""
 
@@ -370,6 +367,9 @@ msgstr "Preferenze"
 msgid "Press"
 msgstr ""
 
+msgid "Profile"
+msgstr ""
+
 msgid "Provide Feedback"
 msgstr "Fornisci un feedback"
 
@@ -416,6 +416,12 @@ msgstr "Regole & Suggerimenti"
 
 msgid "Schemes"
 msgstr "Schemi"
+
+msgid "Select Category"
+msgstr "Seleziona la categoria"
+
+msgid "Select Dates"
+msgstr "Seleziona date"
 
 msgid "Send reports on email: "
 msgstr "Invia report via email:"
@@ -598,6 +604,9 @@ msgstr "Prova a segnare TODO come attività o usa il modulo di cui sopra"
 
 msgid "Tune the timer"
 msgstr "Regola il timer"
+
+msgid "Unselect Category"
+msgstr "Deseleziona la categoria"
 
 msgid "View"
 msgstr "Vista"

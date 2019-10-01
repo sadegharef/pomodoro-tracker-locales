@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-30 16:15+0300\n"
+"POT-Creation-Date: 2019-10-01 16:37+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -231,9 +231,6 @@ msgstr "Entegrasyonlar"
 msgid "Interruption tracked"
 msgstr "Kesinti izlenir"
 
-msgid "Join our Slack Community"
-msgstr ""
-
 msgid "Join the global rating"
 msgstr ""
 
@@ -373,6 +370,9 @@ msgstr "Tercihler"
 msgid "Press"
 msgstr ""
 
+msgid "Profile"
+msgstr ""
+
 msgid "Provide Feedback"
 msgstr "Geribildirim sağlamak"
 
@@ -417,6 +417,12 @@ msgstr "Kurallar & İpuçları"
 
 msgid "Schemes"
 msgstr "Şemalari"
+
+msgid "Select Category"
+msgstr "Kategori seçiniz"
+
+msgid "Select Dates"
+msgstr "Tarihler'i seçin"
 
 msgid "Send reports on email: "
 msgstr "E-postayla ilgili rapor gönder:"
@@ -600,6 +606,9 @@ msgstr "Görevi aktivite olarak işaretleyin veya yukarıdaki formu kullanın"
 
 msgid "Tune the timer"
 msgstr "Zamanlayıcıyı ayarla"
+
+msgid "Unselect Category"
+msgstr "Kategoriyi kaldır"
 
 msgid "View"
 msgstr ""

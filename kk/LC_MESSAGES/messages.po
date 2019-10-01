@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-30 16:15+0300\n"
+"POT-Creation-Date: 2019-10-01 16:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -229,9 +229,6 @@ msgstr "Қызметтер"
 msgid "Interruption tracked"
 msgstr "Үзіліс бақыланады"
 
-msgid "Join our Slack Community"
-msgstr ""
-
 msgid "Join the global rating"
 msgstr ""
 
@@ -371,6 +368,9 @@ msgstr "Баптаулар"
 msgid "Press"
 msgstr ""
 
+msgid "Profile"
+msgstr ""
+
 msgid "Provide Feedback"
 msgstr "Пікір жолдаңыз"
 
@@ -415,6 +415,12 @@ msgstr "Ереже мен Айлалар"
 
 msgid "Schemes"
 msgstr "Сызбалар"
+
+msgid "Select Category"
+msgstr "Санатты таңдаңыз"
+
+msgid "Select Dates"
+msgstr "Күндерді таңдаңыз"
 
 msgid "Send reports on email: "
 msgstr "Осы e-mail-ға"
@@ -594,6 +600,9 @@ msgstr "TODO-ды іС қылып көріңіз я келесі үлгіні т
 
 msgid "Tune the timer"
 msgstr "Баптаулар"
+
+msgid "Unselect Category"
+msgstr "Таңдамау категориясы"
 
 msgid "View"
 msgstr "View"

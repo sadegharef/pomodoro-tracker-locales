@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-30 16:16+0300\n"
+"POT-Creation-Date: 2019-10-01 16:37+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -225,9 +225,6 @@ msgstr "关联"
 msgid "Interruption tracked"
 msgstr "跟踪中断"
 
-msgid "Join our Slack Community"
-msgstr ""
-
 msgid "Join the global rating"
 msgstr ""
 
@@ -365,6 +362,9 @@ msgstr "优先级"
 msgid "Press"
 msgstr ""
 
+msgid "Profile"
+msgstr ""
+
 msgid "Provide Feedback"
 msgstr "提供反馈信息"
 
@@ -409,6 +409,12 @@ msgstr "规则 & 提示"
 
 msgid "Schemes"
 msgstr "调度"
+
+msgid "Select Category"
+msgstr ""
+
+msgid "Select Dates"
+msgstr ""
 
 msgid "Send reports on email: "
 msgstr "向该邮箱发送报告："
@@ -578,6 +584,9 @@ msgstr "尝试将代办标记为活动或者使用上面的表格"
 
 msgid "Tune the timer"
 msgstr "校准计时器"
+
+msgid "Unselect Category"
+msgstr ""
 
 msgid "View"
 msgstr ""

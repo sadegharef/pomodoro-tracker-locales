@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-30 16:16+0300\n"
+"POT-Creation-Date: 2019-10-01 16:37+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -229,9 +229,6 @@ msgstr "Ενωσμάτωσης"
 msgid "Interruption tracked"
 msgstr "Η διακοπή παρακολουθείται"
 
-msgid "Join our Slack Community"
-msgstr "Συνδέσου με την Slack Κοινότητα μας"
-
 msgid "Join the global rating"
 msgstr "Πάρε μέρος στην παγκόσμια ταξινόμηση"
 
@@ -373,6 +370,9 @@ msgstr "Προτιμήσεις"
 msgid "Press"
 msgstr ""
 
+msgid "Profile"
+msgstr ""
+
 msgid "Provide Feedback"
 msgstr ""
 
@@ -421,6 +421,12 @@ msgstr "Κανόνες & Συμβουλές"
 
 msgid "Schemes"
 msgstr "Σχέδια"
+
+msgid "Select Category"
+msgstr "Επιλέξτε κατηγορία"
+
+msgid "Select Dates"
+msgstr "Επιλέξτε Ημερομηνίες"
 
 msgid "Send reports on email: "
 msgstr "Στείλε αναφορές στο email"
@@ -610,6 +616,9 @@ msgstr ""
 
 msgid "Tune the timer"
 msgstr "Κούρδισε το χρονόμετρο"
+
+msgid "Unselect Category"
+msgstr "Αποεπιλογή κατηγορίας"
 
 msgid "View"
 msgstr "Θέα"

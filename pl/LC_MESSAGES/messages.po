@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-09-30 16:16+0300\n"
+"POT-Creation-Date: 2019-10-01 16:37+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -229,9 +229,6 @@ msgstr "Integracja z innymi usługami"
 msgid "Interruption tracked"
 msgstr "Śledzenie przerwania"
 
-msgid "Join our Slack Community"
-msgstr ""
-
 msgid "Join the global rating"
 msgstr ""
 
@@ -371,6 +368,9 @@ msgstr "Ustawienia"
 msgid "Press"
 msgstr ""
 
+msgid "Profile"
+msgstr ""
+
 msgid "Provide Feedback"
 msgstr ""
 
@@ -417,6 +417,12 @@ msgstr "Zasady i wskazówki"
 
 msgid "Schemes"
 msgstr "Schemat"
+
+msgid "Select Category"
+msgstr "Wybierz kategorię"
+
+msgid "Select Dates"
+msgstr "Wybierz daty"
 
 msgid "Send reports on email: "
 msgstr "Wysyłaj raporty na ten adres email: "
@@ -603,6 +609,9 @@ msgstr "Spróbuj oznaczyć ZADANIA jako aktywność lub użyj powyższego formul
 
 msgid "Tune the timer"
 msgstr "Dostosuj Timer"
+
+msgid "Unselect Category"
+msgstr "Odznacz kategorię"
 
 msgid "View"
 msgstr "Widok"

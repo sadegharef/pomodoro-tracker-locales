@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-30 16:15+0300\n"
+"POT-Creation-Date: 2019-10-01 16:36+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -230,9 +230,6 @@ msgstr "Интеграции"
 msgid "Interruption tracked"
 msgstr "Помеха записана"
 
-msgid "Join our Slack Community"
-msgstr ""
-
 msgid "Join the global rating"
 msgstr "Участвовать в глобальном рейтинге"
 
@@ -374,6 +371,9 @@ msgstr "Настройки"
 msgid "Press"
 msgstr "Нажмите"
 
+msgid "Profile"
+msgstr ""
+
 msgid "Provide Feedback"
 msgstr "Отправить отзыв"
 
@@ -418,6 +418,12 @@ msgstr "Правила и советы"
 
 msgid "Schemes"
 msgstr "Схемы"
+
+msgid "Select Category"
+msgstr "Выбрать категорию"
+
+msgid "Select Dates"
+msgstr "Выбрать даты"
 
 msgid "Send reports on email: "
 msgstr "Отправлять отчеты на email: "
@@ -601,6 +607,9 @@ msgstr "Попробуйте добавить задачу в избраное �
 
 msgid "Tune the timer"
 msgstr "Настройки"
+
+msgid "Unselect Category"
+msgstr "Отменить выбор категории"
 
 msgid "View"
 msgstr "Вид"

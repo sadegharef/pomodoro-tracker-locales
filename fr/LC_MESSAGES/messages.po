@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-30 16:15+0300\n"
+"POT-Creation-Date: 2019-10-01 16:36+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -227,9 +227,6 @@ msgstr "Intégrations"
 msgid "Interruption tracked"
 msgstr "Interruption suivie"
 
-msgid "Join our Slack Community"
-msgstr ""
-
 msgid "Join the global rating"
 msgstr "Rejoignez la note globale"
 
@@ -370,6 +367,9 @@ msgstr "Préférences"
 msgid "Press"
 msgstr "Appuyez sur"
 
+msgid "Profile"
+msgstr ""
+
 msgid "Provide Feedback"
 msgstr "Fournir une réponse"
 
@@ -414,6 +414,12 @@ msgstr "Règles et conseils"
 
 msgid "Schemes"
 msgstr "Modèles"
+
+msgid "Select Category"
+msgstr "Sélectionnez une catégorie"
+
+msgid "Select Dates"
+msgstr "Sélectionnez les dates"
 
 msgid "Send reports on email: "
 msgstr "Envoyer les rapports à l'adresse e-mail : "
@@ -596,6 +602,9 @@ msgstr "Essayez de marquer TODO comme activité ou remplissez le champ ci-dessus
 
 msgid "Tune the timer"
 msgstr "Régler la minuterie"
+
+msgid "Unselect Category"
+msgstr "Désélectionner la catégorie"
 
 msgid "View"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-30 16:15+0300\n"
+"POT-Creation-Date: 2019-10-01 16:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -225,9 +225,6 @@ msgstr "連携機能"
 msgid "Interruption tracked"
 msgstr "中断の追跡"
 
-msgid "Join our Slack Community"
-msgstr "Slackのコミュニティに参加する"
-
 msgid "Join the global rating"
 msgstr "レーティングに参加する"
 
@@ -365,6 +362,9 @@ msgstr "設定"
 msgid "Press"
 msgstr ""
 
+msgid "Profile"
+msgstr ""
+
 msgid "Provide Feedback"
 msgstr "フィードバックを提供します"
 
@@ -409,6 +409,12 @@ msgstr "ルールとヒント"
 
 msgid "Schemes"
 msgstr "スキーム"
+
+msgid "Select Category"
+msgstr ""
+
+msgid "Select Dates"
+msgstr ""
 
 msgid "Send reports on email: "
 msgstr "電子メールでレポートを送信する"
@@ -578,6 +584,9 @@ msgstr "TODOをアクティビティとしてマークするか、上記のフ�
 
 msgid "Tune the timer"
 msgstr "タイマーを調整する"
+
+msgid "Unselect Category"
+msgstr ""
 
 msgid "View"
 msgstr ""
