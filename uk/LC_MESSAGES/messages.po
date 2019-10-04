@@ -617,244 +617,248 @@ msgid "You have finished all your tasks."
 msgstr "Ви завершили всі свої завдання."
 
 msgid "You spent"
-msgstr ""
+msgstr "Ви витратили"
 
 msgid "and"
-msgstr ""
+msgstr "і"
 
 msgid "as Bitbucket user"
-msgstr ""
+msgstr "використовуючи Bitbucket"
 
 msgid "as Facebook user"
-msgstr ""
+msgstr "використовуючи Facebook"
 
 msgid "as Github user"
-msgstr ""
+msgstr "використовуючи Github"
 
 msgid "as Google user"
-msgstr ""
+msgstr "використовуючи Google"
 
 msgid "as Twitter user"
-msgstr ""
+msgstr "використовуючи Twitter"
 
 msgid "as VK user"
-msgstr ""
+msgstr "використовуючи VK"
 
 msgid "as Yandex user"
-msgstr ""
+msgstr "використовуючи Yandex"
 
 msgid "auto"
-msgstr ""
+msgstr "автоматично"
 
 msgid "average"
-msgstr ""
+msgstr "Середнє"
 
 msgid "cancel"
-msgstr ""
+msgstr "скасувати"
 
 msgid "category"
-msgstr ""
+msgstr "категорія"
 
 msgid "close"
-msgstr ""
+msgstr "закрити"
 
 msgid "created"
-msgstr ""
+msgstr "створено"
 
 msgid "dark"
-msgstr ""
+msgstr "темна"
 
 msgid "day"
 msgid_plural "days"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "день"
+msgstr[1] "дні"
+msgstr[2] "днів"
 
 msgid "delay"
-msgstr ""
+msgstr "затримка"
 
 msgid "delays"
-msgstr ""
+msgstr "затримки"
 
 msgid "delete"
-msgstr ""
+msgstr "видалити"
 
 msgid "description"
-msgstr ""
+msgstr "опис"
 
 msgid "done"
-msgstr ""
+msgstr "зроблено"
 
 msgid "duplicate"
-msgstr ""
+msgstr "скопіювати"
 
 msgid "duration"
-msgstr ""
+msgstr "тривалість"
 
 msgid "focus"
-msgstr ""
+msgstr "фокус"
 
 msgid "for all time"
-msgstr ""
+msgstr "за весь час"
 
 msgid "friends"
-msgstr ""
+msgstr "друзі"
 
 msgid "global"
-msgstr ""
+msgstr "глобальна"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "година"
+msgstr[1] "години"
+msgstr[2] "годин"
+
+msgid "if you must exit now"
+msgstr "щоби негайно вийти"
 
 msgid "in 10 seconds"
-msgstr ""
+msgstr "за 10 секунд"
 
 msgid "in 2 seconds"
-msgstr ""
+msgstr "за 3 секунди"
 
 msgid "in 3 seconds"
-msgstr ""
+msgstr "за 3 секунди"
 
 msgid "in 5 seconds"
-msgstr ""
+msgstr "за 5 секунд"
 
 msgid "in minutes"
-msgstr ""
+msgstr "в хвилинах"
 
 msgid "in pomodoros"
-msgstr ""
+msgstr "в Помідорах"
 
 msgid "light"
-msgstr ""
+msgstr "світла"
 
 msgid "like"
 msgid_plural "likes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "плюс"
+msgstr[1] "плюси"
+msgstr[2] "плюсів"
 
 msgid "median"
-msgstr ""
+msgstr "медіана"
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "хвилина"
+msgstr[1] "хвилини"
+msgstr[2] "хвилин"
 
 msgid "month"
 msgid_plural "months"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "місяць"
+msgstr[1] "місяці"
+msgstr[2] "місяців"
 
 msgid "never"
-msgstr ""
+msgstr "ніколи"
 
 msgid "next page"
-msgstr ""
+msgstr "наступна сторінка"
 
 msgid "no description"
-msgstr ""
+msgstr "без опису"
 
 msgid "number"
-msgstr ""
+msgstr "кількість"
 
 msgid "on"
-msgstr ""
+msgstr "на"
 
 msgid "pause"
-msgstr ""
+msgstr "пауза"
 
 msgid "personal"
-msgstr ""
+msgstr "особиста"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Помідор"
+msgstr[1] "Помідора"
+msgstr[2] "Помідорів"
 
 msgid "pomodoros"
-msgstr ""
+msgstr "Помідори"
 
 msgid "preview"
-msgstr ""
+msgstr "попередній перегляд"
 
 msgid "previous page"
-msgstr ""
+msgstr "попередня сторінка"
 
 msgid "quarter"
-msgstr ""
+msgstr "квартал"
 
 msgid "rating"
-msgstr ""
+msgstr "рейтинг"
 
 msgid "refresh"
-msgstr ""
+msgstr "поновити"
 
 msgid "registered users spend on completing pomodoros"
-msgstr ""
+msgstr "зареєстровані користувачі витратили на завдання"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
+msgstr "зареєстровані користувачі витратили на завдання сьогодні."
 
 msgid "remove categories"
-msgstr ""
+msgstr "видалити категорії"
 
 msgid "resume"
-msgstr ""
+msgstr "відновити"
 
 msgid "save"
-msgstr ""
+msgstr "зберегти"
 
 msgid "skip"
-msgstr ""
+msgstr "пропустити"
 
 msgid "start"
-msgstr ""
+msgstr "старт"
 
 msgid "stop"
-msgstr ""
+msgstr "стоп"
 
 msgid "system"
-msgstr ""
+msgstr "системна"
 
 msgid "take a long break"
-msgstr ""
+msgstr "зробіть довгу перерву"
 
 msgid "take a short break"
-msgstr ""
+msgstr "зробіть коротку перерву"
 
 msgid "time"
-msgstr ""
+msgstr "час"
 
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
-msgstr ""
+msgstr "у вашому Телеграмі напишіть `/start` та введіть отриманий код "
+"у полі нижче"
 
 msgid "today"
-msgstr ""
+msgstr "сьогодні"
 
 msgid "user"
-msgstr ""
+msgstr "користувач"
 
 msgid "version"
-msgstr ""
+msgstr "версія"
 
 msgid "week"
-msgstr ""
+msgstr "тиждень"
 
 msgid "were"
-msgstr ""
+msgstr "були"
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "рік"
+msgstr[1] "роки"
+msgstr[2] "років"
 
