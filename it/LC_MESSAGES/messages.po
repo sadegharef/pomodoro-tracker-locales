@@ -451,7 +451,7 @@ msgid "Sign Up / Login"
 msgstr "Registrati / Login"
 
 msgid "Sleep Mode is enabled"
-msgstr ""
+msgstr "Modalità a risparmio è abilitata"
 
 msgid "Sort by"
 msgstr "Ordina per"
@@ -733,7 +733,7 @@ msgstr[0] "ora"
 msgstr[1] "ore"
 
 msgid "if you must exit now"
-msgstr ""
+msgstr "se devi uscire ora"
 
 msgid "in 10 seconds"
 msgstr "in 10 secondi"
@@ -781,7 +781,7 @@ msgstr[0] "mese"
 msgstr[1] "mesi"
 
 msgid "never"
-msgstr ""
+msgstr "mai"
 
 msgid "next page"
 msgstr "pagina successiva"
@@ -927,7 +927,7 @@ msgstr[1] "anni"
 #~ msgstr "Entra per salvare il tuo lavoro"
 
 #~ msgid "Look away at something that is 6 metres away for 20 seconds"
-#~ msgstr ""
+#~ msgstr "Guarda qualcosa che sia lontana 6 metres per 20 secondi"
 
 #~ msgid "March"
 #~ msgstr "Marzo"
