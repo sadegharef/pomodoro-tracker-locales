@@ -210,7 +210,7 @@ msgid "Import was failed. Check your CSV and try again."
 msgstr "L'importazione è fallita. Controlla il tuo CSV e riprova."
 
 msgid "Imported from External Sources"
-msgstr ""
+msgstr "Importato da sorgenti externe"
 
 msgid "Improve your work or study process"
 msgstr "Migliora il tuo lavoro o il tuo processo di studio"
@@ -228,7 +228,7 @@ msgid "Interruption tracked"
 msgstr "Tracciamento interrotto"
 
 msgid "Join the global rating"
-msgstr ""
+msgstr "Unisciti alla valutazione globale"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -287,7 +287,7 @@ msgid "Long break duration"
 msgstr "Durata pausa lunga"
 
 msgid "Look away at something that is 6 metres away for %1$s seconds"
-msgstr ""
+msgstr "Guarda qualcosa che sia lontana 6 metres per %1$s secondi"
 
 msgid "Mark as done"
 msgstr "Segna come fatto"
@@ -296,10 +296,10 @@ msgid "Median per day"
 msgstr "Mediana per giorno"
 
 msgid "Navigate Back"
-msgstr ""
+msgstr "Indietro"
 
 msgid "Navigate Forward"
-msgstr ""
+msgstr "Avanti"
 
 msgid "New"
 msgstr "Nuovo"
@@ -326,7 +326,7 @@ msgid "POMODORO"
 msgstr "POMODORO"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
-msgstr ""
+msgstr "Ferma/Parti quando il computer è inattivo"
 
 msgid "Pin to activities"
 msgstr "Pin ai preferiti"
@@ -347,13 +347,13 @@ msgid "Please reload the application."
 msgstr "Si prega di ricaricare l'applicazione."
 
 msgid "Please unblock notifications in your browser"
-msgstr ""
+msgstr "Sblocca le notifiche nel tuo browser"
 
 msgid "Please, login to view your stats"
 msgstr "Entra per salvare il tuo lavoro"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
-msgstr ""
+msgstr "Pomodoro Tracker è un'applicazione di produttività ideata per il tuo lavoro e per lo studio."
 
 msgid "Pomodoro duration"
 msgstr "Durata pomodoro"
@@ -365,10 +365,10 @@ msgid "Preferences"
 msgstr "Preferenze"
 
 msgid "Press"
-msgstr ""
+msgstr "Premi"
 
 msgid "Profile"
-msgstr ""
+msgstr "Profilo"
 
 msgid "Provide Feedback"
 msgstr "Fornisci un feedback"
@@ -391,7 +391,7 @@ msgid "Register"
 msgstr "Registrati"
 
 msgid "Relax"
-msgstr ""
+msgstr "Rilassati"
 
 msgid "Release Notes"
 msgstr "Note di rilascio"
@@ -466,7 +466,7 @@ msgid "Stats"
 msgstr "Statistiche"
 
 msgid "Stay focused and finish tasks effectively."
-msgstr ""
+msgstr "Stai concentrato e completa le attività con efficacia"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -479,7 +479,7 @@ msgid "Support the Project"
 msgstr "Sostieni il progetto"
 
 msgid "Sync with Google Tasks"
-msgstr ""
+msgstr "Sincronizza con Google Tasks"
 
 msgid "TODO"
 msgstr "TODO"
@@ -494,7 +494,7 @@ msgid "Take a short break (3-5 minutes)"
 msgstr "Prendi una breve pausa (3-5 minuti)"
 
 msgid "Take more time to your life."
-msgstr ""
+msgstr "Prendi del tempo per te stesso"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Grazie per il feedback! Il tuo messaggio è in attesa di moderazione."
