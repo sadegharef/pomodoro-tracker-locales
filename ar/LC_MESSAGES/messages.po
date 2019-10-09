@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-10-01 16:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ar\n"
@@ -78,6 +78,9 @@ msgid "Auto start breaks"
 msgstr ""
 
 msgid "Auto start pomodoros"
+msgstr ""
+
+msgid "Block screen on breaks"
 msgstr ""
 
 msgid "Bolster the determination to achieve your goals"
@@ -170,6 +173,9 @@ msgstr ""
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr ""
 
+msgid "Enjoy your break"
+msgstr ""
+
 msgid "Export the records as CSV"
 msgstr ""
 
@@ -217,7 +223,7 @@ msgstr ""
 msgid "Integrations"
 msgstr ""
 
-msgid "Join our Slack Community"
+msgid "Interruption tracked"
 msgstr ""
 
 msgid "Join the global rating"
@@ -253,6 +259,9 @@ msgid "Load daily tasks from Google Calendar"
 msgstr ""
 
 msgid "Loading"
+msgstr ""
+
+msgid "Lock is enabled"
 msgstr ""
 
 msgid "Login to the service and track your progress"
@@ -354,7 +363,7 @@ msgstr ""
 msgid "Press"
 msgstr ""
 
-msgid "Privacy Policy"
+msgid "Profile"
 msgstr ""
 
 msgid "Provide Feedback"
@@ -400,6 +409,12 @@ msgid "Rules & Tips"
 msgstr ""
 
 msgid "Schemes"
+msgstr ""
+
+msgid "Select Category"
+msgstr ""
+
+msgid "Select Dates"
 msgstr ""
 
 msgid "Send reports on email: "
@@ -511,6 +526,9 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr ""
 
+msgid "The integration is outdated. Please reconnect."
+msgstr ""
+
 msgid "The list is empty"
 msgstr ""
 
@@ -566,6 +584,9 @@ msgid "Try to mark TODO as activity or use the form above"
 msgstr ""
 
 msgid "Tune the timer"
+msgstr ""
+
+msgid "Unselect Category"
 msgstr ""
 
 msgid "View"
@@ -676,6 +697,9 @@ msgstr ""
 msgid "duration"
 msgstr ""
 
+msgid "finish time"
+msgstr ""
+
 msgid "focus"
 msgstr ""
 
@@ -718,6 +742,9 @@ msgstr ""
 msgid "in pomodoros"
 msgstr ""
 
+msgid "interruptions"
+msgstr ""
+
 msgid "light"
 msgstr ""
 
@@ -731,6 +758,9 @@ msgstr[4] ""
 msgstr[5] ""
 
 msgid "median"
+msgstr ""
+
+msgid "merge"
 msgstr ""
 
 msgid "minute"
@@ -814,6 +844,9 @@ msgstr ""
 msgid "save"
 msgstr ""
 
+msgid "series"
+msgstr ""
+
 msgid "skip"
 msgstr ""
 
@@ -844,9 +877,6 @@ msgid "today"
 msgstr ""
 
 msgid "user"
-msgstr ""
-
-msgid "version"
 msgstr ""
 
 msgid "week"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-10-01 16:37+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -80,6 +80,9 @@ msgstr "Molaları otomatik başlat"
 
 msgid "Auto start pomodoros"
 msgstr "Pomodoroları otomatik başlat"
+
+msgid "Block screen on breaks"
+msgstr "Aralarda blok ekranı"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "Hedeflerinize ulaşmak için kararlılığınızı arttırın"
@@ -173,6 +176,9 @@ msgstr "Web Bildirimlerini Etkinleştir"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Odaklanma ve konsantrasyon kabiliyetlerinizi geliştirin"
 
+msgid "Enjoy your break"
+msgstr "Aranın tadını çıkar"
+
 msgid "Export the records as CSV"
 msgstr "Kayıtları CSV olarak dışarı aktar"
 
@@ -222,8 +228,8 @@ msgstr "%1$s ile entegrasyon"
 msgid "Integrations"
 msgstr "Entegrasyonlar"
 
-msgid "Join our Slack Community"
-msgstr ""
+msgid "Interruption tracked"
+msgstr "Kesinti izlenir"
 
 msgid "Join the global rating"
 msgstr ""
@@ -261,6 +267,9 @@ msgstr ""
 
 msgid "Loading"
 msgstr ""
+
+msgid "Lock is enabled"
+msgstr "Kilit etkin"
 
 msgid "Login to the service and track your progress"
 msgstr "Sürecinizi takip etmek için giriş yapın"
@@ -361,8 +370,8 @@ msgstr "Tercihler"
 msgid "Press"
 msgstr ""
 
-msgid "Privacy Policy"
-msgstr "Gizlilik Politikası"
+msgid "Profile"
+msgstr ""
 
 msgid "Provide Feedback"
 msgstr "Geribildirim sağlamak"
@@ -408,6 +417,12 @@ msgstr "Kurallar & İpuçları"
 
 msgid "Schemes"
 msgstr "Şemalari"
+
+msgid "Select Category"
+msgstr "Kategori seçiniz"
+
+msgid "Select Dates"
+msgstr "Tarihler'i seçin"
 
 msgid "Send reports on email: "
 msgstr "E-postayla ilgili rapor gönder:"
@@ -532,6 +547,9 @@ msgstr ""
 "alınması ve çalışma veya öğrenme sürecimizi sürekli olarak geliştirmemize"
 " imkan sağlamasıdır."
 
+msgid "The integration is outdated. Please reconnect."
+msgstr "Bütünleşme modası geçmiş. Lütfen tekrar bağlanın."
+
 msgid "The list is empty"
 msgstr "Liste boş"
 
@@ -588,6 +606,9 @@ msgstr "Görevi aktivite olarak işaretleyin veya yukarıdaki formu kullanın"
 
 msgid "Tune the timer"
 msgstr "Zamanlayıcıyı ayarla"
+
+msgid "Unselect Category"
+msgstr "Kategoriyi kaldır"
 
 msgid "View"
 msgstr ""
@@ -693,6 +714,9 @@ msgstr "Çift"
 msgid "duration"
 msgstr "Süre"
 
+msgid "finish time"
+msgstr "bitirme zamanı"
+
 msgid "focus"
 msgstr ""
 
@@ -731,6 +755,9 @@ msgstr "dakika"
 msgid "in pomodoros"
 msgstr "pomodoro"
 
+msgid "interruptions"
+msgstr "kesintiler"
+
 msgid "light"
 msgstr "işık"
 
@@ -741,6 +768,9 @@ msgstr[1] ""
 
 msgid "median"
 msgstr "medyan"
+
+msgid "merge"
+msgstr "birleşmek"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -811,6 +841,9 @@ msgstr "devam et"
 msgid "save"
 msgstr ""
 
+msgid "series"
+msgstr "dizi"
+
 msgid "skip"
 msgstr "geç"
 
@@ -842,9 +875,6 @@ msgstr "bugün"
 
 msgid "user"
 msgstr "kullanıcı"
-
-msgid "version"
-msgstr "sürüm"
 
 msgid "week"
 msgstr ""
@@ -911,6 +941,9 @@ msgstr[1] "yil"
 #~ msgid "October"
 #~ msgstr "Ekim"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "Gizlilik Politikası"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "Günlük Raporları Gönder"
 
@@ -925,4 +958,7 @@ msgstr[1] "yil"
 
 #~ msgid "record"
 #~ msgstr "rekor"
+
+#~ msgid "version"
+#~ msgstr "sürüm"
 

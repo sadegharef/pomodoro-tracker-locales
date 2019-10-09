@@ -1,16 +1,16 @@
 # Ukrainian translations for pomodoro.
 # Copyright (C) 2019 ORGANIZATION
 # This file is distributed under the same license as the pomodoro project.
-# Serganth <serganth@ukr.net>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-08-19 10:05+0300\n"
-"PO-Revision-Date: 2019-09-23 13:01+0200\n"
-"Last-Translator: Serganth <serganth@ukr.net>\n"
+"POT-Creation-Date: 2019-10-01 16:37+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
 "Language-Team: uk <LL@li.org>\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
@@ -81,6 +81,9 @@ msgstr "Автостарт перерв"
 
 msgid "Auto start pomodoros"
 msgstr "Автостарт Помідорів"
+
+msgid "Block screen on breaks"
+msgstr "Блокувати екран під час перерв"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "Сприяти визначеності для досягнення ваших цілей"
@@ -172,6 +175,9 @@ msgstr "Увімкнути сповіщення в браузері"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Поліпшити зосередженість та концентрацію, звільняючи від відволікань"
 
+msgid "Enjoy your break"
+msgstr "Добре відпочити!"
+
 msgid "Export the records as CSV"
 msgstr "Експортувати записи у файл CSV"
 
@@ -220,8 +226,8 @@ msgstr "Інтеграція з %1$s"
 msgid "Integrations"
 msgstr "Інтеграції"
 
-msgid "Join our Slack Community"
-msgstr "Долучитися до нашої спільноти Slack"
+msgid "Interruption tracked"
+msgstr "Перешкоду записано"
 
 msgid "Join the global rating"
 msgstr "Брати участь в глобальному рейтингу"
@@ -259,6 +265,9 @@ msgstr "Завантажувати щоденні завдання з кален
 
 msgid "Loading"
 msgstr "Завантажується"
+
+msgid "Lock is enabled"
+msgstr "Блокування включено"
 
 msgid "Login to the service and track your progress"
 msgstr "Увійдіть в сервіс та відслідковуйте ваш прогрес"
@@ -359,14 +368,15 @@ msgstr "Налаштування"
 msgid "Press"
 msgstr "Натисніть"
 
-msgid "Privacy Policy"
-msgstr "Політика конфеденційності"
+msgid "Profile"
+msgstr "Профіль"
 
 msgid "Provide Feedback"
 msgstr "Відправити відгук"
 
 msgid "Quit"
 msgstr "Вихід"
+
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Викликати спливне вікно з попередженням, коли Помідор/перерву закінчено"
@@ -406,6 +416,12 @@ msgstr "Правила й поради"
 
 msgid "Schemes"
 msgstr "Схеми"
+
+msgid "Select Category"
+msgstr "Вибрати категорію"
+
+msgid "Select Dates"
+msgstr "Вибрати дати"
 
 msgid "Send reports on email: "
 msgstr "Відправляти звіти на мейл:"
@@ -529,6 +545,9 @@ msgstr ""
 "в досягненні того, чого ми хочемо, тим шляхом, яким ми хочемо, й дати нам можливість "
 "постійно вдосконалювати те, як ми працюємо чи навчаємося."
 
+msgid "The integration is outdated. Please reconnect."
+msgstr "Термін інтеграції сплив. Будь ласка, підключіться заново."
+
 msgid "The list is empty"
 msgstr "Список пустий"
 
@@ -585,6 +604,9 @@ msgstr "Спробуйте додати завдання у Вибране аб�
 
 msgid "Tune the timer"
 msgstr "Налаштування таймера"
+
+msgid "Unselect Category"
+msgstr "Скасувати вибір категорії"
 
 msgid "View"
 msgstr "Вигляд"
@@ -691,6 +713,9 @@ msgstr "скопіювати"
 msgid "duration"
 msgstr "тривалість"
 
+msgid "finish time"
+msgstr "час закінчення"
+
 msgid "focus"
 msgstr "фокус"
 
@@ -730,6 +755,9 @@ msgstr "в хвилинах"
 msgid "in pomodoros"
 msgstr "в Помідорах"
 
+msgid "interruptions"
+msgstr "перешкоди"
+
 msgid "light"
 msgstr "світла"
 
@@ -741,6 +769,9 @@ msgstr[2] "плюсів"
 
 msgid "median"
 msgstr "медіана"
+
+msgid "merge"
+msgstr "об'єднати"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -814,6 +845,9 @@ msgstr "відновити"
 msgid "save"
 msgstr "зберегти"
 
+msgid "series"
+msgstr "серія"
+
 msgid "skip"
 msgstr "пропустити"
 
@@ -846,9 +880,6 @@ msgstr "сьогодні"
 
 msgid "user"
 msgstr "користувач"
-
-msgid "version"
-msgstr "версія"
 
 msgid "week"
 msgstr "тиждень"

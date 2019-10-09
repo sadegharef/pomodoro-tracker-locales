@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-10-01 16:36+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -81,6 +81,9 @@ msgstr "Автостарт для перерыва"
 
 msgid "Auto start pomodoros"
 msgstr "Автостарт для помидора"
+
+msgid "Block screen on breaks"
+msgstr "Блокировать экран на перерывах"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "Определенности с пониманием достижения ваших целей"
@@ -172,6 +175,9 @@ msgstr "Включить оповещения в браузере"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Улучшения концентрации, избавления от отвлекающих факторов"
 
+msgid "Enjoy your break"
+msgstr "Хорошего отдыха"
+
 msgid "Export the records as CSV"
 msgstr "Экспорт записей в CSV"
 
@@ -221,8 +227,8 @@ msgstr "Интеграция с %1$s"
 msgid "Integrations"
 msgstr "Интеграции"
 
-msgid "Join our Slack Community"
-msgstr ""
+msgid "Interruption tracked"
+msgstr "Помеха записана"
 
 msgid "Join the global rating"
 msgstr "Участвовать в глобальном рейтинге"
@@ -260,6 +266,9 @@ msgstr "Загружать ежедневные задачи из календа
 
 msgid "Loading"
 msgstr "Загрузка"
+
+msgid "Lock is enabled"
+msgstr "Блокировка включена"
 
 msgid "Login to the service and track your progress"
 msgstr "Войдите на сервис и отслеживайте ваш прогресс"
@@ -362,8 +371,8 @@ msgstr "Настройки"
 msgid "Press"
 msgstr "Нажмите"
 
-msgid "Privacy Policy"
-msgstr "Политика конфиденциальности"
+msgid "Profile"
+msgstr ""
 
 msgid "Provide Feedback"
 msgstr "Отправить отзыв"
@@ -409,6 +418,12 @@ msgstr "Правила и советы"
 
 msgid "Schemes"
 msgstr "Схемы"
+
+msgid "Select Category"
+msgstr "Выбрать категорию"
+
+msgid "Select Dates"
+msgstr "Выбрать даты"
 
 msgid "Send reports on email: "
 msgstr "Отправлять отчеты на email: "
@@ -533,6 +548,9 @@ msgstr ""
 "достижении того, что мы хотим сделать и как мы хотим это сделать. Она "
 "даёт нам возможность постоянно улучшать то, как мы работаем или учимся."
 
+msgid "The integration is outdated. Please reconnect."
+msgstr "Интеграция просрочена. Пожалуйста переподключитесь."
+
 msgid "The list is empty"
 msgstr "Список пуст."
 
@@ -589,6 +607,9 @@ msgstr "Попробуйте добавить задачу в избраное �
 
 msgid "Tune the timer"
 msgstr "Настройки"
+
+msgid "Unselect Category"
+msgstr "Отменить выбор категории"
 
 msgid "View"
 msgstr "Вид"
@@ -695,6 +716,9 @@ msgstr "скопировать"
 msgid "duration"
 msgstr "продолжительность"
 
+msgid "finish time"
+msgstr "время окончания"
+
 msgid "focus"
 msgstr "фокус"
 
@@ -734,6 +758,9 @@ msgstr "в минутах"
 msgid "in pomodoros"
 msgstr "в помидорах"
 
+msgid "interruptions"
+msgstr "помехи"
+
 msgid "light"
 msgstr "светлая"
 
@@ -745,6 +772,9 @@ msgstr[2] "плюсов"
 
 msgid "median"
 msgstr "медиана"
+
+msgid "merge"
+msgstr "объединить"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -818,6 +848,9 @@ msgstr "продолжить"
 msgid "save"
 msgstr "сохранить"
 
+msgid "series"
+msgstr "серия"
+
 msgid "skip"
 msgstr "пропустить"
 
@@ -849,9 +882,6 @@ msgstr "сегодня"
 
 msgid "user"
 msgstr "пользователь"
-
-msgid "version"
-msgstr "Версия"
 
 msgid "week"
 msgstr "неделя"
@@ -916,6 +946,9 @@ msgstr[2] "лет"
 #~ msgid "October"
 #~ msgstr "Октябрь"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "Политика конфиденциальности"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "Отправка отчетов"
 
@@ -930,4 +963,7 @@ msgstr[2] "лет"
 
 #~ msgid "record"
 #~ msgstr "запись"
+
+#~ msgid "version"
+#~ msgstr "Версия"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:29+0300\n"
+"POT-Creation-Date: 2019-10-01 16:37+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -81,6 +81,9 @@ msgstr "Αυτόματο ξεκίνημα διάλειμματων"
 msgid "Auto start pomodoros"
 msgstr "Αυτόματο ξεκίνημα των πομοντόρο"
 
+msgid "Block screen on breaks"
+msgstr "Αποκλεισμός οθόνης στα διαλείμματα"
+
 msgid "Bolster the determination to achieve your goals"
 msgstr "Υποστήρηξε την αποφασιστικότητα σου για να καταφέρεις τους στόχους σου"
 
@@ -119,6 +122,9 @@ msgstr "Κωδικός"
 
 msgid "Color Theme"
 msgstr "Χρώμα Θέματος"
+
+msgid "Configure"
+msgstr ""
 
 msgid "Congratulations!"
 msgstr "Συγχαρητήρια!"
@@ -168,8 +174,14 @@ msgstr "Ενεργοποίησε Ειδοποιήσεις Ιστοσελιδας
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Ενίσχυσε την συγκέντρωση κόβοντας της αποσπάσεις"
 
+msgid "Enjoy your break"
+msgstr "Απολαύστε το διάλειμμα σας"
+
 msgid "Export the records as CSV"
 msgstr "Κανε εξαγωγή τα αρχεία σαν CSV"
+
+msgid "Eye Keeper is enabled"
+msgstr ""
 
 msgid "Favorites"
 msgstr "Αγαπημένα"
@@ -214,8 +226,8 @@ msgstr "Ενσωσμάτωση με %1$s"
 msgid "Integrations"
 msgstr "Ενωσμάτωσης"
 
-msgid "Join our Slack Community"
-msgstr "Συνδέσου με την Slack Κοινότητα μας"
+msgid "Interruption tracked"
+msgstr "Η διακοπή παρακολουθείται"
 
 msgid "Join the global rating"
 msgstr "Πάρε μέρος στην παγκόσμια ταξινόμηση"
@@ -254,6 +266,9 @@ msgstr "Φόρτωσε καθημερινές ασχολίες απο το Ημ�
 msgid "Loading"
 msgstr "Φόρτωμα"
 
+msgid "Lock is enabled"
+msgstr "Το κλείδωμα είναι ενεργοποιημένο"
+
 msgid "Login to the service and track your progress"
 msgstr "Συνδέσου στην υπηρεσία και κατέγραψε την πρόοδο σου"
 
@@ -272,11 +287,20 @@ msgstr "Μεγάλο διάλειμμα αναβολή"
 msgid "Long break duration"
 msgstr "Μεγάλο διάλειμμα διάρκεια"
 
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr ""
+
 msgid "Mark as done"
 msgstr "Σημείωσε σαν ολοκληρωμένο"
 
 msgid "Median per day"
 msgstr "διάμεσο ανα ημέρα"
+
+msgid "Navigate Back"
+msgstr ""
+
+msgid "Navigate Forward"
+msgstr ""
 
 msgid "New"
 msgstr "Καινούργιο"
@@ -301,6 +325,9 @@ msgstr "Απέμεινε ενα λέπτο"
 
 msgid "POMODORO"
 msgstr "ΠΟΜΟΝΤΌΡΟ"
+
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr ""
 
 msgid "Pin to activities"
 msgstr "Καρφίτσωμα στης δραστηριότητες"
@@ -340,8 +367,17 @@ msgstr "Το πομοντόρο εχει τελείωση."
 msgid "Preferences"
 msgstr "Προτιμήσεις"
 
-msgid "Privacy Policy"
-msgstr "Πολιτική Απορρήτου"
+msgid "Press"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Provide Feedback"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr ""
@@ -358,6 +394,12 @@ msgstr ""
 
 msgid "Register"
 msgstr "Κάνε εγγραφή"
+
+msgid "Relax"
+msgstr "Χαλαρώστε"
+
+msgid "Release Notes"
+msgstr ""
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Αφαίρεσε μια ασχολία απο το TODO οταν το Πομοντόρο έχει ολοκληρωθεί"
@@ -380,6 +422,12 @@ msgstr "Κανόνες & Συμβουλές"
 msgid "Schemes"
 msgstr "Σχέδια"
 
+msgid "Select Category"
+msgstr "Επιλέξτε κατηγορία"
+
+msgid "Select Dates"
+msgstr "Επιλέξτε Ημερομηνίες"
+
 msgid "Send reports on email: "
 msgstr "Στείλε αναφορές στο email"
 
@@ -401,8 +449,14 @@ msgstr "Διάρκεια μικρών διαλειμμάτων"
 msgid "Short description"
 msgstr "Μικρή περιγραφή"
 
+msgid "Show window"
+msgstr ""
+
 msgid "Sign Up / Login"
 msgstr "Εγγραφή / Συνδεση"
+
+msgid "Sleep Mode is enabled"
+msgstr ""
 
 msgid "Sort by"
 msgstr "Ταξινόμηση με"
@@ -501,6 +555,9 @@ msgstr ""
 "τρόπο που θέλουμε να το κάνουμε, και να μας επιτρέψει να καλυτερέψουμε "
 "συνεχώς των τρόπο που δουλεύουμε η διαβάζουμε."
 
+msgid "The integration is outdated. Please reconnect."
+msgstr "Η ολοκλήρωση είναι ξεπερασμένη. Επανασυνδεθείτε."
+
 msgid "The list is empty"
 msgstr "Η λίστα είιναι άδεια"
 
@@ -537,8 +594,14 @@ msgstr "Χρονόμετρο"
 msgid "Title"
 msgstr "Τίτλος"
 
+msgid "Toggle eye keeper"
+msgstr ""
+
 msgid "Toggle fullscreen"
 msgstr "Ενεργοποίησε πλήρης οθόνη"
+
+msgid "Toggle mini timer"
+msgstr ""
 
 msgid "Try to add some tasks use the form above"
 msgstr "Προσπάθησε να βάλεις μερικές ασχολίες χρησημοποιήσε την φόρμα απο πάνω"
@@ -553,6 +616,12 @@ msgstr ""
 
 msgid "Tune the timer"
 msgstr "Κούρδισε το χρονόμετρο"
+
+msgid "Unselect Category"
+msgstr "Αποεπιλογή κατηγορίας"
+
+msgid "View"
+msgstr "Θέα"
 
 msgid "Volume"
 msgstr "Ένταση"
@@ -655,6 +724,9 @@ msgstr "Διπλότυπο"
 msgid "duration"
 msgstr "Διάρκεια"
 
+msgid "finish time"
+msgstr "τελειώστε το χρόνο"
+
 msgid "focus"
 msgstr "Συγκεντρώση"
 
@@ -671,6 +743,9 @@ msgid "hour"
 msgid_plural "hours"
 msgstr[0] "ώρα"
 msgstr[1] "ώρες"
+
+msgid "if you must exit now"
+msgstr ""
 
 msgid "in 10 seconds"
 msgstr "σε 10 δευτερόλεπτα"
@@ -690,6 +765,9 @@ msgstr "σε λεπτά"
 msgid "in pomodoros"
 msgstr "σε Πομοντόρος"
 
+msgid "interruptions"
+msgstr "διακοπών"
+
 msgid "light"
 msgstr "φωτεινό"
 
@@ -700,6 +778,9 @@ msgstr[1] "likes"
 
 msgid "median"
 msgstr "διάμεσος"
+
+msgid "merge"
+msgstr "συγχώνευση"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -770,6 +851,9 @@ msgstr "ξανάρχισε"
 msgid "save"
 msgstr "αποθήκευση"
 
+msgid "series"
+msgstr "σειρά"
+
 msgid "skip"
 msgstr "παράλειψη"
 
@@ -804,9 +888,6 @@ msgstr "σήμερα"
 msgid "user"
 msgstr "χρήστης"
 
-msgid "version"
-msgstr "έκδοση"
-
 msgid "week"
 msgstr "εβδομάδα"
 
@@ -817,4 +898,10 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "χρόνο"
 msgstr[1] "χρόνια"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "Πολιτική Απορρήτου"
+
+#~ msgid "version"
+#~ msgstr "έκδοση"
 

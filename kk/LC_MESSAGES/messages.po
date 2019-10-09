@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-10-01 16:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -80,6 +80,9 @@ msgstr "Авто-үзіліс"
 
 msgid "Auto start pomodoros"
 msgstr "Автоматты қызанақ"
+
+msgid "Block screen on breaks"
+msgstr "Үзіліс кезінде экранды блоктау"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "Қойылған мақсатты анық қылып ұстау"
@@ -171,6 +174,9 @@ msgstr "Web-хабарлама"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Концентрация арттыру, алаңдауды азайту"
 
+msgid "Enjoy your break"
+msgstr "Үзіліспен рахаттаныңыз"
+
 msgid "Export the records as CSV"
 msgstr "CSV-ға жазбаларды порттау"
 
@@ -220,8 +226,8 @@ msgstr "%1$s-мен қосылу"
 msgid "Integrations"
 msgstr "Қызметтер"
 
-msgid "Join our Slack Community"
-msgstr ""
+msgid "Interruption tracked"
+msgstr "Үзіліс бақыланады"
 
 msgid "Join the global rating"
 msgstr ""
@@ -259,6 +265,9 @@ msgstr "Күнделікті тапсырмаларды Google Calendar арқы
 
 msgid "Loading"
 msgstr "Қазір"
+
+msgid "Lock is enabled"
+msgstr "Құлыптау қосылған"
 
 msgid "Login to the service and track your progress"
 msgstr "Аккаунқа кіріп, прогрессті бақылап отырыңыз"
@@ -359,8 +368,8 @@ msgstr "Баптаулар"
 msgid "Press"
 msgstr ""
 
-msgid "Privacy Policy"
-msgstr "Құпия келісімі"
+msgid "Profile"
+msgstr ""
 
 msgid "Provide Feedback"
 msgstr "Пікір жолдаңыз"
@@ -406,6 +415,12 @@ msgstr "Ереже мен Айлалар"
 
 msgid "Schemes"
 msgstr "Сызбалар"
+
+msgid "Select Category"
+msgstr "Санатты таңдаңыз"
+
+msgid "Select Dates"
+msgstr "Күндерді таңдаңыз"
 
 msgid "Send reports on email: "
 msgstr "Осы e-mail-ға"
@@ -526,6 +541,9 @@ msgstr ""
 " қылып алуға көмектеседі, сәйкесінше оқу не жұмыс істеутәсілдерін дамыту "
 "үшін көп септігі бар"
 
+msgid "The integration is outdated. Please reconnect."
+msgstr "Интеграция ескірген. Қайта қосыңыз."
+
 msgid "The list is empty"
 msgstr "Тізім бос"
 
@@ -582,6 +600,9 @@ msgstr "TODO-ды іС қылып көріңіз я келесі үлгіні т
 
 msgid "Tune the timer"
 msgstr "Баптаулар"
+
+msgid "Unselect Category"
+msgstr "Таңдамау категориясы"
 
 msgid "View"
 msgstr "View"
@@ -687,6 +708,9 @@ msgstr "көшірме"
 msgid "duration"
 msgstr "ұзақтығы"
 
+msgid "finish time"
+msgstr "аяқтау уақыты"
+
 msgid "focus"
 msgstr "фокус"
 
@@ -725,6 +749,9 @@ msgstr "минут"
 msgid "in pomodoros"
 msgstr "қызанақ"
 
+msgid "interruptions"
+msgstr "үзілістер"
+
 msgid "light"
 msgstr "жарық"
 
@@ -735,6 +762,9 @@ msgstr[1] "лайк"
 
 msgid "median"
 msgstr "медианасы"
+
+msgid "merge"
+msgstr "біріктіру"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -805,6 +835,9 @@ msgstr "жалғастыру"
 msgid "save"
 msgstr "сақтау"
 
+msgid "series"
+msgstr "сериясы"
+
 msgid "skip"
 msgstr "өткізу"
 
@@ -836,9 +869,6 @@ msgstr "бүгін"
 
 msgid "user"
 msgstr "пайдаланушы"
-
-msgid "version"
-msgstr "нұсқасы"
 
 msgid "week"
 msgstr "апта"
@@ -905,6 +935,9 @@ msgstr[1] "жыл"
 #~ msgid "October"
 #~ msgstr "Қазан"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "Құпия келісімі"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "Күнделікті есеп жіберу"
 
@@ -919,4 +952,7 @@ msgstr[1] "жыл"
 
 #~ msgid "record"
 #~ msgstr "баспа"
+
+#~ msgid "version"
+#~ msgstr "нұсқасы"
 

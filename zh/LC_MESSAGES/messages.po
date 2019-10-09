@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-10-01 16:37+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -78,6 +78,9 @@ msgstr "自动启动休息"
 
 msgid "Auto start pomodoros"
 msgstr "自动启动番茄钟"
+
+msgid "Block screen on breaks"
+msgstr ""
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "加强实现目标的决心"
@@ -169,6 +172,9 @@ msgstr "启用网页通知"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "通过减少中断来提高注意力和专注力"
 
+msgid "Enjoy your break"
+msgstr ""
+
 msgid "Export the records as CSV"
 msgstr "导出CSV格式记录"
 
@@ -216,8 +222,8 @@ msgstr "关联%1$s"
 msgid "Integrations"
 msgstr "关联"
 
-msgid "Join our Slack Community"
-msgstr ""
+msgid "Interruption tracked"
+msgstr "跟踪中断"
 
 msgid "Join the global rating"
 msgstr ""
@@ -253,6 +259,9 @@ msgstr "从Google日历加载每日任务"
 
 msgid "Loading"
 msgstr "载入中"
+
+msgid "Lock is enabled"
+msgstr ""
 
 msgid "Login to the service and track your progress"
 msgstr "登入服务器并追踪你的进度"
@@ -353,8 +362,8 @@ msgstr "优先级"
 msgid "Press"
 msgstr ""
 
-msgid "Privacy Policy"
-msgstr "隐私权政策"
+msgid "Profile"
+msgstr ""
 
 msgid "Provide Feedback"
 msgstr "提供反馈信息"
@@ -400,6 +409,12 @@ msgstr "规则 & 提示"
 
 msgid "Schemes"
 msgstr "调度"
+
+msgid "Select Category"
+msgstr ""
+
+msgid "Select Dates"
+msgstr ""
 
 msgid "Send reports on email: "
 msgstr "向该邮箱发送报告："
@@ -510,6 +525,9 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr "番茄工作法的目的是把时间作为一个有价值的盟友，以我们想要的方式完成我们想要做的事情，并使我们能够不断地改进我们的工作或学习方式。"
 
+msgid "The integration is outdated. Please reconnect."
+msgstr ""
+
 msgid "The list is empty"
 msgstr "这个列表为空"
 
@@ -566,6 +584,9 @@ msgstr "尝试将代办标记为活动或者使用上面的表格"
 
 msgid "Tune the timer"
 msgstr "校准计时器"
+
+msgid "Unselect Category"
+msgstr ""
 
 msgid "View"
 msgstr ""
@@ -670,6 +691,9 @@ msgstr "重复"
 msgid "duration"
 msgstr "持续时间"
 
+msgid "finish time"
+msgstr "结束时间"
+
 msgid "focus"
 msgstr ""
 
@@ -707,6 +731,9 @@ msgstr "分钟"
 msgid "in pomodoros"
 msgstr "个番茄时间之后"
 
+msgid "interruptions"
+msgstr "中断"
+
 msgid "light"
 msgstr "明亮"
 
@@ -716,6 +743,9 @@ msgstr[0] "赞"
 
 msgid "median"
 msgstr "中位数"
+
+msgid "merge"
+msgstr "合并"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -783,6 +813,9 @@ msgstr "继续"
 msgid "save"
 msgstr ""
 
+msgid "series"
+msgstr "系列"
+
 msgid "skip"
 msgstr "跳过"
 
@@ -814,9 +847,6 @@ msgstr "今天"
 
 msgid "user"
 msgstr ""
-
-msgid "version"
-msgstr "版本"
 
 msgid "week"
 msgstr ""
@@ -882,6 +912,9 @@ msgstr[0] "年"
 #~ msgid "October"
 #~ msgstr "十月"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "隐私权政策"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "发送每日报告"
 
@@ -896,4 +929,7 @@ msgstr[0] "年"
 
 #~ msgid "record"
 #~ msgstr "记录"
+
+#~ msgid "version"
+#~ msgstr "版本"
 

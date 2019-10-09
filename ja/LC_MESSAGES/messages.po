@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-10-01 16:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -78,6 +78,9 @@ msgstr "休憩時間を自動的に開始する"
 
 msgid "Auto start pomodoros"
 msgstr "ポモドーロを自動的に開始する"
+
+msgid "Block screen on breaks"
+msgstr ""
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "目標達成の決心をより強固にします"
@@ -169,6 +172,9 @@ msgstr "Web通知機能を有効にする"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "作業の割り込みを断ち切ることで集中力を向上させます"
 
+msgid "Enjoy your break"
+msgstr ""
+
 msgid "Export the records as CSV"
 msgstr "CSV出力"
 
@@ -216,8 +222,8 @@ msgstr "%1$sアカウントとの連携"
 msgid "Integrations"
 msgstr "連携機能"
 
-msgid "Join our Slack Community"
-msgstr "Slackのコミュニティに参加する"
+msgid "Interruption tracked"
+msgstr "中断の追跡"
 
 msgid "Join the global rating"
 msgstr "レーティングに参加する"
@@ -253,6 +259,9 @@ msgstr "Googleカレンダーから毎日のタスクを読み込む"
 
 msgid "Loading"
 msgstr "読み込み中"
+
+msgid "Lock is enabled"
+msgstr ""
 
 msgid "Login to the service and track your progress"
 msgstr "ログインして進捗を確認しましょう"
@@ -353,8 +362,8 @@ msgstr "設定"
 msgid "Press"
 msgstr ""
 
-msgid "Privacy Policy"
-msgstr "Privacy Policy"
+msgid "Profile"
+msgstr ""
 
 msgid "Provide Feedback"
 msgstr "フィードバックを提供します"
@@ -400,6 +409,12 @@ msgstr "ルールとヒント"
 
 msgid "Schemes"
 msgstr "スキーム"
+
+msgid "Select Category"
+msgstr ""
+
+msgid "Select Dates"
+msgstr ""
 
 msgid "Send reports on email: "
 msgstr "電子メールでレポートを送信する"
@@ -510,6 +525,9 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr "ポモドーロ・テクニックを使うことで、やりたいことをやりたいように達成することができます。そして、仕事や勉強の仕方を絶え間なく改善することが可能になります。"
 
+msgid "The integration is outdated. Please reconnect."
+msgstr ""
+
 msgid "The list is empty"
 msgstr "リストは空です。"
 
@@ -566,6 +584,9 @@ msgstr "TODOをアクティビティとしてマークするか、上記のフ�
 
 msgid "Tune the timer"
 msgstr "タイマーを調整する"
+
+msgid "Unselect Category"
+msgstr ""
 
 msgid "View"
 msgstr ""
@@ -671,6 +692,9 @@ msgstr "複製する"
 msgid "duration"
 msgstr "期間"
 
+msgid "finish time"
+msgstr "終了時間"
+
 msgid "focus"
 msgstr ""
 
@@ -709,6 +733,9 @@ msgstr "分間"
 msgid "in pomodoros"
 msgstr "ポモドーロ"
 
+msgid "interruptions"
+msgstr "中断"
+
 msgid "light"
 msgstr "light"
 
@@ -719,6 +746,9 @@ msgstr[1] "いいね"
 
 msgid "median"
 msgstr "中央値"
+
+msgid "merge"
+msgstr "マージ"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -789,6 +819,9 @@ msgstr "再開"
 msgid "save"
 msgstr ""
 
+msgid "series"
+msgstr "シリーズ"
+
 msgid "skip"
 msgstr "スキップ"
 
@@ -820,9 +853,6 @@ msgstr "今日"
 
 msgid "user"
 msgstr "ユーザー"
-
-msgid "version"
-msgstr "version"
 
 msgid "week"
 msgstr "週"
@@ -889,6 +919,9 @@ msgstr[1] "年"
 #~ msgid "October"
 #~ msgstr "10月"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "Privacy Policy"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "日報を送る"
 
@@ -903,4 +936,7 @@ msgstr[1] "年"
 
 #~ msgid "record"
 #~ msgstr "記録"
+
+#~ msgid "version"
+#~ msgstr "version"
 

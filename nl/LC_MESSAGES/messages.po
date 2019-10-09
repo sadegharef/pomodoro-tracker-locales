@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-10-01 16:36+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -79,6 +79,9 @@ msgstr "Start pauzes automatisch"
 
 msgid "Auto start pomodoros"
 msgstr "Start pomodori automatisch"
+
+msgid "Block screen on breaks"
+msgstr "Scherm blokkeren bij pauzes"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "De vastberadenheid om doelen te bereiken versterken"
@@ -170,6 +173,9 @@ msgstr "Activeer web-notificaties"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Verbeteren van focus en concentratie, door onderbrekingen te verminderen"
 
+msgid "Enjoy your break"
+msgstr "Geniet van je pauze"
+
 msgid "Export the records as CSV"
 msgstr "Exporteer als csv"
 
@@ -217,8 +223,8 @@ msgstr "Integratie met %1$s"
 msgid "Integrations"
 msgstr "Integraties"
 
-msgid "Join our Slack Community"
-msgstr ""
+msgid "Interruption tracked"
+msgstr "Onderbreking gevolgd"
 
 msgid "Join the global rating"
 msgstr ""
@@ -256,6 +262,9 @@ msgstr "Laad dagelijkse taken uit Google Agenda"
 
 msgid "Loading"
 msgstr "Bezig met laden"
+
+msgid "Lock is enabled"
+msgstr "Vergrendeling is ingeschakeld"
 
 msgid "Login to the service and track your progress"
 msgstr "Log in en houdt uw voortgang bij"
@@ -356,8 +365,8 @@ msgstr "Voorkeuren"
 msgid "Press"
 msgstr ""
 
-msgid "Privacy Policy"
-msgstr "Privacy Policy"
+msgid "Profile"
+msgstr ""
 
 msgid "Provide Feedback"
 msgstr "Geef feedback"
@@ -405,6 +414,12 @@ msgstr "Regels & tips"
 
 msgid "Schemes"
 msgstr "Schema's"
+
+msgid "Select Category"
+msgstr "Selecteer categorie"
+
+msgid "Select Dates"
+msgstr "Selecteer Datums"
 
 msgid "Send reports on email: "
 msgstr "Stuur rapportages naar e-mail: "
@@ -531,6 +546,9 @@ msgstr ""
 "manier waarop we dat willen doen, en om ons in staat te stellen continu "
 "te manier waarop we werken of studeren te verbeteren."
 
+msgid "The integration is outdated. Please reconnect."
+msgstr "De integratie is verouderd. Maak opnieuw verbinding."
+
 msgid "The list is empty"
 msgstr "De lijst is leeg"
 
@@ -587,6 +605,9 @@ msgstr "Probeer TODO als activiteit te markeren, of gebruik bovenstaand formulie
 
 msgid "Tune the timer"
 msgstr "Timer instellen"
+
+msgid "Unselect Category"
+msgstr "Deselecteer categorie"
 
 msgid "View"
 msgstr "Tonen"
@@ -692,6 +713,9 @@ msgstr "duplicaat"
 msgid "duration"
 msgstr "looptijd"
 
+msgid "finish time"
+msgstr "eindtijd"
+
 msgid "focus"
 msgstr "focus"
 
@@ -730,6 +754,9 @@ msgstr "in minuten"
 msgid "in pomodoros"
 msgstr "in pomodori"
 
+msgid "interruptions"
+msgstr "onderbrekingen"
+
 msgid "light"
 msgstr "licht"
 
@@ -740,6 +767,9 @@ msgstr[1] "likes"
 
 msgid "median"
 msgstr "mediaan"
+
+msgid "merge"
+msgstr "samenvoegen"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -810,6 +840,9 @@ msgstr "verdergaan"
 msgid "save"
 msgstr "opslaan"
 
+msgid "series"
+msgstr "serie"
+
 msgid "skip"
 msgstr "overslaan"
 
@@ -843,9 +876,6 @@ msgstr "vandaag"
 
 msgid "user"
 msgstr "gebruiker"
-
-msgid "version"
-msgstr "versie"
 
 msgid "week"
 msgstr "week"
@@ -912,6 +942,9 @@ msgstr[1] "jaren"
 #~ msgid "October"
 #~ msgstr "oktober"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "Privacy Policy"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "Stuur dagelijkse rapportages"
 
@@ -926,4 +959,7 @@ msgstr[1] "jaren"
 
 #~ msgid "record"
 #~ msgstr "record"
+
+#~ msgid "version"
+#~ msgstr "versie"
 

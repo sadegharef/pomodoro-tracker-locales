@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-10-01 16:36+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -80,6 +80,9 @@ msgstr "Lancer automatiquement les pauses"
 
 msgid "Auto start pomodoros"
 msgstr "Lancer automatiquement les pomodoros"
+
+msgid "Block screen on breaks"
+msgstr "Bloquer l'écran pendant les pauses"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "Renforcer votre détermination à atteindre vos objectifs"
@@ -171,6 +174,9 @@ msgstr "Activer les notifications Web"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Augmenter l'attention et la concentration en réduisant les interruptions"
 
+msgid "Enjoy your break"
+msgstr "Profitez de votre pause"
+
 msgid "Export the records as CSV"
 msgstr "Exporter les enregistrements en fichier CSV"
 
@@ -218,8 +224,8 @@ msgstr "Intégration avec %1$s"
 msgid "Integrations"
 msgstr "Intégrations"
 
-msgid "Join our Slack Community"
-msgstr ""
+msgid "Interruption tracked"
+msgstr "Interruption suivie"
 
 msgid "Join the global rating"
 msgstr "Rejoignez la note globale"
@@ -258,6 +264,9 @@ msgstr "Charger des tâches quotidiennes à partir de Google Agenda"
 
 msgid "Loading"
 msgstr "Chargement en cours"
+
+msgid "Lock is enabled"
+msgstr "Le verrouillage est activé"
 
 msgid "Login to the service and track your progress"
 msgstr "Pensez à vous connecter pour suivre vos progrès."
@@ -358,8 +367,8 @@ msgstr "Préférences"
 msgid "Press"
 msgstr "Appuyez sur"
 
-msgid "Privacy Policy"
-msgstr "Politique de confidentialité"
+msgid "Profile"
+msgstr ""
 
 msgid "Provide Feedback"
 msgstr "Fournir une réponse"
@@ -405,6 +414,12 @@ msgstr "Règles et conseils"
 
 msgid "Schemes"
 msgstr "Modèles"
+
+msgid "Select Category"
+msgstr "Sélectionnez une catégorie"
+
+msgid "Select Dates"
+msgstr "Sélectionnez les dates"
 
 msgid "Send reports on email: "
 msgstr "Envoyer les rapports à l'adresse e-mail : "
@@ -528,6 +543,9 @@ msgstr ""
 " faire ce que nous voulons comme nous le voulons, tout en continuant "
 "d'améliorer notre façon de travailler ou d'étudier."
 
+msgid "The integration is outdated. Please reconnect."
+msgstr "L'intégration est obsolète. S'il vous plaît reconnecter."
+
 msgid "The list is empty"
 msgstr "La liste est vide"
 
@@ -584,6 +602,9 @@ msgstr "Essayez de marquer TODO comme activité ou remplissez le champ ci-dessus
 
 msgid "Tune the timer"
 msgstr "Régler la minuterie"
+
+msgid "Unselect Category"
+msgstr "Désélectionner la catégorie"
 
 msgid "View"
 msgstr ""
@@ -689,6 +710,9 @@ msgstr "dupliquer"
 msgid "duration"
 msgstr "durée"
 
+msgid "finish time"
+msgstr "temps d'arrivée"
+
 msgid "focus"
 msgstr "focus"
 
@@ -727,6 +751,9 @@ msgstr "en minutes"
 msgid "in pomodoros"
 msgstr "en pomodoros"
 
+msgid "interruptions"
+msgstr "interruptions"
+
 msgid "light"
 msgstr "clair"
 
@@ -737,6 +764,9 @@ msgstr[1] "likes"
 
 msgid "median"
 msgstr "médiane"
+
+msgid "merge"
+msgstr "fusionner"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -811,6 +841,9 @@ msgstr "reprendre"
 msgid "save"
 msgstr ""
 
+msgid "series"
+msgstr "séries"
+
 msgid "skip"
 msgstr "passer"
 
@@ -842,9 +875,6 @@ msgstr "aujourd'hui"
 
 msgid "user"
 msgstr "utilisateur"
-
-msgid "version"
-msgstr "version"
 
 msgid "week"
 msgstr "la semaine"
@@ -908,6 +938,9 @@ msgstr[1] "ans"
 #~ msgid "October"
 #~ msgstr "octobre"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "Politique de confidentialité"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "Envoyer des rapport quotidiens"
 
@@ -922,4 +955,7 @@ msgstr[1] "ans"
 
 #~ msgid "record"
 #~ msgstr "enregistrer"
+
+#~ msgid "version"
+#~ msgstr "version"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-10-01 16:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -80,6 +80,9 @@ msgstr "Inicio automático de descansos"
 
 msgid "Auto start pomodoros"
 msgstr "Inicio automático de pomodoros"
+
+msgid "Block screen on breaks"
+msgstr "Bloquear pantalla en descansos"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "Refuerza tu determinación para alcanzar tus metas"
@@ -171,6 +174,9 @@ msgstr "Activar Notificaciones Web"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Aumenta la concentración y el enfoque disminuyendo las interrupciones"
 
+msgid "Enjoy your break"
+msgstr "Disfruta tu descanso"
+
 msgid "Export the records as CSV"
 msgstr "Exportar registros como CSV"
 
@@ -220,8 +226,8 @@ msgstr "Integración con %1$s"
 msgid "Integrations"
 msgstr "Integraciones"
 
-msgid "Join our Slack Community"
-msgstr ""
+msgid "Interruption tracked"
+msgstr "Interrupción rastreada"
 
 msgid "Join the global rating"
 msgstr "Únete a la calificación global"
@@ -260,6 +266,9 @@ msgstr "Carga las tareas diarias desde Google Calendar"
 
 msgid "Loading"
 msgstr "Cargando"
+
+msgid "Lock is enabled"
+msgstr "El bloqueo está habilitado"
 
 msgid "Login to the service and track your progress"
 msgstr "Inicia sesión en el servicio y haz seguimiento de tu progreso"
@@ -362,8 +371,8 @@ msgstr "Preferencias"
 msgid "Press"
 msgstr "Presione"
 
-msgid "Privacy Policy"
-msgstr "Política de privacidad"
+msgid "Profile"
+msgstr ""
 
 msgid "Provide Feedback"
 msgstr "Suministre realimentación"
@@ -411,6 +420,12 @@ msgstr "Reglas y Consejos"
 
 msgid "Schemes"
 msgstr "Esquemas"
+
+msgid "Select Category"
+msgstr "Seleccionar categoría"
+
+msgid "Select Dates"
+msgstr "Seleccionar fechas"
 
 msgid "Send reports on email: "
 msgstr "Enviar informes por email: "
@@ -537,6 +552,9 @@ msgstr ""
 "hacer, y permitirnos mejorar continuamente la forma en que trabajamos o "
 "estudiamos."
 
+msgid "The integration is outdated. Please reconnect."
+msgstr "La integración está desactualizada. Por favor, vuelva a conectar."
+
 msgid "The list is empty"
 msgstr "La lista está vacía"
 
@@ -593,6 +611,9 @@ msgstr "Intenta marcar TODO como actividad o usa el formulario de arriba"
 
 msgid "Tune the timer"
 msgstr "Ajustar el cronómetro"
+
+msgid "Unselect Category"
+msgstr "Deseleccionar categoría"
 
 msgid "View"
 msgstr ""
@@ -698,6 +719,9 @@ msgstr "duplicar"
 msgid "duration"
 msgstr "duración"
 
+msgid "finish time"
+msgstr "tiempo de finalización"
+
 msgid "focus"
 msgstr "focus"
 
@@ -736,6 +760,9 @@ msgstr "en minutos"
 msgid "in pomodoros"
 msgstr "en pomodoros"
 
+msgid "interruptions"
+msgstr "interrupciones"
+
 msgid "light"
 msgstr "ligero"
 
@@ -746,6 +773,9 @@ msgstr[1] "me gustas"
 
 msgid "median"
 msgstr "mediana"
+
+msgid "merge"
+msgstr "unir"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -816,6 +846,9 @@ msgstr "continuar"
 msgid "save"
 msgstr "salvar"
 
+msgid "series"
+msgstr "serie"
+
 msgid "skip"
 msgstr "omitir"
 
@@ -849,9 +882,6 @@ msgstr "hoy"
 
 msgid "user"
 msgstr "usuario"
-
-msgid "version"
-msgstr "versión"
 
 msgid "week"
 msgstr "semana"
@@ -915,6 +945,9 @@ msgstr[1] "años"
 #~ msgid "October"
 #~ msgstr "Octubre"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "Política de privacidad"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr "Enviar informes diarios"
 
@@ -929,4 +962,7 @@ msgstr[1] "años"
 
 #~ msgid "record"
 #~ msgstr "registrar"
+
+#~ msgid "version"
+#~ msgstr "versión"
 

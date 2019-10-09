@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 16:28+0300\n"
+"POT-Creation-Date: 2019-10-01 16:37+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -80,6 +80,9 @@ msgstr "Tự động bắt đầu thời gian nghỉ"
 
 msgid "Auto start pomodoros"
 msgstr "Tự động bắt đầu các Pomodoros"
+
+msgid "Block screen on breaks"
+msgstr ""
 
 msgid "Bolster the determination to achieve your goals"
 msgstr ""
@@ -171,6 +174,9 @@ msgstr "Bật Thông báo Web"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr ""
 
+msgid "Enjoy your break"
+msgstr ""
+
 msgid "Export the records as CSV"
 msgstr "Xuất các bản ghi dưới dạng CSV "
 
@@ -218,7 +224,7 @@ msgstr "Tích hợp với %1$s"
 msgid "Integrations"
 msgstr ""
 
-msgid "Join our Slack Community"
+msgid "Interruption tracked"
 msgstr ""
 
 msgid "Join the global rating"
@@ -258,6 +264,9 @@ msgstr "Nhập công việc hằng ngày từ Google Calendar"
 
 msgid "Loading"
 msgstr "Đang nhập"
+
+msgid "Lock is enabled"
+msgstr ""
 
 msgid "Login to the service and track your progress"
 msgstr "Đăng nhập vào hệ thống và theoprogress dõi tiến độ của bạn"
@@ -358,8 +367,8 @@ msgstr "Cấu hình"
 msgid "Press"
 msgstr ""
 
-msgid "Privacy Policy"
-msgstr "Chính sách bảo mật"
+msgid "Profile"
+msgstr ""
 
 msgid "Provide Feedback"
 msgstr "Phản hồi"
@@ -404,6 +413,12 @@ msgid "Rules & Tips"
 msgstr ""
 
 msgid "Schemes"
+msgstr ""
+
+msgid "Select Category"
+msgstr ""
+
+msgid "Select Dates"
 msgstr ""
 
 msgid "Send reports on email: "
@@ -515,6 +530,9 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr ""
 
+msgid "The integration is outdated. Please reconnect."
+msgstr ""
+
 msgid "The list is empty"
 msgstr "Danh sách trống"
 
@@ -570,6 +588,9 @@ msgid "Try to mark TODO as activity or use the form above"
 msgstr "Hãy thử đánh dấu TODO như hoạt động hoặc sự dụng mẫu ở trên"
 
 msgid "Tune the timer"
+msgstr ""
+
+msgid "Unselect Category"
 msgstr ""
 
 msgid "View"
@@ -675,6 +696,9 @@ msgstr "bản sao"
 msgid "duration"
 msgstr "thời lượng"
 
+msgid "finish time"
+msgstr ""
+
 msgid "focus"
 msgstr "tập trung"
 
@@ -712,6 +736,9 @@ msgstr "trong 1 phút"
 msgid "in pomodoros"
 msgstr "trong những pomodoro"
 
+msgid "interruptions"
+msgstr ""
+
 msgid "light"
 msgstr "sáng"
 
@@ -721,6 +748,9 @@ msgstr[0] ""
 
 msgid "median"
 msgstr "trung bình"
+
+msgid "merge"
+msgstr "hợp nhất"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -788,6 +818,9 @@ msgstr "tiếp tục"
 msgid "save"
 msgstr "lưu"
 
+msgid "series"
+msgstr "loạt"
+
 msgid "skip"
 msgstr "bỏ qua"
 
@@ -819,9 +852,6 @@ msgstr "hôm nay"
 
 msgid "user"
 msgstr "người dùng"
-
-msgid "version"
-msgstr "phiên bản"
 
 msgid "week"
 msgstr ""
@@ -887,6 +917,9 @@ msgstr[0] ""
 #~ msgid "October"
 #~ msgstr "Tháng 10"
 
+#~ msgid "Privacy Policy"
+#~ msgstr "Chính sách bảo mật"
+
 #~ msgid "Send Daily Reports"
 #~ msgstr ""
 
@@ -899,6 +932,6 @@ msgstr[0] ""
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Hãy thử hoàn thành vài pomodoros ở trên"
 
-#~ msgid "record"
-#~ msgstr ""
+#~ msgid "version"
+#~ msgstr "phiên bản"
 
