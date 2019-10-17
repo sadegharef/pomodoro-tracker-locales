@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-23 09:55+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
-"Last-Translator: Omar Rashad <o.rashad2020@gmail.com>\n"
+"Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
 "Language-Team: ar <LL@li.org>\n"
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
@@ -599,91 +599,91 @@ msgid "Hide Others"
 msgstr "اخف الاخرين"
 
 msgid "Show All"
-msgstr ""
+msgstr "اظهر الجميع"
 
 msgid "Quit"
-msgstr ""
+msgstr "اغلاق"
 
 msgid "Reload"
-msgstr ""
+msgstr "تحميل"
 
 msgid "Toggle Full Screen"
-msgstr ""
+msgstr "تبديل الي وضع الشاشة الكاملة"
 
 msgid "Release Notes"
-msgstr ""
+msgstr "ملاحظات الإصدار"
 
 msgid "Provide Feedback"
-msgstr ""
+msgstr "تقديم مراجعة"
 
 msgid "Stats"
-msgstr ""
+msgstr "احصائيات"
 
 msgid "Logout"
-msgstr ""
+msgstr "تسجيل الخروج"
 
 msgid "Sign Up / Login"
-msgstr ""
+msgstr "التسجيل / تسجيل الدخول"
 
 msgid "as Google user"
-msgstr ""
+msgstr "كمستخدم جوجل"
 
 msgid "as Facebook user"
-msgstr ""
+msgstr "كمستخدم فيس بوك"
 
 msgid "as Github user"
-msgstr ""
+msgstr "كمستخدم جت-هب"
 
 msgid "Please, login to view your stats"
-msgstr ""
+msgstr "من فضلك، سجل الدخول لتتمكن من رؤية احصائياتك"
 
 msgid "Start"
-msgstr ""
+msgstr "ابدا"
 
 msgid "Pause"
-msgstr ""
+msgstr "توقيف مؤقت"
 
 msgid "Skip"
-msgstr ""
+msgstr "الغاء"
 
 msgid "Resume"
-msgstr ""
+msgstr "استمرار"
 
 msgid "Mark done"
-msgstr ""
+msgstr "حدد منتهي"
 
 msgid "Stop"
-msgstr ""
+msgstr "توقف"
 
 msgid "Show window"
-msgstr ""
+msgstr "اظهر النافذة"
 
 msgid "Configure"
-msgstr ""
+msgstr "تهيئة"
 
 msgid "Feedback"
-msgstr ""
+msgstr "مراجعة"
 
 msgid "Login to view your stats"
-msgstr ""
+msgstr "سجل الدخول لتتمكن من رؤية احصائياتك"
 
 msgid "Settings"
-msgstr ""
+msgstr "اعدادات"
 
 msgid "version"
-msgstr ""
+msgstr "نسخة"
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "سياسة الخصوصية"
 
 msgid "Support the Project"
-msgstr ""
+msgstr "ادعم المشروع"
 
 msgid "Loading"
-msgstr ""
+msgstr "جاري التحميل"
 
 msgid "What is it?"
-msgstr ""
+msgstr "ما هذا؟"
 
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
@@ -691,67 +691,80 @@ msgid ""
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
+"تقنية البومودورو هي طريقة فعالة لإدارة الوقت والتى يمكن استخدامها "
+"لاي مهمة. الوقت عدو لكثير من الناس. القلق الناتج من صوت الساعة ، بالأخص عندما يكون مرتبط بمعاد تسليم مهمة، ينتج عنه  "
+"عادات عمل او دراسة غير فعالة والتي تعود بعد ذلك فى صورة التسويف."
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr ""
+"الهدف من تقنية البومودورو هو استخدام الوقت كحليف قيم فى "
+"انجاز ما نريد انجازه بالطريقة التى نريدها لنا، و "
+"لإتاحة الفرصة لنا للتحسن فى طريقة عملنا او دراستنا."
 
 msgid "The Goals"
-msgstr ""
+msgstr "الاهداف"
 
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
+"تقنية البومودورو توف توفر لنا اداة/عملية بسيطة لتحسين "
+"مستوي الانتاجية (لنفسك و لاعضاء فريقك) والذي يمكنهم ان يفعلوا "
+"التالي:"
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr ""
+msgstr "تخفيف القليل المرتبط بالبدايات"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
-msgstr ""
+msgstr "تعزيز التركيز عن طريق قطع الانقطاعات"
 
 msgid "Increase awareness of your decisions"
-msgstr ""
+msgstr "زيادة الوعي عند اتخاذ القرارت"
 
 msgid "Boost motivation and keep it constant"
-msgstr ""
+msgstr "زيادة التحفيز و ابقاءه ثابت"
 
 msgid "Bolster the determination to achieve your goals"
-msgstr ""
+msgstr "تعزيز العزم لتحقيق اهدافك"
 
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
-msgstr ""
+msgstr "اعادة تحقيق معني الانجاز، فى مستوي النوع والكم."
 
 msgid "Improve your work or study process"
-msgstr ""
+msgstr "حسن اداء عملك او مذاكرتك"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
 msgstr ""
+"قوي عزيمتك على الاستمرار لتكون قادر على مواجهة "
+"المواقف المعقدة"
 
 msgid "The Basics"
-msgstr ""
+msgstr "الاساسيات"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
+"مع بداية كل يوم حدد المهام المراد انجازها و "
+"ضعهم فى قائمة المهام التالية."
 
 msgid "Start working:"
-msgstr ""
+msgstr "بدا العمل:"
 
 msgid "Start the Pomodoro timer"
-msgstr ""
+msgstr "ابدا مؤقت البومودورو"
 
 msgid "Work until the Pomodoro rings"
-msgstr ""
+msgstr "اعمل حتي تسمع صوت تنبيه البومودورو"
 
 msgid "Take a short break (3-5 minutes)"
-msgstr ""
+msgstr "خذ استراحة قصيرة (3 - 5 دقائق)"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
