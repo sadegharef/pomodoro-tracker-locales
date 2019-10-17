@@ -350,253 +350,253 @@ msgid "Add more"
 msgstr "أضف المزيد"
 
 msgid "Remove"
-msgstr ""
+msgstr "إزالة"
 
 msgid "Click/tap to edit items."
-msgstr ""
+msgstr "إضغط لتعديل العناصر"
 
 msgid "Click on a number to add more."
-msgstr ""
+msgstr "إضغط على الرقم لإضافة المزيد"
 
 msgid "The list is empty"
-msgstr ""
+msgstr "القائمة فارغة"
 
 msgid "Try to mark TODO as activity or use the form above"
-msgstr ""
+msgstr "جرب تمييز الTODO كنشاط او إستخدم الإستمارة التالية"
 
 msgid "Preferences"
-msgstr ""
+msgstr "تفضيلات"
 
 msgid "DONE"
-msgstr ""
+msgstr "تم"
 
 msgid "no description"
-msgstr ""
+msgstr "لا يوجد وصف"
 
 msgid "Pin to favorites"
-msgstr ""
+msgstr "إضافة للمفضلة"
 
 msgid "Records are empty"
-msgstr ""
+msgstr "التسجيلات فارفة"
 
 msgid "Try to complete some pomodoros above"
-msgstr ""
+msgstr "جرب الإنتهاء من بعض البومودورات التالية"
 
 msgid "Clear the history"
-msgstr ""
+msgstr "امسح السجلات"
 
 msgid "You are not signed."
-msgstr ""
+msgstr "انت غير مسجل"
 
 msgid "Work history won`t be saved."
-msgstr ""
+msgstr "سجل العمل لن يحتفظ به"
 
 msgid "One minute left"
-msgstr ""
+msgstr "دقيقة واحدة متبقية"
 
 msgid "Tune the timer"
-msgstr ""
+msgstr "اضبط المؤقت"
 
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "تبديل لوضع الشاشة الكاملة"
 
 msgid "START"
-msgstr ""
+msgstr "ابدا"
 
 msgid "RESUME"
-msgstr ""
+msgstr "استمر"
 
 msgid "PAUSE"
-msgstr ""
+msgstr "توقيف مؤقت"
 
 msgid "STOP"
-msgstr ""
+msgstr "توقيف"
 
 msgid "SKIP"
-msgstr ""
+msgstr "الغاء"
 
 msgid "Break is over. The next pomodoro will go better!"
-msgstr ""
+msgstr "الاستراحة انتهت. البومودورو التالية ستكون افضل!"
 
 msgid "Pomodoro is finished. Have a short break."
-msgstr ""
+msgstr "البومودورو انتهت. خذ استراحة قصيرة."
 
 msgid "Pomodoro is finished. Have a long break."
-msgstr ""
+msgstr "البومودورو انتهت. خذ استراحة طويلة"
 
 msgid "POMODORO"
-msgstr ""
+msgstr "بومودورو"
 
 msgid "TAKE A SHORT BREAK"
-msgstr ""
+msgstr "خذ استراحة قصيرة"
 
 msgid "TAKE A LONG BREAK"
-msgstr ""
+msgstr "خذ استراحة طويلة"
 
 msgid "DELAY"
-msgstr ""
+msgstr "تاجيل"
 
 msgid "Great work! TODO list is empty."
-msgstr ""
+msgstr "عمل عظيم! قائمة الاعمال المطلوب انجازها فارغة."
 
 msgid "TODO"
-msgstr ""
+msgstr "عمل مطلوب انجازه"
 
 msgid "Add TODO"
-msgstr ""
+msgstr "اضافة عمل مطلوب انجازه"
 
 msgid "Favorites"
-msgstr ""
+msgstr "المفضلة"
 
 msgid "Mark as done"
-msgstr ""
+msgstr "تم الإنتهاء منها"
 
 msgid "Drag/Move to sort"
-msgstr ""
+msgstr "جر/حرك للترتيب"
 
 msgid "TODO list is empty"
-msgstr ""
+msgstr "قائمة الأعمال المطلوب انجازها فارغة"
 
 msgid "Congratulations! You have finished all your tasks."
-msgstr ""
+msgstr "تهانينا! لقد انهيت جميع مهامك."
 
 msgid "Try to add some tasks use the form above"
-msgstr ""
+msgstr "تحاول إضافة بعض المهام استخدم الإستمارة التالية"
 
 msgid "Drag&Drop/Touch to sort items."
-msgstr ""
+msgstr "سحب&جر/لمس لترتيب العناصر"
 
 msgid "Time"
-msgstr ""
+msgstr "الوقت"
 
 msgid "Date"
-msgstr ""
+msgstr "التاريخ"
 
 msgid "Try to complete some pomodoros or choose a different period"
-msgstr ""
+msgstr "حاول انهاء بعض البومودوروز او اختار فترة مختلفة"
 
 msgid "Export the records as CSV"
-msgstr ""
+msgstr "تصدير السجلات كملف من نوع CSV"
 
 msgid "Import records from CSV"
-msgstr ""
+msgstr "استيراد السجلات من نوع CSV"
 
 msgid "Apply"
-msgstr ""
+msgstr "تنفيذ"
 
 msgid "Custom"
-msgstr ""
+msgstr "تعديل"
 
 msgid "January"
-msgstr ""
+msgstr "يناير"
 
 msgid "February"
-msgstr ""
+msgstr "فبراير"
 
 msgid "March"
-msgstr ""
+msgstr "مارس"
 
 msgid "April"
-msgstr ""
+msgstr "ابريل"
 
 msgid "May"
-msgstr ""
+msgstr "مايو"
 
 msgid "June"
-msgstr ""
+msgstr "يونيو"
 
 msgid "July"
-msgstr ""
+msgstr "يوليو"
 
 msgid "August"
-msgstr ""
+msgstr "اغسطس"
 
 msgid "September"
-msgstr ""
+msgstr "سبتمبر"
 
 msgid "October"
-msgstr ""
+msgstr "اكتوبر"
 
 msgid "November"
-msgstr ""
+msgstr "نوفمبر"
 
 msgid "December"
-msgstr ""
+msgstr "ديسمبر"
 
 msgid "Today"
-msgstr ""
+msgstr "اليوم"
 
 msgid "Yesterday"
-msgstr ""
+msgstr "امس"
 
 msgid "This Week"
-msgstr ""
+msgstr "هذا الإسبوع"
 
 msgid "Last Week"
-msgstr ""
+msgstr "الإسبوع الفائت"
 
 msgid "This Month"
-msgstr ""
+msgstr "هذا الشهر"
 
 msgid "Last Month"
-msgstr ""
+msgstr "الشهر الفائت"
 
 msgid "This Quarter"
-msgstr ""
+msgstr "هذا الربع سنوي"
 
 msgid "Last Quarter"
-msgstr ""
+msgstr "الربع السنوي الفائت"
 
 msgid "Last 90 days"
-msgstr ""
+msgstr "اخر 80 يوم"
 
 msgid "Last 180 days"
-msgstr ""
+msgstr "اخر 180 يوم"
 
 msgid "%1$s records were imported"
-msgstr ""
+msgstr "استوردت عدد %1$ من السجلات"
 
 msgid "Import was failed. Check your CSV and try again."
-msgstr ""
+msgstr "فشل فى الإستيراد. تحقق من ملف CSV الخاص بك و حاول مرة اخري."
 
 msgid "time"
-msgstr ""
+msgstr "وقت"
 
 msgid "number"
-msgstr ""
+msgstr "عدد"
 
 msgid "Activity by days"
-msgstr ""
+msgstr "النشاطات على حسب الايام"
 
 msgid "Activity by weeks"
-msgstr ""
+msgstr "النشاطات على حسب الاسابيع"
 
 msgid "Activity by months"
-msgstr ""
+msgstr "النشاطات على حسب الشهور"
 
 msgid "average"
-msgstr ""
+msgstr "متوسط"
 
 msgid "median"
-msgstr ""
+msgstr "العدد الاوسط"
 
 msgid "Pomodoros"
-msgstr ""
+msgstr "بومودورز"
 
 msgid "Time spent"
-msgstr ""
+msgstr "الوقت المنقضي"
 
 msgid "Work days"
-msgstr ""
+msgstr "ايام العمل"
 
 msgid "Median per day"
-msgstr ""
+msgstr "العدد الاوسط لكل يوم"
 
 msgid "Hide Pomodoro-Tracker"
-msgstr ""
+msgstr "اخف Pomodoro-Tracker"
 
 msgid "Hide Others"
-msgstr ""
+msgstr "اخف الاخرين"
 
 msgid "Show All"
 msgstr ""
