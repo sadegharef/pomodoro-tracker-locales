@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-01 16:36+0300\n"
+"POT-Creation-Date: 2019-10-18 13:34+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -23,8 +23,17 @@ msgstr ""
 msgid "%1$s left"
 msgstr "осталось %1$s"
 
+msgid "%1$s paused."
+msgstr "%1$s поставлен на паузу."
+
 msgid "%1$s records were imported"
 msgstr "%1$s записей импортировано"
+
+msgid "%1$s started:"
+msgstr "%1$s запущен:"
+
+msgid "%1$s stopped:"
+msgstr "%1$s остановлен:"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -261,6 +270,9 @@ msgstr "Прошлая неделя"
 msgid "Like"
 msgstr "Плюс один"
 
+msgid "Link copied"
+msgstr "Ссылка скопирована"
+
 msgid "Load daily tasks from Google Calendar"
 msgstr "Загружать ежедневные задачи из календаря Google"
 
@@ -439,6 +451,9 @@ msgstr "Сервер был обновлен."
 
 msgid "Settings"
 msgstr "Настройки"
+
+msgid "Share timer data"
+msgstr "Поделиться данными таймера"
 
 msgid "Short break duration"
 msgstr "Продолжительность короткого перерыва"
@@ -683,6 +698,9 @@ msgstr "категория"
 msgid "close"
 msgstr "закрыть"
 
+msgid "copy"
+msgstr "копировать"
+
 msgid "created"
 msgstr "создан"
 
@@ -797,6 +815,9 @@ msgstr "следующая страница"
 msgid "no description"
 msgstr "без описания"
 
+msgid "no information available"
+msgstr "информация недоступна"
+
 msgid "number"
 msgstr "кол-во"
 
@@ -879,6 +900,9 @@ msgstr "в ваш telegram, напишите `/start` и введите полу
 
 msgid "today"
 msgstr "сегодня"
+
+msgid "unknown"
+msgstr "неизвестно"
 
 msgid "user"
 msgstr "пользователь"

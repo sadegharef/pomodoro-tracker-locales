@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-01 16:36+0300\n"
+"POT-Creation-Date: 2019-10-18 13:34+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -22,8 +22,17 @@ msgstr ""
 msgid "%1$s left"
 msgstr "%1$s қалды"
 
+msgid "%1$s paused."
+msgstr "%1$s кідіртілді."
+
 msgid "%1$s records were imported"
 msgstr "%1$s жазба кіргізілді"
+
+msgid "%1$s started:"
+msgstr "%1$s басталды:"
+
+msgid "%1$s stopped:"
+msgstr "%1$s тоқтады:"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -260,6 +269,9 @@ msgstr "Өткен апта"
 msgid "Like"
 msgstr "Like"
 
+msgid "Link copied"
+msgstr "Сілтеме көшірілді"
+
 msgid "Load daily tasks from Google Calendar"
 msgstr "Күнделікті тапсырмаларды Google Calendar арқылы жүктеңіз"
 
@@ -436,6 +448,9 @@ msgstr "Сервер жаңарды"
 
 msgid "Settings"
 msgstr "Баптаулар"
+
+msgid "Share timer data"
+msgstr "Таймер деректерін бөлісу"
 
 msgid "Short break duration"
 msgstr "Қысқа үзіліс ұзақтығы"
@@ -676,6 +691,9 @@ msgstr "категория"
 msgid "close"
 msgstr "жап"
 
+msgid "copy"
+msgstr "көшіру"
+
 msgid "created"
 msgstr "жасалғаны"
 
@@ -785,6 +803,9 @@ msgstr "келесі бет"
 msgid "no description"
 msgstr "сипаттамасыз"
 
+msgid "no information available"
+msgstr "ақпарат жоқ"
+
 msgid "number"
 msgstr "сан"
 
@@ -866,6 +887,9 @@ msgstr "телеграмдағы ботта `/start` арқылы кодты е�
 
 msgid "today"
 msgstr "бүгін"
+
+msgid "unknown"
+msgstr "белгісіз"
 
 msgid "user"
 msgstr "пайдаланушы"

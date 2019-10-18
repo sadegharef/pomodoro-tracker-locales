@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-01 16:36+0300\n"
+"POT-Creation-Date: 2019-10-18 13:34+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -22,8 +22,17 @@ msgstr ""
 msgid "%1$s left"
 msgstr "%s$s"
 
+msgid "%1$s paused."
+msgstr ""
+
 msgid "%1$s records were imported"
 msgstr "%1$s レコードがインポートされました。"
+
+msgid "%1$s started:"
+msgstr ""
+
+msgid "%1$s stopped:"
+msgstr ""
 
 #, fuzzy, python-format
 msgid "%s here's your Daily report for %s"
@@ -254,6 +263,9 @@ msgstr "先週"
 msgid "Like"
 msgstr "いいね"
 
+msgid "Link copied"
+msgstr ""
+
 msgid "Load daily tasks from Google Calendar"
 msgstr "Googleカレンダーから毎日のタスクを読み込む"
 
@@ -430,6 +442,9 @@ msgstr "サーバーが更新されました。"
 
 msgid "Settings"
 msgstr "設定"
+
+msgid "Share timer data"
+msgstr ""
 
 msgid "Short break duration"
 msgstr "短い休憩時間"
@@ -660,6 +675,9 @@ msgstr "カテゴリー"
 msgid "close"
 msgstr "閉じる"
 
+msgid "copy"
+msgstr ""
+
 msgid "created"
 msgstr "新しい順"
 
@@ -769,6 +787,9 @@ msgstr "次のページ"
 msgid "no description"
 msgstr "説明無し"
 
+msgid "no information available"
+msgstr ""
+
 msgid "number"
 msgstr "単位"
 
@@ -850,6 +871,9 @@ msgstr "あなたの電報に `/ start`と打ち込んでボットのコード�
 
 msgid "today"
 msgstr "今日"
+
+msgid "unknown"
+msgstr ""
 
 msgid "user"
 msgstr "ユーザー"

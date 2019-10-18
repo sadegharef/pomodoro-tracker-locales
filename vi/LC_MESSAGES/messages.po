@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-01 16:37+0300\n"
+"POT-Creation-Date: 2019-10-18 13:35+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -22,7 +22,16 @@ msgstr ""
 msgid "%1$s left"
 msgstr ""
 
+msgid "%1$s paused."
+msgstr ""
+
 msgid "%1$s records were imported"
+msgstr ""
+
+msgid "%1$s started:"
+msgstr ""
+
+msgid "%1$s stopped:"
 msgstr ""
 
 #, python-format
@@ -259,6 +268,9 @@ msgstr "Tuần trước"
 msgid "Like"
 msgstr "Thích"
 
+msgid "Link copied"
+msgstr ""
+
 msgid "Load daily tasks from Google Calendar"
 msgstr "Nhập công việc hằng ngày từ Google Calendar"
 
@@ -435,6 +447,9 @@ msgstr "Hệ thống đã được cập nhật."
 
 msgid "Settings"
 msgstr "Cài đặt"
+
+msgid "Share timer data"
+msgstr ""
 
 msgid "Short break duration"
 msgstr ""
@@ -665,6 +680,9 @@ msgstr "danh mục"
 msgid "close"
 msgstr "đóng"
 
+msgid "copy"
+msgstr ""
+
 msgid "created"
 msgstr "đã tạo"
 
@@ -769,6 +787,9 @@ msgstr "trang tiếp theo"
 msgid "no description"
 msgstr "không có mô tả"
 
+msgid "no information available"
+msgstr ""
+
 msgid "number"
 msgstr ""
 
@@ -849,6 +870,9 @@ msgstr ""
 
 msgid "today"
 msgstr "hôm nay"
+
+msgid "unknown"
+msgstr ""
 
 msgid "user"
 msgstr "người dùng"

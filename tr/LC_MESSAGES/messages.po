@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-01 16:37+0300\n"
+"POT-Creation-Date: 2019-10-18 13:35+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -22,8 +22,17 @@ msgstr ""
 msgid "%1$s left"
 msgstr "%1$s sol"
 
+msgid "%1$s paused."
+msgstr "%1$s duraklatıldı."
+
 msgid "%1$s records were imported"
 msgstr "%1$s kayıt alındı"
+
+msgid "%1$s started:"
+msgstr "%1$s başladı:"
+
+msgid "%1$s stopped:"
+msgstr "%1$s durduruldu:"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -262,6 +271,9 @@ msgstr "Geçen hafta"
 msgid "Like"
 msgstr "Beğen"
 
+msgid "Link copied"
+msgstr "Bağlantı kopyalandı"
+
 msgid "Load daily tasks from Google Calendar"
 msgstr ""
 
@@ -438,6 +450,9 @@ msgstr "Sunucu güncellendi."
 
 msgid "Settings"
 msgstr "Ayarlar"
+
+msgid "Share timer data"
+msgstr "Zamanlayıcı verilerini paylaş"
 
 msgid "Short break duration"
 msgstr "Kısa mola süresi"
@@ -682,6 +697,9 @@ msgstr "kategori"
 msgid "close"
 msgstr "kapat"
 
+msgid "copy"
+msgstr "kopya"
+
 msgid "created"
 msgstr "oluşturulan"
 
@@ -791,6 +809,9 @@ msgstr ""
 msgid "no description"
 msgstr "açıklama yok"
 
+msgid "no information available"
+msgstr "bilgi bulunmamaktadır"
+
 msgid "number"
 msgstr "saymak"
 
@@ -872,6 +893,9 @@ msgstr ""
 
 msgid "today"
 msgstr "bugün"
+
+msgid "unknown"
+msgstr "bilinmeyen"
 
 msgid "user"
 msgstr "kullanıcı"

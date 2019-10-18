@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-10-01 16:36+0300\n"
+"POT-Creation-Date: 2019-10-18 13:34+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -21,8 +21,17 @@ msgstr ""
 msgid "%1$s left"
 msgstr "%1$s over"
 
+msgid "%1$s paused."
+msgstr "%1$s gepauzeerd."
+
 msgid "%1$s records were imported"
 msgstr "%1$s recods werden geïmporteerd"
+
+msgid "%1$s started:"
+msgstr "%1$s begonnen:"
+
+msgid "%1$s stopped:"
+msgstr "%1$s gestopt:"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -257,6 +266,9 @@ msgstr "Vorige week"
 msgid "Like"
 msgstr "Like"
 
+msgid "Link copied"
+msgstr "Link gekopieerd"
+
 msgid "Load daily tasks from Google Calendar"
 msgstr "Laad dagelijkse taken uit Google Agenda"
 
@@ -435,6 +447,9 @@ msgstr "Server is geüpdatet."
 
 msgid "Settings"
 msgstr "Instellingen"
+
+msgid "Share timer data"
+msgstr "Deel timergegevens"
 
 msgid "Short break duration"
 msgstr "Korte-pauzeduur"
@@ -681,6 +696,9 @@ msgstr "categorie"
 msgid "close"
 msgstr "sluiten"
 
+msgid "copy"
+msgstr "kopiëren"
+
 msgid "created"
 msgstr "datum"
 
@@ -790,6 +808,9 @@ msgstr "volgende pagina"
 msgid "no description"
 msgstr "geen omschrijving"
 
+msgid "no information available"
+msgstr "geen informatie beschikbaar"
+
 msgid "number"
 msgstr "aantal"
 
@@ -873,6 +894,9 @@ msgstr ""
 
 msgid "today"
 msgstr "vandaag"
+
+msgid "unknown"
+msgstr "onbekend"
 
 msgid "user"
 msgstr "gebruiker"

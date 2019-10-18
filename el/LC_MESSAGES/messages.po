@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-01 16:37+0300\n"
+"POT-Creation-Date: 2019-10-18 13:35+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -22,8 +22,17 @@ msgstr ""
 msgid "%1$s left"
 msgstr "%1$s Απομείνη"
 
+msgid "%1$s paused."
+msgstr "%1$s παύσης."
+
 msgid "%1$s records were imported"
 msgstr "%1$s τα αρχεία έχουν εισαχθεί"
+
+msgid "%1$s started:"
+msgstr "%1$s ξεκίνησε:"
+
+msgid "%1$s stopped:"
+msgstr "%1$s σταμάτησε:"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -260,6 +269,9 @@ msgstr "Τελευταία Εβδομάδα"
 msgid "Like"
 msgstr "Μου Αρέσει"
 
+msgid "Link copied"
+msgstr "Η σύνδεση αντιγράφηκε"
+
 msgid "Load daily tasks from Google Calendar"
 msgstr "Φόρτωσε καθημερινές ασχολίες απο το Ημερολόγιο Google"
 
@@ -442,6 +454,9 @@ msgstr "Έχει γίνει ενημέρωση της υπηρεσίας"
 
 msgid "Settings"
 msgstr "Ρυθμίσεις"
+
+msgid "Share timer data"
+msgstr "Κοινή χρήση δεδομένων χρονοδιακόπτη"
 
 msgid "Short break duration"
 msgstr "Διάρκεια μικρών διαλειμμάτων"
@@ -692,6 +707,9 @@ msgstr "Κατηγορία"
 msgid "close"
 msgstr "Κλείσε"
 
+msgid "copy"
+msgstr "αντίγραφο"
+
 msgid "created"
 msgstr "δημιουργημένα"
 
@@ -801,6 +819,9 @@ msgstr "Επομένη σελίδα"
 msgid "no description"
 msgstr "χωρίς περιγραφή"
 
+msgid "no information available"
+msgstr "δεν υπάρχουν διαθέσιμες πληροφορίες"
+
 msgid "number"
 msgstr "αριθμός"
 
@@ -884,6 +905,9 @@ msgstr ""
 
 msgid "today"
 msgstr "σήμερα"
+
+msgid "unknown"
+msgstr "άγνωστος"
 
 msgid "user"
 msgstr "χρήστης"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-01 16:36+0300\n"
+"POT-Creation-Date: 2019-10-18 13:34+0300\n"
 "PO-Revision-Date: 2017-02-06 20:20-0200\n"
 "Last-Translator: LUCAS ERNESTO KINDINGER <kindingerlek@hotmail.com>\n"
 "Language: pt_BR\n"
@@ -22,8 +22,17 @@ msgstr ""
 msgid "%1$s left"
 msgstr "faltam %1$s"
 
+msgid "%1$s paused."
+msgstr "%1$s pausado."
+
 msgid "%1$s records were imported"
 msgstr "Foram importados %1$s registros"
+
+msgid "%1$s started:"
+msgstr "%1$s começado:"
+
+msgid "%1$s stopped:"
+msgstr "%1$s parado:"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -260,6 +269,9 @@ msgstr "Semana passada"
 msgid "Like"
 msgstr "Curtir"
 
+msgid "Link copied"
+msgstr "Link copiado"
+
 msgid "Load daily tasks from Google Calendar"
 msgstr "Carregar tarefas diárias do calendário do Google"
 
@@ -438,6 +450,9 @@ msgstr "Servidor foi atualizado"
 
 msgid "Settings"
 msgstr "Configurações"
+
+msgid "Share timer data"
+msgstr "Compartilhar dados do timer"
 
 msgid "Short break duration"
 msgstr "Duração da pausa curta"
@@ -684,6 +699,9 @@ msgstr "categoria"
 msgid "close"
 msgstr "fechar"
 
+msgid "copy"
+msgstr "cópia de"
+
 msgid "created"
 msgstr "criada"
 
@@ -793,6 +811,9 @@ msgstr "próxima página"
 msgid "no description"
 msgstr "sem descrição"
 
+msgid "no information available"
+msgstr "nenhuma informação disponível"
+
 msgid "number"
 msgstr "número"
 
@@ -876,6 +897,9 @@ msgstr ""
 
 msgid "today"
 msgstr "hoje"
+
+msgid "unknown"
+msgstr "desconhecido"
 
 msgid "user"
 msgstr "usuário"

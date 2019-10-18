@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-01 16:37+0300\n"
+"POT-Creation-Date: 2019-10-18 13:35+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -22,8 +22,17 @@ msgstr ""
 msgid "%1$s left"
 msgstr "2离开"
 
+msgid "%1$s paused."
+msgstr ""
+
 msgid "%1$s records were imported"
 msgstr "%1$s个记录已导入"
+
+msgid "%1$s started:"
+msgstr ""
+
+msgid "%1$s stopped:"
+msgstr ""
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -254,6 +263,9 @@ msgstr "上周"
 msgid "Like"
 msgstr "点赞"
 
+msgid "Link copied"
+msgstr ""
+
 msgid "Load daily tasks from Google Calendar"
 msgstr "从Google日历加载每日任务"
 
@@ -430,6 +442,9 @@ msgstr "服务器已更新。"
 
 msgid "Settings"
 msgstr "设置"
+
+msgid "Share timer data"
+msgstr ""
 
 msgid "Short break duration"
 msgstr "短休息时长"
@@ -660,6 +675,9 @@ msgstr "类别"
 msgid "close"
 msgstr "关闭"
 
+msgid "copy"
+msgstr ""
+
 msgid "created"
 msgstr "创建人"
 
@@ -764,6 +782,9 @@ msgstr "下一页"
 msgid "no description"
 msgstr "没有描述"
 
+msgid "no information available"
+msgstr ""
+
 msgid "number"
 msgstr "数量"
 
@@ -844,6 +865,9 @@ msgstr "到你的telegram，输入‘/start’指令并输入bot字段的编码"
 
 msgid "today"
 msgstr "今天"
+
+msgid "unknown"
+msgstr ""
 
 msgid "user"
 msgstr ""
