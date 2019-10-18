@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-18 14:15+0300\n"
+"POT-Creation-Date: 2019-10-18 14:24+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -21,19 +21,19 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 msgid "%1$s left"
-msgstr ""
+msgstr "%1$s اليسار"
 
 msgid "%1$s paused."
-msgstr ""
+msgstr "%1$s متوقف."
 
 msgid "%1$s records were imported"
 msgstr "استوردت عدد %1$ من السجلات"
 
 msgid "%1$s started:"
-msgstr ""
+msgstr "%1$s بدأت:"
 
 msgid "%1$s stopped:"
-msgstr ""
+msgstr "%1$s توقفت:"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -80,10 +80,8 @@ msgid ""
 "put them on the TODO list above."
 msgstr "مع بداية كل يوم حدد المهام المراد انجازها و ضعهم فى قائمة المهام التالية."
 
-#, fuzzy
-#| msgid "time"
 msgid "At time"
-msgstr "وقت"
+msgstr "في الوقت"
 
 msgid "Auto start breaks"
 msgstr "شغل الإستراحة تلقائيا"
@@ -112,10 +110,8 @@ msgstr ""
 msgid "Clear DONE history once per day"
 msgstr "امسح السجل المنتهي مرة يوميا"
 
-#, fuzzy
-#| msgid "Clear the history"
 msgid "Clear the list"
-msgstr "امسح السجلات"
+msgstr "مسح القائمة"
 
 msgid "Click on a number to add more."
 msgstr "إضغط على الرقم لإضافة المزيد"
@@ -138,10 +134,8 @@ msgstr ""
 msgid "Configure"
 msgstr "تهيئة"
 
-#, fuzzy
-#| msgid "Integrations"
 msgid "Congratulations!"
-msgstr "إدماجات"
+msgstr "تهانينا!"
 
 msgid "Connect"
 msgstr "توصيل"
@@ -158,10 +152,8 @@ msgstr ""
 msgid "Daily Goal Completed."
 msgstr ""
 
-#, fuzzy
-#| msgid "Mark as daily task"
 msgid "Daily Task"
-msgstr "علم كمهمة يومية"
+msgstr "مهام يومية"
 
 msgid "Date format"
 msgstr "شكل التاريخ"
@@ -234,10 +226,8 @@ msgstr "حسن اداء عملك او مذاكرتك"
 msgid "Increase awareness of your decisions"
 msgstr "زيادة الوعي عند اتخاذ القرارت"
 
-#, fuzzy
-#| msgid "Integration with Google"
 msgid "Integration with %1$s"
-msgstr "دمج مع جوجل"
+msgstr "التكامل مع %1$s"
 
 msgid "Integrations"
 msgstr "إدماجات"
@@ -291,28 +281,20 @@ msgstr ""
 msgid "Login to the service and track your progress"
 msgstr "قم بتسجيل الدخول وتابع تقدمك"
 
-#, fuzzy
-#| msgid "Login to the service using Google authentication."
 msgid "Login to the service using %1$s authentication."
-msgstr "تسجيل الدخول بإستخدام مصادقة جوجل"
+msgstr "تسجيل الدخول إلى الخدمة باستخدام مصادقة%1$s"
 
 msgid "Logout"
 msgstr "تسجيل الخروج"
 
-#, fuzzy
-#| msgid "Long break delay:"
 msgid "Long break"
-msgstr "مدة تأخير الإستراحة الكبيرة:"
+msgstr "استراحة طويلة"
 
-#, fuzzy
-#| msgid "Long break delay:"
 msgid "Long break delay"
-msgstr "مدة تأخير الإستراحة الكبيرة:"
+msgstr "مدة تأخير الإستراحة الكبيرة"
 
-#, fuzzy
-#| msgid "Long break duration:"
 msgid "Long break duration"
-msgstr "مدة الإستراحة الكبيرة:"
+msgstr "مدة الإستراحة الكبيرة"
 
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr ""
@@ -332,10 +314,8 @@ msgstr ""
 msgid "New"
 msgstr "جديد"
 
-#, fuzzy
-#| msgid "Notifications"
 msgid "Notification Test"
-msgstr "إشعارات"
+msgstr "اختبار الإخطار"
 
 msgid "Notifications"
 msgstr "إشعارات"
@@ -358,8 +338,6 @@ msgstr "بومودورو"
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
-#, fuzzy
-#| msgid "Pin to favorites"
 msgid "Pin to activities"
 msgstr "إضافة للمفضلة"
 
@@ -387,15 +365,11 @@ msgstr "من فضلك، سجل الدخول لتتمكن من رؤية احصا�
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
 msgstr ""
 
-#, fuzzy
-#| msgid "Pomodoro duration:"
 msgid "Pomodoro duration"
-msgstr "مدة البمودورو:"
+msgstr "مدة البمودورو"
 
-#, fuzzy
-#| msgid "Pomodoro is finished. Have a long break."
 msgid "Pomodoro is finished."
-msgstr "البومودورو انتهت. خذ استراحة طويلة"
+msgstr "البومودورو انتهت"
 
 msgid "Preferences"
 msgstr "تفضيلات"
@@ -403,10 +377,8 @@ msgstr "تفضيلات"
 msgid "Press"
 msgstr ""
 
-#, fuzzy
-#| msgid "April"
 msgid "Profile"
-msgstr "ابريل"
+msgstr "الملف الشخصي"
 
 msgid "Provide Feedback"
 msgstr "تقديم مراجعة"
@@ -435,23 +407,17 @@ msgstr "ملاحظات الإصدار"
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr ""
 
-#, fuzzy
-#| msgid "Time zone"
 msgid "Remove one"
-msgstr "المنظقة الزمنية"
+msgstr "إزالة واحدة"
 
-#, fuzzy
-#| msgid "Create"
 msgid "Repeat"
-msgstr "أنشيء"
+msgstr "كرر"
 
 msgid "Reports Time"
 msgstr ""
 
-#, fuzzy
-#| msgid "Send test notification"
 msgid "Reports and notifications"
-msgstr "أرسل إشعارات الإختبار"
+msgstr "التقارير والإشعارات"
 
 msgid "Rules & Tips"
 msgstr "قوانين & نصائح"
@@ -459,10 +425,8 @@ msgstr "قوانين & نصائح"
 msgid "Schemes"
 msgstr "المخططات"
 
-#, fuzzy
-#| msgid "Create a category"
 msgid "Select Category"
-msgstr "أنشيء تصنيف"
+msgstr "اختر الفئة"
 
 msgid "Select Dates"
 msgstr ""
@@ -485,10 +449,8 @@ msgstr "اعدادات"
 msgid "Share timer data"
 msgstr ""
 
-#, fuzzy
-#| msgid "Short break duration:"
 msgid "Short break duration"
-msgstr "مدة الإستراحة القصيرة:"
+msgstr "مدة الإستراحة القصيرة"
 
 msgid "Short description"
 msgstr "وصف قصير"
@@ -531,10 +493,8 @@ msgstr ""
 msgid "TODO"
 msgstr "عمل مطلوب انجازه"
 
-#, fuzzy
-#| msgid "The list is empty"
 msgid "TODO list is empty."
-msgstr "القائمة فارغة"
+msgstr "قائمة TODO فارغة"
 
 msgid "TODO list was updated."
 msgstr "تم تحديث قائمة المهام"
@@ -603,8 +563,6 @@ msgstr "القائمة فارغة"
 msgid "The next Pomodoro will go better"
 msgstr "البمودورو القادم سيكون افضل"
 
-#, fuzzy
-#| msgid "The next Pomodoro will go better"
 msgid "The next pomodoro will go better!"
 msgstr "البمودورو القادم سيكون افضل"
 
@@ -656,10 +614,8 @@ msgstr "جرب تمييز الTODO كنشاط او إستخدم الإستمار
 msgid "Tune the timer"
 msgstr "اضبط المؤقت"
 
-#, fuzzy
-#| msgid "Create a category"
 msgid "Unselect Category"
-msgstr "أنشيء تصنيف"
+msgstr "إلغاء تحديد الفئة"
 
 msgid "View"
 msgstr ""
@@ -688,10 +644,8 @@ msgstr "امس"
 msgid "You are not signed."
 msgstr "انت غير مسجل"
 
-#, fuzzy
-#| msgid "Congratulations! You have finished all your tasks."
 msgid "You have finished all your tasks."
-msgstr "تهانينا! لقد انهيت جميع مهامك."
+msgstr "لقد انهيت جميع مهامك."
 
 msgid "You spent"
 msgstr "قضيت"
@@ -699,34 +653,26 @@ msgstr "قضيت"
 msgid "and"
 msgstr "و"
 
-#, fuzzy
-#| msgid "as Github user"
 msgid "as Bitbucket user"
-msgstr "كمستخدم جت-هب"
+msgstr "كمستخدم Bitbucket"
 
 msgid "as Facebook user"
-msgstr "كمستخدم فيس بوك"
+msgstr "كمستخدم Facebook"
 
 msgid "as Github user"
-msgstr "كمستخدم جت-هب"
+msgstr "كمستخدم Github"
 
 msgid "as Google user"
-msgstr "كمستخدم جوجل"
+msgstr "كمستخدم Google"
 
-#, fuzzy
-#| msgid "as Github user"
 msgid "as Twitter user"
-msgstr "كمستخدم جت-هب"
+msgstr "كمستخدم Twitter"
 
-#, fuzzy
-#| msgid "as Facebook user"
 msgid "as VK user"
-msgstr "كمستخدم فيس بوك"
+msgstr "كمستخدم VK"
 
-#, fuzzy
-#| msgid "as Facebook user"
 msgid "as Yandex user"
-msgstr "كمستخدم فيس بوك"
+msgstr "كمستخدم Yandex"
 
 msgid "auto"
 msgstr "تلقائي"
@@ -734,23 +680,17 @@ msgstr "تلقائي"
 msgid "average"
 msgstr "متوسط"
 
-#, fuzzy
-#| msgid "Cancel"
 msgid "cancel"
 msgstr "إلغاء"
 
-#, fuzzy
-#| msgid "Category"
 msgid "category"
 msgstr "التصنيف"
 
-#, fuzzy
-#| msgid "Close"
 msgid "close"
 msgstr "إغلاق"
 
 msgid "copy"
-msgstr ""
+msgstr "نسخ"
 
 msgid "created"
 msgstr "المنشأ"
@@ -767,48 +707,32 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-#, fuzzy
-#| msgid "day"
-#| msgid_plural "days"
 msgid "delay"
-msgstr "يوم"
+msgstr "تاجيل"
 
-#, fuzzy
-#| msgid "day"
-#| msgid_plural "days"
 msgid "delays"
-msgstr "يوم"
+msgstr "التأخير"
 
-#, fuzzy
-#| msgid "Delete"
 msgid "delete"
 msgstr "مسح"
 
-#, fuzzy
-#| msgid "Description"
 msgid "description"
 msgstr "الوصف"
 
-#, fuzzy
-#| msgid "Done"
 msgid "done"
 msgstr "تم"
 
-#, fuzzy
-#| msgid "Application"
 msgid "duplicate"
-msgstr "تطبيق"
+msgstr "مكرر"
 
-#, fuzzy
-#| msgid "rating"
 msgid "duration"
-msgstr "تقيم"
+msgstr "المدة الزمنية"
 
 msgid "finish time"
-msgstr ""
+msgstr "وقت الانتهاء"
 
 msgid "focus"
-msgstr ""
+msgstr "التركيز"
 
 msgid "for all time"
 msgstr "منذ بداية الوقت"
@@ -849,10 +773,8 @@ msgstr "بالدقائق"
 msgid "in pomodoros"
 msgstr "بالمودوروز"
 
-#, fuzzy
-#| msgid "Integrations"
 msgid "interruptions"
-msgstr "إدماجات"
+msgstr "انقطاع"
 
 msgid "light"
 msgstr "ضوء"
@@ -869,10 +791,8 @@ msgstr[5] ""
 msgid "median"
 msgstr "العدد الاوسط"
 
-#, fuzzy
-#| msgid "were"
 msgid "merge"
-msgstr "كان"
+msgstr "دمج"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -910,15 +830,11 @@ msgstr "عدد"
 msgid "on"
 msgstr "علي"
 
-#, fuzzy
-#| msgid "Pause"
 msgid "pause"
 msgstr "توقيف مؤقت"
 
-#, fuzzy
-#| msgid "version"
 msgid "personal"
-msgstr "نسخة"
+msgstr "شخصي"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
@@ -929,11 +845,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-#, fuzzy
-#| msgid "pomodoro"
-#| msgid_plural "pomodoros"
 msgid "pomodoros"
-msgstr "بمودورو"
+msgstr "بالمودوروز"
 
 msgid "preview"
 msgstr ""
@@ -941,18 +854,14 @@ msgstr ""
 msgid "previous page"
 msgstr ""
 
-#, fuzzy
-#| msgid "This Quarter"
 msgid "quarter"
-msgstr "هذا الربع سنوي"
+msgstr "ربع"
 
 msgid "rating"
 msgstr "تقيم"
 
-#, fuzzy
-#| msgid "Preferences"
 msgid "refresh"
-msgstr "تفضيلات"
+msgstr "تحديث"
 
 msgid "registered users spend on completing pomodoros"
 msgstr "مستخدمين مسجلين قضوا وقتهم فى إكمال مؤقتات البومودورز"
@@ -960,36 +869,24 @@ msgstr "مستخدمين مسجلين قضوا وقتهم فى إكمال مؤق
 msgid "registered users spend on completing pomodoros today."
 msgstr " مستخدمين مسجلين قضوا وقتهم فى إكمال مؤقتات البومودورز اليوم"
 
-#, fuzzy
-#| msgid "Categories"
 msgid "remove categories"
-msgstr "التصنيفات"
+msgstr "إزالة الفئات"
 
-#, fuzzy
-#| msgid "Resume"
 msgid "resume"
 msgstr "استمرار"
 
 msgid "save"
 msgstr ""
 
-#, fuzzy
-#| msgid "Categories"
 msgid "series"
-msgstr "التصنيفات"
+msgstr "سلسلة"
 
-#, fuzzy
-#| msgid "Skip"
 msgid "skip"
 msgstr "الغاء"
 
-#, fuzzy
-#| msgid "Start"
 msgid "start"
 msgstr "ابدا"
 
-#, fuzzy
-#| msgid "Stop"
 msgid "stop"
 msgstr "توقف"
 
@@ -999,10 +896,8 @@ msgstr ""
 msgid "take a long break"
 msgstr ""
 
-#, fuzzy
-#| msgid "Take a short break (3-5 minutes)"
 msgid "take a short break"
-msgstr "خذ استراحة قصيرة (3 - 5 دقائق)"
+msgstr "خذ استراحة قصيرة"
 
 msgid "time"
 msgstr "وقت"
@@ -1012,23 +907,17 @@ msgid ""
 "bellow"
 msgstr "إلي حسابك فى التليجرام، إكتب '/start' ثم أدخل كود البوت فى الحقل التالي"
 
-#, fuzzy
-#| msgid "Today"
 msgid "today"
 msgstr "اليوم"
 
 msgid "unknown"
 msgstr ""
 
-#, fuzzy
-#| msgid "Pause"
 msgid "user"
-msgstr "توقيف مؤقت"
+msgstr "المستعمل"
 
-#, fuzzy
-#| msgid "were"
 msgid "week"
-msgstr "كان"
+msgstr "أسبوع"
 
 msgid "were"
 msgstr "كان"
