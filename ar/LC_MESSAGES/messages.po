@@ -67,7 +67,7 @@ msgid "Add more"
 msgstr "أضف المزيد"
 
 msgid "Add new tasks to the top"
-msgstr ""
+msgstr "اضف مهام جديدة للأعلي"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr "تخفيف القليل المرتبط بالبدايات"
@@ -78,7 +78,9 @@ msgstr "تطبيق"
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
-msgstr "مع بداية كل يوم حدد المهام المراد انجازها و ضعهم فى قائمة المهام التالية."
+msgstr 
+"مع بداية كل يوم حدد المهام المراد انجازها و ."
+"ضعهم فى قائمة المهام التالية."
 
 msgid "At time"
 msgstr "في الوقت"
@@ -90,7 +92,7 @@ msgid "Auto start pomodoros"
 msgstr "شغل بمودورو تلقائيا"
 
 msgid "Block screen on breaks"
-msgstr ""
+msgstr "احجز الشاشة فى فترات الراحة"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "تعزيز العزم لتحقيق اهدافك"
@@ -99,13 +101,13 @@ msgid "Boost motivation and keep it constant"
 msgstr "زيادة التحفيز و ابقاءه ثابت"
 
 msgid "Break is over."
-msgstr ""
+msgstr "الأستراحة انتهت."
 
 msgid "Categories"
 msgstr "التصنيفات"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "تم حفظ التغيرات"
 
 msgid "Clear DONE history once per day"
 msgstr "امسح السجل المنتهي مرة يوميا"
@@ -117,7 +119,7 @@ msgid "Click on a number to add more."
 msgstr "إضغط على الرقم لإضافة المزيد"
 
 msgid "Click to open menu"
-msgstr ""
+msgstr "إضغط لفتح القائمة"
 
 msgid "Click/tap to edit items."
 msgstr "إضغط لتعديل العناصر"
@@ -129,7 +131,7 @@ msgid "Code"
 msgstr "كود"
 
 msgid "Color Theme"
-msgstr ""
+msgstr "لون الهيئة"
 
 msgid "Configure"
 msgstr "تهيئة"
@@ -147,10 +149,10 @@ msgid "Create a category"
 msgstr "أنشيء تصنيف"
 
 msgid "Daily Goal"
-msgstr ""
+msgstr "الهدف اليومي"
 
 msgid "Daily Goal Completed."
-msgstr ""
+msgstr "تم الإنتهاء من الهدف اليومي."
 
 msgid "Daily Task"
 msgstr "مهام يومية"
@@ -183,13 +185,13 @@ msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "تعزيز التركيز عن طريق قطع الانقطاعات"
 
 msgid "Enjoy your break"
-msgstr ""
+msgstr "استمتع بالإستراحة"
 
 msgid "Export the records as CSV"
 msgstr "تصدير السجلات كملف من نوع CSV"
 
 msgid "Eye Keeper is enabled"
-msgstr ""
+msgstr "المراقب مفعل"
 
 msgid "Favorites"
 msgstr "المفضلة"
@@ -198,7 +200,7 @@ msgid "Feedback"
 msgstr "مراجعة"
 
 msgid "Great work!"
-msgstr ""
+msgstr "عمل عظيم!"
 
 msgid "Hide notificaions"
 msgstr "اخفي الإشعارات"
@@ -218,7 +220,7 @@ msgid "Import was failed. Check your CSV and try again."
 msgstr "فشل فى الإستيراد. تحقق من ملف CSV الخاص بك و حاول مرة اخري."
 
 msgid "Imported from External Sources"
-msgstr ""
+msgstr "استيراد من مصادر خارجية"
 
 msgid "Improve your work or study process"
 msgstr "حسن اداء عملك او مذاكرتك"
@@ -233,10 +235,10 @@ msgid "Integrations"
 msgstr "إدماجات"
 
 msgid "Interruption tracked"
-msgstr ""
+msgstr "متابعة الانقطاعات"
 
 msgid "Join the global rating"
-msgstr ""
+msgstr "انضم للتصنيف العالمي"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -267,16 +269,16 @@ msgid "Like"
 msgstr "إعجاب"
 
 msgid "Link copied"
-msgstr ""
+msgstr "تم نسخ الرابط"
 
 msgid "Load daily tasks from Google Calendar"
-msgstr ""
+msgstr "حمل المهام اليومية من تقويم جوجل"
 
 msgid "Loading"
 msgstr "جاري التحميل"
 
 msgid "Lock is enabled"
-msgstr ""
+msgstr "القفل متاح"
 
 msgid "Login to the service and track your progress"
 msgstr "قم بتسجيل الدخول وتابع تقدمك"
@@ -297,7 +299,7 @@ msgid "Long break duration"
 msgstr "مدة الإستراحة الكبيرة"
 
 msgid "Look away at something that is 6 metres away for %1$s seconds"
-msgstr ""
+msgstr "انظر الي شىء يبعد عنك 6 امتار لمدة %1$s ثواني"
 
 msgid "Mark as done"
 msgstr "تم الإنتهاء منها"
@@ -306,10 +308,10 @@ msgid "Median per day"
 msgstr "العدد الاوسط لكل يوم"
 
 msgid "Navigate Back"
-msgstr ""
+msgstr "رجوع سلبي"
 
 msgid "Navigate Forward"
-msgstr ""
+msgstr "تقدم سلبي"
 
 msgid "New"
 msgstr "جديد"
@@ -336,7 +338,7 @@ msgid "POMODORO"
 msgstr "بومودورو"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
-msgstr ""
+msgstr "وقف/استمرار عندما يكون الكمبيوتر فى حالة نائم/خامل"
 
 msgid "Pin to activities"
 msgstr "إضافة للمفضلة"
@@ -354,16 +356,16 @@ msgid "Please don't send me these awesome daily reports"
 msgstr "رجاء لا ترسل لي تقارير يومية رائعة"
 
 msgid "Please reload the application."
-msgstr ""
+msgstr "من فضلك اعد تحميل التطبيق."
 
 msgid "Please unblock notifications in your browser"
-msgstr ""
+msgstr "من فضلك فعل الاشعارات فى متصفحك الخاص."
 
 msgid "Please, login to view your stats"
 msgstr "من فضلك، سجل الدخول لتتمكن من رؤية احصائياتك"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
-msgstr ""
+msgstr "مراقب البومودورو هو تطبيق مثمم من اجل عملك ودراستك."
 
 msgid "Pomodoro duration"
 msgstr "مدة البمودورو"
@@ -375,7 +377,7 @@ msgid "Preferences"
 msgstr "تفضيلات"
 
 msgid "Press"
-msgstr ""
+msgstr "اضغط"
 
 msgid "Profile"
 msgstr "الملف الشخصي"
@@ -399,13 +401,13 @@ msgid "Register"
 msgstr "تسجيل"
 
 msgid "Relax"
-msgstr ""
+msgstr "استرخ"
 
 msgid "Release Notes"
 msgstr "ملاحظات الإصدار"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
-msgstr ""
+msgstr "ازل المهمة من القائمة بعد اكتمال البومودورو"
 
 msgid "Remove one"
 msgstr "إزالة واحدة"
@@ -414,7 +416,7 @@ msgid "Repeat"
 msgstr "كرر"
 
 msgid "Reports Time"
-msgstr ""
+msgstr "وقت التقارير"
 
 msgid "Reports and notifications"
 msgstr "التقارير والإشعارات"
@@ -429,7 +431,7 @@ msgid "Select Category"
 msgstr "اختر الفئة"
 
 msgid "Select Dates"
-msgstr ""
+msgstr "اختر التواريخ"
 
 msgid "Send reports on email: "
 msgstr "أرسل التقارير عبر البريد"
@@ -441,13 +443,13 @@ msgid "Send test notification"
 msgstr "أرسل إشعارات الإختبار"
 
 msgid "Server has been updated."
-msgstr ""
+msgstr "تم تحديث الخادم."
 
 msgid "Settings"
 msgstr "اعدادات"
 
 msgid "Share timer data"
-msgstr ""
+msgstr "شارك معلومات المؤقت"
 
 msgid "Short break duration"
 msgstr "مدة الإستراحة القصيرة"
@@ -462,7 +464,7 @@ msgid "Sign Up / Login"
 msgstr "التسجيل / تسجيل الدخول"
 
 msgid "Sleep Mode is enabled"
-msgstr ""
+msgstr "هيئة النوم مفعلة"
 
 msgid "Sort by"
 msgstr "ترتيب حسب"
@@ -477,7 +479,7 @@ msgid "Stats"
 msgstr "احصائيات"
 
 msgid "Stay focused and finish tasks effectively."
-msgstr ""
+msgstr "ابق تركيزك عاليا و انجز مهامك بفعالية."
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -486,7 +488,7 @@ msgstr "قوي عزيمتك على الاستمرار لتكون قادر على
 
 msgid "Support the Project"
 msgstr "ادعم المشروع"
-
+# flag 1
 msgid "Sync with Google Tasks"
 msgstr ""
 
@@ -503,7 +505,7 @@ msgid "Take a short break (3-5 minutes)"
 msgstr "خذ استراحة قصيرة (3 - 5 دقائق)"
 
 msgid "Take more time to your life."
-msgstr ""
+msgstr "استفد بوقت اضافى لحياتك الشخصية"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "شكرا لك علي المساعدة! رسالتك تنتظر الإدارة"
