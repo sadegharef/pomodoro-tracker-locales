@@ -488,9 +488,9 @@ msgstr "قوي عزيمتك على الاستمرار لتكون قادر على
 
 msgid "Support the Project"
 msgstr "ادعم المشروع"
-# flag 1
+
 msgid "Sync with Google Tasks"
-msgstr ""
+msgstr "ادمج مع مهام جوجل"
 
 msgid "TODO"
 msgstr "عمل مطلوب انجازه"
@@ -546,6 +546,8 @@ msgid ""
 "The Pomodoro Tracker — A useful tool for time management based on "
 "Pomodoro Technique."
 msgstr ""
+"The Pomodoro Tracker - هي اداة فعالة لإدارة الوقت مبنية علي "
+"تقنية البومودورو."
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
@@ -557,7 +559,7 @@ msgstr ""
 "عملنا او دراستنا."
 
 msgid "The integration is outdated. Please reconnect."
-msgstr ""
+msgstr "تسجيل دخولك قديم. من فضلك اعد تسجيل الدخول"
 
 msgid "The list is empty"
 msgstr "القائمة فارغة"
@@ -596,13 +598,13 @@ msgid "Title"
 msgstr "العنوان"
 
 msgid "Toggle eye keeper"
-msgstr ""
+msgstr "تبديل eye keeper"
 
 msgid "Toggle fullscreen"
 msgstr "تبديل لوضع الشاشة الكاملة"
 
 msgid "Toggle mini timer"
-msgstr ""
+msgstr "تبديل المؤقت المصغر"
 
 msgid "Try to add some tasks use the form above"
 msgstr "تحاول إضافة بعض المهام استخدم الإستمارة التالية"
@@ -620,7 +622,7 @@ msgid "Unselect Category"
 msgstr "إلغاء تحديد الفئة"
 
 msgid "View"
-msgstr ""
+msgstr "اظهر"
 
 msgid "Volume"
 msgstr "الصوت"
@@ -740,10 +742,10 @@ msgid "for all time"
 msgstr "منذ بداية الوقت"
 
 msgid "friends"
-msgstr ""
+msgstr "اصدقاء"
 
 msgid "global"
-msgstr ""
+msgstr "عالمي"
 
 msgid "hour"
 msgid_plural "hours"
@@ -755,7 +757,7 @@ msgstr[4] ""
 msgstr[5] ""
 
 msgid "if you must exit now"
-msgstr ""
+msgstr "اذا تريد الخروج الان"
 
 msgid "in 10 seconds"
 msgstr "خلال 10 ثواني"
@@ -815,16 +817,16 @@ msgstr[4] ""
 msgstr[5] ""
 
 msgid "never"
-msgstr ""
+msgstr "ابدا"
 
 msgid "next page"
-msgstr ""
+msgstr "الصفحة التالية"
 
 msgid "no description"
 msgstr "لا يوجد وصف"
 
 msgid "no information available"
-msgstr ""
+msgstr "لا تتوفر معلومات"
 
 msgid "number"
 msgstr "عدد"
@@ -851,13 +853,13 @@ msgid "pomodoros"
 msgstr "بالمودوروز"
 
 msgid "preview"
-msgstr ""
+msgstr "معاينة"
 
 msgid "previous page"
-msgstr ""
+msgstr "الصفحة السابقة"
 
 msgid "quarter"
-msgstr "ربع"
+msgstr "ربع سنوي"
 
 msgid "rating"
 msgstr "تقيم"
@@ -878,7 +880,7 @@ msgid "resume"
 msgstr "استمرار"
 
 msgid "save"
-msgstr ""
+msgstr "حفظ"
 
 msgid "series"
 msgstr "سلسلة"
@@ -893,10 +895,10 @@ msgid "stop"
 msgstr "توقف"
 
 msgid "system"
-msgstr ""
+msgstr "نظام"
 
 msgid "take a long break"
-msgstr ""
+msgstr "خذ استراحة كبيرة"
 
 msgid "take a short break"
 msgstr "خذ استراحة قصيرة"
@@ -913,7 +915,7 @@ msgid "today"
 msgstr "اليوم"
 
 msgid "unknown"
-msgstr ""
+msgstr "غير معروف"
 
 msgid "user"
 msgstr "المستعمل"
