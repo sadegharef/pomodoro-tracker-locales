@@ -211,9 +211,7 @@ msgstr "لو أخذت مهمة واحدة اكثر من 5-7 بمودوروز، �
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
-msgstr 
-"لو اخدت الوقت اقل من بمودورو واحدة، إجمعها، وإدمجها مع "
-"مهمة اخري"
+msgstr "لو اخدت المهمة اقل من بمودورو واحدة، إجمعها، وإدمجها مع مهمة اخري"
 
 msgid "Import records from CSV"
 msgstr "استيراد السجلات من نوع CSV"
@@ -246,7 +244,7 @@ msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
 msgstr ""
-"إستمر بالعمل، بمودورو بعد بمودورو، حتى إنتهاء المهمة التي بينيديك. كل 4 "
+"إستمر بالعمل، بمودورو بعد بمودورو، حتى إنتهاء المهمة التي بين يديك. كل 4 "
 "بمودوروز خذ استراحة كبيرة، (15-30 دقيقة)."
 
 msgid "Language"
@@ -331,7 +329,7 @@ msgid "Of those"
 msgstr "من هؤلاء"
 
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr "بمجرد بدء البمودورو، يجب ان يرن"
+msgstr "ستسمع صوت التنبيه بمجرد بدأ البومودورو"
 
 msgid "One minute left"
 msgstr "دقيقة واحدة متبقية"
@@ -541,7 +539,7 @@ msgid ""
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
-"تقنية البومودورو توف توفر لنا اداة/عملية بسيطة لتحسين مستوي الانتاجية "
+"تقنية البومودورو توفر لنا اداة/عملية بسيطة لتحسين مستوي الانتاجية "
 "(لنفسك و لاعضاء فريقك) والذي يمكنهم ان يفعلوا التالي:"
 
 msgid ""
