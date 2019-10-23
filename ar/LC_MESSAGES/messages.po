@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-18 14:24+0300\n"
+"POT-Creation-Date: 2019-10-23 10:33+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -78,9 +78,7 @@ msgstr "تطبيق"
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
-msgstr 
-"مع بداية كل يوم حدد المهام المراد انجازها و ."
-"ضعهم فى قائمة المهام التالية."
+msgstr "مع بداية كل يوم حدد المهام المراد انجازها و .ضعهم فى قائمة المهام التالية."
 
 msgid "At time"
 msgstr "في الوقت"
@@ -488,7 +486,7 @@ msgstr "قوي عزيمتك على الاستمرار لتكون قادر على
 
 msgid "Support the Project"
 msgstr "ادعم المشروع"
-# flag 1
+
 msgid "Sync with Google Tasks"
 msgstr ""
 
@@ -539,8 +537,8 @@ msgid ""
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
-"تقنية البومودورو توفر لنا اداة/عملية بسيطة لتحسين مستوي الانتاجية "
-"(لنفسك و لاعضاء فريقك) والذي يمكنهم ان يفعلوا التالي:"
+"تقنية البومودورو توفر لنا اداة/عملية بسيطة لتحسين مستوي الانتاجية (لنفسك "
+"و لاعضاء فريقك) والذي يمكنهم ان يفعلوا التالي:"
 
 msgid ""
 "The Pomodoro Tracker — A useful tool for time management based on "
