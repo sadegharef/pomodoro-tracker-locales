@@ -11,6 +11,8 @@ help with other languages. Any help is very appreciated.
 Current status (languages are supported):
 
 * [Russian](https://github.com/klen/pomodoro-tracker-locales/tree/master/ru/LC_MESSAGES/messages.po) (fully translated)
+* [Arabic](https://github.com/klen/pomodoro-tracker-locales/tree/master/ar/LC_MESSAGES/messages.po) (fully translated)
+* [Ukranian](https://github.com/klen/pomodoro-tracker-locales/tree/master/uk/LC_MESSAGES/messages.po) (fully translated)
 
 * [Spanish](https://github.com/klen/pomodoro-tracker-locales/tree/master/es/LC_MESSAGES/messages.po) (translated, needs checking)
 * [Portuguese/Brasilian](https://github.com/klen/pomodoro-tracker-locales/tree/master/pt_br/LC_MESSAGES/messages.po) (translated, needs checking)
@@ -27,11 +29,9 @@ Current status (languages are supported):
 * [Polish](https://github.com/klen/pomodoro-tracker-locales/tree/master/pl/LC_MESSAGES/messages.po) (outdated, needs checking)
 * [Vietnamese](https://github.com/klen/pomodoro-tracker-locales/tree/master/vi/LC_MESSAGES/messages.po) (outdated)
 
-* [Arabic](https://github.com/klen/pomodoro-tracker-locales/tree/master/ar/LC_MESSAGES/messages.po) (not started yet)
 * [Czech](https://github.com/klen/pomodoro-tracker-locales/tree/master/cz/LC_MESSAGES/messages.po) (not started yet)
 * [Norwegian](https://github.com/klen/pomodoro-tracker-locales/tree/master/no/LC_MESSAGES/messages.po) (not started yet)
 * [Romanian](https://github.com/klen/pomodoro-tracker-locales/tree/master/ro/LC_MESSAGES/messages.po) (not started yet)
-* [Ukranian](https://github.com/klen/pomodoro-tracker-locales/tree/master/uk/LC_MESSAGES/messages.po) (not started yet)
 
 If you want to add a new language to Pomodoro-tracker please [open an
 issue](https://github.com/klen/pomodoro-tracker-locales/issues/new). 
