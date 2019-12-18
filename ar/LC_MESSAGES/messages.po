@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-18 13:14+0300\n"
+"POT-Creation-Date: 2019-12-18 17:57+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -98,7 +98,7 @@ msgstr "تعزيز العزم لتحقيق اهدافك"
 msgid "Boost motivation and keep it constant"
 msgstr "زيادة التحفيز و ابقاءه ثابت"
 
-msgid "Break is over."
+msgid "Break is over"
 msgstr "الأستراحة انتهت."
 
 msgid "Categories"
@@ -365,7 +365,7 @@ msgstr "مراقب البومودورو هو تطبيق مثمم من اجل ع�
 msgid "Pomodoro duration"
 msgstr "مدة البمودورو"
 
-msgid "Pomodoro is finished."
+msgid "Pomodoro is finished"
 msgstr "البومودورو انتهت"
 
 msgid "Preferences"
@@ -1061,3 +1061,4 @@ msgstr[5] ""
 
 #~ msgid "quarter"
 #~ msgstr "ربع سنوي"
+
