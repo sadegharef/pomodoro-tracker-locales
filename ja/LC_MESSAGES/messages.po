@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-23 10:36+0300\n"
+"POT-Creation-Date: 2019-12-18 13:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.7.0\n"
 
 msgid "%1$s left"
 msgstr "%s$s"
@@ -328,9 +328,6 @@ msgstr "開始したポモドーロは、タイマーが鳴るまで集中して
 
 msgid "One minute left"
 msgstr "残り1分です"
-
-msgid "pomodoro"
-msgstr "ポモドーロ"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
@@ -666,6 +663,9 @@ msgstr "auto"
 msgid "average"
 msgstr "平均"
 
+msgid "break"
+msgstr "休憩"
+
 msgid "cancel"
 msgstr ""
 
@@ -816,9 +816,6 @@ msgstr "プレビュー"
 msgid "previous page"
 msgstr "前のページ"
 
-msgid "quarter"
-msgstr "四半期"
-
 msgid "rating"
 msgstr "評価順"
 
@@ -957,6 +954,9 @@ msgstr[1] "年"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "上記のポモドーロを完了してください"
+
+#~ msgid "quarter"
+#~ msgstr "四半期"
 
 #~ msgid "record"
 #~ msgstr "記録"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-23 10:37+0300\n"
+"POT-Creation-Date: 2019-12-18 13:15+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.7.0\n"
 
 msgid "%1$s left"
 msgstr ""
@@ -333,9 +333,6 @@ msgstr "Khi một Pomodoro bắt đầu, nó sẽ reng"
 
 msgid "One minute left"
 msgstr "Còn một phút"
-
-msgid "pomodoro"
-msgstr "pomodoro"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
@@ -671,6 +668,9 @@ msgstr "tự động"
 msgid "average"
 msgstr "trung bình cộng"
 
+msgid "break"
+msgstr "dài"
+
 msgid "cancel"
 msgstr "huỷ"
 
@@ -815,9 +815,6 @@ msgstr "xem trước"
 msgid "previous page"
 msgstr "trang trước"
 
-msgid "quarter"
-msgstr "quý"
-
 msgid "rating"
 msgstr "đánh giá"
 
@@ -955,6 +952,9 @@ msgstr[0] ""
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Hãy thử hoàn thành vài pomodoros ở trên"
+
+#~ msgid "quarter"
+#~ msgstr "quý"
 
 #~ msgid "version"
 #~ msgstr "phiên bản"

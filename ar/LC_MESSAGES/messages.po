@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-23 10:36+0300\n"
+"POT-Creation-Date: 2019-12-18 13:14+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.7.0\n"
 
 msgid "%1$s left"
 msgstr "%1$s اليسار"
@@ -331,9 +331,6 @@ msgstr "ستسمع صوت التنبيه بمجرد بدأ البومودورو"
 
 msgid "One minute left"
 msgstr "دقيقة واحدة متبقية"
-
-msgid "pomodoro"
-msgstr "بومودورو"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "وقف/استمرار عندما يكون الكمبيوتر فى حالة نائم/خامل"
@@ -682,6 +679,9 @@ msgstr "تلقائي"
 msgid "average"
 msgstr "متوسط"
 
+msgid "break"
+msgstr "ﺎﺴﺗﺭﺎﺣﺓ"
+
 msgid "cancel"
 msgstr "إلغاء"
 
@@ -856,9 +856,6 @@ msgstr "معاينة"
 msgid "previous page"
 msgstr "الصفحة السابقة"
 
-msgid "quarter"
-msgstr "ربع سنوي"
-
 msgid "rating"
 msgstr "تقيم"
 
@@ -954,12 +951,6 @@ msgstr[5] ""
 #~ msgid "Custom"
 #~ msgstr "تعديل"
 
-#~ msgid "DELAY"
-#~ msgstr "تاجيل"
-
-#~ msgid "DONE"
-#~ msgstr "تم"
-
 #~ msgid "Daily history"
 #~ msgstr "السجل اليومي"
 
@@ -1005,9 +996,6 @@ msgstr[5] ""
 #~ msgid "June"
 #~ msgstr "يونيو"
 
-#~ msgid "LOADING"
-#~ msgstr "تحميل"
-
 #~ msgid "Login to the service using Facebook authentication."
 #~ msgstr "تسجيل الدخول بإستخدام مصادقة فيسبوك"
 
@@ -1032,9 +1020,6 @@ msgstr[5] ""
 #~ msgid "October"
 #~ msgstr "اكتوبر"
 
-#~ msgid "PAUSE"
-#~ msgstr "توقيف مؤقت"
-
 #~ msgid "Pomodoro is finished. Have a short break."
 #~ msgstr "البومودورو انتهت. خذ استراحة قصيرة."
 
@@ -1044,23 +1029,11 @@ msgstr[5] ""
 #~ msgid "Privacy Policy"
 #~ msgstr "سياسة الخصوصية"
 
-#~ msgid "RESUME"
-#~ msgstr "استمر"
-
 #~ msgid "Reload"
 #~ msgstr "تحميل"
 
 #~ msgid "Remove"
 #~ msgstr "إزالة"
-
-#~ msgid "SKIP"
-#~ msgstr "الغاء"
-
-#~ msgid "START"
-#~ msgstr "ابدا"
-
-#~ msgid "STOP"
-#~ msgstr "توقيف"
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "أرسل تقارير يومية"
@@ -1071,20 +1044,8 @@ msgstr[5] ""
 #~ msgid "Show All"
 #~ msgstr "اظهر الجميع"
 
-#~ msgid "TAKE A LONG BREAK"
-#~ msgstr "خذ استراحة طويلة"
-
-#~ msgid "TAKE A SHORT BREAK"
-#~ msgstr "خذ استراحة قصيرة"
-
-#~ msgid "TODO list is empty"
-#~ msgstr "قائمة الأعمال المطلوب انجازها فارغة"
-
 #~ msgid "The Pomodoro is running"
 #~ msgstr "مؤقت البمودورو يعمل"
-
-#~ msgid "Theme"
-#~ msgstr "الثيم"
 
 #~ msgid "Time"
 #~ msgstr "الوقت"
@@ -1098,6 +1059,5 @@ msgstr[5] ""
 #~ msgid "in seconds"
 #~ msgstr "بالثواني"
 
-#~ msgid "record"
-#~ msgstr "تسجيل"
-
+#~ msgid "quarter"
+#~ msgstr "ربع سنوي"

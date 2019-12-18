@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-23 10:36+0300\n"
+"POT-Creation-Date: 2019-12-18 13:14+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.7.0\n"
 
 msgid "%1$s left"
 msgstr "осталось %1$s"
@@ -335,9 +335,6 @@ msgstr "Если вы начали «помидор» — вы должны ег
 
 msgid "One minute left"
 msgstr "Осталась одна минута"
-
-msgid "pomodoro"
-msgstr "помидор"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Останавливать таймер когда комьютер уходит в спящий режим"
@@ -689,6 +686,9 @@ msgstr "автоматически"
 msgid "average"
 msgstr "среднее"
 
+msgid "break"
+msgstr "перерыв"
+
 msgid "cancel"
 msgstr "отмена"
 
@@ -845,9 +845,6 @@ msgstr "предпросмотр"
 msgid "previous page"
 msgstr "предыдущая страница"
 
-msgid "quarter"
-msgstr "квартал"
-
 msgid "rating"
 msgstr "рейтинг"
 
@@ -984,6 +981,9 @@ msgstr[2] "лет"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Попробуйте выполнить несколько помидоров"
+
+#~ msgid "quarter"
+#~ msgstr "квартал"
 
 #~ msgid "record"
 #~ msgstr "запись"

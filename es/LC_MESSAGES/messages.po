@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-10-23 10:36+0300\n"
+"POT-Creation-Date: 2019-12-18 13:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.7.0\n"
 
 msgid "%1$s left"
 msgstr "quedan %1$s"
@@ -337,9 +337,6 @@ msgstr "Una vez que comienza un Pomodoro, tiene que llegar a sonar"
 
 msgid "One minute left"
 msgstr "Queda un minuto"
-
-msgid "pomodoro"
-msgstr "pomodoro"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Pausa el temporizador cuando la computadora entra en reposo"
@@ -693,6 +690,9 @@ msgstr "automático"
 msgid "average"
 msgstr "promedio"
 
+msgid "break"
+msgstr "descanso"
+
 msgid "cancel"
 msgstr "cancelar"
 
@@ -843,9 +843,6 @@ msgstr "avance"
 msgid "previous page"
 msgstr "pagina anterior"
 
-msgid "quarter"
-msgstr "trimestre"
-
 msgid "rating"
 msgstr "evaluación"
 
@@ -983,6 +980,9 @@ msgstr[1] "años"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Intenta completar algunos pomodoros de arriba"
+
+#~ msgid "quarter"
+#~ msgstr "trimestre"
 
 #~ msgid "record"
 #~ msgstr "registrar"
