@@ -334,8 +334,8 @@ msgstr "Una volta che il pomodoro inizia, deve suonare"
 msgid "One minute left"
 msgstr "Un minuto rimasto"
 
-msgid "POMODORO"
-msgstr "POMODORO"
+msgid "pomodoro"
+msgstr "pomodoro"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Ferma/Parti quando il computer è inattivo"

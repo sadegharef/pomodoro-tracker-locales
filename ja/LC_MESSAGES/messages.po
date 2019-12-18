@@ -329,7 +329,7 @@ msgstr "開始したポモドーロは、タイマーが鳴るまで集中して
 msgid "One minute left"
 msgstr "残り1分です"
 
-msgid "POMODORO"
+msgid "pomodoro"
 msgstr "ポモドーロ"
 
 msgid "Pause/unpause when computer goes to sleep/idle"

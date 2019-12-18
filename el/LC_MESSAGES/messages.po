@@ -335,8 +335,8 @@ msgstr "Οταν η Πομοντόρο ξεκίνα, πρέπει να κουδ�
 msgid "One minute left"
 msgstr "Απέμεινε ενα λέπτο"
 
-msgid "POMODORO"
-msgstr "ΠΟΜΟΝΤΌΡΟ"
+msgid "pomodoro"
+msgstr "πομοντόρο"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""

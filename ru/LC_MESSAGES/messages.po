@@ -336,8 +336,8 @@ msgstr "Если вы начали «помидор» — вы должны ег
 msgid "One minute left"
 msgstr "Осталась одна минута"
 
-msgid "POMODORO"
-msgstr "ПОМИДОР"
+msgid "pomodoro"
+msgstr "помидор"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Останавливать таймер когда комьютер уходит в спящий режим"

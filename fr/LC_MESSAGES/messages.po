@@ -334,8 +334,8 @@ msgstr "Un pomodoro entamé doit sonner."
 msgid "One minute left"
 msgstr "Il ne reste qu'une minute."
 
-msgid "POMODORO"
-msgstr "POMODORO"
+msgid "pomodoro"
+msgstr "pomodoro"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Minuterie de pause lorsque l'ordinateur se met en veille"

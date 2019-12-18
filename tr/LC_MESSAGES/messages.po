@@ -337,8 +337,8 @@ msgstr "Pomodoro bir kere başladıktan sonra bitmek zorundadır"
 msgid "One minute left"
 msgstr "bir dakika kaldı"
 
-msgid "POMODORO"
-msgstr "POMODORO"
+msgid "pomodoro"
+msgstr "pomodoro"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""

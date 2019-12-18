@@ -334,8 +334,8 @@ msgstr "Якщо ви почали Помідор – ви маєте його �
 msgid "One minute left"
 msgstr "Залишилася хвилина"
 
-msgid "POMODORO"
-msgstr "ПОМІДОР"
+msgid "pomodoro"
+msgstr "помідор"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Зупиняти таймер, коли компьютер іде в режим сну"

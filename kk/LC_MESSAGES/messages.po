@@ -335,8 +335,8 @@ msgstr "Қызанақ бастасаңыз, міндетті түрде аяқ�
 msgid "One minute left"
 msgstr "Бір минут қалды"
 
-msgid "POMODORO"
-msgstr "ҚЫЗАНАҚ"
+msgid "pomodoro"
+msgstr "қызанақ"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""

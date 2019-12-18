@@ -332,7 +332,7 @@ msgstr "ستسمع صوت التنبيه بمجرد بدأ البومودورو"
 msgid "One minute left"
 msgstr "دقيقة واحدة متبقية"
 
-msgid "POMODORO"
+msgid "pomodoro"
 msgstr "بومودورو"
 
 msgid "Pause/unpause when computer goes to sleep/idle"

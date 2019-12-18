@@ -330,7 +330,7 @@ msgstr ""
 msgid "One minute left"
 msgstr ""
 
-msgid "POMODORO"
+msgid "pomodoro"
 msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"

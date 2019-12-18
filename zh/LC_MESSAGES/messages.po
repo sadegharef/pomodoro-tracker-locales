@@ -329,7 +329,7 @@ msgstr "一旦番茄钟开始了，必须持续到番茄钟响起"
 msgid "One minute left"
 msgstr "剩余一分钟"
 
-msgid "POMODORO"
+msgid "pomodoro"
 msgstr "番茄钟"
 
 msgid "Pause/unpause when computer goes to sleep/idle"

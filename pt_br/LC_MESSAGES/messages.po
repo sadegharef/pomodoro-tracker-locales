@@ -335,8 +335,8 @@ msgstr "Uma vez que um Pomodoro começa, ele tem que tocar"
 msgid "One minute left"
 msgstr "Falta um minuto"
 
-msgid "POMODORO"
-msgstr "POMODORO"
+msgid "pomodoro"
+msgstr "pomodoro"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Pausa temporizador quando o computador vai dormir"
