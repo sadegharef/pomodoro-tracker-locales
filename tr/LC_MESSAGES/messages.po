@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-18 17:58+0300\n"
+"POT-Creation-Date: 2020-01-16 12:35+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -703,6 +703,9 @@ msgstr "kopya"
 msgid "created"
 msgstr "oluşturulan"
 
+msgid "custom"
+msgstr "seçmek"
+
 msgid "dark"
 msgstr "karanlık"
 
@@ -710,6 +713,9 @@ msgid "day"
 msgid_plural "days"
 msgstr[0] "gün"
 msgstr[1] "günler"
+
+msgid "default"
+msgstr "varsayılan"
 
 msgid "delay"
 msgstr "gecikme"
@@ -789,6 +795,9 @@ msgstr "medyan"
 
 msgid "merge"
 msgstr "birleşmek"
+
+msgid "messages"
+msgstr "mesajları"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -919,9 +928,6 @@ msgstr[1] "yil"
 
 #~ msgid "August"
 #~ msgstr "Ağustos"
-
-#~ msgid "Custom"
-#~ msgstr "Seçmek"
 
 #~ msgid "Daily history"
 #~ msgstr "Günlük geçmişi"

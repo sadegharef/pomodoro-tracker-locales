@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2019-12-18 17:58+0300\n"
+"POT-Creation-Date: 2020-01-16 12:36+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -706,6 +706,9 @@ msgstr "kopiuj"
 msgid "created"
 msgstr "utworzono"
 
+msgid "custom"
+msgstr "własny"
+
 msgid "dark"
 msgstr "ciemny"
 
@@ -713,6 +716,9 @@ msgid "day"
 msgid_plural "days"
 msgstr[0] "dzień"
 msgstr[1] "dni"
+
+msgid "default"
+msgstr "domyślna"
 
 msgid "delay"
 msgstr "opóźnienie"
@@ -792,6 +798,9 @@ msgstr "mediana"
 
 msgid "merge"
 msgstr "łączyć"
+
+msgid "messages"
+msgstr "wiadomości"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -924,9 +933,6 @@ msgstr[1] "lata"
 
 #~ msgid "August"
 #~ msgstr "Sierpień"
-
-#~ msgid "Custom"
-#~ msgstr "Własny"
 
 #~ msgid "Daily history"
 #~ msgstr "Historia dnia"

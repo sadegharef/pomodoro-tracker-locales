@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-18 17:58+0300\n"
+"POT-Creation-Date: 2020-01-16 12:35+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -697,6 +697,9 @@ msgstr "көшіру"
 msgid "created"
 msgstr "жасалғаны"
 
+msgid "custom"
+msgstr "таңдау"
+
 msgid "dark"
 msgstr "қараңғы"
 
@@ -704,6 +707,9 @@ msgid "day"
 msgid_plural "days"
 msgstr[0] "күн"
 msgstr[1] "күн"
+
+msgid "default"
+msgstr "әдепкі"
 
 msgid "delay"
 msgstr "кідіріс"
@@ -783,6 +789,9 @@ msgstr "медианасы"
 
 msgid "merge"
 msgstr "біріктіру"
+
+msgid "messages"
+msgstr "хабарламалар"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -913,9 +922,6 @@ msgstr[1] "жыл"
 
 #~ msgid "August"
 #~ msgstr "Тамыз"
-
-#~ msgid "Custom"
-#~ msgstr "Таңдау"
 
 #~ msgid "Daily history"
 #~ msgstr "Күнделікті жазбалар"

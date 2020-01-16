@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-18 17:58+0300\n"
+"POT-Creation-Date: 2020-01-16 12:35+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -681,6 +681,9 @@ msgstr ""
 msgid "created"
 msgstr "新しい順"
 
+msgid "custom"
+msgstr "カスタム"
+
 msgid "dark"
 msgstr "dark"
 
@@ -688,6 +691,9 @@ msgid "day"
 msgid_plural "days"
 msgstr[0] "日"
 msgstr[1] "日"
+
+msgid "default"
+msgstr "デフォルト"
 
 msgid "delay"
 msgstr "遅れ"
@@ -767,6 +773,9 @@ msgstr "中央値"
 
 msgid "merge"
 msgstr "マージ"
+
+msgid "messages"
+msgstr "メッセージ"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -897,9 +906,6 @@ msgstr[1] "年"
 
 #~ msgid "August"
 #~ msgstr "8月"
-
-#~ msgid "Custom"
-#~ msgstr "カスタム"
 
 #~ msgid "Daily history"
 #~ msgstr "毎日の歴史"

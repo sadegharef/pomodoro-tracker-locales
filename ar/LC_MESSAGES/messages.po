@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-18 17:57+0300\n"
+"POT-Creation-Date: 2020-01-16 12:35+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -697,6 +697,9 @@ msgstr "نسخ"
 msgid "created"
 msgstr "المنشأ"
 
+msgid "custom"
+msgstr "تعديل"
+
 msgid "dark"
 msgstr "ظلام"
 
@@ -708,6 +711,9 @@ msgstr[2] ""
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
+
+msgid "default"
+msgstr "إفتراضي"
 
 msgid "delay"
 msgstr "تاجيل"
@@ -795,6 +801,9 @@ msgstr "العدد الاوسط"
 
 msgid "merge"
 msgstr "دمج"
+
+msgid "messages"
+msgstr "رسائل"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -947,9 +956,6 @@ msgstr[5] ""
 
 #~ msgid "Connect Telegram Bot"
 #~ msgstr "توصيل بوت التليجرام"
-
-#~ msgid "Custom"
-#~ msgstr "تعديل"
 
 #~ msgid "Daily history"
 #~ msgstr "السجل اليومي"

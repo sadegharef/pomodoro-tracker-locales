@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-18 17:57+0300\n"
+"POT-Creation-Date: 2020-01-16 12:35+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -708,6 +708,9 @@ msgstr "copiar"
 msgid "created"
 msgstr "fecha"
 
+msgid "custom"
+msgstr "personalizado"
+
 msgid "dark"
 msgstr "oscuro"
 
@@ -715,6 +718,9 @@ msgid "day"
 msgid_plural "days"
 msgstr[0] "día"
 msgstr[1] "días"
+
+msgid "default"
+msgstr "predeterminado"
 
 msgid "delay"
 msgstr "retrasar"
@@ -794,6 +800,9 @@ msgstr "mediana"
 
 msgid "merge"
 msgstr "unir"
+
+msgid "messages"
+msgstr "mensajes"
 
 msgid "minute"
 msgid_plural "minutes"

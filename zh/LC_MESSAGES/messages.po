@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-18 17:58+0300\n"
+"POT-Creation-Date: 2020-01-16 12:36+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -681,12 +681,18 @@ msgstr ""
 msgid "created"
 msgstr "创建人"
 
+msgid "custom"
+msgstr "自定义"
+
 msgid "dark"
 msgstr "黑暗"
 
 msgid "day"
 msgid_plural "days"
 msgstr[0] "天"
+
+msgid "default"
+msgstr "默认"
 
 msgid "delay"
 msgstr "推迟"
@@ -764,6 +770,9 @@ msgstr "中位数"
 
 msgid "merge"
 msgstr "合并"
+
+msgid "messages"
+msgstr "讯息"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -893,9 +902,6 @@ msgstr[0] "年"
 
 #~ msgid "Break is over."
 #~ msgstr ""
-
-#~ msgid "Custom"
-#~ msgstr "自定义"
 
 #~ msgid "Daily history"
 #~ msgstr "历史记录"

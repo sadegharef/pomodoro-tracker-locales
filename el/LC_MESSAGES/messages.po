@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-18 17:58+0300\n"
+"POT-Creation-Date: 2020-01-16 12:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -713,6 +713,9 @@ msgstr "αντίγραφο"
 msgid "created"
 msgstr "δημιουργημένα"
 
+msgid "custom"
+msgstr ""
+
 msgid "dark"
 msgstr "Σκοτεινό"
 
@@ -720,6 +723,9 @@ msgid "day"
 msgid_plural "days"
 msgstr[0] "ημέρα"
 msgstr[1] "ημέρες"
+
+msgid "default"
+msgstr "προκαθορισμένο"
 
 msgid "delay"
 msgstr "Καθυστέρηση"
@@ -799,6 +805,9 @@ msgstr "διάμεσος"
 
 msgid "merge"
 msgstr "συγχώνευση"
+
+msgid "messages"
+msgstr "μηνυμάτων"
 
 msgid "minute"
 msgid_plural "minutes"

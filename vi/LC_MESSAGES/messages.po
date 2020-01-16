@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-18 17:58+0300\n"
+"POT-Creation-Date: 2020-01-16 12:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -686,12 +686,18 @@ msgstr ""
 msgid "created"
 msgstr "đã tạo"
 
+msgid "custom"
+msgstr "tuỳ chỉnh"
+
 msgid "dark"
 msgstr "tối"
 
 msgid "day"
 msgid_plural "days"
 msgstr[0] ""
+
+msgid "default"
+msgstr "mặc định"
 
 msgid "delay"
 msgstr "hoãn"
@@ -769,6 +775,9 @@ msgstr "trung bình"
 
 msgid "merge"
 msgstr "hợp nhất"
+
+msgid "messages"
+msgstr "tin nhắn"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -898,9 +907,6 @@ msgstr[0] ""
 
 #~ msgid "Break is over."
 #~ msgstr ""
-
-#~ msgid "Custom"
-#~ msgstr "Tuỳ chỉnh"
 
 #~ msgid "Daily history"
 #~ msgstr "Lịch sử hằng ngày"

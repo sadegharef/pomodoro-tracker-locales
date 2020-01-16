@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-18 17:57+0300\n"
+"POT-Creation-Date: 2020-01-16 12:35+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -704,6 +704,9 @@ msgstr "копировать"
 msgid "created"
 msgstr "создан"
 
+msgid "custom"
+msgstr "настроить"
+
 msgid "dark"
 msgstr "темная"
 
@@ -712,6 +715,9 @@ msgid_plural "days"
 msgstr[0] "день"
 msgstr[1] "дня"
 msgstr[2] "дней"
+
+msgid "default"
+msgstr "по умолчанию"
 
 msgid "delay"
 msgstr "задержка"
@@ -793,6 +799,9 @@ msgstr "медиана"
 
 msgid "merge"
 msgstr "объединить"
+
+msgid "messages"
+msgstr "сообщения"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -927,9 +936,6 @@ msgstr[2] "лет"
 
 #~ msgid "August"
 #~ msgstr "Август"
-
-#~ msgid "Custom"
-#~ msgstr "Выбрать"
 
 #~ msgid "Daily history"
 #~ msgstr "История задач"

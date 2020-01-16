@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.3.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-18 17:58+0300\n"
+"POT-Creation-Date: 2020-01-16 12:35+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ro\n"
@@ -682,6 +682,9 @@ msgstr ""
 msgid "created"
 msgstr ""
 
+msgid "custom"
+msgstr ""
+
 msgid "dark"
 msgstr ""
 
@@ -690,6 +693,9 @@ msgid_plural "days"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+
+msgid "default"
+msgstr ""
 
 msgid "delay"
 msgstr ""
@@ -770,6 +776,9 @@ msgid "median"
 msgstr ""
 
 msgid "merge"
+msgstr ""
+
+msgid "messages"
 msgstr ""
 
 msgid "minute"
@@ -893,10 +902,3 @@ msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-
-#~ msgid "Break is over."
-#~ msgstr ""
-
-#~ msgid "Pomodoro is finished."
-#~ msgstr ""
-

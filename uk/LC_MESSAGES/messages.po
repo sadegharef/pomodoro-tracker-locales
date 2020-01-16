@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-18 17:58+0300\n"
+"POT-Creation-Date: 2020-01-16 12:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -703,6 +703,9 @@ msgstr "копія"
 msgid "created"
 msgstr "створено"
 
+msgid "custom"
+msgstr "на замовлення"
+
 msgid "dark"
 msgstr "темна"
 
@@ -711,6 +714,9 @@ msgid_plural "days"
 msgstr[0] "день"
 msgstr[1] "дні"
 msgstr[2] "днів"
+
+msgid "default"
+msgstr "за замовчуванням"
 
 msgid "delay"
 msgstr "затримка"
@@ -792,6 +798,9 @@ msgstr "медіана"
 
 msgid "merge"
 msgstr "об'єднати"
+
+msgid "messages"
+msgstr "повідомлення"
 
 msgid "minute"
 msgid_plural "minutes"
