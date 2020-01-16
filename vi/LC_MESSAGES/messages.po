@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-16 12:36+0300\n"
+"POT-Creation-Date: 2020-01-16 13:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -804,6 +804,9 @@ msgstr ""
 
 msgid "on"
 msgstr ""
+
+msgid "one message per line"
+msgstr "một tin nhắn trên mỗi dòng"
 
 msgid "pause"
 msgstr "tạm dừng"

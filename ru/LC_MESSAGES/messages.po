@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-16 12:35+0300\n"
+"POT-Creation-Date: 2020-01-16 13:38+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -832,6 +832,9 @@ msgstr "кол-во"
 
 msgid "on"
 msgstr "на"
+
+msgid "one message per line"
+msgstr "одно сообщение на строку"
 
 msgid "pause"
 msgstr "пауза"

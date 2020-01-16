@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-16 12:35+0300\n"
+"POT-Creation-Date: 2020-01-16 13:39+0300\n"
 "PO-Revision-Date: 2017-02-06 20:20-0200\n"
 "Last-Translator: LUCAS ERNESTO KINDINGER <kindingerlek@hotmail.com>\n"
 "Language: pt_BR\n"
@@ -828,6 +828,9 @@ msgstr "número"
 
 msgid "on"
 msgstr "em"
+
+msgid "one message per line"
+msgstr "uma mensagem por linha"
 
 msgid "pause"
 msgstr "pausar"
