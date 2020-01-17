@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-16 13:39+0300\n"
+"POT-Creation-Date: 2020-01-17 12:48+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -37,6 +37,9 @@ msgstr ""
 #, python-format
 msgid "%s here's your Daily report for %s"
 msgstr "%s 这是您%s的每日报告"
+
+msgid "A random message will be chosen if there are multiple."
+msgstr "如果有多个，将选择一个随机消息。"
 
 msgid "Activities"
 msgstr "活动"

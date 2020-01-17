@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-01-16 13:39+0300\n"
+"POT-Creation-Date: 2020-01-17 12:49+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -37,6 +37,9 @@ msgstr "%1$s zatrzymany:"
 #, python-format
 msgid "%s here's your Daily report for %s"
 msgstr "%s Twój dzienny raport dla %s"
+
+msgid "A random message will be chosen if there are multiple."
+msgstr "Losowa wiadomość zostanie wybrana, jeśli jest ich wiele."
 
 msgid "Activities"
 msgstr "Aktywność"
