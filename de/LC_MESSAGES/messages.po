@@ -718,7 +718,7 @@ msgstr[0] "Tag"
 msgstr[1] "Tage"
 
 msgid "default"
-msgstr "standart"
+msgstr "standard"
 
 msgid "delay"
 msgstr "verzögerung"
