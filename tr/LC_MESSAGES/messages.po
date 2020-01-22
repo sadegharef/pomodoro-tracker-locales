@@ -733,7 +733,7 @@ msgid "description"
 msgstr "açıklama"
 
 msgid "done"
-msgstr "tamam"
+msgstr "yapilanlar"
 
 msgid "duplicate"
 msgstr "Çift"
@@ -745,7 +745,7 @@ msgid "finish time"
 msgstr "bitirme zamanı"
 
 msgid "focus"
-msgstr ""
+msgstr "odaklanma"
 
 msgid "for all time"
 msgstr "tüm zamanlar için"
