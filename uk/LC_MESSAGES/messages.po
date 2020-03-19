@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-17 12:49+0300\n"
+"POT-Creation-Date: 2020-03-19 21:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -19,6 +19,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "Увійдіть за допомогою %(provider)s"
 
 msgid "%1$s left"
 msgstr "залишилось %1$s"
@@ -221,6 +225,9 @@ msgstr "Імпортувати записи з файлу CSV"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "Імпорт не вийшов. Перевірти ваш CSV й спробуйте знову."
+
+msgid "Import/Export tasks"
+msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "Імпортовано із зовнішніх джерел"
@@ -465,6 +472,9 @@ msgstr "Показати вікно"
 msgid "Sign Up / Login"
 msgstr "Реєстрація / Вхід"
 
+msgid "Sign in with %1$s"
+msgstr "Увійдіть за допомогою %1$s"
+
 msgid "Sleep Mode is enabled"
 msgstr "Режим сну увімкнено"
 
@@ -660,27 +670,6 @@ msgstr "Ви витратили"
 
 msgid "and"
 msgstr "і"
-
-msgid "as Bitbucket user"
-msgstr "використовуючи Bitbucket"
-
-msgid "as Facebook user"
-msgstr "використовуючи Facebook"
-
-msgid "as Github user"
-msgstr "використовуючи Github"
-
-msgid "as Google user"
-msgstr "використовуючи Google"
-
-msgid "as Twitter user"
-msgstr "використовуючи Twitter"
-
-msgid "as VK user"
-msgstr "використовуючи VK"
-
-msgid "as Yandex user"
-msgstr "використовуючи Yandex"
 
 msgid "auto"
 msgstr "автоматично"

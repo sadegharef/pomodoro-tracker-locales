@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-17 12:48+0300\n"
+"POT-Creation-Date: 2020-03-19 21:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -18,6 +18,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "Đăng nhập bằng %(provider)s"
 
 msgid "%1$s left"
 msgstr ""
@@ -220,6 +224,9 @@ msgstr "Nhập dữ liệu từ CSV"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "Nhập không thành công. Kiểm tra lại file CSV của bạn và thử lại."
+
+msgid "Import/Export tasks"
+msgstr ""
 
 msgid "Imported from External Sources"
 msgstr ""
@@ -463,6 +470,9 @@ msgstr ""
 msgid "Sign Up / Login"
 msgstr "Đăng kí / Đăng nhập"
 
+msgid "Sign in with %1$s"
+msgstr "Đăng nhập bằng %1$s"
+
 msgid "Sleep Mode is enabled"
 msgstr ""
 
@@ -643,27 +653,6 @@ msgstr "Bạn đã dành"
 
 msgid "and"
 msgstr "và"
-
-msgid "as Bitbucket user"
-msgstr "bằng Bitbucket"
-
-msgid "as Facebook user"
-msgstr "bằng Facebook"
-
-msgid "as Github user"
-msgstr "bằng Github"
-
-msgid "as Google user"
-msgstr "bằng Google"
-
-msgid "as Twitter user"
-msgstr "bằng Twitter"
-
-msgid "as VK user"
-msgstr "bằng VK"
-
-msgid "as Yandex user"
-msgstr "bằng Yandex"
 
 msgid "auto"
 msgstr "tự động"

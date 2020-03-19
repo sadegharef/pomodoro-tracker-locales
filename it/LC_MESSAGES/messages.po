@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-17 12:48+0300\n"
+"POT-Creation-Date: 2020-03-19 21:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -18,6 +18,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "Accedi con %(provider)s "
 
 msgid "%1$s left"
 msgstr "%1$s rimasti"
@@ -220,6 +224,9 @@ msgstr "importato da fonti esterne"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "L'importazione è fallita. Controlla il tuo CSV e riprova."
+
+msgid "Import/Export tasks"
+msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "Importato da sorgenti externe"
@@ -467,6 +474,9 @@ msgstr "Mostra la finestra"
 msgid "Sign Up / Login"
 msgstr "Registrati / Login"
 
+msgid "Sign in with %1$s"
+msgstr "Accedi con %1$s"
+
 msgid "Sleep Mode is enabled"
 msgstr "Modalità a risparmio è abilitata"
 
@@ -660,27 +670,6 @@ msgstr "Hai speso"
 
 msgid "and"
 msgstr "e"
-
-msgid "as Bitbucket user"
-msgstr "come utente Bitbucket"
-
-msgid "as Facebook user"
-msgstr "come utente Facebook"
-
-msgid "as Github user"
-msgstr "come utente Github"
-
-msgid "as Google user"
-msgstr "come utente Google"
-
-msgid "as Twitter user"
-msgstr "come utente Twitter"
-
-msgid "as VK user"
-msgstr "come utente VK"
-
-msgid "as Yandex user"
-msgstr "come utente Yandex"
 
 msgid "auto"
 msgstr "auto"

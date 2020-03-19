@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-17 12:48+0300\n"
+"POT-Creation-Date: 2020-03-19 21:06+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -19,6 +19,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "تسجيل الدخول باستخدام %(provider)s"
 
 msgid "%1$s left"
 msgstr "%1$s اليسار"
@@ -219,6 +223,9 @@ msgstr "استيراد السجلات من نوع CSV"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "فشل فى الإستيراد. تحقق من ملف CSV الخاص بك و حاول مرة اخري."
+
+msgid "Import/Export tasks"
+msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "استيراد من مصادر خارجية"
@@ -461,6 +468,9 @@ msgstr "اظهر النافذة"
 msgid "Sign Up / Login"
 msgstr "التسجيل / تسجيل الدخول"
 
+msgid "Sign in with %1$s"
+msgstr "تسجيل الدخول باستخدام %1$s"
+
 msgid "Sleep Mode is enabled"
 msgstr "هيئة النوم مفعلة"
 
@@ -654,27 +664,6 @@ msgstr "قضيت"
 
 msgid "and"
 msgstr "و"
-
-msgid "as Bitbucket user"
-msgstr "كمستخدم Bitbucket"
-
-msgid "as Facebook user"
-msgstr "كمستخدم Facebook"
-
-msgid "as Github user"
-msgstr "كمستخدم Github"
-
-msgid "as Google user"
-msgstr "كمستخدم Google"
-
-msgid "as Twitter user"
-msgstr "كمستخدم Twitter"
-
-msgid "as VK user"
-msgstr "كمستخدم VK"
-
-msgid "as Yandex user"
-msgstr "كمستخدم Yandex"
 
 msgid "auto"
 msgstr "تلقائي"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-01-17 12:49+0300\n"
+"POT-Creation-Date: 2020-03-19 21:07+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -18,6 +18,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "Zaloguj się za pomocą %(provider)s"
 
 msgid "%1$s left"
 msgstr "pozostało: %1$s"
@@ -222,6 +226,9 @@ msgstr "Importuj dane z pliku CSV "
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "Próba importu zakończyła się błędem. Sprawdź plik CSV i spróbuj ponownie."
+
+msgid "Import/Export tasks"
+msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "Importowano z zewnętrznego źródła"
@@ -466,6 +473,9 @@ msgstr ""
 msgid "Sign Up / Login"
 msgstr "Zarejestruj się / Zaloguj się"
 
+msgid "Sign in with %1$s"
+msgstr "Zaloguj się za pomocą %1$s"
+
 msgid "Sleep Mode is enabled"
 msgstr ""
 
@@ -663,27 +673,6 @@ msgstr "Spędziłeś/aś"
 
 msgid "and"
 msgstr "i"
-
-msgid "as Bitbucket user"
-msgstr "jako użytkownik Bitbucket"
-
-msgid "as Facebook user"
-msgstr "jako użytkownik Facebook"
-
-msgid "as Github user"
-msgstr "jako użytkownik Github"
-
-msgid "as Google user"
-msgstr "jako użytkownik Google"
-
-msgid "as Twitter user"
-msgstr "jako użytkownik Twitter"
-
-msgid "as VK user"
-msgstr "jako użytkownik VK"
-
-msgid "as Yandex user"
-msgstr "jako użytkownik Yandex"
 
 msgid "auto"
 msgstr "automatycznie"

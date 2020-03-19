@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.3.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-17 12:48+0300\n"
+"POT-Creation-Date: 2020-03-19 21:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ro\n"
@@ -19,6 +19,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr ""
 
 msgid "%1$s left"
 msgstr ""
@@ -218,6 +222,9 @@ msgid "Import records from CSV"
 msgstr ""
 
 msgid "Import was failed. Check your CSV and try again."
+msgstr ""
+
+msgid "Import/Export tasks"
 msgstr ""
 
 msgid "Imported from External Sources"
@@ -459,6 +466,9 @@ msgstr ""
 msgid "Sign Up / Login"
 msgstr ""
 
+msgid "Sign in with %1$s"
+msgstr ""
+
 msgid "Sleep Mode is enabled"
 msgstr ""
 
@@ -638,27 +648,6 @@ msgid "You spent"
 msgstr ""
 
 msgid "and"
-msgstr ""
-
-msgid "as Bitbucket user"
-msgstr ""
-
-msgid "as Facebook user"
-msgstr ""
-
-msgid "as Github user"
-msgstr ""
-
-msgid "as Google user"
-msgstr ""
-
-msgid "as Twitter user"
-msgstr ""
-
-msgid "as VK user"
-msgstr ""
-
-msgid "as Yandex user"
 msgstr ""
 
 msgid "auto"

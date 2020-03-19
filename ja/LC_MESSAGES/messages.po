@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-17 12:48+0300\n"
+"POT-Creation-Date: 2020-03-19 21:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -18,6 +18,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "%(provider)s でサインイン"
 
 msgid "%1$s left"
 msgstr "%s$s"
@@ -218,6 +222,9 @@ msgstr "CSVからレコードをインポートする"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "インポートに失敗しました。 CSVを確認して、もう一度お試しください。"
+
+msgid "Import/Export tasks"
+msgstr ""
 
 msgid "Imported from External Sources"
 msgstr ""
@@ -458,6 +465,9 @@ msgstr "ウィンドウを表示"
 msgid "Sign Up / Login"
 msgstr "ユーザー登録 / ログイン"
 
+msgid "Sign in with %1$s"
+msgstr "%1$sでサインイン"
+
 msgid "Sleep Mode is enabled"
 msgstr ""
 
@@ -638,27 +648,6 @@ msgstr "あなたが過ごした"
 
 msgid "and"
 msgstr "そして"
-
-msgid "as Bitbucket user"
-msgstr "Bitbucketアカウントでログインする"
-
-msgid "as Facebook user"
-msgstr "Facebookアカウントでログインする"
-
-msgid "as Github user"
-msgstr "Githubアカウントでログインする"
-
-msgid "as Google user"
-msgstr "Googleアカウントでログインする"
-
-msgid "as Twitter user"
-msgstr "Twitterアカウントでログインする"
-
-msgid "as VK user"
-msgstr "VKアカウントでログインする"
-
-msgid "as Yandex user"
-msgstr "Yandexアカウントでログインする"
 
 msgid "auto"
 msgstr "auto"

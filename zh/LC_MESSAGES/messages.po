@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-17 12:48+0300\n"
+"POT-Creation-Date: 2020-03-19 21:07+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -18,6 +18,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "使用%(provider)s登录"
 
 msgid "%1$s left"
 msgstr "2离开"
@@ -218,6 +222,9 @@ msgstr "导入CSV格式记录"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "导入失败。请检查CSV档案之后再次尝试。"
+
+msgid "Import/Export tasks"
+msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "从外部进口"
@@ -458,6 +465,9 @@ msgstr "显示窗口"
 msgid "Sign Up / Login"
 msgstr "注册 / 登入"
 
+msgid "Sign in with %1$s"
+msgstr "使用%1$s登录"
+
 msgid "Sleep Mode is enabled"
 msgstr ""
 
@@ -638,27 +648,6 @@ msgstr "您花费"
 
 msgid "and"
 msgstr "以及"
-
-msgid "as Bitbucket user"
-msgstr "作为Bitbucket用户"
-
-msgid "as Facebook user"
-msgstr "作为Facebook用户"
-
-msgid "as Github user"
-msgstr "作为Github用户"
-
-msgid "as Google user"
-msgstr "作为Google用户"
-
-msgid "as Twitter user"
-msgstr "作为Twitter用户"
-
-msgid "as VK user"
-msgstr "作为VK用户"
-
-msgid "as Yandex user"
-msgstr "作为Yandex用户"
 
 msgid "auto"
 msgstr "自动"

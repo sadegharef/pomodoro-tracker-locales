@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-17 12:49+0300\n"
+"POT-Creation-Date: 2020-03-19 21:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -18,6 +18,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "Συνδεθείτε με το %(provider)s"
 
 msgid "%1$s left"
 msgstr "%1$s Απομείνη"
@@ -222,6 +226,9 @@ msgstr "Κανε εισαγωγή τα αρχεία απο csv"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "Η εισαγωγή αποτυχέ. Τσέκαρε το CSV σου και ξανά προσπάθησε."
+
+msgid "Import/Export tasks"
+msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "Έγινε εισαγωγή απο Εξωτερικές Πηγές"
@@ -470,6 +477,9 @@ msgstr ""
 msgid "Sign Up / Login"
 msgstr "Εγγραφή / Συνδεση"
 
+msgid "Sign in with %1$s"
+msgstr "Συνδεθείτε με το %1$s"
+
 msgid "Sleep Mode is enabled"
 msgstr ""
 
@@ -670,27 +680,6 @@ msgstr "Ξόδεψες"
 
 msgid "and"
 msgstr "και"
-
-msgid "as Bitbucket user"
-msgstr "σαν Bitbucket Χρήστης"
-
-msgid "as Facebook user"
-msgstr "σαν Facebook Χρήστης"
-
-msgid "as Github user"
-msgstr "σαν Github Χρήστης"
-
-msgid "as Google user"
-msgstr "σαν Google Χρήστης"
-
-msgid "as Twitter user"
-msgstr "σαν Twitter Χρήστης"
-
-msgid "as VK user"
-msgstr "σαν VK Χρήστης"
-
-msgid "as Yandex user"
-msgstr "σαν Yandex Χρήστης"
 
 msgid "auto"
 msgstr "Αυτόματα"

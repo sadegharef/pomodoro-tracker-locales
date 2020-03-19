@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-01-17 12:48+0300\n"
+"POT-Creation-Date: 2020-03-19 21:06+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -18,6 +18,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "Melden Sie sich mit %(provider)s"
 
 msgid "%1$s left"
 msgstr "%1$s übrig"
@@ -226,6 +230,9 @@ msgid "Import was failed. Check your CSV and try again."
 msgstr ""
 "Import war fehlgeschlagen. Überprüfen Sie Ihre CSV und versuchen Sie es "
 "erneut."
+
+msgid "Import/Export tasks"
+msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "aus externen Quellen importiert"
@@ -466,6 +473,9 @@ msgstr "Schaufenster"
 msgid "Sign Up / Login"
 msgstr "Anmelden / Einloggen"
 
+msgid "Sign in with %1$s"
+msgstr "Melden Sie sich mit %1$s"
+
 msgid "Sleep Mode is enabled"
 msgstr "Schlafmodus ist aktiviert"
 
@@ -660,27 +670,6 @@ msgstr "Sie haben verbracht"
 
 msgid "and"
 msgstr "und"
-
-msgid "as Bitbucket user"
-msgstr "mit Bitbucket Account"
-
-msgid "as Facebook user"
-msgstr "mit Facebook"
-
-msgid "as Github user"
-msgstr "mit Github Account"
-
-msgid "as Google user"
-msgstr "mit Google Account"
-
-msgid "as Twitter user"
-msgstr "mit Twitter Account"
-
-msgid "as VK user"
-msgstr "mit VK Account"
-
-msgid "as Yandex user"
-msgstr "mit Yandex Account"
 
 msgid "auto"
 msgstr "auto"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-17 12:48+0300\n"
+"POT-Creation-Date: 2020-03-19 21:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -18,6 +18,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "%(provider)s ile oturum açın"
 
 msgid "%1$s left"
 msgstr "%1$s sol"
@@ -224,6 +228,9 @@ msgstr "CSV'den kayıtları içe aktarın"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "İthalat başarısız oldu. CSV'nizi kontrol edin ve tekrar deneyin."
+
+msgid "Import/Export tasks"
+msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "Dış kaynaklardan ithal edilen"
@@ -466,6 +473,9 @@ msgstr "Pencere göster"
 msgid "Sign Up / Login"
 msgstr "Kayıt / Giriş"
 
+msgid "Sign in with %1$s"
+msgstr "%1$s ile oturum açın"
+
 msgid "Sleep Mode is enabled"
 msgstr ""
 
@@ -660,27 +670,6 @@ msgstr ""
 
 msgid "and"
 msgstr ""
-
-msgid "as Bitbucket user"
-msgstr "Bitbucket üzerinden"
-
-msgid "as Facebook user"
-msgstr "Facebook üzerinden"
-
-msgid "as Github user"
-msgstr "Github üzerinden"
-
-msgid "as Google user"
-msgstr "Google üzerinden"
-
-msgid "as Twitter user"
-msgstr "Twitter üzerinden"
-
-msgid "as VK user"
-msgstr "VK üzerinden"
-
-msgid "as Yandex user"
-msgstr "Yandex üzerinden"
 
 msgid "auto"
 msgstr "oto"
