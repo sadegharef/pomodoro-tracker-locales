@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-03-19 21:07+0300\n"
+"POT-Creation-Date: 2020-04-01 15:26+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -205,11 +205,23 @@ msgstr "Ulubione"
 msgid "Feedback"
 msgstr "Opinie"
 
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "Wypełnij puste wpisy"
+
 msgid "Great work!"
 msgstr "Dobra robota!"
 
+msgid "Help"
+msgstr ""
+
 msgid "Hide notificaions"
 msgstr "Ukryj powiadomienia"
+
+msgid "History"
+msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr ""
@@ -398,6 +410,9 @@ msgstr "Porzucić"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Pokaż powiadomienie przeglądarki gdy Pomodoro/przerwa się skończy"
+
+msgid "Rate the application"
+msgstr "Oceń aplikację"
 
 msgid "Records are empty"
 msgstr "Brak rekordów"
@@ -647,6 +662,9 @@ msgstr "Głośność"
 msgid "What is it?"
 msgstr "Czym jest technika Pomodoro?"
 
+msgid "Window"
+msgstr ""
+
 msgid "Work days"
 msgstr "Dni robocze"
 
@@ -785,14 +803,23 @@ msgid_plural "likes"
 msgstr[0] "polubienie"
 msgstr[1] "polubienia"
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
 msgstr "mediana"
+
+msgid "menu"
+msgstr ""
 
 msgid "merge"
 msgstr "łączyć"
 
 msgid "messages"
 msgstr "wiadomości"
+
+msgid "minimize"
+msgstr ""
 
 msgid "minute"
 msgid_plural "minutes"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-19 21:06+0300\n"
+"POT-Creation-Date: 2020-04-01 15:25+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -206,11 +206,23 @@ msgstr "Избранное"
 msgid "Feedback"
 msgstr "Идеи"
 
+msgid "File"
+msgstr "Файл"
+
+msgid "Fill blank entries"
+msgstr "Заполнить пустые записи"
+
 msgid "Great work!"
 msgstr "Отличная работа!"
 
+msgid "Help"
+msgstr "Помощь"
+
 msgid "Hide notificaions"
 msgstr "Прятать оповещения"
+
+msgid "History"
+msgstr "История"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Если задача требует более 5-7 «помидоров» — разбейте её на подзадачи"
@@ -401,6 +413,9 @@ msgstr "Выход"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Вызывать всплывающее окно с предупреждением, когда помидор/перерыв окончен"
+
+msgid "Rate the application"
+msgstr "Оценить приложение"
 
 msgid "Records are empty"
 msgstr "Записей не найдено"
@@ -645,6 +660,9 @@ msgstr "Громкость"
 msgid "What is it?"
 msgstr "Что это?"
 
+msgid "Window"
+msgstr "Окно"
+
 msgid "Work days"
 msgstr "Рабочие дни"
 
@@ -786,14 +804,23 @@ msgstr[0] "плюс"
 msgstr[1] "плюса"
 msgstr[2] "плюсов"
 
+msgid "maximize"
+msgstr "максимизировать"
+
 msgid "median"
 msgstr "медиана"
+
+msgid "menu"
+msgstr "меню"
 
 msgid "merge"
 msgstr "объединить"
 
 msgid "messages"
 msgstr "сообщения"
+
+msgid "minimize"
+msgstr "минимизировать"
 
 msgid "minute"
 msgid_plural "minutes"

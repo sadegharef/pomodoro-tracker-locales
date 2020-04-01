@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-03-19 21:07+0300\n"
+"POT-Creation-Date: 2020-04-01 15:25+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -204,11 +204,23 @@ msgstr "Favorieten"
 msgid "Feedback"
 msgstr "Feedback"
 
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "Vul lege gegevens in"
+
 msgid "Great work!"
 msgstr "Goed bezig!"
 
+msgid "Help"
+msgstr ""
+
 msgid "Hide notificaions"
 msgstr "Verberg notificaties"
+
+msgid "History"
+msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Als een taak meer dan 5-7 pomodori neemt, breek hem in subtaken"
@@ -395,6 +407,9 @@ msgstr "Afsluiten"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Toon browser-alert wanneer pomodoro/pauze voobij is"
+
+msgid "Rate the application"
+msgstr "Beoordeel de applicatie"
 
 msgid "Records are empty"
 msgstr "records zijn leeg"
@@ -643,6 +658,9 @@ msgstr "Volume"
 msgid "What is it?"
 msgstr "Wat is het?"
 
+msgid "Window"
+msgstr ""
+
 msgid "Work days"
 msgstr "Werkdagen"
 
@@ -781,14 +799,23 @@ msgid_plural "likes"
 msgstr[0] "like"
 msgstr[1] "likes"
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
 msgstr "mediaan"
+
+msgid "menu"
+msgstr ""
 
 msgid "merge"
 msgstr "samenvoegen"
 
 msgid "messages"
 msgstr "berichten"
+
+msgid "minimize"
+msgstr ""
 
 msgid "minute"
 msgid_plural "minutes"

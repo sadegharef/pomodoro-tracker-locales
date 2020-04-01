@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-19 21:07+0300\n"
+"POT-Creation-Date: 2020-04-01 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -206,11 +206,23 @@ msgstr "Вибране"
 msgid "Feedback"
 msgstr "Ідеї"
 
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "Заповніть порожні записи"
+
 msgid "Great work!"
 msgstr "Чудова робота!"
 
+msgid "Help"
+msgstr ""
+
 msgid "Hide notificaions"
 msgstr "Ховати сповіщення"
+
+msgid "History"
+msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Якщо завдання потребує більше 5-7 Помідорів, розбийте її на менші"
@@ -399,6 +411,9 @@ msgstr "Вихід"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Викликати спливне вікно з попередженням, коли Помідор/перерву закінчено"
+
+msgid "Rate the application"
+msgstr "Оцініть додаток"
 
 msgid "Records are empty"
 msgstr "Записів не знайдено"
@@ -644,6 +659,9 @@ msgstr "Гучність"
 msgid "What is it?"
 msgstr "Що це?"
 
+msgid "Window"
+msgstr ""
+
 msgid "Work days"
 msgstr "Робочі дні"
 
@@ -785,14 +803,23 @@ msgstr[0] "плюс"
 msgstr[1] "плюси"
 msgstr[2] "плюсів"
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
 msgstr "медіана"
+
+msgid "menu"
+msgstr ""
 
 msgid "merge"
 msgstr "об'єднати"
 
 msgid "messages"
 msgstr "повідомлення"
+
+msgid "minimize"
+msgstr ""
 
 msgid "minute"
 msgid_plural "minutes"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-19 21:07+0300\n"
+"POT-Creation-Date: 2020-04-01 15:25+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -205,11 +205,23 @@ msgstr "Таңдамалы"
 msgid "Feedback"
 msgstr "Пікір"
 
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "Бос жазбаларды толтырыңыз"
+
 msgid "Great work!"
 msgstr "Күшті жұмыс істедіңіз!"
 
+msgid "Help"
+msgstr ""
+
 msgid "Hide notificaions"
 msgstr "Хабарламаларды жасыру"
+
+msgid "History"
+msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Егер жұмысыңыз 5-7 қызанақ алса, оны бөліп тастаңыз"
@@ -398,6 +410,9 @@ msgstr "Шығу"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Қызанақ біткенде терезені шақыру"
+
+msgid "Rate the application"
+msgstr "Бағдарламаны бағалаңыз"
 
 msgid "Records are empty"
 msgstr "Жазбаларыңыз жоқ"
@@ -638,6 +653,9 @@ msgstr "Қаттылығы"
 msgid "What is it?"
 msgstr "Не зат?"
 
+msgid "Window"
+msgstr ""
+
 msgid "Work days"
 msgstr "Жұмыс күндері"
 
@@ -776,14 +794,23 @@ msgid_plural "likes"
 msgstr[0] "лайк"
 msgstr[1] "лайк"
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
 msgstr "медианасы"
+
+msgid "menu"
+msgstr ""
 
 msgid "merge"
 msgstr "біріктіру"
 
 msgid "messages"
 msgstr "хабарламалар"
+
+msgid "minimize"
+msgstr ""
 
 msgid "minute"
 msgid_plural "minutes"

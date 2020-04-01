@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-19 21:07+0300\n"
+"POT-Creation-Date: 2020-04-01 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -205,11 +205,23 @@ msgstr "Yêu thích"
 msgid "Feedback"
 msgstr "Phản hồi"
 
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "Điền vào các mục trống"
+
 msgid "Great work!"
 msgstr "Tốt lắm!"
 
+msgid "Help"
+msgstr ""
+
 msgid "Hide notificaions"
 msgstr "Ẩn Thông báo"
+
+msgid "History"
+msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Nếu một công việc cần nhiều hơn 5-7 pomodoros, hãy chia nhỏ nó"
@@ -397,6 +409,9 @@ msgstr "Thoát"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr ""
+
+msgid "Rate the application"
+msgstr "Đánh giá ứng dụng"
 
 msgid "Records are empty"
 msgstr ""
@@ -627,6 +642,9 @@ msgstr "Âm lượng"
 msgid "What is it?"
 msgstr "Đây là gì?"
 
+msgid "Window"
+msgstr ""
+
 msgid "Work days"
 msgstr "Những ngày làm việc"
 
@@ -762,14 +780,23 @@ msgid "like"
 msgid_plural "likes"
 msgstr[0] ""
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
 msgstr "trung bình"
+
+msgid "menu"
+msgstr ""
 
 msgid "merge"
 msgstr "hợp nhất"
 
 msgid "messages"
 msgstr "tin nhắn"
+
+msgid "minimize"
+msgstr ""
 
 msgid "minute"
 msgid_plural "minutes"

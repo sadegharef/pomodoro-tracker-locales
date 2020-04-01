@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-19 21:07+0300\n"
+"POT-Creation-Date: 2020-04-01 15:26+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -203,11 +203,23 @@ msgstr "收藏"
 msgid "Feedback"
 msgstr "反馈"
 
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "填写空白条目"
+
 msgid "Great work!"
 msgstr "赞！"
 
+msgid "Help"
+msgstr ""
+
 msgid "Hide notificaions"
 msgstr "隐藏通知"
+
+msgid "History"
+msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "如果一项任务需要超过5-7个番茄钟，请将其分解"
@@ -392,6 +404,9 @@ msgstr "退出"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "当番茄钟/休息结束的时候发送浏览器弹窗"
+
+msgid "Rate the application"
+msgstr "评价申请"
 
 msgid "Records are empty"
 msgstr "记录为空"
@@ -622,6 +637,9 @@ msgstr "音量"
 msgid "What is it?"
 msgstr "这是什么"
 
+msgid "Window"
+msgstr ""
+
 msgid "Work days"
 msgstr "工作天数"
 
@@ -757,14 +775,23 @@ msgid "like"
 msgid_plural "likes"
 msgstr[0] "赞"
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
 msgstr "中位数"
+
+msgid "menu"
+msgstr ""
 
 msgid "merge"
 msgstr "合并"
 
 msgid "messages"
 msgstr "讯息"
+
+msgid "minimize"
+msgstr ""
 
 msgid "minute"
 msgid_plural "minutes"

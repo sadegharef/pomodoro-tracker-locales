@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-19 21:06+0300\n"
+"POT-Creation-Date: 2020-04-01 15:25+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -204,11 +204,23 @@ msgstr "المفضلة"
 msgid "Feedback"
 msgstr "مراجعة"
 
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "املأ الإدخالات الفارغة"
+
 msgid "Great work!"
 msgstr "عمل عظيم!"
 
+msgid "Help"
+msgstr ""
+
 msgid "Hide notificaions"
 msgstr "اخفي الإشعارات"
+
+msgid "History"
+msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "لو أخذت مهمة واحدة اكثر من 5-7 بمودوروز، قم بتقسيمها"
@@ -395,6 +407,9 @@ msgstr "اغلاق"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "إرفع صوت منبه الويب عندما يكون مؤقت البمودورو/الإستراحة"
+
+msgid "Rate the application"
+msgstr "قيم التطبيق"
 
 msgid "Records are empty"
 msgstr "التسجيلات فارفة"
@@ -638,6 +653,9 @@ msgstr "الصوت"
 msgid "What is it?"
 msgstr "ما هذا؟"
 
+msgid "Window"
+msgstr ""
+
 msgid "Work days"
 msgstr "ايام العمل"
 
@@ -788,14 +806,23 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
 msgstr "العدد الاوسط"
+
+msgid "menu"
+msgstr ""
 
 msgid "merge"
 msgstr "دمج"
 
 msgid "messages"
 msgstr "رسائل"
+
+msgid "minimize"
+msgstr ""
 
 msgid "minute"
 msgid_plural "minutes"

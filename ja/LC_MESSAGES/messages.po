@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-19 21:07+0300\n"
+"POT-Creation-Date: 2020-04-01 15:25+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -203,11 +203,23 @@ msgstr "お気に入り"
 msgid "Feedback"
 msgstr "フィードバック"
 
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "空白のエントリを埋める"
+
 msgid "Great work!"
 msgstr "すごい仕事！"
 
+msgid "Help"
+msgstr ""
+
 msgid "Hide notificaions"
 msgstr "通知が隠れるまで"
+
+msgid "History"
+msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "1つのタスクが5-7ポモドーロ以上の場合は、タスクをもっと細かくしましょう"
@@ -392,6 +404,9 @@ msgstr "終了する"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "ポモドーロ/休憩が終わるとブラウザーアラートが表示されます"
+
+msgid "Rate the application"
+msgstr "アプリケーションを評価する"
 
 msgid "Records are empty"
 msgstr "レコードが空です"
@@ -622,6 +637,9 @@ msgstr "音量"
 msgid "What is it?"
 msgstr "Pomodoro Trackerとは"
 
+msgid "Window"
+msgstr ""
+
 msgid "Work days"
 msgstr "稼働日数"
 
@@ -760,14 +778,23 @@ msgid_plural "likes"
 msgstr[0] "いいね"
 msgstr[1] "いいね"
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
 msgstr "中央値"
+
+msgid "menu"
+msgstr ""
 
 msgid "merge"
 msgstr "マージ"
 
 msgid "messages"
 msgstr "メッセージ"
+
+msgid "minimize"
+msgstr ""
 
 msgid "minute"
 msgid_plural "minutes"

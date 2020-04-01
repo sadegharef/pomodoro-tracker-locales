@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-19 21:07+0300\n"
+"POT-Creation-Date: 2020-04-01 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nb_NO\n"
@@ -203,10 +203,22 @@ msgstr ""
 msgid "Feedback"
 msgstr ""
 
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr ""
+
 msgid "Great work!"
 msgstr ""
 
+msgid "Help"
+msgstr ""
+
 msgid "Hide notificaions"
+msgstr ""
+
+msgid "History"
 msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
@@ -391,6 +403,9 @@ msgid "Quit"
 msgstr ""
 
 msgid "Raise browser alert when pomodoro/break is over"
+msgstr ""
+
+msgid "Rate the application"
 msgstr ""
 
 msgid "Records are empty"
@@ -622,6 +637,9 @@ msgstr ""
 msgid "What is it?"
 msgstr ""
 
+msgid "Window"
+msgstr ""
+
 msgid "Work days"
 msgstr ""
 
@@ -760,13 +778,25 @@ msgid_plural "likes"
 msgstr[0] ""
 msgstr[1] ""
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
+msgstr ""
+
+#, fuzzy
+#| msgid "minute"
+#| msgid_plural "minutes"
+msgid "menu"
 msgstr ""
 
 msgid "merge"
 msgstr ""
 
 msgid "messages"
+msgstr ""
+
+msgid "minimize"
 msgstr ""
 
 msgid "minute"

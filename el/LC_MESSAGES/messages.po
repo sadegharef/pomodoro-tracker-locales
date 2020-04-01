@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-19 21:07+0300\n"
+"POT-Creation-Date: 2020-04-01 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -205,11 +205,23 @@ msgstr "Αγαπημένα"
 msgid "Feedback"
 msgstr "Ανατροφοδότηση"
 
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "Συμπληρώστε κενές καταχωρήσεις"
+
 msgid "Great work!"
 msgstr "Σπουδαία δουλειά"
 
+msgid "Help"
+msgstr ""
+
 msgid "Hide notificaions"
 msgstr "κρύψε της ειδοποιήσεις"
+
+msgid "History"
+msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Αμα μια ασχολία παίρνει παραπάνω απο 5-7 Πομοντόρος, σπάστο"
@@ -402,6 +414,9 @@ msgid "Raise browser alert when pomodoro/break is over"
 msgstr ""
 "Δώσε ειδοποιήση λογισμικού πλοήγησης οταν το πομοντόρο/διάλειμμα εχει "
 "τελείωση"
+
+msgid "Rate the application"
+msgstr "Αξιολογήστε την εφαρμογή"
 
 msgid "Records are empty"
 msgstr "Τα έγγραφα ειναι άδεια"
@@ -654,6 +669,9 @@ msgstr "Ένταση"
 msgid "What is it?"
 msgstr "Τι είναι?"
 
+msgid "Window"
+msgstr ""
+
 msgid "Work days"
 msgstr "Ημέρες δουλειάς"
 
@@ -792,14 +810,23 @@ msgid_plural "likes"
 msgstr[0] "like"
 msgstr[1] "likes"
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
 msgstr "διάμεσος"
+
+msgid "menu"
+msgstr ""
 
 msgid "merge"
 msgstr "συγχώνευση"
 
 msgid "messages"
 msgstr "μηνυμάτων"
+
+msgid "minimize"
+msgstr ""
 
 msgid "minute"
 msgid_plural "minutes"

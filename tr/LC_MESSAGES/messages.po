@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-19 21:07+0300\n"
+"POT-Creation-Date: 2020-04-01 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -207,11 +207,23 @@ msgstr "Favoriler"
 msgid "Feedback"
 msgstr "Geri Bildirim"
 
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "Boş girişleri doldur"
+
 msgid "Great work!"
 msgstr "Harika iş!"
 
+msgid "Help"
+msgstr ""
+
 msgid "Hide notificaions"
 msgstr "Bildirimleri gizle"
+
+msgid "History"
+msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "İşiniz 5-7 Pomodoro'dan fazla sürüyorsa abartıya kaçmayın"
@@ -400,6 +412,9 @@ msgstr "Çikmak"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Pomodoro/Mola bittiğinde tarayıcıdan uyarı ver"
+
+msgid "Rate the application"
+msgstr "Uygulamayı derecelendirin"
 
 msgid "Records are empty"
 msgstr "Kayıtlar boş"
@@ -644,6 +659,9 @@ msgstr "Ses"
 msgid "What is it?"
 msgstr "Bu nedir?"
 
+msgid "Window"
+msgstr ""
+
 msgid "Work days"
 msgstr "Çalışılan gün"
 
@@ -782,14 +800,23 @@ msgid_plural "likes"
 msgstr[0] "beğen"
 msgstr[1] ""
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
 msgstr "medyan"
+
+msgid "menu"
+msgstr ""
 
 msgid "merge"
 msgstr "birleşmek"
 
 msgid "messages"
 msgstr "mesajları"
+
+msgid "minimize"
+msgstr ""
 
 msgid "minute"
 msgid_plural "minutes"
