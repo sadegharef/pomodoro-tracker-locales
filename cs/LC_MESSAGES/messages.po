@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.12.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-01 15:25+0300\n"
+"POT-Creation-Date: 2020-04-01 16:31+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: cs\n"
@@ -788,9 +788,6 @@ msgstr ""
 msgid "median"
 msgstr ""
 
-#, fuzzy
-#| msgid "minute"
-#| msgid_plural "minutes"
 msgid "menu"
 msgstr ""
 
