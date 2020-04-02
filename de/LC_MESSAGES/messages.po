@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-04-01 16:32+0300\n"
+"POT-Creation-Date: 2020-04-02 21:45+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -340,6 +340,9 @@ msgstr ""
 
 msgid "New"
 msgstr "Neu"
+
+msgid "Next long break"
+msgstr "Nächste lange Pause"
 
 msgid "Notification Test"
 msgstr "Benachrichtigungstest"
