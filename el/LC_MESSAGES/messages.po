@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-08 11:50+0300\n"
+"POT-Creation-Date: 2020-04-08 14:37+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -890,6 +890,9 @@ msgstr "προεπισκόπση"
 
 msgid "previous page"
 msgstr "προηγούμενη σελίδα"
+
+msgid "prolong time"
+msgstr "παρατείνετε το χρόνο"
 
 msgid "rating"
 msgstr "εκτίμηση"
