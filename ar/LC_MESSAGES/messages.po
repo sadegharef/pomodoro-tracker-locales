@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-02 21:44+0300\n"
+"POT-Creation-Date: 2020-04-08 11:49+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -180,8 +180,8 @@ msgstr "عدل"
 msgid "Enable Browser Alerts"
 msgstr "شغل تنبيهات المتصفح"
 
-msgid "Enable Telegram Notifications"
-msgstr "شغل إشعارات التليجرام"
+msgid "Enable Notifications"
+msgstr "تمكين الإخطارات"
 
 msgid "Enable Web Notifications"
 msgstr "شغل إشعارات الويب"
@@ -291,8 +291,8 @@ msgstr "إعجاب"
 msgid "Link copied"
 msgstr "تم نسخ الرابط"
 
-msgid "Load daily tasks from Google Calendar"
-msgstr "حمل المهام اليومية من تقويم جوجل"
+msgid "Load daily tasks"
+msgstr "تمكين الإخطارات"
 
 msgid "Loading"
 msgstr "جاري التحميل"
@@ -456,17 +456,20 @@ msgstr "اختر الفئة"
 msgid "Select Dates"
 msgstr "اختر التواريخ"
 
-msgid "Send reports on email: "
-msgstr "أرسل التقارير عبر البريد"
-
-msgid "Send reports on telegram"
-msgstr "أرسل التقارير عبر تطبيق التليجرام"
+msgid "Send daily reports"
+msgstr "تمكين الإخطارات"
 
 msgid "Send test notification"
 msgstr "أرسل إشعارات الإختبار"
 
+msgid "Server Error"
+msgstr ""
+
 msgid "Server has been updated."
 msgstr "تم تحديث الخادم."
+
+msgid "Set do not disturb"
+msgstr "تعيين عدم الإزعاج"
 
 msgid "Settings"
 msgstr "اعدادات"
@@ -515,8 +518,11 @@ msgstr "قوي عزيمتك على الاستمرار لتكون قادر على
 msgid "Support the Project"
 msgstr "ادعم المشروع"
 
-msgid "Sync with Google Tasks"
-msgstr "ادمج مع مهام جوجل"
+msgid "Sync completed"
+msgstr "اكتملت المزامنة"
+
+msgid "Sync my tasks only"
+msgstr "مزامنة مهامي فقط"
 
 msgid "TODO"
 msgstr "عمل مطلوب انجازه"
@@ -646,6 +652,9 @@ msgstr "اضبط المؤقت"
 
 msgid "Unselect Category"
 msgstr "إلغاء تحديد الفئة"
+
+msgid "Update status"
+msgstr "تحديث الحالة"
 
 msgid "View"
 msgstr "اظهر"
@@ -997,6 +1006,9 @@ msgstr[5] ""
 #~ msgid "Enable Telegram Bot"
 #~ msgstr "تفعيل بوت تليجرام"
 
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "شغل إشعارات التليجرام"
+
 #~ msgid "February"
 #~ msgstr "فبراير"
 
@@ -1026,6 +1038,9 @@ msgstr[5] ""
 
 #~ msgid "June"
 #~ msgstr "يونيو"
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "حمل المهام اليومية من تقويم جوجل"
 
 #~ msgid "Login to the service using Facebook authentication."
 #~ msgstr "تسجيل الدخول بإستخدام مصادقة فيسبوك"
@@ -1069,11 +1084,20 @@ msgstr[5] ""
 #~ msgid "Send Daily Reports"
 #~ msgstr "أرسل تقارير يومية"
 
+#~ msgid "Send reports on email: "
+#~ msgstr "أرسل التقارير عبر البريد"
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "أرسل التقارير عبر تطبيق التليجرام"
+
 #~ msgid "September"
 #~ msgstr "سبتمبر"
 
 #~ msgid "Show All"
 #~ msgstr "اظهر الجميع"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr "ادمج مع مهام جوجل"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "مؤقت البمودورو يعمل"

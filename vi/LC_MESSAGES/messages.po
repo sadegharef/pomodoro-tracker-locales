@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-02 21:45+0300\n"
+"POT-Creation-Date: 2020-04-08 11:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -181,8 +181,8 @@ msgstr "Chỉnh sửa"
 msgid "Enable Browser Alerts"
 msgstr "Bật Thông báo Trình duyệt"
 
-msgid "Enable Telegram Notifications"
-msgstr "Bật thông báo Telegram"
+msgid "Enable Notifications"
+msgstr "Bật Thông báo"
 
 msgid "Enable Web Notifications"
 msgstr "Bật Thông báo Web"
@@ -293,8 +293,8 @@ msgstr "Thích"
 msgid "Link copied"
 msgstr ""
 
-msgid "Load daily tasks from Google Calendar"
-msgstr "Nhập công việc hằng ngày từ Google Calendar"
+msgid "Load daily tasks"
+msgstr "Tải các công việc hàng ngày"
 
 msgid "Loading"
 msgstr "Đang nhập"
@@ -458,17 +458,20 @@ msgstr ""
 msgid "Select Dates"
 msgstr ""
 
-msgid "Send reports on email: "
-msgstr ""
-
-msgid "Send reports on telegram"
-msgstr ""
+msgid "Send daily reports"
+msgstr "Gửi báo cáo hàng ngày"
 
 msgid "Send test notification"
 msgstr ""
 
+msgid "Server Error"
+msgstr ""
+
 msgid "Server has been updated."
 msgstr "Hệ thống đã được cập nhật."
+
+msgid "Set do not disturb"
+msgstr "Đặt không làm phiền"
 
 msgid "Settings"
 msgstr "Cài đặt"
@@ -517,8 +520,11 @@ msgstr ""
 msgid "Support the Project"
 msgstr "Hỗ trợ dự án"
 
-msgid "Sync with Google Tasks"
-msgstr "Đồng bộ hóa với Google Tasks"
+msgid "Sync completed"
+msgstr "Đã hoàn tất đồng bộ hóa"
+
+msgid "Sync my tasks only"
+msgstr "Chỉ đồng bộ hóa nhiệm vụ của tôi"
 
 msgid "TODO"
 msgstr "TODO"
@@ -635,6 +641,9 @@ msgstr ""
 
 msgid "Unselect Category"
 msgstr ""
+
+msgid "Update status"
+msgstr "Cập nhật trạng thái"
 
 msgid "View"
 msgstr ""
@@ -942,6 +951,9 @@ msgstr[0] ""
 #~ msgid "December"
 #~ msgstr "Tháng 12"
 
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "Bật thông báo Telegram"
+
 #~ msgid "February"
 #~ msgstr "Tháng 2"
 
@@ -953,6 +965,9 @@ msgstr[0] ""
 
 #~ msgid "June"
 #~ msgstr "Tháng 6"
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "Nhập công việc hằng ngày từ Google Calendar"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "Đăng nhập để xem số liệu thống kê của bạn"
@@ -978,8 +993,17 @@ msgstr[0] ""
 #~ msgid "Send Daily Reports"
 #~ msgstr ""
 
+#~ msgid "Send reports on email: "
+#~ msgstr ""
+
+#~ msgid "Send reports on telegram"
+#~ msgstr ""
+
 #~ msgid "September"
 #~ msgstr "Tháng 9"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr "Đồng bộ hóa với Google Tasks"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "The Pomodoro đang chạy"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-04-02 21:45+0300\n"
+"POT-Creation-Date: 2020-04-08 11:50+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -180,8 +180,8 @@ msgstr "Bewerken"
 msgid "Enable Browser Alerts"
 msgstr "Activeer browser-alerts"
 
-msgid "Enable Telegram Notifications"
-msgstr "Activeer Telegram-notificaties"
+msgid "Enable Notifications"
+msgstr "Activeer notificaties"
 
 msgid "Enable Web Notifications"
 msgstr "Activeer web-notificaties"
@@ -291,8 +291,8 @@ msgstr "Like"
 msgid "Link copied"
 msgstr "Link gekopieerd"
 
-msgid "Load daily tasks from Google Calendar"
-msgstr "Laad dagelijkse taken uit Google Agenda"
+msgid "Load daily tasks"
+msgstr "Laad dagelijkse taken"
 
 msgid "Loading"
 msgstr "Bezig met laden"
@@ -458,17 +458,20 @@ msgstr "Selecteer categorie"
 msgid "Select Dates"
 msgstr "Selecteer Datums"
 
-msgid "Send reports on email: "
-msgstr "Stuur rapportages naar e-mail: "
-
-msgid "Send reports on telegram"
-msgstr "Stuur rapportages op Telegram"
+msgid "Send daily reports"
+msgstr "Stuur dagelijkse rapporten"
 
 msgid "Send test notification"
 msgstr "Stuur testnotificatie"
 
+msgid "Server Error"
+msgstr ""
+
 msgid "Server has been updated."
 msgstr "Server is geüpdatet."
+
+msgid "Set do not disturb"
+msgstr "Stel niet storen"
 
 msgid "Settings"
 msgstr "Instellingen"
@@ -519,8 +522,11 @@ msgstr ""
 msgid "Support the Project"
 msgstr "Steun het project"
 
-msgid "Sync with Google Tasks"
-msgstr ""
+msgid "Sync completed"
+msgstr "Synchronisatie voltooid"
+
+msgid "Sync my tasks only"
+msgstr "Synchroniseer alleen mijn taken"
 
 msgid "TODO"
 msgstr "TODO"
@@ -651,6 +657,9 @@ msgstr "Timer instellen"
 
 msgid "Unselect Category"
 msgstr "Deselecteer categorie"
+
+msgid "Update status"
+msgstr "Status bijwerken"
 
 msgid "View"
 msgstr "Tonen"
@@ -964,6 +973,9 @@ msgstr[1] "jaren"
 #~ msgid "December"
 #~ msgstr "december"
 
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "Activeer Telegram-notificaties"
+
 #~ msgid "February"
 #~ msgstr "februari"
 
@@ -975,6 +987,9 @@ msgstr[1] "jaren"
 
 #~ msgid "June"
 #~ msgstr "juni"
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "Laad dagelijkse taken uit Google Agenda"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "Login om uw statistieken te zien"
@@ -1000,8 +1015,17 @@ msgstr[1] "jaren"
 #~ msgid "Send Daily Reports"
 #~ msgstr "Stuur dagelijkse rapportages"
 
+#~ msgid "Send reports on email: "
+#~ msgstr "Stuur rapportages naar e-mail: "
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "Stuur rapportages op Telegram"
+
 #~ msgid "September"
 #~ msgstr "september"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr ""
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "De pomodoro loopt"

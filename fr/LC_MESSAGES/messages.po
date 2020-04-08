@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-02 21:45+0300\n"
+"POT-Creation-Date: 2020-04-08 11:49+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -181,8 +181,8 @@ msgstr "Modifier"
 msgid "Enable Browser Alerts"
 msgstr "Activer les alertes dans le navigateur"
 
-msgid "Enable Telegram Notifications"
-msgstr "Activer les notifications Telegram"
+msgid "Enable Notifications"
+msgstr "Activer les notifications"
 
 msgid "Enable Web Notifications"
 msgstr "Activer les notifications Web"
@@ -293,8 +293,8 @@ msgstr "Liker"
 msgid "Link copied"
 msgstr "Lien copié"
 
-msgid "Load daily tasks from Google Calendar"
-msgstr "Charger des tâches quotidiennes à partir de Google Agenda"
+msgid "Load daily tasks"
+msgstr "Charger les tâches quotidiennes"
 
 msgid "Loading"
 msgstr "Chargement en cours"
@@ -458,17 +458,20 @@ msgstr "Sélectionnez une catégorie"
 msgid "Select Dates"
 msgstr "Sélectionnez les dates"
 
-msgid "Send reports on email: "
-msgstr "Envoyer les rapports à l'adresse e-mail : "
-
-msgid "Send reports on telegram"
-msgstr "Envoyer les rapports sur telegram"
+msgid "Send daily reports"
+msgstr "Envoyer des rapports quotidiens"
 
 msgid "Send test notification"
 msgstr "Envoyer une notification de test"
 
+msgid "Server Error"
+msgstr ""
+
 msgid "Server has been updated."
 msgstr "Le serveur a été mis à jour."
+
+msgid "Set do not disturb"
+msgstr "Set ne pas déranger"
 
 msgid "Settings"
 msgstr "Paramètres"
@@ -517,8 +520,11 @@ msgstr "Renforcer votre détermination à résoudre les situations complexes"
 msgid "Support the Project"
 msgstr "Soutenir le projet"
 
-msgid "Sync with Google Tasks"
-msgstr "Synchroniser avec Google Tasks"
+msgid "Sync completed"
+msgstr "Synchronisation terminée"
+
+msgid "Sync my tasks only"
+msgstr "Synchroniser mes tâches uniquement"
 
 msgid "TODO"
 msgstr "TODO"
@@ -648,6 +654,9 @@ msgstr "Régler la minuterie"
 
 msgid "Unselect Category"
 msgstr "Désélectionner la catégorie"
+
+msgid "Update status"
+msgstr "État de mise à jour"
 
 msgid "View"
 msgstr ""
@@ -963,6 +972,9 @@ msgstr[1] "ans"
 #~ msgid "December"
 #~ msgstr "décembre"
 
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "Activer les notifications Telegram"
+
 #~ msgid "February"
 #~ msgstr "février"
 
@@ -974,6 +986,9 @@ msgstr[1] "ans"
 
 #~ msgid "June"
 #~ msgstr "juin"
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "Charger des tâches quotidiennes à partir de Google Agenda"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "Connectez-vous pour consulter vos statistiques"
@@ -996,8 +1011,17 @@ msgstr[1] "ans"
 #~ msgid "Send Daily Reports"
 #~ msgstr "Envoyer des rapport quotidiens"
 
+#~ msgid "Send reports on email: "
+#~ msgstr "Envoyer les rapports à l'adresse e-mail : "
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "Envoyer les rapports sur telegram"
+
 #~ msgid "September"
 #~ msgstr "septembre"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr "Synchroniser avec Google Tasks"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Le pomodoro est lancé."

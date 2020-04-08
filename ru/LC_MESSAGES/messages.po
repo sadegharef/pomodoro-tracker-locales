@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-02 21:44+0300\n"
+"POT-Creation-Date: 2020-04-08 11:49+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -182,8 +182,8 @@ msgstr "Редактировать"
 msgid "Enable Browser Alerts"
 msgstr "Включить всплывающие окна"
 
-msgid "Enable Telegram Notifications"
-msgstr "Включить оповещения в Телеграмме"
+msgid "Enable Notifications"
+msgstr "Включить оповещения"
 
 msgid "Enable Web Notifications"
 msgstr "Включить оповещения в браузере"
@@ -295,8 +295,8 @@ msgstr "Плюс один"
 msgid "Link copied"
 msgstr "Ссылка скопирована"
 
-msgid "Load daily tasks from Google Calendar"
-msgstr "Загружать ежедневные задачи из календаря Google"
+msgid "Load daily tasks"
+msgstr "Загружать задачи на день"
 
 msgid "Loading"
 msgstr "Загрузка"
@@ -462,17 +462,20 @@ msgstr "Выбрать категорию"
 msgid "Select Dates"
 msgstr "Выбрать даты"
 
-msgid "Send reports on email: "
-msgstr "Отправлять отчеты на email: "
-
-msgid "Send reports on telegram"
-msgstr "Отправлять отчеты на телеграм"
+msgid "Send daily reports"
+msgstr "Отправлять ежедневные отчеты"
 
 msgid "Send test notification"
 msgstr "Отправить тестовое оповещение"
 
+msgid "Server Error"
+msgstr "Ошибка сервера"
+
 msgid "Server has been updated."
 msgstr "Сервер был обновлен."
+
+msgid "Set do not disturb"
+msgstr "Выключать оповещения"
 
 msgid "Settings"
 msgstr "Настройки"
@@ -521,8 +524,11 @@ msgstr "Укрепления вашей решимости в сложных с�
 msgid "Support the Project"
 msgstr "Поддержать проект"
 
-msgid "Sync with Google Tasks"
-msgstr "Синхронизация с Google Tasks"
+msgid "Sync completed"
+msgstr "Синхронизировать выполненные"
+
+msgid "Sync my tasks only"
+msgstr "Синхронизировать только мои задачи"
 
 msgid "TODO"
 msgstr "Запланировано"
@@ -653,6 +659,9 @@ msgstr "Настройки"
 
 msgid "Unselect Category"
 msgstr "Отменить выбор категории"
+
+msgid "Update status"
+msgstr "Обновлять статус"
 
 msgid "View"
 msgstr "Вид"
@@ -949,76 +958,4 @@ msgid_plural "years"
 msgstr[0] "год"
 msgstr[1] "года"
 msgstr[2] "лет"
-
-#~ msgid "Apply"
-#~ msgstr "Применить"
-
-#~ msgid "April"
-#~ msgstr "Апрель"
-
-#~ msgid "Are you sure want to delete"
-#~ msgstr "Вы уверены, что хотите удалить"
-
-#~ msgid "August"
-#~ msgstr "Август"
-
-#~ msgid "Daily history"
-#~ msgstr "История задач"
-
-#~ msgid "Date"
-#~ msgstr "Дата"
-
-#~ msgid "December"
-#~ msgstr "Декабрь"
-
-#~ msgid "February"
-#~ msgstr "Февраль"
-
-#~ msgid "January"
-#~ msgstr "Январь"
-
-#~ msgid "July"
-#~ msgstr "Июль"
-
-#~ msgid "June"
-#~ msgstr "Июнь"
-
-#~ msgid "Login to view your stats"
-#~ msgstr "Войдите для просмотра статистики"
-
-#~ msgid "March"
-#~ msgstr "Март"
-
-#~ msgid "May"
-#~ msgstr "Май"
-
-#~ msgid "November"
-#~ msgstr "Ноябрь"
-
-#~ msgid "October"
-#~ msgstr "Октябрь"
-
-#~ msgid "Privacy Policy"
-#~ msgstr "Политика конфиденциальности"
-
-#~ msgid "Send Daily Reports"
-#~ msgstr "Отправка отчетов"
-
-#~ msgid "September"
-#~ msgstr "Сентябрь"
-
-#~ msgid "The Pomodoro is running"
-#~ msgstr "Помидор запущен"
-
-#~ msgid "Try to complete some pomodoros above"
-#~ msgstr "Попробуйте выполнить несколько помидоров"
-
-#~ msgid "quarter"
-#~ msgstr "квартал"
-
-#~ msgid "record"
-#~ msgstr "запись"
-
-#~ msgid "version"
-#~ msgstr "Версия"
 

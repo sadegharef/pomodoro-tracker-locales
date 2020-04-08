@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.3.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-02 21:45+0300\n"
+"POT-Creation-Date: 2020-04-08 11:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ro\n"
@@ -180,7 +180,7 @@ msgstr ""
 msgid "Enable Browser Alerts"
 msgstr ""
 
-msgid "Enable Telegram Notifications"
+msgid "Enable Notifications"
 msgstr ""
 
 msgid "Enable Web Notifications"
@@ -289,7 +289,7 @@ msgstr ""
 msgid "Link copied"
 msgstr ""
 
-msgid "Load daily tasks from Google Calendar"
+msgid "Load daily tasks"
 msgstr ""
 
 msgid "Loading"
@@ -454,16 +454,19 @@ msgstr ""
 msgid "Select Dates"
 msgstr ""
 
-msgid "Send reports on email: "
-msgstr ""
-
-msgid "Send reports on telegram"
+msgid "Send daily reports"
 msgstr ""
 
 msgid "Send test notification"
 msgstr ""
 
+msgid "Server Error"
+msgstr ""
+
 msgid "Server has been updated."
+msgstr ""
+
+msgid "Set do not disturb"
 msgstr ""
 
 msgid "Settings"
@@ -513,7 +516,10 @@ msgstr ""
 msgid "Support the Project"
 msgstr ""
 
-msgid "Sync with Google Tasks"
+msgid "Sync completed"
+msgstr ""
+
+msgid "Sync my tasks only"
 msgstr ""
 
 msgid "TODO"
@@ -630,6 +636,9 @@ msgid "Tune the timer"
 msgstr ""
 
 msgid "Unselect Category"
+msgstr ""
+
+msgid "Update status"
 msgstr ""
 
 msgid "View"

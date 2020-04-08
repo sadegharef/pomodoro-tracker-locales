@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-02 21:45+0300\n"
+"POT-Creation-Date: 2020-04-08 11:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -181,8 +181,8 @@ msgstr "Өңдеу"
 msgid "Enable Browser Alerts"
 msgstr "Шағын терезе күйінде"
 
-msgid "Enable Telegram Notifications"
-msgstr "Telegram-хабарлама"
+msgid "Enable Notifications"
+msgstr "Хабарландыруларды қосыңыз"
 
 msgid "Enable Web Notifications"
 msgstr "Web-хабарлама"
@@ -294,8 +294,8 @@ msgstr "Like"
 msgid "Link copied"
 msgstr "Сілтеме көшірілді"
 
-msgid "Load daily tasks from Google Calendar"
-msgstr "Күнделікті тапсырмаларды Google Calendar арқылы жүктеңіз"
+msgid "Load daily tasks"
+msgstr "Күнделікті тапсырмаларды жүктеңіз"
 
 msgid "Loading"
 msgstr "Қазір"
@@ -459,17 +459,20 @@ msgstr "Санатты таңдаңыз"
 msgid "Select Dates"
 msgstr "Күндерді таңдаңыз"
 
-msgid "Send reports on email: "
-msgstr "Осы e-mail-ға"
-
-msgid "Send reports on telegram"
-msgstr "Осы telegram-ға"
+msgid "Send daily reports"
+msgstr "Күнделікті есептер жіберу"
 
 msgid "Send test notification"
 msgstr "Тест күйінде хабарламаны көру"
 
+msgid "Server Error"
+msgstr ""
+
 msgid "Server has been updated."
 msgstr "Сервер жаңарды"
+
+msgid "Set do not disturb"
+msgstr "Мазаламаңыз"
 
 msgid "Settings"
 msgstr "Баптаулар"
@@ -518,8 +521,11 @@ msgstr "Қиын жағдай кезінде табандылықты артты
 msgid "Support the Project"
 msgstr "Жобаны қолдап отырыңыз"
 
-msgid "Sync with Google Tasks"
-msgstr ""
+msgid "Sync completed"
+msgstr "Синхрондау аяқталды"
+
+msgid "Sync my tasks only"
+msgstr "Тек менің тапсырмаларымды синхрондаңыз"
 
 msgid "TODO"
 msgstr "TODO"
@@ -646,6 +652,9 @@ msgstr "Баптаулар"
 
 msgid "Unselect Category"
 msgstr "Таңдамау категориясы"
+
+msgid "Update status"
+msgstr "Күйді жаңарту"
 
 msgid "View"
 msgstr "View"
@@ -957,6 +966,9 @@ msgstr[1] "жыл"
 #~ msgid "December"
 #~ msgstr "Желтоқсан"
 
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "Telegram-хабарлама"
+
 #~ msgid "February"
 #~ msgstr "Ақпан"
 
@@ -968,6 +980,9 @@ msgstr[1] "жыл"
 
 #~ msgid "June"
 #~ msgstr "Маусым"
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "Күнделікті тапсырмаларды Google Calendar арқылы жүктеңіз"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "Статистика көргенге кіру керек"
@@ -993,8 +1008,17 @@ msgstr[1] "жыл"
 #~ msgid "Send Daily Reports"
 #~ msgstr "Күнделікті есеп жіберу"
 
+#~ msgid "Send reports on email: "
+#~ msgstr "Осы e-mail-ға"
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "Осы telegram-ға"
+
 #~ msgid "September"
 #~ msgstr "Қыркүйек"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr ""
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Қызанақ кетті"

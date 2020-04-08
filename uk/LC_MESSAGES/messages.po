@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-02 21:45+0300\n"
+"POT-Creation-Date: 2020-04-08 11:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -182,8 +182,8 @@ msgstr "Редагувати"
 msgid "Enable Browser Alerts"
 msgstr "Увімкнути спливні вікна"
 
-msgid "Enable Telegram Notifications"
-msgstr "Увімкнути сповіщення в Телеграмі"
+msgid "Enable Notifications"
+msgstr "Увімкнути сповіщення"
 
 msgid "Enable Web Notifications"
 msgstr "Увімкнути сповіщення в браузері"
@@ -293,8 +293,8 @@ msgstr "Плюс"
 msgid "Link copied"
 msgstr "Посилання скопійовано"
 
-msgid "Load daily tasks from Google Calendar"
-msgstr "Завантажувати щоденні завдання з календаря Google"
+msgid "Load daily tasks"
+msgstr "Завантажуйте щоденні завдання"
 
 msgid "Loading"
 msgstr "Завантажується"
@@ -460,17 +460,20 @@ msgstr "Вибрати категорію"
 msgid "Select Dates"
 msgstr "Вибрати дати"
 
-msgid "Send reports on email: "
-msgstr "Відправляти звіти на мейл:"
-
-msgid "Send reports on telegram"
-msgstr "Відправляти звіти на Телеграм"
+msgid "Send daily reports"
+msgstr "Надсилайте щоденні звіти"
 
 msgid "Send test notification"
 msgstr "Відправити тестове сповіщення"
 
+msgid "Server Error"
+msgstr ""
+
 msgid "Server has been updated."
 msgstr "Сервер було оновлено"
+
+msgid "Set do not disturb"
+msgstr "Набір не турбувати"
 
 msgid "Settings"
 msgstr "Налаштування"
@@ -519,8 +522,11 @@ msgstr "Посилити вашу рішучість продовжувати у
 msgid "Support the Project"
 msgstr "Підтримати проект"
 
-msgid "Sync with Google Tasks"
-msgstr "Синхронізація з Google Tasks"
+msgid "Sync completed"
+msgstr "Синхронізація завершена"
+
+msgid "Sync my tasks only"
+msgstr "Синхронізувати лише мої завдання"
 
 msgid "TODO"
 msgstr "Заплановано"
@@ -652,6 +658,9 @@ msgstr "Налаштування таймера"
 
 msgid "Unselect Category"
 msgstr "Скасувати вибір категорії"
+
+msgid "Update status"
+msgstr "Оновити статус"
 
 msgid "View"
 msgstr "Вигляд"
@@ -948,6 +957,21 @@ msgid_plural "years"
 msgstr[0] "рік"
 msgstr[1] "роки"
 msgstr[2] "років"
+
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "Увімкнути сповіщення в Телеграмі"
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "Завантажувати щоденні завдання з календаря Google"
+
+#~ msgid "Send reports on email: "
+#~ msgstr "Відправляти звіти на мейл:"
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "Відправляти звіти на Телеграм"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr "Синхронізація з Google Tasks"
 
 #~ msgid "quarter"
 #~ msgstr "квартал"

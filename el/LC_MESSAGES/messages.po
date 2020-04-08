@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-02 21:45+0300\n"
+"POT-Creation-Date: 2020-04-08 11:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -181,8 +181,8 @@ msgstr "Επεξεργασία"
 msgid "Enable Browser Alerts"
 msgstr "Ενεργοποίησε Ειδοποιήσεις Λογισμικού Πλοήγησης"
 
-msgid "Enable Telegram Notifications"
-msgstr "Ενεργοποίησε Ειδοποιήσεις απο το Telegram"
+msgid "Enable Notifications"
+msgstr "Ενεργοποίηση ειδοποιήσεων"
 
 msgid "Enable Web Notifications"
 msgstr "Ενεργοποίησε Ειδοποιήσεις Ιστοσελιδας"
@@ -294,8 +294,8 @@ msgstr "Μου Αρέσει"
 msgid "Link copied"
 msgstr "Η σύνδεση αντιγράφηκε"
 
-msgid "Load daily tasks from Google Calendar"
-msgstr "Φόρτωσε καθημερινές ασχολίες απο το Ημερολόγιο Google"
+msgid "Load daily tasks"
+msgstr "Φόρτωση καθημερινών εργασιών"
 
 msgid "Loading"
 msgstr "Φόρτωμα"
@@ -465,17 +465,20 @@ msgstr "Επιλέξτε κατηγορία"
 msgid "Select Dates"
 msgstr "Επιλέξτε Ημερομηνίες"
 
-msgid "Send reports on email: "
-msgstr "Στείλε αναφορές στο email"
-
-msgid "Send reports on telegram"
-msgstr "Στείλε αναφορές στο telegram"
+msgid "Send daily reports"
+msgstr "Αποστολή ημερήσιων αναφορών"
 
 msgid "Send test notification"
 msgstr "Στείλε ειδοποίησεις δοκιμής"
 
+msgid "Server Error"
+msgstr ""
+
 msgid "Server has been updated."
 msgstr "Έχει γίνει ενημέρωση της υπηρεσίας"
+
+msgid "Set do not disturb"
+msgstr "Ορίστε να μην ενοχλείτε"
 
 msgid "Settings"
 msgstr "Ρυθμίσεις"
@@ -526,8 +529,11 @@ msgstr ""
 msgid "Support the Project"
 msgstr "Υποστήριξε το Έργο"
 
-msgid "Sync with Google Tasks"
-msgstr "Κανε συγχρονισμό με το Google Tasks"
+msgid "Sync completed"
+msgstr "Ο συγχρονισμός ολοκληρώθηκε"
+
+msgid "Sync my tasks only"
+msgstr "Συγχρονίστε μόνο τις εργασίες μου"
 
 msgid "TODO"
 msgstr "TODO"
@@ -662,6 +668,9 @@ msgstr "Κούρδισε το χρονόμετρο"
 
 msgid "Unselect Category"
 msgstr "Αποεπιλογή κατηγορίας"
+
+msgid "Update status"
+msgstr "Ενημέρωση κατάστασης"
 
 msgid "View"
 msgstr "Θέα"
@@ -954,8 +963,23 @@ msgid_plural "years"
 msgstr[0] "χρόνο"
 msgstr[1] "χρόνια"
 
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "Ενεργοποίησε Ειδοποιήσεις απο το Telegram"
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "Φόρτωσε καθημερινές ασχολίες απο το Ημερολόγιο Google"
+
 #~ msgid "Privacy Policy"
 #~ msgstr "Πολιτική Απορρήτου"
+
+#~ msgid "Send reports on email: "
+#~ msgstr "Στείλε αναφορές στο email"
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "Στείλε αναφορές στο telegram"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr "Κανε συγχρονισμό με το Google Tasks"
 
 #~ msgid "quarter"
 #~ msgstr "τριμηνία"

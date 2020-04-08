@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-02 21:45+0300\n"
+"POT-Creation-Date: 2020-04-08 11:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -179,8 +179,8 @@ msgstr "編集"
 msgid "Enable Browser Alerts"
 msgstr "ブラウザーアラートを有効にする"
 
-msgid "Enable Telegram Notifications"
-msgstr "テレグラム通知を有効にする"
+msgid "Enable Notifications"
+msgstr "通知機能を有効にする"
 
 msgid "Enable Web Notifications"
 msgstr "Web通知機能を有効にする"
@@ -288,8 +288,8 @@ msgstr "いいね"
 msgid "Link copied"
 msgstr ""
 
-msgid "Load daily tasks from Google Calendar"
-msgstr "Googleカレンダーから毎日のタスクを読み込む"
+msgid "Load daily tasks"
+msgstr "毎日のタスクを読み込む"
 
 msgid "Loading"
 msgstr "読み込み中"
@@ -453,17 +453,20 @@ msgstr ""
 msgid "Select Dates"
 msgstr ""
 
-msgid "Send reports on email: "
-msgstr "電子メールでレポートを送信する"
-
-msgid "Send reports on telegram"
-msgstr "電報に関するレポートを送信する"
+msgid "Send daily reports"
+msgstr "日報を送る"
 
 msgid "Send test notification"
 msgstr "テスト通知を送信する"
 
+msgid "Server Error"
+msgstr ""
+
 msgid "Server has been updated."
 msgstr "サーバーが更新されました。"
+
+msgid "Set do not disturb"
+msgstr "サイレントセット"
 
 msgid "Settings"
 msgstr "設定"
@@ -512,8 +515,11 @@ msgstr "複雑な状況に立ち向かう時に最大限の力を引き出せる
 msgid "Support the Project"
 msgstr "プロジェクトをサポートする"
 
-msgid "Sync with Google Tasks"
-msgstr "Google Tasksに同期する"
+msgid "Sync completed"
+msgstr "同期が完了しました"
+
+msgid "Sync my tasks only"
+msgstr "タスクのみを同期する"
 
 msgid "TODO"
 msgstr "TODO"
@@ -630,6 +636,9 @@ msgstr "タイマーを調整する"
 
 msgid "Unselect Category"
 msgstr ""
+
+msgid "Update status"
+msgstr "最新状況"
 
 msgid "View"
 msgstr ""
@@ -941,6 +950,9 @@ msgstr[1] "年"
 #~ msgid "December"
 #~ msgstr "12月"
 
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "テレグラム通知を有効にする"
+
 #~ msgid "February"
 #~ msgstr "2月"
 
@@ -952,6 +964,9 @@ msgstr[1] "年"
 
 #~ msgid "June"
 #~ msgstr "6月"
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "Googleカレンダーから毎日のタスクを読み込む"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "ログインして統計情報を表示する"
@@ -977,8 +992,17 @@ msgstr[1] "年"
 #~ msgid "Send Daily Reports"
 #~ msgstr "日報を送る"
 
+#~ msgid "Send reports on email: "
+#~ msgstr "電子メールでレポートを送信する"
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "電報に関するレポートを送信する"
+
 #~ msgid "September"
 #~ msgstr "9月"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr "Google Tasksに同期する"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "ポモドーロ中"

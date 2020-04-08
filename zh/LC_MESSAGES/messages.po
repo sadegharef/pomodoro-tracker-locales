@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-02 21:45+0300\n"
+"POT-Creation-Date: 2020-04-08 11:50+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -179,8 +179,8 @@ msgstr "编辑"
 msgid "Enable Browser Alerts"
 msgstr "启用浏览器弹窗"
 
-msgid "Enable Telegram Notifications"
-msgstr "启用Telegram通知"
+msgid "Enable Notifications"
+msgstr "启用通知"
 
 msgid "Enable Web Notifications"
 msgstr "启用网页通知"
@@ -288,8 +288,8 @@ msgstr "点赞"
 msgid "Link copied"
 msgstr ""
 
-msgid "Load daily tasks from Google Calendar"
-msgstr "从Google日历加载每日任务"
+msgid "Load daily tasks"
+msgstr "加载日常任务"
 
 msgid "Loading"
 msgstr "载入中"
@@ -453,17 +453,20 @@ msgstr ""
 msgid "Select Dates"
 msgstr ""
 
-msgid "Send reports on email: "
-msgstr "向该邮箱发送报告："
-
-msgid "Send reports on telegram"
-msgstr "通过telegram发送报告"
+msgid "Send daily reports"
+msgstr "发送每日报告"
 
 msgid "Send test notification"
 msgstr "发送测试通知"
 
+msgid "Server Error"
+msgstr ""
+
 msgid "Server has been updated."
 msgstr "服务器已更新。"
+
+msgid "Set do not disturb"
+msgstr "设置请勿打扰"
 
 msgid "Settings"
 msgstr "设置"
@@ -512,8 +515,11 @@ msgstr "面对复杂的情况，强化自己坚持应用自己的决心"
 msgid "Support the Project"
 msgstr "赞助本项目"
 
-msgid "Sync with Google Tasks"
-msgstr ""
+msgid "Sync completed"
+msgstr "同步完成"
+
+msgid "Sync my tasks only"
+msgstr "仅同步我的任务"
 
 msgid "TODO"
 msgstr "代办"
@@ -630,6 +636,9 @@ msgstr "校准计时器"
 
 msgid "Unselect Category"
 msgstr ""
+
+msgid "Update status"
+msgstr "更新状态"
 
 msgid "View"
 msgstr ""
@@ -937,6 +946,9 @@ msgstr[0] "年"
 #~ msgid "December"
 #~ msgstr "十二月"
 
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "启用Telegram通知"
+
 #~ msgid "February"
 #~ msgstr "二月"
 
@@ -948,6 +960,9 @@ msgstr[0] "年"
 
 #~ msgid "June"
 #~ msgstr "六月"
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "从Google日历加载每日任务"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "登入后查看你的统计信息"
@@ -973,8 +988,17 @@ msgstr[0] "年"
 #~ msgid "Send Daily Reports"
 #~ msgstr "发送每日报告"
 
+#~ msgid "Send reports on email: "
+#~ msgstr "向该邮箱发送报告："
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "通过telegram发送报告"
+
 #~ msgid "September"
 #~ msgstr "九月"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr ""
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "番茄钟正在运行"
