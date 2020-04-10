@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-08 14:36+0300\n"
+"POT-Creation-Date: 2020-04-10 21:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -520,9 +520,6 @@ msgstr "Қиын жағдай кезінде табандылықты артты
 
 msgid "Support the Project"
 msgstr "Жобаны қолдап отырыңыз"
-
-msgid "Sync completed"
-msgstr "Синхрондау аяқталды"
 
 msgid "Sync my tasks only"
 msgstr "Тек менің тапсырмаларымды синхрондаңыз"

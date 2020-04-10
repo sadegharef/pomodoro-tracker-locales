@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-08 14:36+0300\n"
+"POT-Creation-Date: 2020-04-10 21:38+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -519,9 +519,6 @@ msgstr "Renforcer votre détermination à résoudre les situations complexes"
 
 msgid "Support the Project"
 msgstr "Soutenir le projet"
-
-msgid "Sync completed"
-msgstr "Synchronisation terminée"
 
 msgid "Sync my tasks only"
 msgstr "Synchroniser mes tâches uniquement"

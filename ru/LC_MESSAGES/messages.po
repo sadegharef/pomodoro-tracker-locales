@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-08 14:36+0300\n"
+"POT-Creation-Date: 2020-04-10 21:38+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -523,9 +523,6 @@ msgstr "Укрепления вашей решимости в сложных с�
 
 msgid "Support the Project"
 msgstr "Поддержать проект"
-
-msgid "Sync completed"
-msgstr "Синхронизировать выполненные"
 
 msgid "Sync my tasks only"
 msgstr "Синхронизировать только мои задачи"
