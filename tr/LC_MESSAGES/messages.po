@@ -600,10 +600,10 @@ msgid "The list is empty"
 msgstr "Liste boş"
 
 msgid "The next Pomodoro will go better"
-msgstr "Bir sonraki Pomodoro daha iyi geçecektir"
+msgstr "Bir sonraki Pomodoro daha iyi geçecek!"
 
 msgid "The next pomodoro will go better!"
-msgstr "Bir sonraki Pomodoro daha iyi geçecektir"
+msgstr "Bir sonraki Pomodoro daha iyi geçecek!"
 
 msgid "There are completed tasks"
 msgstr "Tamamlanmış görevler var"
