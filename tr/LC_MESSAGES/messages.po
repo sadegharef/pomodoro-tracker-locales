@@ -300,7 +300,7 @@ msgid "Load daily tasks"
 msgstr "Günlük görevleri yükle"
 
 msgid "Loading"
-msgstr ""
+msgstr "Yükleniyor"
 
 msgid "Lock is enabled"
 msgstr "Kilit etkin"
@@ -384,13 +384,13 @@ msgid "Please reload the application."
 msgstr "Uygulamayı tekrar yükle"
 
 msgid "Please unblock notifications in your browser"
-msgstr ""
+msgstr "Lütfen tarayıcınızdan bildirimlere izin verin"
 
 msgid "Please, login to view your stats"
 msgstr "Çalışma kaydınızı tutmak için giriş yapın"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
-msgstr ""
+msgstr "Pomodoro Tracker işiniz ve çalışmalarınız için tasarlanmış bir verimlilik uygulamasıdır."
 
 msgid "Pomodoro duration"
 msgstr "Pomodoro süresi"
@@ -405,7 +405,7 @@ msgid "Press"
 msgstr ""
 
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 msgid "Provide Feedback"
 msgstr "Geribildirim sağlamak"
@@ -468,7 +468,7 @@ msgid "Send test notification"
 msgstr "Test bildirimi gönder"
 
 msgid "Server Error"
-msgstr ""
+msgstr "Sunucu Hatası"
 
 msgid "Server has been updated."
 msgstr "Sunucu güncellendi."
@@ -498,7 +498,7 @@ msgid "Sign in with %1$s"
 msgstr "%1$s ile oturum açın"
 
 msgid "Sleep Mode is enabled"
-msgstr ""
+msgstr "Uyku Modu aktifleştirildi"
 
 msgid "Sort by"
 msgstr "Göre sırala"
@@ -513,7 +513,7 @@ msgid "Stats"
 msgstr "İstatistikler"
 
 msgid "Stay focused and finish tasks effectively."
-msgstr ""
+msgstr "Odaklanın ve yapacaklarınızı etkili bir şekilde bitirin."
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -536,7 +536,7 @@ msgid "TODO list was updated."
 msgstr "TODO listesi güncellendi"
 
 msgid "Take a short break (3-5 minutes)"
-msgstr "Kısa bir mola alın (3-5 dakika)"
+msgstr "Kısa bir mola verin (3-5 dakika)"
 
 msgid "Take more time to your life."
 msgstr ""
@@ -600,13 +600,13 @@ msgid "The list is empty"
 msgstr "Liste boş"
 
 msgid "The next Pomodoro will go better"
-msgstr "Bir sonraki Pomodoro daha iyi geçecektir"
+msgstr "Bir sonraki Pomodoro daha iyi geçecek!"
 
 msgid "The next pomodoro will go better!"
-msgstr "Bir sonraki Pomodoro daha iyi geçecektir"
+msgstr "Bir sonraki Pomodoro daha iyi geçecek!"
 
 msgid "There are completed tasks"
-msgstr ""
+msgstr "Tamamlanmış görevler var"
 
 msgid "This Month"
 msgstr "Bu Ay"
@@ -639,7 +639,7 @@ msgid "Toggle fullscreen"
 msgstr "Tam ekrana geç"
 
 msgid "Toggle mini timer"
-msgstr ""
+msgstr "Mini ekrana geç"
 
 msgid "Try to add some tasks use the form above"
 msgstr "Yukarıdaki formu kullanmak için birkaç görev ekleyin"
@@ -660,7 +660,7 @@ msgid "Update status"
 msgstr "Güncelleme durumu"
 
 msgid "View"
-msgstr ""
+msgstr "Görüntüle"
 
 msgid "Volume"
 msgstr "Ses"
@@ -669,13 +669,13 @@ msgid "What is it?"
 msgstr "Bu nedir?"
 
 msgid "Window"
-msgstr ""
+msgstr "Pencere"
 
 msgid "Work days"
 msgstr "Çalışılan gün"
 
 msgid "Work history won`t be saved."
-msgstr "İş geçmişi kurtarılamaz."
+msgstr "Çalışma geçmişi kurtarılamaz."
 
 msgid "Work until the Pomodoro rings"
 msgstr "Pomodoro bitene kadar çalış"
@@ -696,7 +696,7 @@ msgid "You spent"
 msgstr ""
 
 msgid "and"
-msgstr ""
+msgstr "ve"
 
 msgid "auto"
 msgstr "oto"
@@ -731,7 +731,7 @@ msgstr "karanlık"
 msgid "day"
 msgid_plural "days"
 msgstr[0] "gün"
-msgstr[1] "günler"
+msgstr[1] "gün"
 
 msgid "default"
 msgstr "varsayılan"
@@ -764,7 +764,7 @@ msgid "focus"
 msgstr "odaklanma"
 
 msgid "for all time"
-msgstr "tüm zamanlar için"
+msgstr "-->tüm zamanlar için"
 
 msgid "friends"
 msgstr "arkadaş"
@@ -835,7 +835,7 @@ msgstr[1] "dakika"
 msgid "month"
 msgid_plural "months"
 msgstr[0] "ay"
-msgstr[1] "aylar"
+msgstr[1] "ay"
 
 msgid "never"
 msgstr ""
@@ -873,7 +873,7 @@ msgid "pomodoros"
 msgstr "pomodoro"
 
 msgid "preview"
-msgstr ""
+msgstr "önizle"
 
 msgid "previous page"
 msgstr ""
@@ -888,10 +888,10 @@ msgid "refresh"
 msgstr "yenileme"
 
 msgid "registered users spend on completing pomodoros"
-msgstr "kayıtlı kullanıcılar pomodoros tamamlamaya harcıyor"
+msgstr "kayıtlı kullanıcı pomodorolarını tamamlamaya vakit harcıyor"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr "kayıtlı kullanıcılar bugün pomodoros'u tamamlamak için harcıyorlar"
+msgstr "--> kayıtlı kullanıcıların bugün pomodorolarını tamamlamak için harcadıkları vakit"
 
 msgid "remove categories"
 msgstr "kategorileri kaldır"
@@ -900,7 +900,7 @@ msgid "resume"
 msgstr "devam et"
 
 msgid "save"
-msgstr ""
+msgstr "kaydet"
 
 msgid "series"
 msgstr "dizi"
@@ -915,7 +915,7 @@ msgid "stop"
 msgstr "durdur"
 
 msgid "system"
-msgstr ""
+msgstr "sistem"
 
 msgid "take a long break"
 msgstr "uzun bir mola al"
