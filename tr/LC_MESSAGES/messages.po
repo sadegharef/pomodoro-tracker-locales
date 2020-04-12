@@ -764,7 +764,7 @@ msgid "focus"
 msgstr "odaklanma"
 
 msgid "for all time"
-msgstr "-->tüm zamanlar için"
+msgstr "tüm zamanlar için"
 
 msgid "friends"
 msgstr "arkadaş"
@@ -891,7 +891,7 @@ msgid "registered users spend on completing pomodoros"
 msgstr "kayıtlı kullanıcı pomodorolarını tamamlamaya vakit harcıyor"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr "--> kayıtlı kullanıcıların bugün pomodorolarını tamamlamak için harcadıkları vakit"
+msgstr "kayıtlı kullanıcıların bugün pomodorolarını tamamlamak için harcadıkları vakit"
 
 msgid "remove categories"
 msgstr "kategorileri kaldır"
