@@ -24,7 +24,7 @@ msgid " Sign in with %(provider)s "
 msgstr "%(provider)s ile oturum açın"
 
 msgid "%1$s left"
-msgstr "%1$s sol"
+msgstr "%1$s kaldi"
 
 msgid "%1$s paused."
 msgstr "%1$s duraklatıldı."
