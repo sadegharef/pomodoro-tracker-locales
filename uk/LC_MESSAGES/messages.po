@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-10 21:39+0300\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -30,14 +30,14 @@ msgstr "залишилось %1$s"
 msgid "%1$s paused."
 msgstr "%1$s призупинено."
 
-msgid "%1$s records were imported"
-msgstr "%1$s записів імпортовано"
-
 msgid "%1$s started:"
 msgstr "%1$s розпочато:"
 
 msgid "%1$s stopped:"
 msgstr "%1$s зупинено:"
+
+msgid "%1$s tasks were imported"
+msgstr "Було імпортовано завдань: %1$s"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -232,14 +232,11 @@ msgid ""
 "another task"
 msgstr "Якщо вона потребує менше одного Помідора, скомбінуйте її з іншою"
 
-msgid "Import records from CSV"
-msgstr "Імпортувати записи з файлу CSV"
+msgid "Import tasks from CSV"
+msgstr "Імпорт завдань із CSV"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "Імпорт не вийшов. Перевірти ваш CSV й спробуйте знову."
-
-msgid "Import/Export tasks"
-msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "Імпортовано із зовнішніх джерел"
@@ -380,8 +377,14 @@ msgstr "Будь ласка, не присилайте мені ці чудов�
 msgid "Please reload the application."
 msgstr "Будь ласка, перезавантажте застосунок"
 
+msgid "Please select a value"
+msgstr "Виберіть значення"
+
 msgid "Please unblock notifications in your browser"
 msgstr "Будь ласка, розблокуйте сповіщення у вашому браузері"
+
+msgid "Please, login to use the feature"
+msgstr "Будь ласка, увійдіть, щоб використовувати цю функцію"
 
 msgid "Please, login to view your stats"
 msgstr "Будь ласка, увійдіть для перегляду статистики"
@@ -445,9 +448,6 @@ msgstr "Повторити"
 msgid "Reports Time"
 msgstr "Час звітів"
 
-msgid "Reports and notifications"
-msgstr "Звіти та сповіщення"
-
 msgid "Rules & Tips"
 msgstr "Правила й поради"
 
@@ -459,6 +459,9 @@ msgstr "Вибрати категорію"
 
 msgid "Select Dates"
 msgstr "Вибрати дати"
+
+msgid "Select a calendar to import tasks"
+msgstr "Виберіть календар для імпорту завдань"
 
 msgid "Send daily reports"
 msgstr "Надсилайте щоденні звіти"
@@ -961,8 +964,17 @@ msgstr[2] "років"
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Увімкнути сповіщення в Телеграмі"
 
+#~ msgid "Import records from CSV"
+#~ msgstr "Імпортувати записи з файлу CSV"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
 #~ msgid "Load daily tasks from Google Calendar"
 #~ msgstr "Завантажувати щоденні завдання з календаря Google"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "Звіти та сповіщення"
 
 #~ msgid "Send reports on email: "
 #~ msgstr "Відправляти звіти на мейл:"

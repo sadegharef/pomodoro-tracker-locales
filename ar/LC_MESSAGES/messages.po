@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-10 21:38+0300\n"
+"POT-Creation-Date: 2020-04-21 15:25+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -30,14 +30,14 @@ msgstr "%1$s اليسار"
 msgid "%1$s paused."
 msgstr "%1$s متوقف."
 
-msgid "%1$s records were imported"
-msgstr "استوردت عدد %1$ من السجلات"
-
 msgid "%1$s started:"
 msgstr "%1$s بدأت:"
 
 msgid "%1$s stopped:"
 msgstr "%1$s توقفت:"
+
+msgid "%1$s tasks were imported"
+msgstr "استوردت عدد %1$ من السجلات"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -230,14 +230,11 @@ msgid ""
 "another task"
 msgstr "لو اخدت المهمة اقل من بمودورو واحدة، إجمعها، وإدمجها مع مهمة اخري"
 
-msgid "Import records from CSV"
+msgid "Import tasks from CSV"
 msgstr "استيراد السجلات من نوع CSV"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "فشل فى الإستيراد. تحقق من ملف CSV الخاص بك و حاول مرة اخري."
-
-msgid "Import/Export tasks"
-msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "استيراد من مصادر خارجية"
@@ -378,8 +375,14 @@ msgstr "رجاء لا ترسل لي تقارير يومية رائعة"
 msgid "Please reload the application."
 msgstr "من فضلك اعد تحميل التطبيق."
 
+msgid "Please select a value"
+msgstr "من فضلك إختر قيمة"
+
 msgid "Please unblock notifications in your browser"
 msgstr "من فضلك فعل الاشعارات فى متصفحك الخاص."
+
+msgid "Please, login to use the feature"
+msgstr "من فضلك ، قم بتسجيل الدخول لاستخدام الميزة"
 
 msgid "Please, login to view your stats"
 msgstr "من فضلك، سجل الدخول لتتمكن من رؤية احصائياتك"
@@ -441,9 +444,6 @@ msgstr "كرر"
 msgid "Reports Time"
 msgstr "وقت التقارير"
 
-msgid "Reports and notifications"
-msgstr "التقارير والإشعارات"
-
 msgid "Rules & Tips"
 msgstr "قوانين & نصائح"
 
@@ -455,6 +455,9 @@ msgstr "اختر الفئة"
 
 msgid "Select Dates"
 msgstr "اختر التواريخ"
+
+msgid "Select a calendar to import tasks"
+msgstr "حدد تقويمًا لاستيراد المهام"
 
 msgid "Send daily reports"
 msgstr "تمكين الإخطارات"
@@ -1024,6 +1027,9 @@ msgstr[5] ""
 #~ msgid "Hide Pomodoro-Tracker"
 #~ msgstr "اخف Pomodoro-Tracker"
 
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
 #~ msgid "Integration with Facebook"
 #~ msgstr "دمج مع فيسبوك"
 
@@ -1080,6 +1086,9 @@ msgstr[5] ""
 
 #~ msgid "Remove"
 #~ msgstr "إزالة"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "التقارير والإشعارات"
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "أرسل تقارير يومية"

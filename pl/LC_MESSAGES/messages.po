@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-04-10 21:39+0300\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -29,14 +29,14 @@ msgstr "pozostało: %1$s"
 msgid "%1$s paused."
 msgstr "%1$s wstrzymany."
 
-msgid "%1$s records were imported"
-msgstr "Zaimportowano rekordy: %1$s"
-
 msgid "%1$s started:"
 msgstr "%1$s rozpoczęła się:"
 
 msgid "%1$s stopped:"
 msgstr "%1$s zatrzymany:"
+
+msgid "%1$s tasks were imported"
+msgstr "Zaimportowano zadań: %1$s"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -233,14 +233,11 @@ msgid ""
 "another task"
 msgstr "Jeżeli zadanie zajmuje mniej niż jedno Pomodoro połącz je z innym zadaniem"
 
-msgid "Import records from CSV"
-msgstr "Importuj dane z pliku CSV "
+msgid "Import tasks from CSV"
+msgstr "Importuj zadania z CSV"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "Próba importu zakończyła się błędem. Sprawdź plik CSV i spróbuj ponownie."
-
-msgid "Import/Export tasks"
-msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "Importowano z zewnętrznego źródła"
@@ -381,8 +378,14 @@ msgstr "Proszę o nie wysyłania Mi tych wspaniałych, codziennych raportów"
 msgid "Please reload the application."
 msgstr "Proszę przeładować aplikację."
 
+msgid "Please select a value"
+msgstr "Wybierz wartość"
+
 msgid "Please unblock notifications in your browser"
 msgstr ""
+
+msgid "Please, login to use the feature"
+msgstr "Zaloguj się, aby użyć tej funkcji"
 
 msgid "Please, login to view your stats"
 msgstr "Zaloguj się by zobaczyć swoje statystyki"
@@ -446,9 +449,6 @@ msgstr "Powtarzać"
 msgid "Reports Time"
 msgstr "Czas raportów"
 
-msgid "Reports and notifications"
-msgstr "Raporty i powiadomienia"
-
 msgid "Rules & Tips"
 msgstr "Zasady i wskazówki"
 
@@ -460,6 +460,9 @@ msgstr "Wybierz kategorię"
 
 msgid "Select Dates"
 msgstr "Wybierz daty"
+
+msgid "Select a calendar to import tasks"
+msgstr "Wybierz kalendarz, aby zaimportować zadania"
 
 msgid "Send daily reports"
 msgstr "Wysyłaj codzienne raporty"
@@ -983,6 +986,12 @@ msgstr[1] "lata"
 #~ msgid "February"
 #~ msgstr "Luty"
 
+#~ msgid "Import records from CSV"
+#~ msgstr "Importuj dane z pliku CSV "
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
 #~ msgid "January"
 #~ msgstr "Styczeń"
 
@@ -1018,6 +1027,9 @@ msgstr[1] "lata"
 
 #~ msgid "Release Notes"
 #~ msgstr "Release Notes"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "Raporty i powiadomienia"
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "Wysyłaj codzienne raporty"

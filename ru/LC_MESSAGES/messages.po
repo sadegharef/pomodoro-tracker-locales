@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-10 21:38+0300\n"
+"POT-Creation-Date: 2020-04-21 15:25+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -30,14 +30,14 @@ msgstr "осталось %1$s"
 msgid "%1$s paused."
 msgstr "%1$s поставлен на паузу."
 
-msgid "%1$s records were imported"
-msgstr "%1$s записей импортировано"
-
 msgid "%1$s started:"
 msgstr "%1$s запущен:"
 
 msgid "%1$s stopped:"
 msgstr "%1$s остановлен:"
+
+msgid "%1$s tasks were imported"
+msgstr "Импортированы задачи: %1$s"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -234,14 +234,11 @@ msgstr ""
 "Если задача требует менее одного «помидора» — скомбинируйте её с другой "
 "задачей"
 
-msgid "Import records from CSV"
-msgstr "Импорт записей из CSV"
+msgid "Import tasks from CSV"
+msgstr "Импорт задач из CSV"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "Во время импорта произошла ошибка, попробуйте еще раз."
-
-msgid "Import/Export tasks"
-msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "Импортировано из внешних источников"
@@ -382,8 +379,14 @@ msgstr "Пожалуйста, не присылайте мне эти замеч
 msgid "Please reload the application."
 msgstr "Пожалуйста, перезагрузите приложение."
 
+msgid "Please select a value"
+msgstr "Пожалуйста выберите значение"
+
 msgid "Please unblock notifications in your browser"
 msgstr "Нотификации заблокированы в вашем браузере"
+
+msgid "Please, login to use the feature"
+msgstr "Войдите для использования"
 
 msgid "Please, login to view your stats"
 msgstr "Войдите для просмотра статистики"
@@ -447,9 +450,6 @@ msgstr "Повторить"
 msgid "Reports Time"
 msgstr "Время отчетов"
 
-msgid "Reports and notifications"
-msgstr "Отчеты и оповещения"
-
 msgid "Rules & Tips"
 msgstr "Правила и советы"
 
@@ -461,6 +461,9 @@ msgstr "Выбрать категорию"
 
 msgid "Select Dates"
 msgstr "Выбрать даты"
+
+msgid "Select a calendar to import tasks"
+msgstr "Выберите календарь для импорта задач"
 
 msgid "Send daily reports"
 msgstr "Отправлять ежедневные отчеты"
@@ -958,4 +961,10 @@ msgid_plural "years"
 msgstr[0] "год"
 msgstr[1] "года"
 msgstr[2] "лет"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
+#~ msgid "Reports and notifications"
+#~ msgstr "Отчеты и оповещения"
 

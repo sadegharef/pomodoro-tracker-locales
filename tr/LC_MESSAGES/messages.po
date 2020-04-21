@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-10 21:38+0300\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -29,14 +29,14 @@ msgstr "%1$s kaldi"
 msgid "%1$s paused."
 msgstr "%1$s duraklatıldı."
 
-msgid "%1$s records were imported"
-msgstr "%1$s kayıt alındı"
-
 msgid "%1$s started:"
 msgstr "%1$s başladı:"
 
 msgid "%1$s stopped:"
 msgstr "%1$s durduruldu:"
+
+msgid "%1$s tasks were imported"
+msgstr "%1$s kayıt alındı"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -235,14 +235,11 @@ msgstr ""
 "İşiniz bir Pomodoro'dan daha az sürüyorsa diğerlerine dahil edin, başka "
 "bir görev ile birleştirin"
 
-msgid "Import records from CSV"
-msgstr "CSV'den kayıtları içe aktarın"
+msgid "Import tasks from CSV"
+msgstr "CSV'den görevleri içe aktarma"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "İthalat başarısız oldu. CSV'nizi kontrol edin ve tekrar deneyin."
-
-msgid "Import/Export tasks"
-msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "Dış kaynaklardan ithal edilen"
@@ -383,14 +380,22 @@ msgstr ""
 msgid "Please reload the application."
 msgstr "Uygulamayı tekrar yükle"
 
+msgid "Please select a value"
+msgstr "Lütfen bir değer seçin"
+
 msgid "Please unblock notifications in your browser"
 msgstr "Lütfen tarayıcınızdan bildirimlere izin verin"
+
+msgid "Please, login to use the feature"
+msgstr "Özelliği kullanmak için lütfen giriş yapın"
 
 msgid "Please, login to view your stats"
 msgstr "Çalışma kaydınızı tutmak için giriş yapın"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
-msgstr "Pomodoro Tracker işiniz ve çalışmalarınız için tasarlanmış bir verimlilik uygulamasıdır."
+msgstr ""
+"Pomodoro Tracker işiniz ve çalışmalarınız için tasarlanmış bir verimlilik"
+" uygulamasıdır."
 
 msgid "Pomodoro duration"
 msgstr "Pomodoro süresi"
@@ -446,9 +451,6 @@ msgstr "Tekrar et"
 msgid "Reports Time"
 msgstr ""
 
-msgid "Reports and notifications"
-msgstr ""
-
 msgid "Rules & Tips"
 msgstr "Kurallar & İpuçları"
 
@@ -460,6 +462,9 @@ msgstr "Kategori seçiniz"
 
 msgid "Select Dates"
 msgstr "Tarihler'i seçin"
+
+msgid "Select a calendar to import tasks"
+msgstr "Görevleri içe aktarmak için bir takvim seçin"
 
 msgid "Send daily reports"
 msgstr "Günlük raporlar gönderme"
@@ -891,7 +896,9 @@ msgid "registered users spend on completing pomodoros"
 msgstr "kayıtlı kullanıcı pomodorolarını tamamlamaya vakit harcıyor"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr "kayıtlı kullanıcıların bugün pomodorolarını tamamlamak için harcadıkları vakit"
+msgstr ""
+"kayıtlı kullanıcıların bugün pomodorolarını tamamlamak için harcadıkları "
+"vakit"
 
 msgid "remove categories"
 msgstr "kategorileri kaldır"
@@ -978,6 +985,12 @@ msgstr[1] "yil"
 #~ msgid "February"
 #~ msgstr "Şubat"
 
+#~ msgid "Import records from CSV"
+#~ msgstr "CSV'den kayıtları içe aktarın"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
 #~ msgid "January"
 #~ msgstr "Ocak"
 
@@ -1010,6 +1023,9 @@ msgstr[1] "yil"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Gizlilik Politikası"
+
+#~ msgid "Reports and notifications"
+#~ msgstr ""
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "Günlük Raporları Gönder"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-10 21:38+0300\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nb_NO\n"
@@ -29,13 +29,13 @@ msgstr ""
 msgid "%1$s paused."
 msgstr ""
 
-msgid "%1$s records were imported"
-msgstr ""
-
 msgid "%1$s started:"
 msgstr ""
 
 msgid "%1$s stopped:"
+msgstr ""
+
+msgid "%1$s tasks were imported"
 msgstr ""
 
 #, python-format
@@ -229,13 +229,10 @@ msgid ""
 "another task"
 msgstr ""
 
-msgid "Import records from CSV"
+msgid "Import tasks from CSV"
 msgstr ""
 
 msgid "Import was failed. Check your CSV and try again."
-msgstr ""
-
-msgid "Import/Export tasks"
 msgstr ""
 
 msgid "Imported from External Sources"
@@ -375,7 +372,13 @@ msgstr ""
 msgid "Please reload the application."
 msgstr ""
 
+msgid "Please select a value"
+msgstr ""
+
 msgid "Please unblock notifications in your browser"
+msgstr ""
+
+msgid "Please, login to use the feature"
 msgstr ""
 
 msgid "Please, login to view your stats"
@@ -438,9 +441,6 @@ msgstr ""
 msgid "Reports Time"
 msgstr ""
 
-msgid "Reports and notifications"
-msgstr ""
-
 msgid "Rules & Tips"
 msgstr ""
 
@@ -451,6 +451,9 @@ msgid "Select Category"
 msgstr ""
 
 msgid "Select Dates"
+msgstr ""
+
+msgid "Select a calendar to import tasks"
 msgstr ""
 
 msgid "Send daily reports"

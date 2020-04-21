@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-10 21:39+0300\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -29,14 +29,16 @@ msgstr "%1$s Απομείνη"
 msgid "%1$s paused."
 msgstr "%1$s παύσης."
 
-msgid "%1$s records were imported"
-msgstr "%1$s τα αρχεία έχουν εισαχθεί"
-
 msgid "%1$s started:"
 msgstr "%1$s ξεκίνησε:"
 
 msgid "%1$s stopped:"
 msgstr "%1$s σταμάτησε:"
+
+#, fuzzy
+#| msgid "%1$s records were imported"
+msgid "%1$s tasks were imported"
+msgstr "%1$s τα αρχεία έχουν εισαχθεί"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -233,14 +235,11 @@ msgstr ""
 "Αμα παίρνει λιγότερο απο ενα Πομοντόρο, Πρόσθεσε το, και ένωσε το με με "
 "μια αλλη ασχολία"
 
-msgid "Import records from CSV"
+msgid "Import tasks from CSV"
 msgstr "Κανε εισαγωγή τα αρχεία απο csv"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "Η εισαγωγή αποτυχέ. Τσέκαρε το CSV σου και ξανά προσπάθησε."
-
-msgid "Import/Export tasks"
-msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "Έγινε εισαγωγή απο Εξωτερικές Πηγές"
@@ -381,8 +380,14 @@ msgstr "Παρακαλώ μην μου στέλνετε αυτες της φοβ
 msgid "Please reload the application."
 msgstr "Παρακαλώ ξανά φορτώστε το πρόγραμμα"
 
+msgid "Please select a value"
+msgstr "Επιλέξτε μια τιμή"
+
 msgid "Please unblock notifications in your browser"
 msgstr "Παρακαλώ ξεμπλοκάρε της ειδοποίησης στο λογισμικό πλοήγησης σας"
+
+msgid "Please, login to use the feature"
+msgstr "Παρακαλώ, συνδεθείτε για να χρησιμοποιήσετε τη δυνατότητα"
 
 msgid "Please, login to view your stats"
 msgstr "Παρακαλώ, συνδεθείτε για να δείτε τα στατιστικά σας"
@@ -450,9 +455,6 @@ msgstr "Επανάλαβε"
 msgid "Reports Time"
 msgstr "'Ωρα Αναφοράς"
 
-msgid "Reports and notifications"
-msgstr "Αναφορές και ειδοποίησεις"
-
 msgid "Rules & Tips"
 msgstr "Κανόνες & Συμβουλές"
 
@@ -464,6 +466,9 @@ msgstr "Επιλέξτε κατηγορία"
 
 msgid "Select Dates"
 msgstr "Επιλέξτε Ημερομηνίες"
+
+msgid "Select a calendar to import tasks"
+msgstr "Επιλέξτε ένα ημερολόγιο για εισαγωγή εργασιών"
 
 msgid "Send daily reports"
 msgstr "Αποστολή ημερήσιων αναφορών"
@@ -966,11 +971,20 @@ msgstr[1] "χρόνια"
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Ενεργοποίησε Ειδοποιήσεις απο το Telegram"
 
+#~ msgid "Import records from CSV"
+#~ msgstr "Κανε εισαγωγή τα αρχεία απο csv"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
 #~ msgid "Load daily tasks from Google Calendar"
 #~ msgstr "Φόρτωσε καθημερινές ασχολίες απο το Ημερολόγιο Google"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Πολιτική Απορρήτου"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "Αναφορές και ειδοποίησεις"
 
 #~ msgid "Send reports on email: "
 #~ msgstr "Στείλε αναφορές στο email"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-10 21:38+0300\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -29,14 +29,14 @@ msgstr "%1$s қалды"
 msgid "%1$s paused."
 msgstr "%1$s кідіртілді."
 
-msgid "%1$s records were imported"
-msgstr "%1$s жазба кіргізілді"
-
 msgid "%1$s started:"
 msgstr "%1$s басталды:"
 
 msgid "%1$s stopped:"
 msgstr "%1$s тоқтады:"
+
+msgid "%1$s tasks were imported"
+msgstr "%1$s тапсырма импортталды"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -233,14 +233,11 @@ msgstr ""
 "Егер жұмыс 1 қызанақтан кем болса, оны басқа жұмыспен қосыпжіберсеңіз "
 "жақсы болады"
 
-msgid "Import records from CSV"
-msgstr "CSV-дан жазбаларды импорттау"
+msgid "Import tasks from CSV"
+msgstr "Тапсырмаларды CSV-ден импорттау"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "Импорт кезінде қате пайда болды, тағы бір мәрте көріңіз"
-
-msgid "Import/Export tasks"
-msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "сыртқы көздерден импортталған"
@@ -381,8 +378,14 @@ msgstr "Осы керемет, әп-әдемі репорттарды маған
 msgid "Please reload the application."
 msgstr "Қосымшаны қайта қосыңыз"
 
+msgid "Please select a value"
+msgstr "Мәнді таңдаңыз"
+
 msgid "Please unblock notifications in your browser"
 msgstr ""
+
+msgid "Please, login to use the feature"
+msgstr "Бұл мүмкіндікті пайдалану үшін жүйеге кіріңіз"
 
 msgid "Please, login to view your stats"
 msgstr "Статистика көру үшін тіркелу керек, пара беру үшін емес"
@@ -444,9 +447,6 @@ msgstr "Қайталаңыз"
 msgid "Reports Time"
 msgstr "Осы уақытта"
 
-msgid "Reports and notifications"
-msgstr "Есептер мен хабарландырулар"
-
 msgid "Rules & Tips"
 msgstr "Ереже мен Айлалар"
 
@@ -458,6 +458,9 @@ msgstr "Санатты таңдаңыз"
 
 msgid "Select Dates"
 msgstr "Күндерді таңдаңыз"
+
+msgid "Select a calendar to import tasks"
+msgstr "Тапсырмаларды импорттау үшін күнтізбені таңдаңыз"
 
 msgid "Send daily reports"
 msgstr "Күнделікті есептер жіберу"
@@ -972,6 +975,12 @@ msgstr[1] "жыл"
 #~ msgid "February"
 #~ msgstr "Ақпан"
 
+#~ msgid "Import records from CSV"
+#~ msgstr "CSV-дан жазбаларды импорттау"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
 #~ msgid "January"
 #~ msgstr "Қаңтар"
 
@@ -1004,6 +1013,9 @@ msgstr[1] "жыл"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Құпия келісімі"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "Есептер мен хабарландырулар"
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "Күнделікті есеп жіберу"

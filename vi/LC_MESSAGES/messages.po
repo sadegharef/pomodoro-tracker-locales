@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-10 21:38+0300\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -29,13 +29,13 @@ msgstr ""
 msgid "%1$s paused."
 msgstr ""
 
-msgid "%1$s records were imported"
-msgstr ""
-
 msgid "%1$s started:"
 msgstr ""
 
 msgid "%1$s stopped:"
+msgstr ""
+
+msgid "%1$s tasks were imported"
 msgstr ""
 
 #, python-format
@@ -231,14 +231,11 @@ msgid ""
 "another task"
 msgstr "Nếu nó cần ít hơn một pomodoro, hãy cộng dồn nó vào một công việc khác"
 
-msgid "Import records from CSV"
-msgstr "Nhập dữ liệu từ CSV"
+msgid "Import tasks from CSV"
+msgstr ""
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "Nhập không thành công. Kiểm tra lại file CSV của bạn và thử lại."
-
-msgid "Import/Export tasks"
-msgstr ""
 
 msgid "Imported from External Sources"
 msgstr ""
@@ -380,8 +377,14 @@ msgstr "Đừng gửi cho tôi những bản báo cáo hằng ngày tuyệt vờ
 msgid "Please reload the application."
 msgstr "Hãy chạy lại ứng dụng"
 
+msgid "Please select a value"
+msgstr ""
+
 msgid "Please unblock notifications in your browser"
 msgstr ""
+
+msgid "Please, login to use the feature"
+msgstr "Vui lòng đăng nhập để sử dụng tính năng"
 
 msgid "Please, login to view your stats"
 msgstr "Hãy đăng nhập để xem thống kê của bạn"
@@ -443,9 +446,6 @@ msgstr "Nói lại"
 msgid "Reports Time"
 msgstr ""
 
-msgid "Reports and notifications"
-msgstr ""
-
 msgid "Rules & Tips"
 msgstr ""
 
@@ -456,6 +456,9 @@ msgid "Select Category"
 msgstr ""
 
 msgid "Select Dates"
+msgstr ""
+
+msgid "Select a calendar to import tasks"
 msgstr ""
 
 msgid "Send daily reports"
@@ -927,6 +930,9 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] ""
 
+#~ msgid "%1$s records were imported"
+#~ msgstr ""
+
 #~ msgid "Apply"
 #~ msgstr "Áp dụng"
 
@@ -956,6 +962,12 @@ msgstr[0] ""
 
 #~ msgid "February"
 #~ msgstr "Tháng 2"
+
+#~ msgid "Import records from CSV"
+#~ msgstr "Nhập dữ liệu từ CSV"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
 
 #~ msgid "January"
 #~ msgstr "Tháng 1"
@@ -989,6 +1001,9 @@ msgstr[0] ""
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Chính sách bảo mật"
+
+#~ msgid "Reports and notifications"
+#~ msgstr ""
 
 #~ msgid "Send Daily Reports"
 #~ msgstr ""

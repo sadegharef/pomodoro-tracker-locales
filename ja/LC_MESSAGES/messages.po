@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-10 21:38+0300\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -29,14 +29,14 @@ msgstr "%s$s"
 msgid "%1$s paused."
 msgstr ""
 
-msgid "%1$s records were imported"
-msgstr "%1$s レコードがインポートされました。"
-
 msgid "%1$s started:"
 msgstr ""
 
 msgid "%1$s stopped:"
 msgstr ""
+
+msgid "%1$s tasks were imported"
+msgstr "%1$s レコードがインポートされました。"
 
 #, fuzzy, python-format
 msgid "%s here's your Daily report for %s"
@@ -229,14 +229,11 @@ msgid ""
 "another task"
 msgstr "タスクが1ポモドーロ未満の場合は、他のタスクもまとめて行いましょう"
 
-msgid "Import records from CSV"
+msgid "Import tasks from CSV"
 msgstr "CSVからレコードをインポートする"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "インポートに失敗しました。 CSVを確認して、もう一度お試しください。"
-
-msgid "Import/Export tasks"
-msgstr ""
 
 msgid "Imported from External Sources"
 msgstr ""
@@ -375,8 +372,14 @@ msgstr "これらのすばらしい日報を私に送らないでください"
 msgid "Please reload the application."
 msgstr "アプリケーションを再読み込みする"
 
+msgid "Please select a value"
+msgstr "値を選択してください"
+
 msgid "Please unblock notifications in your browser"
 msgstr ""
+
+msgid "Please, login to use the feature"
+msgstr "機能を使用するにはログインしてください"
 
 msgid "Please, login to view your stats"
 msgstr "ログインして統計情報を表示する"
@@ -438,9 +441,6 @@ msgstr "繰り返す"
 msgid "Reports Time"
 msgstr ""
 
-msgid "Reports and notifications"
-msgstr "レポートと通知"
-
 msgid "Rules & Tips"
 msgstr "ルールとヒント"
 
@@ -452,6 +452,9 @@ msgstr ""
 
 msgid "Select Dates"
 msgstr ""
+
+msgid "Select a calendar to import tasks"
+msgstr "タスクをインポートするカレンダーを選択してください"
 
 msgid "Send daily reports"
 msgstr "日報を送る"
@@ -956,6 +959,12 @@ msgstr[1] "年"
 #~ msgid "February"
 #~ msgstr "2月"
 
+#~ msgid "Import records from CSV"
+#~ msgstr "CSVからレコードをインポートする"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
 #~ msgid "January"
 #~ msgstr "1月"
 
@@ -988,6 +997,9 @@ msgstr[1] "年"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Privacy Policy"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "レポートと通知"
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "日報を送る"

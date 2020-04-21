@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-04-10 21:38+0300\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -28,14 +28,14 @@ msgstr "%1$s over"
 msgid "%1$s paused."
 msgstr "%1$s gepauzeerd."
 
-msgid "%1$s records were imported"
-msgstr "%1$s recods werden geïmporteerd"
-
 msgid "%1$s started:"
 msgstr "%1$s begonnen:"
 
 msgid "%1$s stopped:"
 msgstr "%1$s gestopt:"
+
+msgid "%1$s tasks were imported"
+msgstr "%1$s taken werden geïmporteerd"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -230,14 +230,11 @@ msgid ""
 "another task"
 msgstr "Als hij minder dan 1 pomodoro vereist, voeg hem samen met een andere taak"
 
-msgid "Import records from CSV"
-msgstr "Importeer van csv"
+msgid "Import tasks from CSV"
+msgstr "Importeer taken vanuit CSV"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "Import mislukt. Controleer de csv en probeer opnieuw."
-
-msgid "Import/Export tasks"
-msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "Geïmporteerd uit externe bronnen"
@@ -378,8 +375,14 @@ msgstr "Stuur me a.u.b. deze awesome dagelijkse rapportages niet meer"
 msgid "Please reload the application."
 msgstr "Laad de applicatie opnieuw, a.u.b."
 
+msgid "Please select a value"
+msgstr "Selecteer een waarde"
+
 msgid "Please unblock notifications in your browser"
 msgstr ""
+
+msgid "Please, login to use the feature"
+msgstr "Log in om de functie te gebruiken"
 
 msgid "Please, login to view your stats"
 msgstr "Log a.u.b. in om uw statistieken te zien"
@@ -443,9 +446,6 @@ msgstr "Herhaling"
 msgid "Reports Time"
 msgstr "Rapportagetijd"
 
-msgid "Reports and notifications"
-msgstr "Rapporten en meldingen"
-
 msgid "Rules & Tips"
 msgstr "Regels & tips"
 
@@ -457,6 +457,9 @@ msgstr "Selecteer categorie"
 
 msgid "Select Dates"
 msgstr "Selecteer Datums"
+
+msgid "Select a calendar to import tasks"
+msgstr "Selecteer een kalender om taken te importeren"
 
 msgid "Send daily reports"
 msgstr "Stuur dagelijkse rapporten"
@@ -979,6 +982,12 @@ msgstr[1] "jaren"
 #~ msgid "February"
 #~ msgstr "februari"
 
+#~ msgid "Import records from CSV"
+#~ msgstr "Importeer van csv"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
 #~ msgid "January"
 #~ msgstr "januari"
 
@@ -1011,6 +1020,9 @@ msgstr[1] "jaren"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Privacy Policy"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "Rapporten en meldingen"
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "Stuur dagelijkse rapportages"

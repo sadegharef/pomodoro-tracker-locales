@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-10 21:38+0300\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -29,14 +29,14 @@ msgstr "2离开"
 msgid "%1$s paused."
 msgstr ""
 
-msgid "%1$s records were imported"
-msgstr "%1$s个记录已导入"
-
 msgid "%1$s started:"
 msgstr ""
 
 msgid "%1$s stopped:"
 msgstr ""
+
+msgid "%1$s tasks were imported"
+msgstr "%1$s个记录已导入"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -229,14 +229,11 @@ msgid ""
 "another task"
 msgstr "如果一个任务花费的时间少于一个番茄钟，将他加到另一个任务一起"
 
-msgid "Import records from CSV"
-msgstr "导入CSV格式记录"
+msgid "Import tasks from CSV"
+msgstr "从CSV导入任务"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "导入失败。请检查CSV档案之后再次尝试。"
-
-msgid "Import/Export tasks"
-msgstr ""
 
 msgid "Imported from External Sources"
 msgstr "从外部进口"
@@ -375,8 +372,14 @@ msgstr "请不要将这些精彩的每日报道寄给我"
 msgid "Please reload the application."
 msgstr "重新加载应用程序"
 
+msgid "Please select a value"
+msgstr "请选择一个值"
+
 msgid "Please unblock notifications in your browser"
 msgstr ""
+
+msgid "Please, login to use the feature"
+msgstr "请登录以使用该功能"
 
 msgid "Please, login to view your stats"
 msgstr "请登入后查看你的统计信息"
@@ -438,9 +441,6 @@ msgstr "重复"
 msgid "Reports Time"
 msgstr ""
 
-msgid "Reports and notifications"
-msgstr "报告和通知"
-
 msgid "Rules & Tips"
 msgstr "规则 & 提示"
 
@@ -452,6 +452,9 @@ msgstr ""
 
 msgid "Select Dates"
 msgstr ""
+
+msgid "Select a calendar to import tasks"
+msgstr "选择日历以导入任务"
 
 msgid "Send daily reports"
 msgstr "发送每日报告"
@@ -952,6 +955,12 @@ msgstr[0] "年"
 #~ msgid "February"
 #~ msgstr "二月"
 
+#~ msgid "Import records from CSV"
+#~ msgstr "导入CSV格式记录"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
 #~ msgid "January"
 #~ msgstr "一月"
 
@@ -984,6 +993,9 @@ msgstr[0] "年"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "隐私权政策"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "报告和通知"
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "发送每日报告"
