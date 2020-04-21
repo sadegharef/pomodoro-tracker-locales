@@ -862,7 +862,7 @@ msgid "one message per line"
 msgstr "jedna wiadomość na linię"
 
 msgid "pause"
-msgstr "użytkownik"
+msgstr "pauzuj"
 
 msgid "personal"
 msgstr "personalny"
@@ -915,7 +915,7 @@ msgid "start"
 msgstr "start"
 
 msgid "stop"
-msgstr "zatrzymać"
+msgstr "zatrzymaj"
 
 msgid "system"
 msgstr "system"
