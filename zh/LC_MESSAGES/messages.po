@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-21 13:09+0300\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -17,17 +17,33 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "使用%(provider)s登录"
 
 msgid "%1$s left"
 msgstr "2离开"
 
-msgid "%1$s records were imported"
+msgid "%1$s paused."
+msgstr ""
+
+msgid "%1$s started:"
+msgstr ""
+
+msgid "%1$s stopped:"
+msgstr ""
+
+msgid "%1$s tasks were imported"
 msgstr "%1$s个记录已导入"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
 msgstr "%s 这是您%s的每日报告"
+
+msgid "A random message will be chosen if there are multiple."
+msgstr "如果有多个，将选择一个随机消息。"
 
 msgid "Activities"
 msgstr "活动"
@@ -48,7 +64,7 @@ msgid "Add Activity"
 msgstr "新增活动"
 
 msgid "Add TODO"
-msgstr "添加代办"
+msgstr "添加TODO"
 
 msgid "Add category"
 msgstr "新增类别"
@@ -56,23 +72,14 @@ msgstr "新增类别"
 msgid "Add more"
 msgstr "增加一个"
 
-msgid "Add to TODO"
-msgstr "新增到代办"
+msgid "Add new tasks to the top"
+msgstr ""
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr "减轻开始工作时的焦虑"
 
 msgid "Application"
 msgstr "应用"
-
-msgid "Apply"
-msgstr "应用"
-
-msgid "April"
-msgstr "四月"
-
-msgid "Are you sure want to delete"
-msgstr "确认希望删除吗"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -82,14 +89,14 @@ msgstr "在每天开始时选择您需要完成的任务，并将其放在上面
 msgid "At time"
 msgstr "时间"
 
-msgid "August"
-msgstr "八月"
-
 msgid "Auto start breaks"
 msgstr "自动启动休息"
 
 msgid "Auto start pomodoros"
 msgstr "自动启动番茄钟"
+
+msgid "Block screen on breaks"
+msgstr ""
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "加强实现目标的决心"
@@ -97,16 +104,10 @@ msgstr "加强实现目标的决心"
 msgid "Boost motivation and keep it constant"
 msgstr "提高并维持动力"
 
-msgid "Break is over."
-msgstr ""
-
-msgid "Cancel"
-msgstr "取消"
+msgid "Break is over"
+msgstr "休息结束了"
 
 msgid "Categories"
-msgstr "类别"
-
-msgid "Category"
 msgstr "类别"
 
 msgid "Changes saved"
@@ -121,6 +122,9 @@ msgstr "清除列表"
 msgid "Click on a number to add more."
 msgstr "在数字上点击来新增一个。"
 
+msgid "Click to open menu"
+msgstr ""
+
 msgid "Click/tap to edit items."
 msgstr "点击编辑项目"
 
@@ -130,11 +134,14 @@ msgstr "关闭"
 msgid "Code"
 msgstr "编码"
 
+msgid "Color Theme"
+msgstr "主题"
+
 msgid "Configure"
 msgstr "配置"
 
-msgid "Congratulations! You have finished all your tasks."
-msgstr "恭喜！你已经完成你的所有任务。"
+msgid "Congratulations!"
+msgstr "恭喜!"
 
 msgid "Connect"
 msgstr "绑定"
@@ -145,38 +152,23 @@ msgstr "新建"
 msgid "Create a category"
 msgstr "创建一个类别"
 
-msgid "Custom"
-msgstr "自定义"
-
-msgid "DONE"
-msgstr "已完成"
-
 msgid "Daily Goal"
 msgstr "每日目标"
 
-msgid "Daily history"
-msgstr "历史记录"
+msgid "Daily Goal Completed."
+msgstr "每日目标完成"
 
-msgid "Date"
-msgstr "日期"
+msgid "Daily Task"
+msgstr "标记为每日任务"
 
 msgid "Date format"
 msgstr "日期格式"
-
-msgid "December"
-msgstr "十二月"
-
-msgid "Description"
-msgstr "描述"
 
 msgid "Disconnect"
 msgstr "解除绑定"
 
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "当代办是空的时候不开启下一个番茄钟"
-
-msgid "Done"
-msgstr "已完成"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "拖动来排序"
@@ -187,8 +179,8 @@ msgstr "编辑"
 msgid "Enable Browser Alerts"
 msgstr "启用浏览器弹窗"
 
-msgid "Enable Telegram Notifications"
-msgstr "启用Telegram通知"
+msgid "Enable Notifications"
+msgstr "启用通知"
 
 msgid "Enable Web Notifications"
 msgstr "启用网页通知"
@@ -196,23 +188,38 @@ msgstr "启用网页通知"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "通过减少中断来提高注意力和专注力"
 
+msgid "Enjoy your break"
+msgstr ""
+
 msgid "Export the records as CSV"
 msgstr "导出CSV格式记录"
+
+msgid "Eye Keeper is enabled"
+msgstr ""
 
 msgid "Favorites"
 msgstr "收藏"
 
-msgid "February"
-msgstr "二月"
-
 msgid "Feedback"
 msgstr "反馈"
 
-msgid "Great work! TODO list is empty."
-msgstr "赞！没有代办事项。"
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "填写空白条目"
+
+msgid "Great work!"
+msgstr "赞！"
+
+msgid "Help"
+msgstr ""
 
 msgid "Hide notificaions"
 msgstr "隐藏通知"
+
+msgid "History"
+msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "如果一项任务需要超过5-7个番茄钟，请将其分解"
@@ -222,8 +229,8 @@ msgid ""
 "another task"
 msgstr "如果一个任务花费的时间少于一个番茄钟，将他加到另一个任务一起"
 
-msgid "Import records from CSV"
-msgstr "导入CSV格式记录"
+msgid "Import tasks from CSV"
+msgstr "从CSV导入任务"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "导入失败。请检查CSV档案之后再次尝试。"
@@ -237,29 +244,17 @@ msgstr "改善工作学习过程"
 msgid "Increase awareness of your decisions"
 msgstr "提高您的决定意识"
 
-msgid "Integration with Facebook"
-msgstr "关联Facebook"
-
-msgid "Integration with Github"
-msgstr "关联Github"
-
-msgid "Integration with Google"
-msgstr "关联谷歌"
-
-msgid "Integration with Telegram"
-msgstr "与电报整合"
+msgid "Integration with %1$s"
+msgstr "关联%1$s"
 
 msgid "Integrations"
 msgstr "关联"
 
-msgid "January"
-msgstr "一月"
+msgid "Interruption tracked"
+msgstr "跟踪中断"
 
-msgid "July"
-msgstr "七月"
-
-msgid "June"
-msgstr "六月"
+msgid "Join the global rating"
+msgstr ""
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -287,53 +282,56 @@ msgstr "上周"
 msgid "Like"
 msgstr "点赞"
 
-msgid "Load daily tasks from Google Calendar"
-msgstr "从Google日历加载每日任务"
+msgid "Link copied"
+msgstr ""
+
+msgid "Load daily tasks"
+msgstr "加载日常任务"
 
 msgid "Loading"
 msgstr "载入中"
 
+msgid "Lock is enabled"
+msgstr ""
+
 msgid "Login to the service and track your progress"
 msgstr "登入服务器并追踪你的进度"
 
-msgid "Login to the service using Facebook authentication."
-msgstr "使用Facebook认证登录服务"
-
-msgid "Login to the service using Github authentication."
-msgstr "使用Github认证登录服务"
-
-msgid "Login to the service using Google Authentication"
-msgstr "使用谷歌认证登录服务"
-
-msgid "Login to view your stats"
-msgstr "登入后查看你的统计信息"
+msgid "Login to the service using %1$s authentication."
+msgstr "使用%1$s认证登录服务"
 
 msgid "Logout"
 msgstr "登出"
 
-msgid "Long break delay:"
+msgid "Long break"
+msgstr "长休息时"
+
+msgid "Long break delay"
 msgstr "长休息时长在"
 
-msgid "Long break duration:"
-msgstr "长休息时长："
+msgid "Long break duration"
+msgstr "长休息时长"
 
-msgid "March"
-msgstr "三月"
-
-msgid "Mark as daily task"
-msgstr "标记为每日任务"
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr ""
 
 msgid "Mark as done"
 msgstr "标记为完成"
 
-msgid "May"
-msgstr "五月"
-
 msgid "Median per day"
 msgstr "按天的中位数"
 
+msgid "Navigate Back"
+msgstr ""
+
+msgid "Navigate Forward"
+msgstr ""
+
 msgid "New"
 msgstr "新消息"
+
+msgid "Next long break"
+msgstr "下一个长假"
 
 msgid "Notification Test"
 msgstr "通知"
@@ -344,12 +342,6 @@ msgstr "通知"
 msgid "Notify when there is one minute left"
 msgstr "只剩一分钟的时候通知"
 
-msgid "November"
-msgstr "十一月"
-
-msgid "October"
-msgstr "十月"
-
 msgid "Of those"
 msgstr "的这些"
 
@@ -359,16 +351,10 @@ msgstr "一旦番茄钟开始了，必须持续到番茄钟响起"
 msgid "One minute left"
 msgstr "剩余一分钟"
 
-msgid "PAUSE"
-msgstr "暂停"
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr ""
 
-msgid "POMODORO"
-msgstr "番茄钟"
-
-msgid "Pause"
-msgstr "暂停"
-
-msgid "Pin to favorites"
+msgid "Pin to activities"
 msgstr "添加到收藏夹"
 
 msgid "Play alarm sound"
@@ -386,23 +372,35 @@ msgstr "请不要将这些精彩的每日报道寄给我"
 msgid "Please reload the application."
 msgstr "重新加载应用程序"
 
+msgid "Please select a value"
+msgstr "请选择一个值"
+
+msgid "Please unblock notifications in your browser"
+msgstr ""
+
+msgid "Please, login to use the feature"
+msgstr "请登录以使用该功能"
+
 msgid "Please, login to view your stats"
 msgstr "请登入后查看你的统计信息"
 
-msgid "Pomodoro duration:"
-msgstr "番茄钟时长："
+msgid "Pomodoro Tracker is a productivity app designed for your work and study."
+msgstr ""
 
-msgid "Pomodoro is finished."
-msgstr "番茄钟结束。"
+msgid "Pomodoro duration"
+msgstr "番茄钟时长"
 
-msgid "Pomodoros"
-msgstr "番茄钟"
+msgid "Pomodoro is finished"
+msgstr "番茄钟结束"
 
 msgid "Preferences"
 msgstr "优先级"
 
-msgid "Privacy Policy"
-msgstr "隐私权政策"
+msgid "Press"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
 
 msgid "Provide Feedback"
 msgstr "提供反馈信息"
@@ -413,6 +411,9 @@ msgstr "退出"
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "当番茄钟/休息结束的时候发送浏览器弹窗"
 
+msgid "Rate the application"
+msgstr "评价申请"
+
 msgid "Records are empty"
 msgstr "记录为空"
 
@@ -422,53 +423,62 @@ msgstr "以定性和定量的方式完善评估流程"
 msgid "Register"
 msgstr "注册"
 
+msgid "Relax"
+msgstr ""
+
 msgid "Release Notes"
 msgstr "发布记录"
+
+msgid "Remove a task from TODO when Pomodoro is complete"
+msgstr ""
+
+msgid "Remove one"
+msgstr "删除一个"
+
+msgid "Repeat"
+msgstr "重复"
 
 msgid "Reports Time"
 msgstr ""
 
-msgid "Reports and notifications"
-msgstr "报告和通知"
-
-msgid "Resume"
-msgstr "继续"
-
 msgid "Rules & Tips"
 msgstr "规则 & 提示"
-
-msgid "SKIP"
-msgstr "跳过"
-
-msgid "STOP"
-msgstr "停止"
 
 msgid "Schemes"
 msgstr "调度"
 
-msgid "Send Daily Reports"
+msgid "Select Category"
+msgstr ""
+
+msgid "Select Dates"
+msgstr ""
+
+msgid "Select a calendar to import tasks"
+msgstr "选择日历以导入任务"
+
+msgid "Send daily reports"
 msgstr "发送每日报告"
-
-msgid "Send reports on email: "
-msgstr "向该邮箱发送报告："
-
-msgid "Send reports on telegram"
-msgstr "通过telegram发送报告"
 
 msgid "Send test notification"
 msgstr "发送测试通知"
 
-msgid "September"
-msgstr "九月"
+msgid "Server Error"
+msgstr ""
 
 msgid "Server has been updated."
 msgstr "服务器已更新。"
 
+msgid "Set do not disturb"
+msgstr "设置请勿打扰"
+
 msgid "Settings"
 msgstr "设置"
 
-msgid "Short break duration:"
-msgstr "短休息时长："
+msgid "Share timer data"
+msgstr ""
+
+msgid "Short break duration"
+msgstr "短休息时长"
 
 msgid "Short description"
 msgstr "简短描述"
@@ -479,14 +489,14 @@ msgstr "显示窗口"
 msgid "Sign Up / Login"
 msgstr "注册 / 登入"
 
-msgid "Skip"
-msgstr "跳过"
+msgid "Sign in with %1$s"
+msgstr "使用%1$s登录"
+
+msgid "Sleep Mode is enabled"
+msgstr ""
 
 msgid "Sort by"
 msgstr "排序根据"
-
-msgid "Start"
-msgstr "开始"
 
 msgid "Start the Pomodoro timer"
 msgstr "启动番茄钟的计时器"
@@ -497,8 +507,8 @@ msgstr "开始工作"
 msgid "Stats"
 msgstr "统计"
 
-msgid "Stop"
-msgstr "停止"
+msgid "Stay focused and finish tasks effectively."
+msgstr ""
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -508,20 +518,23 @@ msgstr "面对复杂的情况，强化自己坚持应用自己的决心"
 msgid "Support the Project"
 msgstr "赞助本项目"
 
-msgid "Sync with Google Tasks"
-msgstr ""
+msgid "Sync my tasks only"
+msgstr "仅同步我的任务"
 
 msgid "TODO"
 msgstr "代办"
 
-msgid "TODO list is empty"
-msgstr "代办列表为空"
+msgid "TODO list is empty."
+msgstr "TODO列表为空"
 
 msgid "TODO list was updated."
 msgstr "代办列表已经更新"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "开始一段短暂的休息（3到5分钟）"
+
+msgid "Take more time to your life."
+msgstr ""
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "感谢你的反馈！你的留言正在等待审核。"
@@ -551,10 +564,18 @@ msgid ""
 msgstr "番茄工作法为您和您的团队成员提供一个简单的工具或者是过程来提高生产力，它可以执行以下操作："
 
 msgid ""
+"The Pomodoro Tracker — A useful tool for time management based on "
+"Pomodoro Technique."
+msgstr ""
+
+msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr "番茄工作法的目的是把时间作为一个有价值的盟友，以我们想要的方式完成我们想要做的事情，并使我们能够不断地改进我们的工作或学习方式。"
+
+msgid "The integration is outdated. Please reconnect."
+msgstr ""
 
 msgid "The list is empty"
 msgstr "这个列表为空"
@@ -564,9 +585,6 @@ msgstr "努力将下一个番茄钟做得更好"
 
 msgid "The next pomodoro will go better!"
 msgstr "努力将下一个番茄钟做得更好"
-
-msgid "Theme"
-msgstr "主题"
 
 msgid "There are completed tasks"
 msgstr "这是已完成的任务"
@@ -579,9 +597,6 @@ msgstr "本季度"
 
 msgid "This Week"
 msgstr "本周"
-
-msgid "Time"
-msgstr "时间"
 
 msgid "Time format"
 msgstr "时间格式"
@@ -598,17 +613,17 @@ msgstr "计时器"
 msgid "Title"
 msgstr "标题"
 
-msgid "Today"
-msgstr "今天"
+msgid "Toggle eye keeper"
+msgstr ""
 
 msgid "Toggle fullscreen"
 msgstr "切换全屏"
 
+msgid "Toggle mini timer"
+msgstr ""
+
 msgid "Try to add some tasks use the form above"
 msgstr "尝试使用上面表格添加一些任务"
-
-msgid "Try to complete some pomodoros above"
-msgstr "尝试完成上面的一些番茄钟"
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "尝试完成一些番茄钟或者选择别的时间"
@@ -619,6 +634,12 @@ msgstr "尝试将代办标记为活动或者使用上面的表格"
 msgid "Tune the timer"
 msgstr "校准计时器"
 
+msgid "Unselect Category"
+msgstr ""
+
+msgid "Update status"
+msgstr "更新状态"
+
 msgid "View"
 msgstr ""
 
@@ -627,6 +648,9 @@ msgstr "音量"
 
 msgid "What is it?"
 msgstr "这是什么"
+
+msgid "Window"
+msgstr ""
 
 msgid "Work days"
 msgstr "工作天数"
@@ -646,20 +670,14 @@ msgstr "昨天"
 msgid "You are not signed."
 msgstr "你没有登陆"
 
+msgid "You have finished all your tasks."
+msgstr "你已经完成你的所有任务。"
+
 msgid "You spent"
 msgstr "您花费"
 
 msgid "and"
 msgstr "以及"
-
-msgid "as Facebook user"
-msgstr "作为Facebook用户"
-
-msgid "as Github user"
-msgstr "作为Github用户"
-
-msgid "as Google user"
-msgstr "作为Google用户"
 
 msgid "auto"
 msgstr "自动"
@@ -667,14 +685,26 @@ msgstr "自动"
 msgid "average"
 msgstr "平均"
 
+msgid "break"
+msgstr "休"
+
 msgid "cancel"
 msgstr "取消"
+
+msgid "category"
+msgstr "类别"
 
 msgid "close"
 msgstr "关闭"
 
+msgid "copy"
+msgstr ""
+
 msgid "created"
 msgstr "创建人"
+
+msgid "custom"
+msgstr "自定义"
 
 msgid "dark"
 msgstr "黑暗"
@@ -682,6 +712,9 @@ msgstr "黑暗"
 msgid "day"
 msgid_plural "days"
 msgstr[0] "天"
+
+msgid "default"
+msgstr "默认"
 
 msgid "delay"
 msgstr "推迟"
@@ -692,15 +725,39 @@ msgstr "推迟"
 msgid "delete"
 msgstr "删除"
 
+msgid "description"
+msgstr "描述"
+
+msgid "done"
+msgstr "已完成"
+
+msgid "duplicate"
+msgstr "重复"
+
+msgid "duration"
+msgstr "持续时间"
+
+msgid "finish time"
+msgstr "结束时间"
+
 msgid "focus"
 msgstr ""
 
 msgid "for all time"
 msgstr "总计"
 
+msgid "friends"
+msgstr ""
+
+msgid "global"
+msgstr ""
+
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "小时"
+
+msgid "if you must exit now"
+msgstr ""
 
 msgid "in 10 seconds"
 msgstr "在10秒之后"
@@ -720,6 +777,9 @@ msgstr "分钟"
 msgid "in pomodoros"
 msgstr "个番茄时间之后"
 
+msgid "interruptions"
+msgstr "中断"
+
 msgid "light"
 msgstr "明亮"
 
@@ -727,8 +787,23 @@ msgid "like"
 msgid_plural "likes"
 msgstr[0] "赞"
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
 msgstr "中位数"
+
+msgid "menu"
+msgstr ""
+
+msgid "merge"
+msgstr "合并"
+
+msgid "messages"
+msgstr "讯息"
+
+msgid "minimize"
+msgstr ""
 
 msgid "minute"
 msgid_plural "minutes"
@@ -738,11 +813,17 @@ msgid "month"
 msgid_plural "months"
 msgstr[0] "月"
 
+msgid "never"
+msgstr ""
+
 msgid "next page"
 msgstr "下一页"
 
 msgid "no description"
 msgstr "没有描述"
+
+msgid "no information available"
+msgstr ""
 
 msgid "number"
 msgstr "数量"
@@ -750,18 +831,33 @@ msgstr "数量"
 msgid "on"
 msgstr "在"
 
+msgid "one message per line"
+msgstr "每行一条消息"
+
+msgid "pause"
+msgstr "暂停"
+
+msgid "personal"
+msgstr ""
+
 msgid "pomodoro"
 msgid_plural "pomodoros"
 msgstr[0] "番茄钟"
 
+msgid "pomodoros"
+msgstr "番茄钟"
+
+msgid "preview"
+msgstr ""
+
 msgid "previous page"
 msgstr "上一页"
 
+msgid "prolong time"
+msgstr "延长时间"
+
 msgid "rating"
 msgstr "评分"
-
-msgid "record"
-msgstr "记录"
 
 msgid "refresh"
 msgstr "刷新"
@@ -772,14 +868,29 @@ msgstr "已注册用户在番茄钟花费的总时间"
 msgid "registered users spend on completing pomodoros today."
 msgstr "已注册用户今天在番茄钟花费的时间"
 
+msgid "remove categories"
+msgstr ""
+
 msgid "resume"
 msgstr "继续"
 
 msgid "save"
 msgstr ""
 
+msgid "series"
+msgstr "系列"
+
+msgid "skip"
+msgstr "跳过"
+
 msgid "start"
 msgstr "开始"
+
+msgid "stop"
+msgstr "停止"
+
+msgid "system"
+msgstr ""
 
 msgid "take a long break"
 msgstr "开始一个长休息"
@@ -795,8 +906,17 @@ msgid ""
 "bellow"
 msgstr "到你的telegram，输入‘/start’指令并输入bot字段的编码"
 
-msgid "version"
-msgstr "版本"
+msgid "today"
+msgstr "今天"
+
+msgid "unknown"
+msgstr ""
+
+msgid "user"
+msgstr ""
+
+msgid "week"
+msgstr ""
 
 msgid "were"
 msgstr "是"
@@ -805,12 +925,105 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "年"
 
-#~ msgid "Congratulations!"
-#~ msgstr "恭喜!"
+#~ msgid "Apply"
+#~ msgstr "应用"
 
-#~ msgid "Daily Goal Completed."
-#~ msgstr "每日目标完成"
+#~ msgid "April"
+#~ msgstr "四月"
+
+#~ msgid "Are you sure want to delete"
+#~ msgstr "确认希望删除吗"
+
+#~ msgid "August"
+#~ msgstr "八月"
+
+#~ msgid "Break is over."
+#~ msgstr ""
+
+#~ msgid "Daily history"
+#~ msgstr "历史记录"
+
+#~ msgid "Date"
+#~ msgstr "日期"
+
+#~ msgid "December"
+#~ msgstr "十二月"
+
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "启用Telegram通知"
+
+#~ msgid "February"
+#~ msgstr "二月"
+
+#~ msgid "Import records from CSV"
+#~ msgstr "导入CSV格式记录"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
+#~ msgid "January"
+#~ msgstr "一月"
+
+#~ msgid "July"
+#~ msgstr "七月"
+
+#~ msgid "June"
+#~ msgstr "六月"
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "从Google日历加载每日任务"
+
+#~ msgid "Login to view your stats"
+#~ msgstr "登入后查看你的统计信息"
+
+#~ msgid "Look away at something that is 6 metres away for 20 seconds"
+#~ msgstr ""
+
+#~ msgid "March"
+#~ msgstr "三月"
+
+#~ msgid "May"
+#~ msgstr "五月"
+
+#~ msgid "November"
+#~ msgstr "十一月"
+
+#~ msgid "October"
+#~ msgstr "十月"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "隐私权政策"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "报告和通知"
+
+#~ msgid "Send Daily Reports"
+#~ msgstr "发送每日报告"
+
+#~ msgid "Send reports on email: "
+#~ msgstr "向该邮箱发送报告："
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "通过telegram发送报告"
+
+#~ msgid "September"
+#~ msgstr "九月"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr ""
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "番茄钟正在运行"
+
+#~ msgid "Try to complete some pomodoros above"
+#~ msgstr "尝试完成上面的一些番茄钟"
+
+#~ msgid "quarter"
+#~ msgstr ""
+
+#~ msgid "record"
+#~ msgstr "记录"
+
+#~ msgid "version"
+#~ msgstr "版本"
 

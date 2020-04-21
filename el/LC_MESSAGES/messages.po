@@ -1,0 +1,1003 @@
+# Greek translations for pomodoro.
+# Copyright (C) 2019 ORGANIZATION
+# This file is distributed under the same license as the pomodoro project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pomodoro 5.1.18\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: el\n"
+"Language-Team: el <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "Συνδεθείτε με το %(provider)s"
+
+msgid "%1$s left"
+msgstr "%1$s Απομείνη"
+
+msgid "%1$s paused."
+msgstr "%1$s παύσης."
+
+msgid "%1$s started:"
+msgstr "%1$s ξεκίνησε:"
+
+msgid "%1$s stopped:"
+msgstr "%1$s σταμάτησε:"
+
+#, fuzzy
+#| msgid "%1$s records were imported"
+msgid "%1$s tasks were imported"
+msgstr "%1$s τα αρχεία έχουν εισαχθεί"
+
+#, python-format
+msgid "%s here's your Daily report for %s"
+msgstr "%s ορίστε η καθημερινή σου αναφορά για %s"
+
+msgid "A random message will be chosen if there are multiple."
+msgstr "Ένα τυχαίο μήνυμα θα επιλεγεί εάν υπάρχουν πολλαπλά."
+
+msgid "Activities"
+msgstr "Δραστηριότητες"
+
+msgid "Activity by days"
+msgstr "Δραστηριότητα ανα μέρες"
+
+msgid "Activity by months"
+msgstr "Δραστηριότητα ανα μήνες"
+
+msgid "Activity by weeks"
+msgstr "Δραστηριότητα ανα εβδομάδες"
+
+msgid "Add"
+msgstr "Πρόσθεσε"
+
+msgid "Add Activity"
+msgstr "Πρόσθεσε Δραστηριότητα"
+
+msgid "Add TODO"
+msgstr "Πρόσθεσε TODO"
+
+msgid "Add category"
+msgstr "Πρόσθεσε κατηγορία"
+
+msgid "Add more"
+msgstr "Πρόσθεσε και άλλα"
+
+msgid "Add new tasks to the top"
+msgstr "Πρόσθεσε νέες ασχολίες στην κορυφή"
+
+msgid "Alleviate anxiety linked to beginning"
+msgstr "Ανακούφιση άγχους συνδεδεμένο με το ξεκίνημα"
+
+msgid "Application"
+msgstr "Εφαρμογή"
+
+msgid ""
+"At the beginning of each day select the tasks you need to complete and "
+"put them on the TODO list above."
+msgstr ""
+"Στην αρχή καθε μέρας διάλεξε της ασχολίες που χρειάζεται να ολοκληρώσης "
+"και βάλτες στην λίστα TODO παραπάνω."
+
+msgid "At time"
+msgstr "Στην ώρα"
+
+msgid "Auto start breaks"
+msgstr "Αυτόματο ξεκίνημα διάλειμματων"
+
+msgid "Auto start pomodoros"
+msgstr "Αυτόματο ξεκίνημα των πομοντόρο"
+
+msgid "Block screen on breaks"
+msgstr "Αποκλεισμός οθόνης στα διαλείμματα"
+
+msgid "Bolster the determination to achieve your goals"
+msgstr "Υποστήρηξε την αποφασιστικότητα σου για να καταφέρεις τους στόχους σου"
+
+msgid "Boost motivation and keep it constant"
+msgstr "Ενίσχυση ώθησης να το κρατήσεις συνεχής"
+
+msgid "Break is over"
+msgstr "Το Διάλειμμα τελείωσε"
+
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+msgid "Changes saved"
+msgstr "Η Αλλαγές αποθηκεύτηκαν"
+
+msgid "Clear DONE history once per day"
+msgstr "Καθάρισε την ολοκληρωμένη ιστορία μια φορά την ημέρα"
+
+msgid "Clear the list"
+msgstr "Καθάρισε την λίστα"
+
+msgid "Click on a number to add more."
+msgstr "Κανε κλικ σε εναν αριθμό να βάλεις εξτρά."
+
+msgid "Click to open menu"
+msgstr "Κανε κλικ για να άνοιξης το μενού"
+
+msgid "Click/tap to edit items."
+msgstr "Κανε κλικ/πάτα για επεξεργασία των αντικειμένων."
+
+msgid "Close"
+msgstr "Κλείσε"
+
+msgid "Code"
+msgstr "Κωδικός"
+
+msgid "Color Theme"
+msgstr "Χρώμα Θέματος"
+
+msgid "Configure"
+msgstr ""
+
+msgid "Congratulations!"
+msgstr "Συγχαρητήρια!"
+
+msgid "Connect"
+msgstr "Συνδέσου"
+
+msgid "Create"
+msgstr "Δημιούργησε"
+
+msgid "Create a category"
+msgstr "Δημιούργησε μια Κατηγόρια"
+
+msgid "Daily Goal"
+msgstr "Καθημερινός Στόχος"
+
+msgid "Daily Goal Completed."
+msgstr "Καθημερινός Στόχος Επιτευχθεί"
+
+msgid "Daily Task"
+msgstr "Καθημερίνη Ασχολία"
+
+msgid "Date format"
+msgstr "Μορφή Ημερομηνίας"
+
+msgid "Disconnect"
+msgstr "Αποσύνδεση"
+
+msgid "Don`t start next pomodoro if TODO is empty"
+msgstr "Μην ξεκινήσεις το επόμενο πομοντόρο αμα το TODO είναι άδειο"
+
+msgid "Drag&Drop/Touch to sort items."
+msgstr "Σύρε&Άφησε/Ακούμπα για να ταξινομήσεις τα αντικείμενα."
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Enable Browser Alerts"
+msgstr "Ενεργοποίησε Ειδοποιήσεις Λογισμικού Πλοήγησης"
+
+msgid "Enable Notifications"
+msgstr "Ενεργοποίηση ειδοποιήσεων"
+
+msgid "Enable Web Notifications"
+msgstr "Ενεργοποίησε Ειδοποιήσεις Ιστοσελιδας"
+
+msgid "Enhance focus and concentration by cutting down on interruptions"
+msgstr "Ενίσχυσε την συγκέντρωση κόβοντας της αποσπάσεις"
+
+msgid "Enjoy your break"
+msgstr "Απολαύστε το διάλειμμα σας"
+
+msgid "Export the records as CSV"
+msgstr "Κανε εξαγωγή τα αρχεία σαν CSV"
+
+msgid "Eye Keeper is enabled"
+msgstr ""
+
+msgid "Favorites"
+msgstr "Αγαπημένα"
+
+msgid "Feedback"
+msgstr "Ανατροφοδότηση"
+
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "Συμπληρώστε κενές καταχωρήσεις"
+
+msgid "Great work!"
+msgstr "Σπουδαία δουλειά"
+
+msgid "Help"
+msgstr ""
+
+msgid "Hide notificaions"
+msgstr "κρύψε της ειδοποιήσεις"
+
+msgid "History"
+msgstr ""
+
+msgid "If a task takes more than 5–7 Pomodoros, break it down"
+msgstr "Αμα μια ασχολία παίρνει παραπάνω απο 5-7 Πομοντόρος, σπάστο"
+
+msgid ""
+"If it takes less than one Pomodoro, add it up, and combine  it with "
+"another task"
+msgstr ""
+"Αμα παίρνει λιγότερο απο ενα Πομοντόρο, Πρόσθεσε το, και ένωσε το με με "
+"μια αλλη ασχολία"
+
+msgid "Import tasks from CSV"
+msgstr "Κανε εισαγωγή τα αρχεία απο csv"
+
+msgid "Import was failed. Check your CSV and try again."
+msgstr "Η εισαγωγή αποτυχέ. Τσέκαρε το CSV σου και ξανά προσπάθησε."
+
+msgid "Imported from External Sources"
+msgstr "Έγινε εισαγωγή απο Εξωτερικές Πηγές"
+
+msgid "Improve your work or study process"
+msgstr "Βελτίωσε την διαδικασία δουλειάς η διαβάσματος"
+
+msgid "Increase awareness of your decisions"
+msgstr "Ανεβασε την γνώση των αποφάσεων σου"
+
+msgid "Integration with %1$s"
+msgstr "Ενσωσμάτωση με %1$s"
+
+msgid "Integrations"
+msgstr "Ενωσμάτωσης"
+
+msgid "Interruption tracked"
+msgstr "Η διακοπή παρακολουθείται"
+
+msgid "Join the global rating"
+msgstr "Πάρε μέρος στην παγκόσμια ταξινόμηση"
+
+msgid ""
+"Keep on working, Pomodoro after Pomodoro, until the task at hand is "
+"finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
+msgstr ""
+"Συνέχισε να δουλεύεις, Πομοντόρο μετα απο Πομορντόρο, μέχρι η δουλειά να "
+"έχει Τελείωση. Καθε 4 Πομοντόρο παρε μεγαλύτερο διάλειμμα, (15-30 λεπτα)."
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "Last 180 days"
+msgstr "Τελευταίες 180 ημέρες"
+
+msgid "Last 90 days"
+msgstr "Τελευταίες 90 ημέρες"
+
+msgid "Last Month"
+msgstr "Τελευταίος Μήνας"
+
+msgid "Last Quarter"
+msgstr "Τελευταία Τριμηνία"
+
+msgid "Last Week"
+msgstr "Τελευταία Εβδομάδα"
+
+msgid "Like"
+msgstr "Μου Αρέσει"
+
+msgid "Link copied"
+msgstr "Η σύνδεση αντιγράφηκε"
+
+msgid "Load daily tasks"
+msgstr "Φόρτωση καθημερινών εργασιών"
+
+msgid "Loading"
+msgstr "Φόρτωμα"
+
+msgid "Lock is enabled"
+msgstr "Το κλείδωμα είναι ενεργοποιημένο"
+
+msgid "Login to the service and track your progress"
+msgstr "Συνδέσου στην υπηρεσία και κατέγραψε την πρόοδο σου"
+
+msgid "Login to the service using %1$s authentication."
+msgstr "Συνδέσου στην υπηρεσία χρησιμοποιώντας αυθεντικοποίηση απο το %1$s"
+
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+msgid "Long break"
+msgstr "Μεγάλο διάλειμμα"
+
+msgid "Long break delay"
+msgstr "Μεγάλο διάλειμμα αναβολή"
+
+msgid "Long break duration"
+msgstr "Μεγάλο διάλειμμα διάρκεια"
+
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr ""
+
+msgid "Mark as done"
+msgstr "Σημείωσε σαν ολοκληρωμένο"
+
+msgid "Median per day"
+msgstr "διάμεσο ανα ημέρα"
+
+msgid "Navigate Back"
+msgstr ""
+
+msgid "Navigate Forward"
+msgstr ""
+
+msgid "New"
+msgstr "Καινούργιο"
+
+msgid "Next long break"
+msgstr "Επόμενο μακρύ διάλειμμα"
+
+msgid "Notification Test"
+msgstr "Δοκιμή Ειδοποιήσεων"
+
+msgid "Notifications"
+msgstr "Ειδοποίησεις"
+
+msgid "Notify when there is one minute left"
+msgstr "Ειδοποίησε οταν εχει μείνει ενα λέπτο"
+
+msgid "Of those"
+msgstr "Από Αυτά"
+
+msgid "Once a Pomodoro begins, it has to ring"
+msgstr "Οταν η Πομοντόρο ξεκίνα, πρέπει να κουδουνίζει"
+
+msgid "One minute left"
+msgstr "Απέμεινε ενα λέπτο"
+
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr ""
+
+msgid "Pin to activities"
+msgstr "Καρφίτσωμα στης δραστηριότητες"
+
+msgid "Play alarm sound"
+msgstr "Παίξε ηχο συναγερμού"
+
+msgid "Play ticking sound"
+msgstr "Παίξε ήχο τικαρίσματος"
+
+msgid "Play ticking sound while breaks"
+msgstr "Παίξε ήχο τικαρίσματος στα διαλείματα"
+
+msgid "Please don't send me these awesome daily reports"
+msgstr "Παρακαλώ μην μου στέλνετε αυτες της φοβερές καθημερινές αναφορές"
+
+msgid "Please reload the application."
+msgstr "Παρακαλώ ξανά φορτώστε το πρόγραμμα"
+
+msgid "Please select a value"
+msgstr "Επιλέξτε μια τιμή"
+
+msgid "Please unblock notifications in your browser"
+msgstr "Παρακαλώ ξεμπλοκάρε της ειδοποίησης στο λογισμικό πλοήγησης σας"
+
+msgid "Please, login to use the feature"
+msgstr "Παρακαλώ, συνδεθείτε για να χρησιμοποιήσετε τη δυνατότητα"
+
+msgid "Please, login to view your stats"
+msgstr "Παρακαλώ, συνδεθείτε για να δείτε τα στατιστικά σας"
+
+msgid "Pomodoro Tracker is a productivity app designed for your work and study."
+msgstr ""
+"Το Pomodoro Tracker ειναι ενα πρόγραμμα παραγωγικότητας που σχεδιάστηκε "
+"για την δουλειά και το διάβασμα σου."
+
+msgid "Pomodoro duration"
+msgstr "Διάρκεια Πομοντόρο"
+
+msgid "Pomodoro is finished"
+msgstr "Το πομοντόρο εχει τελείωση"
+
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+msgid "Press"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Provide Feedback"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Raise browser alert when pomodoro/break is over"
+msgstr ""
+"Δώσε ειδοποιήση λογισμικού πλοήγησης οταν το πομοντόρο/διάλειμμα εχει "
+"τελείωση"
+
+msgid "Rate the application"
+msgstr "Αξιολογήστε την εφαρμογή"
+
+msgid "Records are empty"
+msgstr "Τα έγγραφα ειναι άδεια"
+
+msgid "Refine the estimation process, both in qualitative and quantitative terms "
+msgstr ""
+"Βελτίωσε την διαδικασιά εκτιμήσεις, και σε όρους ποιότητας και σε ορους "
+"ποσότητας"
+
+msgid "Register"
+msgstr "Κάνε εγγραφή"
+
+msgid "Relax"
+msgstr "Χαλαρώστε"
+
+msgid "Release Notes"
+msgstr ""
+
+msgid "Remove a task from TODO when Pomodoro is complete"
+msgstr "Αφαίρεσε μια ασχολία απο το TODO οταν το Πομοντόρο έχει ολοκληρωθεί"
+
+msgid "Remove one"
+msgstr "Αφαίρεσε ενα"
+
+msgid "Repeat"
+msgstr "Επανάλαβε"
+
+msgid "Reports Time"
+msgstr "'Ωρα Αναφοράς"
+
+msgid "Rules & Tips"
+msgstr "Κανόνες & Συμβουλές"
+
+msgid "Schemes"
+msgstr "Σχέδια"
+
+msgid "Select Category"
+msgstr "Επιλέξτε κατηγορία"
+
+msgid "Select Dates"
+msgstr "Επιλέξτε Ημερομηνίες"
+
+msgid "Select a calendar to import tasks"
+msgstr "Επιλέξτε ένα ημερολόγιο για εισαγωγή εργασιών"
+
+msgid "Send daily reports"
+msgstr "Αποστολή ημερήσιων αναφορών"
+
+msgid "Send test notification"
+msgstr "Στείλε ειδοποίησεις δοκιμής"
+
+msgid "Server Error"
+msgstr ""
+
+msgid "Server has been updated."
+msgstr "Έχει γίνει ενημέρωση της υπηρεσίας"
+
+msgid "Set do not disturb"
+msgstr "Ορίστε να μην ενοχλείτε"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Share timer data"
+msgstr "Κοινή χρήση δεδομένων χρονοδιακόπτη"
+
+msgid "Short break duration"
+msgstr "Διάρκεια μικρών διαλειμμάτων"
+
+msgid "Short description"
+msgstr "Μικρή περιγραφή"
+
+msgid "Show window"
+msgstr ""
+
+msgid "Sign Up / Login"
+msgstr "Εγγραφή / Συνδεση"
+
+msgid "Sign in with %1$s"
+msgstr "Συνδεθείτε με το %1$s"
+
+msgid "Sleep Mode is enabled"
+msgstr ""
+
+msgid "Sort by"
+msgstr "Ταξινόμηση με"
+
+msgid "Start the Pomodoro timer"
+msgstr "Ξεκίνα το Πομοντόρο χρονόμετρο"
+
+msgid "Start working:"
+msgstr "Ξεκίνα να δουλεύεις:"
+
+msgid "Stats"
+msgstr "Στατιστικά"
+
+msgid "Stay focused and finish tasks effectively."
+msgstr "Μείνε συγκεντρωμένος και τελείωσε την ασχολία αποτελεσματικά."
+
+msgid ""
+"Strengthen your resolve to keep on applying yourself in the face of "
+"complex situations"
+msgstr ""
+"Δυνάμωσε την αποφασιστικότητα να συνεχίσεις να εφαρμόζεις τον εαυτό σου "
+"εναντίον δύσκολες καταστάσεις"
+
+msgid "Support the Project"
+msgstr "Υποστήριξε το Έργο"
+
+msgid "Sync my tasks only"
+msgstr "Συγχρονίστε μόνο τις εργασίες μου"
+
+msgid "TODO"
+msgstr "TODO"
+
+msgid "TODO list is empty."
+msgstr "TODO λίστα είναι άδεια."
+
+msgid "TODO list was updated."
+msgstr "Η TODO λίστα έχει ενημερωθεί."
+
+msgid "Take a short break (3-5 minutes)"
+msgstr "Κανε ενα μικρό διάλειμμα (3-5 λεπτά)"
+
+msgid "Take more time to your life."
+msgstr "Πάρε πιο πολύ χρόνο στην ζωή σου."
+
+msgid "Thank you for the feedback! Your message is awaiting moderation."
+msgstr "Ευχαριστώ για την ανατροφοδότηση! Το μήνυμα σου περιμένει συντονισμό."
+
+msgid "The Basics"
+msgstr "Τα Βασικά"
+
+msgid "The Goals"
+msgstr "Η Στόχοι"
+
+msgid ""
+"The Pomodoro Technique is a time management method that can be used for "
+"any task. For many people, time is an enemy. The anxiety triggered by "
+"“the ticking clock”, especially when it involves a deadline, leads to "
+"ineffective work and study habits which in turn lead to procrastination."
+msgstr ""
+"Η Τεχνική Πομοντόρο ειναι μια μέθοδος διαχείρισης χρόνου που μπορεί να "
+"χρησιμοποιηθεί για οποιαδήποτε ασχολία. Για πολύ κόσμο, ο χρονος είναι "
+"εχθρος. το άγχος ενεργοποιείτε απο “Το ρολόι που κυλάει”, ειδικά αμα "
+"περιέχει μια διοριά, αυτο οδηγά σε Μη αποτελεσματικές συνήθειες στην "
+"δουλειά και διάβασμα το οποίο εν σειρά οδηγή σε αναβολές."
+
+msgid ""
+"The Pomodoro Technique shouldn’t be used for activities you do in your "
+"free time. Enjoy free time!"
+msgstr ""
+"Η Πομοντόρο Τεχνική δεν πρέπει να χρησιμοποιηθεί σε δραστηριότητες που "
+"κανείς στον ελεύθερο χρόνο σου. Απόλαυσε τον ελεύθερο χρόνο σου!"
+
+msgid ""
+"The Pomodoro Technique will provide a simple tool/process for improving "
+"productivity (your own and that of your team members) which can do the "
+"following:"
+msgstr ""
+"Η Πομοντόρο Τεχνική θα σου προσφέρει ενα απλο εργαλείο/διαδικασιά για να "
+"καλυτέρευσις την παραγωγικότήτα (την δικιά σου και αυτη τον μελών της "
+"ομάδα σου) που μπορεί να κάνεις τα ακόλουθα:"
+
+msgid ""
+"The Pomodoro Tracker — A useful tool for time management based on "
+"Pomodoro Technique."
+msgstr ""
+"Το Pomodoro Tracker - Ενα χρήσιμο εργαλείο για διαχείριση χρόνου "
+"βασισμένο πανώ στην Πομοντόρο Τεχνική."
+
+msgid ""
+"The aim of the Pomodoro Technique is to use time as a valuable ally in "
+"accomplishing what we want to do in the way we want to do it, and to "
+"enable us to improve continually the way we work or study."
+msgstr ""
+"Ο στόχος της Πομοντόρο Τεχνικής είναι να χρησιμοποιήσουμε των χρόνο σαν "
+"εναν χρήσιμο σύμμαχο στο να καταφέρουμε τι θέλουμε να κάνουμε με των "
+"τρόπο που θέλουμε να το κάνουμε, και να μας επιτρέψει να καλυτερέψουμε "
+"συνεχώς των τρόπο που δουλεύουμε η διαβάζουμε."
+
+msgid "The integration is outdated. Please reconnect."
+msgstr "Η ολοκλήρωση είναι ξεπερασμένη. Επανασυνδεθείτε."
+
+msgid "The list is empty"
+msgstr "Η λίστα είιναι άδεια"
+
+msgid "The next Pomodoro will go better"
+msgstr "Το Επόμενο Πομοντόρο θα πάει καλύτερα"
+
+msgid "The next pomodoro will go better!"
+msgstr "Το Επόμενο Πομοντόρο θα πάει καλύτερα!"
+
+msgid "There are completed tasks"
+msgstr "Υπάρχουν τελειωμένες ασχολίες"
+
+msgid "This Month"
+msgstr "Αυτών των Μήνα"
+
+msgid "This Quarter"
+msgstr "Αυτή την Τριμηνία"
+
+msgid "This Week"
+msgstr "Αυτή την εβδομαδα"
+
+msgid "Time format"
+msgstr "Μορφή Χρόνου"
+
+msgid "Time spent"
+msgstr "Χρόνος που καταναλώθηκε"
+
+msgid "Time zone"
+msgstr "Ζώνη Ώρας"
+
+msgid "Timer"
+msgstr "Χρονόμετρο"
+
+msgid "Title"
+msgstr "Τίτλος"
+
+msgid "Toggle eye keeper"
+msgstr ""
+
+msgid "Toggle fullscreen"
+msgstr "Ενεργοποίησε πλήρης οθόνη"
+
+msgid "Toggle mini timer"
+msgstr ""
+
+msgid "Try to add some tasks use the form above"
+msgstr "Προσπάθησε να βάλεις μερικές ασχολίες χρησημοποιήσε την φόρμα απο πάνω"
+
+msgid "Try to complete some pomodoros or choose a different period"
+msgstr "Προσπάθησε να ολοκληρώσεις μερικά Πομοντόρο η διάλεξε διαφορετική περίοδο"
+
+msgid "Try to mark TODO as activity or use the form above"
+msgstr ""
+"Προσπάθησε να μαρκάρεις το TODO σαν δραστηριότητα η χρησημοποιήσε την "
+"φόρμα απο πάνω"
+
+msgid "Tune the timer"
+msgstr "Κούρδισε το χρονόμετρο"
+
+msgid "Unselect Category"
+msgstr "Αποεπιλογή κατηγορίας"
+
+msgid "Update status"
+msgstr "Ενημέρωση κατάστασης"
+
+msgid "View"
+msgstr "Θέα"
+
+msgid "Volume"
+msgstr "Ένταση"
+
+msgid "What is it?"
+msgstr "Τι είναι?"
+
+msgid "Window"
+msgstr ""
+
+msgid "Work days"
+msgstr "Ημέρες δουλειάς"
+
+msgid "Work history won`t be saved."
+msgstr "Ιστορία δουλειάς δεν θα αποθηκεύτη."
+
+msgid "Work until the Pomodoro rings"
+msgstr "Δούλεψε μεχρι το Πομοντόρο χτυπήσει"
+
+msgid "Write your ideas here"
+msgstr "Γράψε της ιδέες σου εδω"
+
+msgid "Yesterday"
+msgstr "Χθες"
+
+msgid "You are not signed."
+msgstr "Δεν έκανες είσοδο."
+
+msgid "You have finished all your tasks."
+msgstr "Έχεις τελείωση ολες της ασχολίες σου."
+
+msgid "You spent"
+msgstr "Ξόδεψες"
+
+msgid "and"
+msgstr "και"
+
+msgid "auto"
+msgstr "Αυτόματα"
+
+msgid "average"
+msgstr "μέσος όρος"
+
+msgid "break"
+msgstr "διάλειμμα"
+
+msgid "cancel"
+msgstr "Ακύρωσε"
+
+msgid "category"
+msgstr "Κατηγορία"
+
+msgid "close"
+msgstr "Κλείσε"
+
+msgid "copy"
+msgstr "αντίγραφο"
+
+msgid "created"
+msgstr "δημιουργημένα"
+
+msgid "custom"
+msgstr ""
+
+msgid "dark"
+msgstr "Σκοτεινό"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "ημέρα"
+msgstr[1] "ημέρες"
+
+msgid "default"
+msgstr "προκαθορισμένο"
+
+msgid "delay"
+msgstr "Καθυστέρηση"
+
+msgid "delays"
+msgstr "Καθυστέρησεις"
+
+msgid "delete"
+msgstr "Διαγραφή"
+
+msgid "description"
+msgstr "Περιγραφή"
+
+msgid "done"
+msgstr "Τελείωσε"
+
+msgid "duplicate"
+msgstr "Διπλότυπο"
+
+msgid "duration"
+msgstr "Διάρκεια"
+
+msgid "finish time"
+msgstr "τελειώστε το χρόνο"
+
+msgid "focus"
+msgstr "Συγκεντρώση"
+
+msgid "for all time"
+msgstr "Για όλο των χρόνο συνολικά"
+
+msgid "friends"
+msgstr "Φίλοι"
+
+msgid "global"
+msgstr "Παγκόσμιο"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "ώρα"
+msgstr[1] "ώρες"
+
+msgid "if you must exit now"
+msgstr ""
+
+msgid "in 10 seconds"
+msgstr "σε 10 δευτερόλεπτα"
+
+msgid "in 2 seconds"
+msgstr "σε 2 δευτερόλεπτα"
+
+msgid "in 3 seconds"
+msgstr "σε 3 δευτερόλεπτα"
+
+msgid "in 5 seconds"
+msgstr "σε 5 δευτερόλεπτα"
+
+msgid "in minutes"
+msgstr "σε λεπτά"
+
+msgid "in pomodoros"
+msgstr "σε Πομοντόρος"
+
+msgid "interruptions"
+msgstr "διακοπών"
+
+msgid "light"
+msgstr "φωτεινό"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "like"
+msgstr[1] "likes"
+
+msgid "maximize"
+msgstr ""
+
+msgid "median"
+msgstr "διάμεσος"
+
+msgid "menu"
+msgstr ""
+
+msgid "merge"
+msgstr "συγχώνευση"
+
+msgid "messages"
+msgstr "μηνυμάτων"
+
+msgid "minimize"
+msgstr ""
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "λεπτό"
+msgstr[1] "λεπτά"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "μήνας"
+msgstr[1] "μήνες"
+
+msgid "never"
+msgstr "Ποτέ"
+
+msgid "next page"
+msgstr "Επομένη σελίδα"
+
+msgid "no description"
+msgstr "χωρίς περιγραφή"
+
+msgid "no information available"
+msgstr "δεν υπάρχουν διαθέσιμες πληροφορίες"
+
+msgid "number"
+msgstr "αριθμός"
+
+msgid "on"
+msgstr "στο"
+
+msgid "one message per line"
+msgstr "ένα μήνυμα ανά γραμμή"
+
+msgid "pause"
+msgstr "παύση"
+
+msgid "personal"
+msgstr "Προσωπικό"
+
+msgid "pomodoro"
+msgid_plural "pomodoros"
+msgstr[0] "Πομοντόρο"
+msgstr[1] "Πομοντόρος"
+
+msgid "pomodoros"
+msgstr "Πομοντόρος"
+
+msgid "preview"
+msgstr "προεπισκόπση"
+
+msgid "previous page"
+msgstr "προηγούμενη σελίδα"
+
+msgid "prolong time"
+msgstr "παρατείνετε το χρόνο"
+
+msgid "rating"
+msgstr "εκτίμηση"
+
+msgid "refresh"
+msgstr "ανανεώσει"
+
+msgid "registered users spend on completing pomodoros"
+msgstr "Εγγεγραμμένη χρήστες ξόδεψαν στο να ολοκληρώνουν πομοντόρος"
+
+msgid "registered users spend on completing pomodoros today."
+msgstr "Εγγεγραμμεένη χρήστες ξοδέψαν στο να ολοκληρώνουν πομοντόρος σημερα."
+
+msgid "remove categories"
+msgstr "αφαίρεσε κατηγοριές"
+
+msgid "resume"
+msgstr "ξανάρχισε"
+
+msgid "save"
+msgstr "αποθήκευση"
+
+msgid "series"
+msgstr "σειρά"
+
+msgid "skip"
+msgstr "παράλειψη"
+
+msgid "start"
+msgstr "ξεκίνα"
+
+msgid "stop"
+msgstr "σταμάτα"
+
+msgid "system"
+msgstr "σύστημα"
+
+msgid "take a long break"
+msgstr "κανε ενα μεγάλο διάλειμμα"
+
+msgid "take a short break"
+msgstr "κανε ενα μικρό διάλειμμα"
+
+msgid "time"
+msgstr "χρόνος"
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr ""
+"στο telegram σου, γράξε '/start' και βάλε ενα κωδικό απο το bot στο πεδίο"
+" παρακάτω"
+
+msgid "today"
+msgstr "σήμερα"
+
+msgid "unknown"
+msgstr "άγνωστος"
+
+msgid "user"
+msgstr "χρήστης"
+
+msgid "week"
+msgstr "εβδομάδα"
+
+msgid "were"
+msgstr "ήταν"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "χρόνο"
+msgstr[1] "χρόνια"
+
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "Ενεργοποίησε Ειδοποιήσεις απο το Telegram"
+
+#~ msgid "Import records from CSV"
+#~ msgstr "Κανε εισαγωγή τα αρχεία απο csv"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "Φόρτωσε καθημερινές ασχολίες απο το Ημερολόγιο Google"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "Πολιτική Απορρήτου"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "Αναφορές και ειδοποίησεις"
+
+#~ msgid "Send reports on email: "
+#~ msgstr "Στείλε αναφορές στο email"
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "Στείλε αναφορές στο telegram"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr "Κανε συγχρονισμό με το Google Tasks"
+
+#~ msgid "quarter"
+#~ msgstr "τριμηνία"
+
+#~ msgid "version"
+#~ msgstr "έκδοση"
+

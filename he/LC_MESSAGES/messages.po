@@ -1,32 +1,31 @@
-# Norwegian Bokmål (Norway) translations for pomodoro.
-# Copyright (C) 2017 ORGANIZATION
+# Hebrew translations for pomodoro.
+# Copyright (C) 2019 ORGANIZATION
 # This file is distributed under the same license as the pomodoro project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: pomodoro 1.4.8\n"
+"Project-Id-Version: pomodoro 5.17.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-21 15:26+0300\n"
+"POT-Creation-Date: 2019-10-18 15:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: nb_NO\n"
-"Language-Team: nb_NO <LL@li.org>\n"
+"Language: he\n"
+"Language-Team: he <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
-
-#, python-format
-msgid " Sign in with %(provider)s "
-msgstr ""
+"Generated-By: Babel 2.6.0\n"
 
 msgid "%1$s left"
 msgstr ""
 
 msgid "%1$s paused."
+msgstr ""
+
+msgid "%1$s records were imported"
 msgstr ""
 
 msgid "%1$s started:"
@@ -35,14 +34,8 @@ msgstr ""
 msgid "%1$s stopped:"
 msgstr ""
 
-msgid "%1$s tasks were imported"
-msgstr ""
-
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr ""
-
-msgid "A random message will be chosen if there are multiple."
 msgstr ""
 
 msgid "Activities"
@@ -104,7 +97,7 @@ msgstr ""
 msgid "Boost motivation and keep it constant"
 msgstr ""
 
-msgid "Break is over"
+msgid "Break is over."
 msgstr ""
 
 msgid "Categories"
@@ -179,7 +172,7 @@ msgstr ""
 msgid "Enable Browser Alerts"
 msgstr ""
 
-msgid "Enable Notifications"
+msgid "Enable Telegram Notifications"
 msgstr ""
 
 msgid "Enable Web Notifications"
@@ -203,22 +196,10 @@ msgstr ""
 msgid "Feedback"
 msgstr ""
 
-msgid "File"
-msgstr ""
-
-msgid "Fill blank entries"
-msgstr ""
-
 msgid "Great work!"
 msgstr ""
 
-msgid "Help"
-msgstr ""
-
 msgid "Hide notificaions"
-msgstr ""
-
-msgid "History"
 msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
@@ -229,7 +210,7 @@ msgid ""
 "another task"
 msgstr ""
 
-msgid "Import tasks from CSV"
+msgid "Import records from CSV"
 msgstr ""
 
 msgid "Import was failed. Check your CSV and try again."
@@ -285,7 +266,7 @@ msgstr ""
 msgid "Link copied"
 msgstr ""
 
-msgid "Load daily tasks"
+msgid "Load daily tasks from Google Calendar"
 msgstr ""
 
 msgid "Loading"
@@ -330,9 +311,6 @@ msgstr ""
 msgid "New"
 msgstr ""
 
-msgid "Next long break"
-msgstr ""
-
 msgid "Notification Test"
 msgstr ""
 
@@ -349,6 +327,9 @@ msgid "Once a Pomodoro begins, it has to ring"
 msgstr ""
 
 msgid "One minute left"
+msgstr ""
+
+msgid "pomodoro"
 msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
@@ -372,13 +353,7 @@ msgstr ""
 msgid "Please reload the application."
 msgstr ""
 
-msgid "Please select a value"
-msgstr ""
-
 msgid "Please unblock notifications in your browser"
-msgstr ""
-
-msgid "Please, login to use the feature"
 msgstr ""
 
 msgid "Please, login to view your stats"
@@ -390,7 +365,7 @@ msgstr ""
 msgid "Pomodoro duration"
 msgstr ""
 
-msgid "Pomodoro is finished"
+msgid "Pomodoro is finished."
 msgstr ""
 
 msgid "Preferences"
@@ -409,9 +384,6 @@ msgid "Quit"
 msgstr ""
 
 msgid "Raise browser alert when pomodoro/break is over"
-msgstr ""
-
-msgid "Rate the application"
 msgstr ""
 
 msgid "Records are empty"
@@ -441,6 +413,9 @@ msgstr ""
 msgid "Reports Time"
 msgstr ""
 
+msgid "Reports and notifications"
+msgstr ""
+
 msgid "Rules & Tips"
 msgstr ""
 
@@ -453,22 +428,16 @@ msgstr ""
 msgid "Select Dates"
 msgstr ""
 
-msgid "Select a calendar to import tasks"
+msgid "Send reports on email: "
 msgstr ""
 
-msgid "Send daily reports"
+msgid "Send reports on telegram"
 msgstr ""
 
 msgid "Send test notification"
 msgstr ""
 
-msgid "Server Error"
-msgstr ""
-
 msgid "Server has been updated."
-msgstr ""
-
-msgid "Set do not disturb"
 msgstr ""
 
 msgid "Settings"
@@ -487,9 +456,6 @@ msgid "Show window"
 msgstr ""
 
 msgid "Sign Up / Login"
-msgstr ""
-
-msgid "Sign in with %1$s"
 msgstr ""
 
 msgid "Sleep Mode is enabled"
@@ -518,7 +484,7 @@ msgstr ""
 msgid "Support the Project"
 msgstr ""
 
-msgid "Sync my tasks only"
+msgid "Sync with Google Tasks"
 msgstr ""
 
 msgid "TODO"
@@ -637,9 +603,6 @@ msgstr ""
 msgid "Unselect Category"
 msgstr ""
 
-msgid "Update status"
-msgstr ""
-
 msgid "View"
 msgstr ""
 
@@ -647,9 +610,6 @@ msgid "Volume"
 msgstr ""
 
 msgid "What is it?"
-msgstr ""
-
-msgid "Window"
 msgstr ""
 
 msgid "Work days"
@@ -679,13 +639,31 @@ msgstr ""
 msgid "and"
 msgstr ""
 
+msgid "as Bitbucket user"
+msgstr ""
+
+msgid "as Facebook user"
+msgstr ""
+
+msgid "as Github user"
+msgstr ""
+
+msgid "as Google user"
+msgstr ""
+
+msgid "as Twitter user"
+msgstr ""
+
+msgid "as VK user"
+msgstr ""
+
+msgid "as Yandex user"
+msgstr ""
+
 msgid "auto"
 msgstr ""
 
 msgid "average"
-msgstr ""
-
-msgid "break"
 msgstr ""
 
 msgid "cancel"
@@ -703,9 +681,6 @@ msgstr ""
 msgid "created"
 msgstr ""
 
-msgid "custom"
-msgstr ""
-
 msgid "dark"
 msgstr ""
 
@@ -713,9 +688,6 @@ msgid "day"
 msgid_plural "days"
 msgstr[0] ""
 msgstr[1] ""
-
-msgid "default"
-msgstr ""
 
 msgid "delay"
 msgstr ""
@@ -790,22 +762,10 @@ msgid_plural "likes"
 msgstr[0] ""
 msgstr[1] ""
 
-msgid "maximize"
-msgstr ""
-
 msgid "median"
 msgstr ""
 
-msgid "menu"
-msgstr ""
-
 msgid "merge"
-msgstr ""
-
-msgid "messages"
-msgstr ""
-
-msgid "minimize"
 msgstr ""
 
 msgid "minute"
@@ -836,9 +796,6 @@ msgstr ""
 msgid "on"
 msgstr ""
 
-msgid "one message per line"
-msgstr ""
-
 msgid "pause"
 msgstr ""
 
@@ -859,7 +816,7 @@ msgstr ""
 msgid "previous page"
 msgstr ""
 
-msgid "prolong time"
+msgid "quarter"
 msgstr ""
 
 msgid "rating"
@@ -931,3 +888,4 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
+

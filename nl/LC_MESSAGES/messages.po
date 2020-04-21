@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2019-01-21 13:09+0300\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -16,17 +16,33 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "Log in met %(provider)s"
 
 msgid "%1$s left"
 msgstr "%1$s over"
 
-msgid "%1$s records were imported"
-msgstr "%1$s recods werden geïmporteerd"
+msgid "%1$s paused."
+msgstr "%1$s gepauzeerd."
+
+msgid "%1$s started:"
+msgstr "%1$s begonnen:"
+
+msgid "%1$s stopped:"
+msgstr "%1$s gestopt:"
+
+msgid "%1$s tasks were imported"
+msgstr "%1$s taken werden geïmporteerd"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
 msgstr "%s hier is uw dagelijkse rapportage voor %s"
+
+msgid "A random message will be chosen if there are multiple."
+msgstr "Een willekeurig bericht wordt gekozen als er meerdere zijn."
 
 msgid "Activities"
 msgstr "Activiteiten"
@@ -47,7 +63,7 @@ msgid "Add Activity"
 msgstr "Voeg activiteit toe"
 
 msgid "Add TODO"
-msgstr "TODO toevoegen"
+msgstr "Aan TODO toevoegen"
 
 msgid "Add category"
 msgstr "Voeg categorie toe"
@@ -55,23 +71,14 @@ msgstr "Voeg categorie toe"
 msgid "Add more"
 msgstr "Meer toevoegen"
 
-msgid "Add to TODO"
-msgstr "Aan TODO toevoegen"
+msgid "Add new tasks to the top"
+msgstr "Voeg nieuwe taken toe aan de top"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr "Onrust die te maken heeft met „beginnen” verlichten"
 
 msgid "Application"
 msgstr "Applicatie"
-
-msgid "Apply"
-msgstr "Toepassen"
-
-msgid "April"
-msgstr "april"
-
-msgid "Are you sure want to delete"
-msgstr "Weet u zeker dat u dit wilt verwijderen"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -83,14 +90,14 @@ msgstr ""
 msgid "At time"
 msgstr "Op tijdstip"
 
-msgid "August"
-msgstr "augustus"
-
 msgid "Auto start breaks"
 msgstr "Start pauzes automatisch"
 
 msgid "Auto start pomodoros"
 msgstr "Start pomodori automatisch"
+
+msgid "Block screen on breaks"
+msgstr "Scherm blokkeren bij pauzes"
 
 msgid "Bolster the determination to achieve your goals"
 msgstr "De vastberadenheid om doelen te bereiken versterken"
@@ -98,17 +105,11 @@ msgstr "De vastberadenheid om doelen te bereiken versterken"
 msgid "Boost motivation and keep it constant"
 msgstr "Motivatie verhogen en constant houden"
 
-msgid "Break is over."
-msgstr "Pauze is voobij."
-
-msgid "Cancel"
-msgstr "Annuleren"
+msgid "Break is over"
+msgstr "Pauze is voobij"
 
 msgid "Categories"
 msgstr "Categorieën"
-
-msgid "Category"
-msgstr "Categorie"
 
 msgid "Changes saved"
 msgstr "Wijzigingen opgeslagen"
@@ -122,6 +123,9 @@ msgstr "Lijst leegmaken"
 msgid "Click on a number to add more."
 msgstr "Klik op een nummer om meer toe te voegen."
 
+msgid "Click to open menu"
+msgstr "Open menu"
+
 msgid "Click/tap to edit items."
 msgstr "Klik/tap om items te bewerken."
 
@@ -131,11 +135,14 @@ msgstr "Sluiten"
 msgid "Code"
 msgstr "Code"
 
+msgid "Color Theme"
+msgstr "Thema"
+
 msgid "Configure"
 msgstr "Instellingen"
 
-msgid "Congratulations! You have finished all your tasks."
-msgstr "Gefeliciteerd! U heeft al uw taken afgerond."
+msgid "Congratulations!"
+msgstr "Gefeliciteerd!"
 
 msgid "Connect"
 msgstr "Verbinden"
@@ -146,38 +153,23 @@ msgstr "Maak"
 msgid "Create a category"
 msgstr "Maak een categorie"
 
-msgid "Custom"
-msgstr "Aangepast"
-
-msgid "DONE"
-msgstr "KLAAR"
-
 msgid "Daily Goal"
 msgstr "Dagelijks doel"
 
-msgid "Daily history"
-msgstr "Dagelijkse geschiedenis"
+msgid "Daily Goal Completed."
+msgstr "Dagelijks doel behaald."
 
-msgid "Date"
-msgstr "Datum"
+msgid "Daily Task"
+msgstr "Markeer als dagelijkse taak"
 
 msgid "Date format"
 msgstr "Datumformaat"
-
-msgid "December"
-msgstr "december"
-
-msgid "Description"
-msgstr "Omschrijving"
 
 msgid "Disconnect"
 msgstr "Verbinding verbreken"
 
 msgid "Don`t start next pomodoro if TODO is empty"
 msgstr "Start de volgende pomodoro niet als de TODO-lijst leeg is"
-
-msgid "Done"
-msgstr "Afgehandeld"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Sleep om te sorteren."
@@ -188,8 +180,8 @@ msgstr "Bewerken"
 msgid "Enable Browser Alerts"
 msgstr "Activeer browser-alerts"
 
-msgid "Enable Telegram Notifications"
-msgstr "Activeer Telegram-notificaties"
+msgid "Enable Notifications"
+msgstr "Activeer notificaties"
 
 msgid "Enable Web Notifications"
 msgstr "Activeer web-notificaties"
@@ -197,23 +189,38 @@ msgstr "Activeer web-notificaties"
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Verbeteren van focus en concentratie, door onderbrekingen te verminderen"
 
+msgid "Enjoy your break"
+msgstr "Geniet van je pauze"
+
 msgid "Export the records as CSV"
 msgstr "Exporteer als csv"
+
+msgid "Eye Keeper is enabled"
+msgstr ""
 
 msgid "Favorites"
 msgstr "Favorieten"
 
-msgid "February"
-msgstr "februari"
-
 msgid "Feedback"
 msgstr "Feedback"
 
-msgid "Great work! TODO list is empty."
-msgstr "Goed bezig! TODO-lijst is leeg."
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "Vul lege gegevens in"
+
+msgid "Great work!"
+msgstr "Goed bezig!"
+
+msgid "Help"
+msgstr ""
 
 msgid "Hide notificaions"
 msgstr "Verberg notificaties"
+
+msgid "History"
+msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Als een taak meer dan 5-7 pomodori neemt, breek hem in subtaken"
@@ -223,8 +230,8 @@ msgid ""
 "another task"
 msgstr "Als hij minder dan 1 pomodoro vereist, voeg hem samen met een andere taak"
 
-msgid "Import records from CSV"
-msgstr "Importeer van csv"
+msgid "Import tasks from CSV"
+msgstr "Importeer taken vanuit CSV"
 
 msgid "Import was failed. Check your CSV and try again."
 msgstr "Import mislukt. Controleer de csv en probeer opnieuw."
@@ -238,29 +245,17 @@ msgstr "Uw werk- of leerproces verbeteren"
 msgid "Increase awareness of your decisions"
 msgstr "Toename van bewustwording van eigen beslissingen"
 
-msgid "Integration with Facebook"
-msgstr "Integratie met Facebook"
-
-msgid "Integration with Github"
-msgstr "Integratie met GitHub"
-
-msgid "Integration with Google"
-msgstr "Integratie met Google"
-
-msgid "Integration with Telegram"
-msgstr "Integratie met Telegram"
+msgid "Integration with %1$s"
+msgstr "Integratie met %1$s"
 
 msgid "Integrations"
 msgstr "Integraties"
 
-msgid "January"
-msgstr "januari"
+msgid "Interruption tracked"
+msgstr "Onderbreking gevolgd"
 
-msgid "July"
-msgstr "juli"
-
-msgid "June"
-msgstr "juni"
+msgid "Join the global rating"
+msgstr ""
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -290,53 +285,56 @@ msgstr "Vorige week"
 msgid "Like"
 msgstr "Like"
 
-msgid "Load daily tasks from Google Calendar"
-msgstr "Laad dagelijkse taken uit Google Agenda"
+msgid "Link copied"
+msgstr "Link gekopieerd"
+
+msgid "Load daily tasks"
+msgstr "Laad dagelijkse taken"
 
 msgid "Loading"
 msgstr "Bezig met laden"
 
+msgid "Lock is enabled"
+msgstr "Vergrendeling is ingeschakeld"
+
 msgid "Login to the service and track your progress"
 msgstr "Log in en houdt uw voortgang bij"
 
-msgid "Login to the service using Facebook authentication."
-msgstr "Login met een Facebook-account"
-
-msgid "Login to the service using Github authentication."
-msgstr "Login met een GitHub-account"
-
-msgid "Login to the service using Google Authentication"
-msgstr "Login met een Google-account"
-
-msgid "Login to view your stats"
-msgstr "Login om uw statistieken te zien"
+msgid "Login to the service using %1$s authentication."
+msgstr "Login met een %1$s-account"
 
 msgid "Logout"
 msgstr "Uitloggen"
 
-msgid "Long break delay:"
-msgstr "Lange pazue na:"
+msgid "Long break"
+msgstr "Lange pauze"
 
-msgid "Long break duration:"
-msgstr "Lange-pauzeduur:"
+msgid "Long break delay"
+msgstr "Lange pazue na"
 
-msgid "March"
-msgstr "maart"
+msgid "Long break duration"
+msgstr "Lange-pauzeduur"
 
-msgid "Mark as daily task"
-msgstr "Markeer als dagelijkse taak"
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr ""
 
 msgid "Mark as done"
 msgstr "Markeer als klaar"
 
-msgid "May"
-msgstr "mei"
-
 msgid "Median per day"
 msgstr "Mediaan per dag"
 
+msgid "Navigate Back"
+msgstr ""
+
+msgid "Navigate Forward"
+msgstr ""
+
 msgid "New"
 msgstr "Nieuw"
+
+msgid "Next long break"
+msgstr "Volgende lange pauze"
 
 msgid "Notification Test"
 msgstr "Notificatietest"
@@ -347,12 +345,6 @@ msgstr "Notificaties"
 msgid "Notify when there is one minute left"
 msgstr "Waarschuw als er één minuut over is"
 
-msgid "November"
-msgstr "november"
-
-msgid "October"
-msgstr "oktober"
-
 msgid "Of those"
 msgstr "Hiervan"
 
@@ -362,16 +354,10 @@ msgstr "Als een pomodoro begint, moet hij rinkelen"
 msgid "One minute left"
 msgstr "Eén minuut over"
 
-msgid "PAUSE"
-msgstr "PAUZE"
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr ""
 
-msgid "POMODORO"
-msgstr "POMODORO"
-
-msgid "Pause"
-msgstr "Pauze"
-
-msgid "Pin to favorites"
+msgid "Pin to activities"
 msgstr "Pin aan favorieten"
 
 msgid "Play alarm sound"
@@ -389,23 +375,35 @@ msgstr "Stuur me a.u.b. deze awesome dagelijkse rapportages niet meer"
 msgid "Please reload the application."
 msgstr "Laad de applicatie opnieuw, a.u.b."
 
+msgid "Please select a value"
+msgstr "Selecteer een waarde"
+
+msgid "Please unblock notifications in your browser"
+msgstr ""
+
+msgid "Please, login to use the feature"
+msgstr "Log in om de functie te gebruiken"
+
 msgid "Please, login to view your stats"
 msgstr "Log a.u.b. in om uw statistieken te zien"
 
-msgid "Pomodoro duration:"
+msgid "Pomodoro Tracker is a productivity app designed for your work and study."
+msgstr ""
+
+msgid "Pomodoro duration"
 msgstr "Pomodoro-duur"
 
-msgid "Pomodoro is finished."
-msgstr "Pomodoro is klaar."
-
-msgid "Pomodoros"
-msgstr "Pomodori"
+msgid "Pomodoro is finished"
+msgstr "Pomodoro is klaar"
 
 msgid "Preferences"
 msgstr "Voorkeuren"
 
-msgid "Privacy Policy"
-msgstr "Privacy Policy"
+msgid "Press"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
 
 msgid "Provide Feedback"
 msgstr "Geef feedback"
@@ -415,6 +413,9 @@ msgstr "Afsluiten"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Toon browser-alert wanneer pomodoro/pauze voobij is"
+
+msgid "Rate the application"
+msgstr "Beoordeel de applicatie"
 
 msgid "Records are empty"
 msgstr "records zijn leeg"
@@ -427,53 +428,62 @@ msgstr ""
 msgid "Register"
 msgstr "Registreren"
 
+msgid "Relax"
+msgstr ""
+
 msgid "Release Notes"
 msgstr "Release Notes"
+
+msgid "Remove a task from TODO when Pomodoro is complete"
+msgstr "Verwijder een taak uit TODO als Pomodoro klaar is"
+
+msgid "Remove one"
+msgstr "Verwijder er een"
+
+msgid "Repeat"
+msgstr "Herhaling"
 
 msgid "Reports Time"
 msgstr "Rapportagetijd"
 
-msgid "Reports and notifications"
-msgstr "Rapporten en meldingen"
-
-msgid "Resume"
-msgstr "Verdergaan"
-
 msgid "Rules & Tips"
 msgstr "Regels & tips"
-
-msgid "SKIP"
-msgstr "OVERSLAAN"
-
-msgid "STOP"
-msgstr "STOP"
 
 msgid "Schemes"
 msgstr "Schema's"
 
-msgid "Send Daily Reports"
-msgstr "Stuur dagelijkse rapportages"
+msgid "Select Category"
+msgstr "Selecteer categorie"
 
-msgid "Send reports on email: "
-msgstr "Stuur rapportages naar e-mail: "
+msgid "Select Dates"
+msgstr "Selecteer Datums"
 
-msgid "Send reports on telegram"
-msgstr "Stuur rapportages op Telegram"
+msgid "Select a calendar to import tasks"
+msgstr "Selecteer een kalender om taken te importeren"
+
+msgid "Send daily reports"
+msgstr "Stuur dagelijkse rapporten"
 
 msgid "Send test notification"
 msgstr "Stuur testnotificatie"
 
-msgid "September"
-msgstr "september"
+msgid "Server Error"
+msgstr ""
 
 msgid "Server has been updated."
 msgstr "Server is geüpdatet."
 
+msgid "Set do not disturb"
+msgstr "Stel niet storen"
+
 msgid "Settings"
 msgstr "Instellingen"
 
-msgid "Short break duration:"
-msgstr "Korte-pauzeduur:"
+msgid "Share timer data"
+msgstr "Deel timergegevens"
+
+msgid "Short break duration"
+msgstr "Korte-pauzeduur"
 
 msgid "Short description"
 msgstr "Korte omschrijving"
@@ -484,14 +494,14 @@ msgstr "Toon venster"
 msgid "Sign Up / Login"
 msgstr "Aanmelden / inloggen"
 
-msgid "Skip"
-msgstr "Overslaan"
+msgid "Sign in with %1$s"
+msgstr "Log in met %1$s"
+
+msgid "Sleep Mode is enabled"
+msgstr ""
 
 msgid "Sort by"
 msgstr "Sorteer op"
-
-msgid "Start"
-msgstr "Start"
 
 msgid "Start the Pomodoro timer"
 msgstr "Start de Pomodoro-timer"
@@ -502,8 +512,8 @@ msgstr "Begin met werken:"
 msgid "Stats"
 msgstr "Statistieken"
 
-msgid "Stop"
-msgstr "Stop"
+msgid "Stay focused and finish tasks effectively."
+msgstr ""
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -515,20 +525,23 @@ msgstr ""
 msgid "Support the Project"
 msgstr "Steun het project"
 
-msgid "Sync with Google Tasks"
-msgstr ""
+msgid "Sync my tasks only"
+msgstr "Synchroniseer alleen mijn taken"
 
 msgid "TODO"
 msgstr "TODO"
 
-msgid "TODO list is empty"
-msgstr "TODO-lijst is leeg"
+msgid "TODO list is empty."
+msgstr "TODO-lijst is leeg."
 
 msgid "TODO list was updated."
 msgstr "TODO-liijst is geüpdatet."
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "Neem een korte pauze (3-5 minuten)"
+
+msgid "Take more time to your life."
+msgstr ""
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Bedankt voor uw feedback. Uw bericht staat nu in de wachtrij."
@@ -568,6 +581,11 @@ msgstr ""
 "leiden tot het volgende:"
 
 msgid ""
+"The Pomodoro Tracker — A useful tool for time management based on "
+"Pomodoro Technique."
+msgstr ""
+
+msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
@@ -577,6 +595,9 @@ msgstr ""
 "manier waarop we dat willen doen, en om ons in staat te stellen continu "
 "te manier waarop we werken of studeren te verbeteren."
 
+msgid "The integration is outdated. Please reconnect."
+msgstr "De integratie is verouderd. Maak opnieuw verbinding."
+
 msgid "The list is empty"
 msgstr "De lijst is leeg"
 
@@ -585,9 +606,6 @@ msgstr "De volgende pomodoro zal beter gaan"
 
 msgid "The next pomodoro will go better!"
 msgstr "De volgende pomodoro zal beter gaan!"
-
-msgid "Theme"
-msgstr "Thema"
 
 msgid "There are completed tasks"
 msgstr "Er zijn afgehandelde taken"
@@ -600,9 +618,6 @@ msgstr "Dit kwartaal"
 
 msgid "This Week"
 msgstr "Deze week"
-
-msgid "Time"
-msgstr "Tijd"
 
 msgid "Time format"
 msgstr "Tijdformaat"
@@ -619,17 +634,17 @@ msgstr "Timer"
 msgid "Title"
 msgstr "Titel"
 
-msgid "Today"
-msgstr "Vandaag"
+msgid "Toggle eye keeper"
+msgstr ""
 
 msgid "Toggle fullscreen"
 msgstr "Volledig scherm"
 
+msgid "Toggle mini timer"
+msgstr "Schakel de timer "
+
 msgid "Try to add some tasks use the form above"
 msgstr "Probeer wat taken toe te voegen met bovenstaand formulier"
-
-msgid "Try to complete some pomodoros above"
-msgstr "Probeer wat pomodori hierboven af te ronden"
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Probeer wat pomodori af te ronden, of kies een andere periode"
@@ -640,6 +655,12 @@ msgstr "Probeer TODO als activiteit te markeren, of gebruik bovenstaand formulie
 msgid "Tune the timer"
 msgstr "Timer instellen"
 
+msgid "Unselect Category"
+msgstr "Deselecteer categorie"
+
+msgid "Update status"
+msgstr "Status bijwerken"
+
 msgid "View"
 msgstr "Tonen"
 
@@ -648,6 +669,9 @@ msgstr "Volume"
 
 msgid "What is it?"
 msgstr "Wat is het?"
+
+msgid "Window"
+msgstr ""
 
 msgid "Work days"
 msgstr "Werkdagen"
@@ -667,20 +691,14 @@ msgstr "Gisteren"
 msgid "You are not signed."
 msgstr "U bent niet ingelogd."
 
+msgid "You have finished all your tasks."
+msgstr "U heeft al uw taken afgerond."
+
 msgid "You spent"
 msgstr "U heeft besteed"
 
 msgid "and"
 msgstr "en"
-
-msgid "as Facebook user"
-msgstr "met Facebook-account"
-
-msgid "as Github user"
-msgstr "met GitHub-account"
-
-msgid "as Google user"
-msgstr "met Google-account"
 
 msgid "auto"
 msgstr "automatisch"
@@ -688,14 +706,26 @@ msgstr "automatisch"
 msgid "average"
 msgstr "gemiddelde"
 
+msgid "break"
+msgstr "pauze"
+
 msgid "cancel"
 msgstr "annuleren"
+
+msgid "category"
+msgstr "categorie"
 
 msgid "close"
 msgstr "sluiten"
 
+msgid "copy"
+msgstr "kopiëren"
+
 msgid "created"
 msgstr "datum"
+
+msgid "custom"
+msgstr "aangepast"
 
 msgid "dark"
 msgstr "donker"
@@ -704,6 +734,9 @@ msgid "day"
 msgid_plural "days"
 msgstr[0] "dag"
 msgstr[1] "dagen"
+
+msgid "default"
+msgstr "standaard"
 
 msgid "delay"
 msgstr "uitstel"
@@ -714,16 +747,40 @@ msgstr "uitstel"
 msgid "delete"
 msgstr "verwijderen"
 
+msgid "description"
+msgstr "omschrijving"
+
+msgid "done"
+msgstr "afgehandeld"
+
+msgid "duplicate"
+msgstr "duplicaat"
+
+msgid "duration"
+msgstr "looptijd"
+
+msgid "finish time"
+msgstr "eindtijd"
+
 msgid "focus"
 msgstr "focus"
 
 msgid "for all time"
 msgstr "in totaal"
 
+msgid "friends"
+msgstr "vrienden"
+
+msgid "global"
+msgstr "globaal"
+
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "uur"
 msgstr[1] "uren"
+
+msgid "if you must exit now"
+msgstr ""
 
 msgid "in 10 seconds"
 msgstr "na 10 seconden"
@@ -743,6 +800,9 @@ msgstr "in minuten"
 msgid "in pomodoros"
 msgstr "in pomodori"
 
+msgid "interruptions"
+msgstr "onderbrekingen"
+
 msgid "light"
 msgstr "licht"
 
@@ -751,8 +811,23 @@ msgid_plural "likes"
 msgstr[0] "like"
 msgstr[1] "likes"
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
 msgstr "mediaan"
+
+msgid "menu"
+msgstr ""
+
+msgid "merge"
+msgstr "samenvoegen"
+
+msgid "messages"
+msgstr "berichten"
+
+msgid "minimize"
+msgstr ""
 
 msgid "minute"
 msgid_plural "minutes"
@@ -764,11 +839,17 @@ msgid_plural "months"
 msgstr[0] "maand"
 msgstr[1] "maanden"
 
+msgid "never"
+msgstr ""
+
 msgid "next page"
 msgstr "volgende pagina"
 
 msgid "no description"
 msgstr "geen omschrijving"
+
+msgid "no information available"
+msgstr "geen informatie beschikbaar"
 
 msgid "number"
 msgstr "aantal"
@@ -776,19 +857,34 @@ msgstr "aantal"
 msgid "on"
 msgstr "aan"
 
+msgid "one message per line"
+msgstr "één bericht per regel"
+
+msgid "pause"
+msgstr "pauze"
+
+msgid "personal"
+msgstr "persoonlijk"
+
 msgid "pomodoro"
 msgid_plural "pomodoros"
 msgstr[0] "pomodoro"
 msgstr[1] "pomodori"
 
+msgid "pomodoros"
+msgstr "pomodori"
+
+msgid "preview"
+msgstr "voorvertoning"
+
 msgid "previous page"
 msgstr "vorige pagina"
 
+msgid "prolong time"
+msgstr "verleng tijd"
+
 msgid "rating"
 msgstr "rating"
-
-msgid "record"
-msgstr "record"
 
 msgid "refresh"
 msgstr "verfrissen"
@@ -799,14 +895,29 @@ msgstr "hebben geregistreerde gebruikers besteed oon pomodori"
 msgid "registered users spend on completing pomodoros today."
 msgstr "hebben geregistreerde gebruikers besteed aan pomodori vandaag."
 
+msgid "remove categories"
+msgstr "verwijder categorieën"
+
 msgid "resume"
 msgstr "verdergaan"
 
 msgid "save"
 msgstr "opslaan"
 
+msgid "series"
+msgstr "serie"
+
+msgid "skip"
+msgstr "overslaan"
+
 msgid "start"
 msgstr "start"
+
+msgid "stop"
+msgstr "stop"
+
+msgid "system"
+msgstr "systeem"
 
 msgid "take a long break"
 msgstr "neem een lange pauze"
@@ -824,8 +935,17 @@ msgstr ""
 "toe aan je telegram, typ `/start`, en vul de code van de bot in "
 "onderstaand veld in."
 
-msgid "version"
-msgstr "versie"
+msgid "today"
+msgstr "vandaag"
+
+msgid "unknown"
+msgstr "onbekend"
+
+msgid "user"
+msgstr "gebruiker"
+
+msgid "week"
+msgstr "week"
 
 msgid "were"
 msgstr "waren"
@@ -835,12 +955,102 @@ msgid_plural "years"
 msgstr[0] "jaar"
 msgstr[1] "jaren"
 
-#~ msgid "Congratulations!"
-#~ msgstr "Gefeliciteerd!"
+#~ msgid "Apply"
+#~ msgstr "Toepassen"
 
-#~ msgid "Daily Goal Completed."
-#~ msgstr "Dagelijks doel behaald."
+#~ msgid "April"
+#~ msgstr "april"
+
+#~ msgid "Are you sure want to delete"
+#~ msgstr "Weet u zeker dat u dit wilt verwijderen"
+
+#~ msgid "August"
+#~ msgstr "augustus"
+
+#~ msgid "Daily history"
+#~ msgstr "Dagelijkse geschiedenis"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "December"
+#~ msgstr "december"
+
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "Activeer Telegram-notificaties"
+
+#~ msgid "February"
+#~ msgstr "februari"
+
+#~ msgid "Import records from CSV"
+#~ msgstr "Importeer van csv"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
+#~ msgid "January"
+#~ msgstr "januari"
+
+#~ msgid "July"
+#~ msgstr "juli"
+
+#~ msgid "June"
+#~ msgstr "juni"
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "Laad dagelijkse taken uit Google Agenda"
+
+#~ msgid "Login to view your stats"
+#~ msgstr "Login om uw statistieken te zien"
+
+#~ msgid "Look away at something that is 6 metres away for 20 seconds"
+#~ msgstr ""
+
+#~ msgid "March"
+#~ msgstr "maart"
+
+#~ msgid "May"
+#~ msgstr "mei"
+
+#~ msgid "November"
+#~ msgstr "november"
+
+#~ msgid "October"
+#~ msgstr "oktober"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "Privacy Policy"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "Rapporten en meldingen"
+
+#~ msgid "Send Daily Reports"
+#~ msgstr "Stuur dagelijkse rapportages"
+
+#~ msgid "Send reports on email: "
+#~ msgstr "Stuur rapportages naar e-mail: "
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "Stuur rapportages op Telegram"
+
+#~ msgid "September"
+#~ msgstr "september"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr ""
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "De pomodoro loopt"
+
+#~ msgid "Try to complete some pomodoros above"
+#~ msgstr "Probeer wat pomodori hierboven af te ronden"
+
+#~ msgid "quarter"
+#~ msgstr "kwartaal"
+
+#~ msgid "record"
+#~ msgstr "record"
+
+#~ msgid "version"
+#~ msgstr "versie"
 

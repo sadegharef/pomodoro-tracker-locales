@@ -1,0 +1,990 @@
+# Ukrainian translations for pomodoro.
+# Copyright (C) 2019 ORGANIZATION
+# This file is distributed under the same license as the pomodoro project.
+# Serganth <serganth@ukr.net>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pomodoro 5.3.16\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-04-21 15:26+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uk\n"
+"Language-Team: uk <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "Увійдіть за допомогою %(provider)s"
+
+msgid "%1$s left"
+msgstr "залишилось %1$s"
+
+msgid "%1$s paused."
+msgstr "%1$s призупинено."
+
+msgid "%1$s started:"
+msgstr "%1$s розпочато:"
+
+msgid "%1$s stopped:"
+msgstr "%1$s зупинено:"
+
+msgid "%1$s tasks were imported"
+msgstr "Було імпортовано завдань: %1$s"
+
+#, python-format
+msgid "%s here's your Daily report for %s"
+msgstr "%s, ваш щоденний звіт за %s"
+
+msgid "A random message will be chosen if there are multiple."
+msgstr "Вибрано випадкове повідомлення, якщо їх буде кілька."
+
+msgid "Activities"
+msgstr "Вибране"
+
+msgid "Activity by days"
+msgstr "Активність за днями"
+
+msgid "Activity by months"
+msgstr "Активність за місяцями"
+
+msgid "Activity by weeks"
+msgstr "Активність за тижнями"
+
+msgid "Add"
+msgstr "Додати"
+
+msgid "Add Activity"
+msgstr "Додати у вибране"
+
+msgid "Add TODO"
+msgstr "Запланувати"
+
+msgid "Add category"
+msgstr "Додати категорію"
+
+msgid "Add more"
+msgstr "Додати більше"
+
+msgid "Add new tasks to the top"
+msgstr "Додавати нові завдання на початок списку"
+
+msgid "Alleviate anxiety linked to beginning"
+msgstr "Полегшити бентежність перед початком роботи"
+
+msgid "Application"
+msgstr "Додаток"
+
+msgid ""
+"At the beginning of each day select the tasks you need to complete and "
+"put them on the TODO list above."
+msgstr ""
+"На початку кожного дня вибирайте завдання й заносьте їх у список "
+"планування вище"
+
+msgid "At time"
+msgstr "на час"
+
+msgid "Auto start breaks"
+msgstr "Автостарт перерв"
+
+msgid "Auto start pomodoros"
+msgstr "Автостарт Помідорів"
+
+msgid "Block screen on breaks"
+msgstr "Блокувати екран під час перерв"
+
+msgid "Bolster the determination to achieve your goals"
+msgstr "Сприяти визначеності для досягнення ваших цілей"
+
+msgid "Boost motivation and keep it constant"
+msgstr "Посилити й підтримувати мотивацію"
+
+msgid "Break is over"
+msgstr "Перерву закінчено"
+
+msgid "Categories"
+msgstr "Категорії"
+
+msgid "Changes saved"
+msgstr "Зміни збережено"
+
+msgid "Clear DONE history once per day"
+msgstr "Очищувати історію завдань раз на день"
+
+msgid "Clear the list"
+msgstr "Очистити список"
+
+msgid "Click on a number to add more."
+msgstr "Клацніть на число, щоб додати більше."
+
+msgid "Click to open menu"
+msgstr "Відкрити меню"
+
+msgid "Click/tap to edit items."
+msgstr "Клацніть/натисніть для редагування позицій."
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Color Theme"
+msgstr "Колірна схема"
+
+msgid "Configure"
+msgstr "Налаштувати"
+
+msgid "Congratulations!"
+msgstr "Вітання!"
+
+msgid "Connect"
+msgstr "Підключити"
+
+msgid "Create"
+msgstr "Створити"
+
+msgid "Create a category"
+msgstr "Створити категорію"
+
+msgid "Daily Goal"
+msgstr "Ціль на день"
+
+msgid "Daily Goal Completed."
+msgstr "Ціль на день виконано."
+
+msgid "Daily Task"
+msgstr "Повторювати щоденно"
+
+msgid "Date format"
+msgstr "Формат дати"
+
+msgid "Disconnect"
+msgstr "Відключити"
+
+msgid "Don`t start next pomodoro if TODO is empty"
+msgstr "Не починати наступний Помідор, якщо список завдань пустий"
+
+msgid "Drag&Drop/Touch to sort items."
+msgstr "Перетягуйте для сортування"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Enable Browser Alerts"
+msgstr "Увімкнути спливні вікна"
+
+msgid "Enable Notifications"
+msgstr "Увімкнути сповіщення"
+
+msgid "Enable Web Notifications"
+msgstr "Увімкнути сповіщення в браузері"
+
+msgid "Enhance focus and concentration by cutting down on interruptions"
+msgstr "Поліпшити зосередженість та концентрацію, звільняючи від відволікань"
+
+msgid "Enjoy your break"
+msgstr "Добре відпочити!"
+
+msgid "Export the records as CSV"
+msgstr "Експортувати записи у файл CSV"
+
+msgid "Eye Keeper is enabled"
+msgstr "Оберігач очей увімкнено"
+
+msgid "Favorites"
+msgstr "Вибране"
+
+msgid "Feedback"
+msgstr "Ідеї"
+
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr "Заповніть порожні записи"
+
+msgid "Great work!"
+msgstr "Чудова робота!"
+
+msgid "Help"
+msgstr ""
+
+msgid "Hide notificaions"
+msgstr "Ховати сповіщення"
+
+msgid "History"
+msgstr ""
+
+msgid "If a task takes more than 5–7 Pomodoros, break it down"
+msgstr "Якщо завдання потребує більше 5-7 Помідорів, розбийте її на менші"
+
+msgid ""
+"If it takes less than one Pomodoro, add it up, and combine  it with "
+"another task"
+msgstr "Якщо вона потребує менше одного Помідора, скомбінуйте її з іншою"
+
+msgid "Import tasks from CSV"
+msgstr "Імпорт завдань із CSV"
+
+msgid "Import was failed. Check your CSV and try again."
+msgstr "Імпорт не вийшов. Перевірти ваш CSV й спробуйте знову."
+
+msgid "Imported from External Sources"
+msgstr "Імпортовано із зовнішніх джерел"
+
+msgid "Improve your work or study process"
+msgstr "Покращити вашу роботу чи процес навчання"
+
+msgid "Increase awareness of your decisions"
+msgstr "Посилити усвідомлення ваших рішень"
+
+msgid "Integration with %1$s"
+msgstr "Інтеграція з %1$s"
+
+msgid "Integrations"
+msgstr "Інтеграції"
+
+msgid "Interruption tracked"
+msgstr "Перешкоду записано"
+
+msgid "Join the global rating"
+msgstr "Брати участь в глобальному рейтингу"
+
+msgid ""
+"Keep on working, Pomodoro after Pomodoro, until the task at hand is "
+"finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
+msgstr ""
+"Продовжуйте працювати, Помідор за Помідором, поки наявні завдання не "
+"будуть виконані. Кожні 4 Помідори робіть довшу паузу (15-30 хв.)."
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "Last 180 days"
+msgstr "Останні 180 днів"
+
+msgid "Last 90 days"
+msgstr "Останні 90 днів"
+
+msgid "Last Month"
+msgstr "Останній місяць"
+
+msgid "Last Quarter"
+msgstr "Останній квартал"
+
+msgid "Last Week"
+msgstr "Останній тиждень"
+
+msgid "Like"
+msgstr "Плюс"
+
+msgid "Link copied"
+msgstr "Посилання скопійовано"
+
+msgid "Load daily tasks"
+msgstr "Завантажуйте щоденні завдання"
+
+msgid "Loading"
+msgstr "Завантажується"
+
+msgid "Lock is enabled"
+msgstr "Блокування включено"
+
+msgid "Login to the service and track your progress"
+msgstr "Увійдіть в сервіс та відслідковуйте ваш прогрес"
+
+msgid "Login to the service using %1$s authentication."
+msgstr "Увійдіть в сервіс за допомогою %1$s"
+
+msgid "Logout"
+msgstr "Вихід"
+
+msgid "Long break"
+msgstr "Довга перерва"
+
+msgid "Long break delay"
+msgstr "Довга перерва через кожні"
+
+msgid "Long break duration"
+msgstr "Тривалість довгої перерви"
+
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr "Дивіться в далечінь (від 6 метрів) впродовж %1$s секунд"
+
+msgid "Mark as done"
+msgstr "Відмітити як виконане"
+
+msgid "Median per day"
+msgstr "Медіана за день"
+
+msgid "Navigate Back"
+msgstr "Назад"
+
+msgid "Navigate Forward"
+msgstr "Вперед"
+
+msgid "New"
+msgstr "Нове"
+
+msgid "Next long break"
+msgstr "Наступна довга перерва"
+
+msgid "Notification Test"
+msgstr "Тест сповіщень"
+
+msgid "Notifications"
+msgstr "Сповіщення"
+
+msgid "Notify when there is one minute left"
+msgstr "Сповіщати за хвилину до закінчення"
+
+msgid "Of those"
+msgstr "З них"
+
+msgid "Once a Pomodoro begins, it has to ring"
+msgstr "Якщо ви почали Помідор – ви маєте його закінчити"
+
+msgid "One minute left"
+msgstr "Залишилася хвилина"
+
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr "Зупиняти таймер, коли компьютер іде в режим сну"
+
+msgid "Pin to activities"
+msgstr "Додати у вибране"
+
+msgid "Play alarm sound"
+msgstr "Грати фінішний звук"
+
+msgid "Play ticking sound"
+msgstr "Грати звук цокання"
+
+msgid "Play ticking sound while breaks"
+msgstr "Грати звук цокання під час перерви"
+
+msgid "Please don't send me these awesome daily reports"
+msgstr "Будь ласка, не присилайте мені ці чудові щоденні звіти"
+
+msgid "Please reload the application."
+msgstr "Будь ласка, перезавантажте застосунок"
+
+msgid "Please select a value"
+msgstr "Виберіть значення"
+
+msgid "Please unblock notifications in your browser"
+msgstr "Будь ласка, розблокуйте сповіщення у вашому браузері"
+
+msgid "Please, login to use the feature"
+msgstr "Будь ласка, увійдіть, щоб використовувати цю функцію"
+
+msgid "Please, login to view your stats"
+msgstr "Будь ласка, увійдіть для перегляду статистики"
+
+msgid "Pomodoro Tracker is a productivity app designed for your work and study."
+msgstr ""
+"Pomodoro Tracker – це застосунок продуктивності, розроблений для вашої "
+"роботи й навчання"
+
+msgid "Pomodoro duration"
+msgstr "Тривалість Помідора"
+
+msgid "Pomodoro is finished"
+msgstr "Помідор закінчено"
+
+msgid "Preferences"
+msgstr "Налаштування"
+
+msgid "Press"
+msgstr "Натисніть"
+
+msgid "Profile"
+msgstr "Профіль"
+
+msgid "Provide Feedback"
+msgstr "Відправити відгук"
+
+msgid "Quit"
+msgstr "Вихід"
+
+msgid "Raise browser alert when pomodoro/break is over"
+msgstr "Викликати спливне вікно з попередженням, коли Помідор/перерву закінчено"
+
+msgid "Rate the application"
+msgstr "Оцініть додаток"
+
+msgid "Records are empty"
+msgstr "Записів не знайдено"
+
+msgid "Refine the estimation process, both in qualitative and quantitative terms "
+msgstr "Вдосконалити процес оцінки завдань, в сенсі кількості й якості"
+
+msgid "Register"
+msgstr "Зареєструватися"
+
+msgid "Relax"
+msgstr "Час відпочити"
+
+msgid "Release Notes"
+msgstr "Новини проекту"
+
+msgid "Remove a task from TODO when Pomodoro is complete"
+msgstr "Видалити завдання зі списку, коли Помідор закінчено"
+
+msgid "Remove one"
+msgstr "Прибрати один"
+
+msgid "Repeat"
+msgstr "Повторити"
+
+msgid "Reports Time"
+msgstr "Час звітів"
+
+msgid "Rules & Tips"
+msgstr "Правила й поради"
+
+msgid "Schemes"
+msgstr "Схеми"
+
+msgid "Select Category"
+msgstr "Вибрати категорію"
+
+msgid "Select Dates"
+msgstr "Вибрати дати"
+
+msgid "Select a calendar to import tasks"
+msgstr "Виберіть календар для імпорту завдань"
+
+msgid "Send daily reports"
+msgstr "Надсилайте щоденні звіти"
+
+msgid "Send test notification"
+msgstr "Відправити тестове сповіщення"
+
+msgid "Server Error"
+msgstr ""
+
+msgid "Server has been updated."
+msgstr "Сервер було оновлено"
+
+msgid "Set do not disturb"
+msgstr "Набір не турбувати"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "Share timer data"
+msgstr "Обмін даними таймера"
+
+msgid "Short break duration"
+msgstr "Тривалість короткої перерви"
+
+msgid "Short description"
+msgstr "Короткий опис"
+
+msgid "Show window"
+msgstr "Показати вікно"
+
+msgid "Sign Up / Login"
+msgstr "Реєстрація / Вхід"
+
+msgid "Sign in with %1$s"
+msgstr "Увійдіть за допомогою %1$s"
+
+msgid "Sleep Mode is enabled"
+msgstr "Режим сну увімкнено"
+
+msgid "Sort by"
+msgstr "Сортувати за"
+
+msgid "Start the Pomodoro timer"
+msgstr "Почати Помідор"
+
+msgid "Start working:"
+msgstr "Починайте працювати:"
+
+msgid "Stats"
+msgstr "Статистика"
+
+msgid "Stay focused and finish tasks effectively."
+msgstr "Залишайтесь сфокусованими й ефективно завершуйте завдання."
+
+msgid ""
+"Strengthen your resolve to keep on applying yourself in the face of "
+"complex situations"
+msgstr "Посилити вашу рішучість продовжувати у складних ситуаціях"
+
+msgid "Support the Project"
+msgstr "Підтримати проект"
+
+msgid "Sync my tasks only"
+msgstr "Синхронізувати лише мої завдання"
+
+msgid "TODO"
+msgstr "Заплановано"
+
+msgid "TODO list is empty."
+msgstr "Список запланованого пустий."
+
+msgid "TODO list was updated."
+msgstr "Список запланованого оновлено."
+
+msgid "Take a short break (3-5 minutes)"
+msgstr "Зробіть коротку перерву (3-5 хвилин)"
+
+msgid "Take more time to your life."
+msgstr "Отримайте більше часу для свого життя."
+
+msgid "Thank you for the feedback! Your message is awaiting moderation."
+msgstr "Дяка за відгук! Ваше повідомлення чекає на модерацію."
+
+msgid "The Basics"
+msgstr "Основи"
+
+msgid "The Goals"
+msgstr "Цілі"
+
+msgid ""
+"The Pomodoro Technique is a time management method that can be used for "
+"any task. For many people, time is an enemy. The anxiety triggered by "
+"“the ticking clock”, especially when it involves a deadline, leads to "
+"ineffective work and study habits which in turn lead to procrastination."
+msgstr ""
+"Техніка Помідора – це метод управління часом, що може бути використаний "
+"для будь-яких завдань. Для багатьох людей час є ворогом. Тривожність, "
+"викликана «цоканням годинника», особливо за наявності дедлайну, веде до "
+"неефективних звичок в роботі й навчанні, які в свою чергу призводять до "
+"прокрастинації (відкладання завдань)."
+
+msgid ""
+"The Pomodoro Technique shouldn’t be used for activities you do in your "
+"free time. Enjoy free time!"
+msgstr ""
+"Тахніка Помідора не має використовуватися для діяльностей у ваш вільний "
+"час. Насолоджуйтесь вільним часом!"
+
+msgid ""
+"The Pomodoro Technique will provide a simple tool/process for improving "
+"productivity (your own and that of your team members) which can do the "
+"following:"
+msgstr ""
+"Техніка Помідора надає простий інструмент для поліпшення продуктивності "
+"(вашої власної та членів вашої команди), який може зробити наступне:"
+
+msgid ""
+"The Pomodoro Tracker — A useful tool for time management based on "
+"Pomodoro Technique."
+msgstr ""
+"Pomodoro Tracker – зручний застосунок для управління часом на основі "
+"техніки Помідора."
+
+msgid ""
+"The aim of the Pomodoro Technique is to use time as a valuable ally in "
+"accomplishing what we want to do in the way we want to do it, and to "
+"enable us to improve continually the way we work or study."
+msgstr ""
+"Ціль техніки Помідора полягає в тому, щоб використовувати час як цінного "
+"союзника в досягненні того, чого ми хочемо, тим шляхом, яким ми хочемо, й"
+" дати нам можливість постійно вдосконалювати те, як ми працюємо чи "
+"навчаємося."
+
+msgid "The integration is outdated. Please reconnect."
+msgstr "Термін інтеграції сплив. Будь ласка, підключіться заново."
+
+msgid "The list is empty"
+msgstr "Список пустий"
+
+msgid "The next Pomodoro will go better"
+msgstr "Наступний Помідор буде кращим"
+
+msgid "The next pomodoro will go better!"
+msgstr "Наступний Помідор буде кращим!"
+
+msgid "There are completed tasks"
+msgstr "Виконані завдання"
+
+msgid "This Month"
+msgstr "Цей місяць"
+
+msgid "This Quarter"
+msgstr "Цей квартал"
+
+msgid "This Week"
+msgstr "Цей тиждень"
+
+msgid "Time format"
+msgstr "Формат часу"
+
+msgid "Time spent"
+msgstr "Затрачений час"
+
+msgid "Time zone"
+msgstr "Часовий пояс"
+
+msgid "Timer"
+msgstr "Таймер"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Toggle eye keeper"
+msgstr "Увімкнути/вимкнути оберігач очей"
+
+msgid "Toggle fullscreen"
+msgstr "Увімкнути/вимкнути повний екран"
+
+msgid "Toggle mini timer"
+msgstr "Увімкнути/вимкнути міні-таймер"
+
+msgid "Try to add some tasks use the form above"
+msgstr "Спробуйте додати завдання, використовуючи форму вище"
+
+msgid "Try to complete some pomodoros or choose a different period"
+msgstr "Спробуйте виконати кілька Помідорів або виберіть інший період"
+
+msgid "Try to mark TODO as activity or use the form above"
+msgstr "Спробуйте додати завдання у Вибране або використайте форму вище"
+
+msgid "Tune the timer"
+msgstr "Налаштування таймера"
+
+msgid "Unselect Category"
+msgstr "Скасувати вибір категорії"
+
+msgid "Update status"
+msgstr "Оновити статус"
+
+msgid "View"
+msgstr "Вигляд"
+
+msgid "Volume"
+msgstr "Гучність"
+
+msgid "What is it?"
+msgstr "Що це?"
+
+msgid "Window"
+msgstr ""
+
+msgid "Work days"
+msgstr "Робочі дні"
+
+msgid "Work history won`t be saved."
+msgstr "Історію роботи не буде збережено."
+
+msgid "Work until the Pomodoro rings"
+msgstr "Працюйте, доки Помідор не дзенькне"
+
+msgid "Write your ideas here"
+msgstr "Додайте свої ідеї тут"
+
+msgid "Yesterday"
+msgstr "Вчора"
+
+msgid "You are not signed."
+msgstr "Ви не увійшли."
+
+msgid "You have finished all your tasks."
+msgstr "Ви завершили всі свої завдання."
+
+msgid "You spent"
+msgstr "Ви витратили"
+
+msgid "and"
+msgstr "і"
+
+msgid "auto"
+msgstr "автоматично"
+
+msgid "average"
+msgstr "Середнє"
+
+msgid "break"
+msgstr "перерва"
+
+msgid "cancel"
+msgstr "скасувати"
+
+msgid "category"
+msgstr "категорія"
+
+msgid "close"
+msgstr "закрити"
+
+msgid "copy"
+msgstr "копія"
+
+msgid "created"
+msgstr "створено"
+
+msgid "custom"
+msgstr "на замовлення"
+
+msgid "dark"
+msgstr "темна"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "день"
+msgstr[1] "дні"
+msgstr[2] "днів"
+
+msgid "default"
+msgstr "за замовчуванням"
+
+msgid "delay"
+msgstr "затримка"
+
+msgid "delays"
+msgstr "затримки"
+
+msgid "delete"
+msgstr "видалити"
+
+msgid "description"
+msgstr "опис"
+
+msgid "done"
+msgstr "зроблено"
+
+msgid "duplicate"
+msgstr "скопіювати"
+
+msgid "duration"
+msgstr "тривалість"
+
+msgid "finish time"
+msgstr "час закінчення"
+
+msgid "focus"
+msgstr "фокус"
+
+msgid "for all time"
+msgstr "за весь час"
+
+msgid "friends"
+msgstr "друзі"
+
+msgid "global"
+msgstr "глобальна"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "година"
+msgstr[1] "години"
+msgstr[2] "годин"
+
+msgid "if you must exit now"
+msgstr "щоби негайно вийти"
+
+msgid "in 10 seconds"
+msgstr "за 10 секунд"
+
+msgid "in 2 seconds"
+msgstr "за 3 секунди"
+
+msgid "in 3 seconds"
+msgstr "за 3 секунди"
+
+msgid "in 5 seconds"
+msgstr "за 5 секунд"
+
+msgid "in minutes"
+msgstr "в хвилинах"
+
+msgid "in pomodoros"
+msgstr "в Помідорах"
+
+msgid "interruptions"
+msgstr "перешкоди"
+
+msgid "light"
+msgstr "світла"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "плюс"
+msgstr[1] "плюси"
+msgstr[2] "плюсів"
+
+msgid "maximize"
+msgstr ""
+
+msgid "median"
+msgstr "медіана"
+
+msgid "menu"
+msgstr ""
+
+msgid "merge"
+msgstr "об'єднати"
+
+msgid "messages"
+msgstr "повідомлення"
+
+msgid "minimize"
+msgstr ""
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "хвилина"
+msgstr[1] "хвилини"
+msgstr[2] "хвилин"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "місяць"
+msgstr[1] "місяці"
+msgstr[2] "місяців"
+
+msgid "never"
+msgstr "ніколи"
+
+msgid "next page"
+msgstr "наступна сторінка"
+
+msgid "no description"
+msgstr "без опису"
+
+msgid "no information available"
+msgstr "інформації немає"
+
+msgid "number"
+msgstr "кількість"
+
+msgid "on"
+msgstr "на"
+
+msgid "one message per line"
+msgstr "одне повідомлення на рядок"
+
+msgid "pause"
+msgstr "пауза"
+
+msgid "personal"
+msgstr "особиста"
+
+msgid "pomodoro"
+msgid_plural "pomodoros"
+msgstr[0] "Помідор"
+msgstr[1] "Помідора"
+msgstr[2] "Помідорів"
+
+msgid "pomodoros"
+msgstr "Помідори"
+
+msgid "preview"
+msgstr "попередній перегляд"
+
+msgid "previous page"
+msgstr "попередня сторінка"
+
+msgid "prolong time"
+msgstr "продовжувати час"
+
+msgid "rating"
+msgstr "рейтинг"
+
+msgid "refresh"
+msgstr "поновити"
+
+msgid "registered users spend on completing pomodoros"
+msgstr "зареєстровані користувачі витратили на завдання"
+
+msgid "registered users spend on completing pomodoros today."
+msgstr "зареєстровані користувачі витратили на завдання сьогодні."
+
+msgid "remove categories"
+msgstr "видалити категорії"
+
+msgid "resume"
+msgstr "відновити"
+
+msgid "save"
+msgstr "зберегти"
+
+msgid "series"
+msgstr "серія"
+
+msgid "skip"
+msgstr "пропустити"
+
+msgid "start"
+msgstr "старт"
+
+msgid "stop"
+msgstr "стоп"
+
+msgid "system"
+msgstr "системна"
+
+msgid "take a long break"
+msgstr "зробіть довгу перерву"
+
+msgid "take a short break"
+msgstr "зробіть коротку перерву"
+
+msgid "time"
+msgstr "час"
+
+msgid ""
+"to your telegram, type `/start` and enter a code from the bot to field "
+"bellow"
+msgstr "у вашому Телеграмі напишіть `/start` та введіть отриманий код у полі нижче"
+
+msgid "today"
+msgstr "сьогодні"
+
+msgid "unknown"
+msgstr "невідомо"
+
+msgid "user"
+msgstr "користувач"
+
+msgid "week"
+msgstr "тиждень"
+
+msgid "were"
+msgstr "були"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "рік"
+msgstr[1] "роки"
+msgstr[2] "років"
+
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "Увімкнути сповіщення в Телеграмі"
+
+#~ msgid "Import records from CSV"
+#~ msgstr "Імпортувати записи з файлу CSV"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr ""
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "Завантажувати щоденні завдання з календаря Google"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "Звіти та сповіщення"
+
+#~ msgid "Send reports on email: "
+#~ msgstr "Відправляти звіти на мейл:"
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "Відправляти звіти на Телеграм"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr "Синхронізація з Google Tasks"
+
+#~ msgid "quarter"
+#~ msgstr "квартал"
+

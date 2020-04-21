@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-21 13:08+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2020-04-21 15:25+0300\n"
+"PO-Revision-Date: 2018-07-05 04:48+0200\n"
+"Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
 "Language-Team: ar <LL@li.org>\n"
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
@@ -18,520 +18,535 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.7.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr "تسجيل الدخول باستخدام %(provider)s"
 
 msgid "%1$s left"
-msgstr ""
+msgstr "%1$s اليسار"
 
-msgid "%1$s records were imported"
-msgstr ""
+msgid "%1$s paused."
+msgstr "%1$s متوقف."
+
+msgid "%1$s started:"
+msgstr "%1$s بدأت:"
+
+msgid "%1$s stopped:"
+msgstr "%1$s توقفت:"
+
+msgid "%1$s tasks were imported"
+msgstr "استوردت عدد %1$ من السجلات"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr ""
+msgstr "%s ها هو تقريرك اليومي من اجل %s"
+
+msgid "A random message will be chosen if there are multiple."
+msgstr "سيتم اختيار رسالة عشوائية إذا كان هناك متعددة."
 
 msgid "Activities"
-msgstr ""
+msgstr "النشاطات"
 
 msgid "Activity by days"
-msgstr ""
+msgstr "النشاطات على حسب الايام"
 
 msgid "Activity by months"
-msgstr ""
+msgstr "النشاطات على حسب الشهور"
 
 msgid "Activity by weeks"
-msgstr ""
+msgstr "النشاطات على حسب الاسابيع"
 
 msgid "Add"
-msgstr ""
+msgstr "إضافة"
 
 msgid "Add Activity"
-msgstr ""
+msgstr "أضف نشاط"
 
 msgid "Add TODO"
-msgstr ""
+msgstr "اضافة عمل مطلوب انجازه"
 
 msgid "Add category"
-msgstr ""
+msgstr "أضف تصنيف"
 
 msgid "Add more"
-msgstr ""
+msgstr "أضف المزيد"
 
-msgid "Add to TODO"
-msgstr ""
+msgid "Add new tasks to the top"
+msgstr "اضف مهام جديدة للأعلي"
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr ""
+msgstr "تخفيف القليل المرتبط بالبدايات"
 
 msgid "Application"
-msgstr ""
-
-msgid "Apply"
-msgstr ""
-
-msgid "April"
-msgstr ""
-
-msgid "Are you sure want to delete"
-msgstr ""
+msgstr "تطبيق"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
-msgstr ""
+msgstr "مع بداية كل يوم حدد المهام المراد انجازها و .ضعهم فى قائمة المهام التالية."
 
 msgid "At time"
-msgstr ""
-
-msgid "August"
-msgstr ""
+msgstr "في الوقت"
 
 msgid "Auto start breaks"
-msgstr ""
+msgstr "شغل الإستراحة تلقائيا"
 
 msgid "Auto start pomodoros"
-msgstr ""
+msgstr "شغل بمودورو تلقائيا"
+
+msgid "Block screen on breaks"
+msgstr "احجز الشاشة فى فترات الراحة"
 
 msgid "Bolster the determination to achieve your goals"
-msgstr ""
+msgstr "تعزيز العزم لتحقيق اهدافك"
 
 msgid "Boost motivation and keep it constant"
-msgstr ""
+msgstr "زيادة التحفيز و ابقاءه ثابت"
 
-msgid "Break is over."
-msgstr ""
-
-msgid "Cancel"
-msgstr ""
+msgid "Break is over"
+msgstr "الأستراحة انتهت."
 
 msgid "Categories"
-msgstr ""
-
-msgid "Category"
-msgstr ""
+msgstr "التصنيفات"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "تم حفظ التغيرات"
 
 msgid "Clear DONE history once per day"
-msgstr ""
+msgstr "امسح السجل المنتهي مرة يوميا"
 
 msgid "Clear the list"
-msgstr ""
+msgstr "مسح القائمة"
 
 msgid "Click on a number to add more."
-msgstr ""
+msgstr "إضغط على الرقم لإضافة المزيد"
+
+msgid "Click to open menu"
+msgstr "إضغط لفتح القائمة"
 
 msgid "Click/tap to edit items."
-msgstr ""
+msgstr "إضغط لتعديل العناصر"
 
 msgid "Close"
-msgstr ""
+msgstr "إغلاق"
 
 msgid "Code"
-msgstr ""
+msgstr "كود"
+
+msgid "Color Theme"
+msgstr "لون الهيئة"
 
 msgid "Configure"
-msgstr ""
+msgstr "تهيئة"
 
-msgid "Congratulations! You have finished all your tasks."
-msgstr ""
+msgid "Congratulations!"
+msgstr "تهانينا!"
 
 msgid "Connect"
-msgstr ""
+msgstr "توصيل"
 
 msgid "Create"
-msgstr ""
+msgstr "أنشيء"
 
 msgid "Create a category"
-msgstr ""
-
-msgid "Custom"
-msgstr ""
-
-msgid "DONE"
-msgstr ""
+msgstr "أنشيء تصنيف"
 
 msgid "Daily Goal"
-msgstr ""
+msgstr "الهدف اليومي"
 
-msgid "Daily history"
-msgstr ""
+msgid "Daily Goal Completed."
+msgstr "تم الإنتهاء من الهدف اليومي."
 
-msgid "Date"
-msgstr ""
+msgid "Daily Task"
+msgstr "مهام يومية"
 
 msgid "Date format"
-msgstr ""
-
-msgid "December"
-msgstr ""
-
-msgid "Description"
-msgstr ""
+msgstr "شكل التاريخ"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "فك توصيل"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr ""
-
-msgid "Done"
-msgstr ""
+msgstr "لا تبدأ بمودورو قادمة إذا كانت قائمة المهام فارغة"
 
 msgid "Drag&Drop/Touch to sort items."
-msgstr ""
+msgstr "سحب&جر/لمس لترتيب العناصر"
 
 msgid "Edit"
-msgstr ""
+msgstr "عدل"
 
 msgid "Enable Browser Alerts"
-msgstr ""
+msgstr "شغل تنبيهات المتصفح"
 
-msgid "Enable Telegram Notifications"
-msgstr ""
+msgid "Enable Notifications"
+msgstr "تمكين الإخطارات"
 
 msgid "Enable Web Notifications"
-msgstr ""
+msgstr "شغل إشعارات الويب"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
-msgstr ""
+msgstr "تعزيز التركيز عن طريق قطع الانقطاعات"
+
+msgid "Enjoy your break"
+msgstr "استمتع بالإستراحة"
 
 msgid "Export the records as CSV"
-msgstr ""
+msgstr "تصدير السجلات كملف من نوع CSV"
+
+msgid "Eye Keeper is enabled"
+msgstr "المراقب مفعل"
 
 msgid "Favorites"
-msgstr ""
-
-msgid "February"
-msgstr ""
+msgstr "المفضلة"
 
 msgid "Feedback"
+msgstr "مراجعة"
+
+msgid "File"
 msgstr ""
 
-msgid "Great work! TODO list is empty."
+msgid "Fill blank entries"
+msgstr "املأ الإدخالات الفارغة"
+
+msgid "Great work!"
+msgstr "عمل عظيم!"
+
+msgid "Help"
 msgstr ""
 
 msgid "Hide notificaions"
+msgstr "اخفي الإشعارات"
+
+msgid "History"
 msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr ""
+msgstr "لو أخذت مهمة واحدة اكثر من 5-7 بمودوروز، قم بتقسيمها"
 
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
-msgstr ""
+msgstr "لو اخدت المهمة اقل من بمودورو واحدة، إجمعها، وإدمجها مع مهمة اخري"
 
-msgid "Import records from CSV"
-msgstr ""
+msgid "Import tasks from CSV"
+msgstr "استيراد السجلات من نوع CSV"
 
 msgid "Import was failed. Check your CSV and try again."
-msgstr ""
+msgstr "فشل فى الإستيراد. تحقق من ملف CSV الخاص بك و حاول مرة اخري."
 
 msgid "Imported from External Sources"
-msgstr ""
+msgstr "استيراد من مصادر خارجية"
 
 msgid "Improve your work or study process"
-msgstr ""
+msgstr "حسن اداء عملك او مذاكرتك"
 
 msgid "Increase awareness of your decisions"
-msgstr ""
+msgstr "زيادة الوعي عند اتخاذ القرارت"
 
-msgid "Integration with Facebook"
-msgstr ""
-
-msgid "Integration with Github"
-msgstr ""
-
-msgid "Integration with Google"
-msgstr ""
-
-msgid "Integration with Telegram"
-msgstr ""
+msgid "Integration with %1$s"
+msgstr "التكامل مع %1$s"
 
 msgid "Integrations"
-msgstr ""
+msgstr "إدماجات"
 
-msgid "January"
-msgstr ""
+msgid "Interruption tracked"
+msgstr "متابعة الانقطاعات"
 
-msgid "July"
-msgstr ""
-
-msgid "June"
-msgstr ""
+msgid "Join the global rating"
+msgstr "انضم للتصنيف العالمي"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
 msgstr ""
+"إستمر بالعمل، بمودورو بعد بمودورو، حتى إنتهاء المهمة التي بين يديك. كل 4 "
+"بمودوروز خذ استراحة كبيرة، (15-30 دقيقة)."
 
 msgid "Language"
-msgstr ""
+msgstr "لغة"
 
 msgid "Last 180 days"
-msgstr ""
+msgstr "اخر 180 يوم"
 
 msgid "Last 90 days"
-msgstr ""
+msgstr "اخر 80 يوم"
 
 msgid "Last Month"
-msgstr ""
+msgstr "الشهر الفائت"
 
 msgid "Last Quarter"
-msgstr ""
+msgstr "الربع السنوي الفائت"
 
 msgid "Last Week"
-msgstr ""
+msgstr "الإسبوع الفائت"
 
 msgid "Like"
-msgstr ""
+msgstr "إعجاب"
 
-msgid "Load daily tasks from Google Calendar"
-msgstr ""
+msgid "Link copied"
+msgstr "تم نسخ الرابط"
+
+msgid "Load daily tasks"
+msgstr "تمكين الإخطارات"
 
 msgid "Loading"
-msgstr ""
+msgstr "جاري التحميل"
+
+msgid "Lock is enabled"
+msgstr "القفل متاح"
 
 msgid "Login to the service and track your progress"
-msgstr ""
+msgstr "قم بتسجيل الدخول وتابع تقدمك"
 
-msgid "Login to the service using Facebook authentication."
-msgstr ""
-
-msgid "Login to the service using Github authentication."
-msgstr ""
-
-msgid "Login to the service using Google Authentication"
-msgstr ""
-
-msgid "Login to view your stats"
-msgstr ""
+msgid "Login to the service using %1$s authentication."
+msgstr "تسجيل الدخول إلى الخدمة باستخدام مصادقة%1$s"
 
 msgid "Logout"
-msgstr ""
+msgstr "تسجيل الخروج"
 
-msgid "Long break delay:"
-msgstr ""
+msgid "Long break"
+msgstr "استراحة طويلة"
 
-msgid "Long break duration:"
-msgstr ""
+msgid "Long break delay"
+msgstr "مدة تأخير الإستراحة الكبيرة"
 
-msgid "March"
-msgstr ""
+msgid "Long break duration"
+msgstr "مدة الإستراحة الكبيرة"
 
-msgid "Mark as daily task"
-msgstr ""
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr "انظر الي شىء يبعد عنك 6 امتار لمدة %1$s ثواني"
 
 msgid "Mark as done"
-msgstr ""
-
-msgid "May"
-msgstr ""
+msgstr "تم الإنتهاء منها"
 
 msgid "Median per day"
-msgstr ""
+msgstr "العدد الاوسط لكل يوم"
+
+msgid "Navigate Back"
+msgstr "رجوع سلبي"
+
+msgid "Navigate Forward"
+msgstr "تقدم سلبي"
 
 msgid "New"
-msgstr ""
+msgstr "جديد"
+
+msgid "Next long break"
+msgstr "استراحة طويلة تالية"
 
 msgid "Notification Test"
-msgstr ""
+msgstr "اختبار الإخطار"
 
 msgid "Notifications"
-msgstr ""
+msgstr "إشعارات"
 
 msgid "Notify when there is one minute left"
-msgstr ""
-
-msgid "November"
-msgstr ""
-
-msgid "October"
-msgstr ""
+msgstr "نبهني عندما يتبقى دقيقة واحدة"
 
 msgid "Of those"
-msgstr ""
+msgstr "من هؤلاء"
 
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr ""
+msgstr "ستسمع صوت التنبيه بمجرد بدأ البومودورو"
 
 msgid "One minute left"
-msgstr ""
+msgstr "دقيقة واحدة متبقية"
 
-msgid "PAUSE"
-msgstr ""
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr "وقف/استمرار عندما يكون الكمبيوتر فى حالة نائم/خامل"
 
-msgid "POMODORO"
-msgstr ""
-
-msgid "Pause"
-msgstr ""
-
-msgid "Pin to favorites"
-msgstr ""
+msgid "Pin to activities"
+msgstr "إضافة للمفضلة"
 
 msgid "Play alarm sound"
-msgstr ""
+msgstr "شغل صوت المنبه"
 
 msgid "Play ticking sound"
-msgstr ""
+msgstr "شغل صوت التكتكة"
 
 msgid "Play ticking sound while breaks"
-msgstr ""
+msgstr "شغل صوت التكتكة اثناء الإستراحات"
 
 msgid "Please don't send me these awesome daily reports"
-msgstr ""
+msgstr "رجاء لا ترسل لي تقارير يومية رائعة"
 
 msgid "Please reload the application."
-msgstr ""
+msgstr "من فضلك اعد تحميل التطبيق."
+
+msgid "Please select a value"
+msgstr "من فضلك إختر قيمة"
+
+msgid "Please unblock notifications in your browser"
+msgstr "من فضلك فعل الاشعارات فى متصفحك الخاص."
+
+msgid "Please, login to use the feature"
+msgstr "من فضلك ، قم بتسجيل الدخول لاستخدام الميزة"
 
 msgid "Please, login to view your stats"
-msgstr ""
+msgstr "من فضلك، سجل الدخول لتتمكن من رؤية احصائياتك"
 
-msgid "Pomodoro duration:"
-msgstr ""
+msgid "Pomodoro Tracker is a productivity app designed for your work and study."
+msgstr "مراقب البومودورو هو تطبيق مثمم من اجل عملك ودراستك."
 
-msgid "Pomodoro is finished."
-msgstr ""
+msgid "Pomodoro duration"
+msgstr "مدة البمودورو"
 
-msgid "Pomodoros"
-msgstr ""
+msgid "Pomodoro is finished"
+msgstr "البومودورو انتهت"
 
 msgid "Preferences"
-msgstr ""
+msgstr "تفضيلات"
 
-msgid "Privacy Policy"
-msgstr ""
+msgid "Press"
+msgstr "اضغط"
+
+msgid "Profile"
+msgstr "الملف الشخصي"
 
 msgid "Provide Feedback"
-msgstr ""
+msgstr "تقديم مراجعة"
 
 msgid "Quit"
-msgstr ""
+msgstr "اغلاق"
 
 msgid "Raise browser alert when pomodoro/break is over"
-msgstr ""
+msgstr "إرفع صوت منبه الويب عندما يكون مؤقت البمودورو/الإستراحة"
+
+msgid "Rate the application"
+msgstr "قيم التطبيق"
 
 msgid "Records are empty"
-msgstr ""
+msgstr "التسجيلات فارفة"
 
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
-msgstr ""
+msgstr "اعادة تحقيق معني الانجاز، فى مستوي النوع والكم."
 
 msgid "Register"
-msgstr ""
+msgstr "تسجيل"
+
+msgid "Relax"
+msgstr "استرخ"
 
 msgid "Release Notes"
-msgstr ""
+msgstr "ملاحظات الإصدار"
+
+msgid "Remove a task from TODO when Pomodoro is complete"
+msgstr "ازل المهمة من القائمة بعد اكتمال البومودورو"
+
+msgid "Remove one"
+msgstr "إزالة واحدة"
+
+msgid "Repeat"
+msgstr "كرر"
 
 msgid "Reports Time"
-msgstr ""
-
-msgid "Reports and notifications"
-msgstr ""
-
-msgid "Resume"
-msgstr ""
+msgstr "وقت التقارير"
 
 msgid "Rules & Tips"
-msgstr ""
-
-msgid "SKIP"
-msgstr ""
-
-msgid "STOP"
-msgstr ""
+msgstr "قوانين & نصائح"
 
 msgid "Schemes"
-msgstr ""
+msgstr "المخططات"
 
-msgid "Send Daily Reports"
-msgstr ""
+msgid "Select Category"
+msgstr "اختر الفئة"
 
-msgid "Send reports on email: "
-msgstr ""
+msgid "Select Dates"
+msgstr "اختر التواريخ"
 
-msgid "Send reports on telegram"
-msgstr ""
+msgid "Select a calendar to import tasks"
+msgstr "حدد تقويمًا لاستيراد المهام"
+
+msgid "Send daily reports"
+msgstr "تمكين الإخطارات"
 
 msgid "Send test notification"
-msgstr ""
+msgstr "أرسل إشعارات الإختبار"
 
-msgid "September"
+msgid "Server Error"
 msgstr ""
 
 msgid "Server has been updated."
-msgstr ""
+msgstr "تم تحديث الخادم."
+
+msgid "Set do not disturb"
+msgstr "تعيين عدم الإزعاج"
 
 msgid "Settings"
-msgstr ""
+msgstr "اعدادات"
 
-msgid "Short break duration:"
-msgstr ""
+msgid "Share timer data"
+msgstr "شارك معلومات المؤقت"
+
+msgid "Short break duration"
+msgstr "مدة الإستراحة القصيرة"
 
 msgid "Short description"
-msgstr ""
+msgstr "وصف قصير"
 
 msgid "Show window"
-msgstr ""
+msgstr "اظهر النافذة"
 
 msgid "Sign Up / Login"
-msgstr ""
+msgstr "التسجيل / تسجيل الدخول"
 
-msgid "Skip"
-msgstr ""
+msgid "Sign in with %1$s"
+msgstr "تسجيل الدخول باستخدام %1$s"
+
+msgid "Sleep Mode is enabled"
+msgstr "هيئة النوم مفعلة"
 
 msgid "Sort by"
-msgstr ""
-
-msgid "Start"
-msgstr ""
+msgstr "ترتيب حسب"
 
 msgid "Start the Pomodoro timer"
-msgstr ""
+msgstr "ابدا مؤقت البومودورو"
 
 msgid "Start working:"
-msgstr ""
+msgstr "بدا العمل:"
 
 msgid "Stats"
-msgstr ""
+msgstr "احصائيات"
 
-msgid "Stop"
-msgstr ""
+msgid "Stay focused and finish tasks effectively."
+msgstr "ابق تركيزك عاليا و انجز مهامك بفعالية."
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
-msgstr ""
+msgstr "قوي عزيمتك على الاستمرار لتكون قادر على مواجهة المواقف المعقدة"
 
 msgid "Support the Project"
-msgstr ""
+msgstr "ادعم المشروع"
 
-msgid "Sync with Google Tasks"
-msgstr ""
+msgid "Sync my tasks only"
+msgstr "مزامنة مهامي فقط"
 
 msgid "TODO"
-msgstr ""
+msgstr "عمل مطلوب انجازه"
 
-msgid "TODO list is empty"
-msgstr ""
+msgid "TODO list is empty."
+msgstr "قائمة TODO فارغة"
 
 msgid "TODO list was updated."
-msgstr ""
+msgstr "تم تحديث قائمة المهام"
 
 msgid "Take a short break (3-5 minutes)"
-msgstr ""
+msgstr "خذ استراحة قصيرة (3 - 5 دقائق)"
+
+msgid "Take more time to your life."
+msgstr "استفد بوقت اضافى لحياتك الشخصية"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr ""
+msgstr "شكرا لك علي المساعدة! رسالتك تنتظر الإدارة"
 
 msgid "The Basics"
-msgstr ""
+msgstr "الاساسيات"
 
 msgid "The Goals"
-msgstr ""
+msgstr "الاهداف"
 
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
@@ -539,217 +554,292 @@ msgid ""
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
+"تقنية البومودورو هي طريقة فعالة لإدارة الوقت والتى يمكن استخدامها لاي "
+"مهمة. الوقت عدو لكثير من الناس. القلق الناتج من صوت الساعة ، بالأخص عندما"
+" يكون مرتبط بمعاد تسليم مهمة، ينتج عنه  عادات عمل او دراسة غير فعالة "
+"والتي تعود بعد ذلك فى صورة التسويف."
 
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
 msgstr ""
+"تقنية البمودورو لا يجب ان تستخدم خلال انشطة  أوقات فراغك. استمتع بوقت "
+"فراغك!"
 
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
+"تقنية البومودورو توفر لنا اداة/عملية بسيطة لتحسين مستوي الانتاجية (لنفسك "
+"و لاعضاء فريقك) والذي يمكنهم ان يفعلوا التالي:"
+
+msgid ""
+"The Pomodoro Tracker — A useful tool for time management based on "
+"Pomodoro Technique."
+msgstr ""
+"The Pomodoro Tracker - هي اداة فعالة لإدارة الوقت مبنية علي تقنية "
+"البومودورو."
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr ""
+"الهدف من تقنية البومودورو هو استخدام الوقت كحليف قيم فى انجاز ما نريد "
+"انجازه بالطريقة التى نريدها لنا، و لإتاحة الفرصة لنا للتحسن فى طريقة "
+"عملنا او دراستنا."
+
+msgid "The integration is outdated. Please reconnect."
+msgstr "تسجيل دخولك قديم. من فضلك اعد تسجيل الدخول"
 
 msgid "The list is empty"
-msgstr ""
+msgstr "القائمة فارغة"
 
 msgid "The next Pomodoro will go better"
-msgstr ""
+msgstr "البمودورو القادم سيكون افضل"
 
 msgid "The next pomodoro will go better!"
-msgstr ""
-
-msgid "Theme"
-msgstr ""
+msgstr "البمودورو القادم سيكون افضل"
 
 msgid "There are completed tasks"
-msgstr ""
+msgstr "هناك مهمات مكتملة"
 
 msgid "This Month"
-msgstr ""
+msgstr "هذا الشهر"
 
 msgid "This Quarter"
-msgstr ""
+msgstr "هذا الربع سنوي"
 
 msgid "This Week"
-msgstr ""
-
-msgid "Time"
-msgstr ""
+msgstr "هذا الإسبوع"
 
 msgid "Time format"
-msgstr ""
+msgstr "شكل الوقت"
 
 msgid "Time spent"
-msgstr ""
+msgstr "الوقت المنقضي"
 
 msgid "Time zone"
-msgstr ""
+msgstr "المنظقة الزمنية"
 
 msgid "Timer"
-msgstr ""
+msgstr "مؤقت"
 
 msgid "Title"
-msgstr ""
+msgstr "العنوان"
 
-msgid "Today"
-msgstr ""
+msgid "Toggle eye keeper"
+msgstr "تبديل eye keeper"
 
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "تبديل لوضع الشاشة الكاملة"
+
+msgid "Toggle mini timer"
+msgstr "تبديل المؤقت المصغر"
 
 msgid "Try to add some tasks use the form above"
-msgstr ""
-
-msgid "Try to complete some pomodoros above"
-msgstr ""
+msgstr "تحاول إضافة بعض المهام استخدم الإستمارة التالية"
 
 msgid "Try to complete some pomodoros or choose a different period"
-msgstr ""
+msgstr "حاول انهاء بعض البومودوروز او اختار فترة مختلفة"
 
 msgid "Try to mark TODO as activity or use the form above"
-msgstr ""
+msgstr "جرب تمييز الTODO كنشاط او إستخدم الإستمارة التالية"
 
 msgid "Tune the timer"
-msgstr ""
+msgstr "اضبط المؤقت"
+
+msgid "Unselect Category"
+msgstr "إلغاء تحديد الفئة"
+
+msgid "Update status"
+msgstr "تحديث الحالة"
 
 msgid "View"
-msgstr ""
+msgstr "اظهر"
 
 msgid "Volume"
-msgstr ""
+msgstr "الصوت"
 
 msgid "What is it?"
+msgstr "ما هذا؟"
+
+msgid "Window"
 msgstr ""
 
 msgid "Work days"
-msgstr ""
+msgstr "ايام العمل"
 
 msgid "Work history won`t be saved."
-msgstr ""
+msgstr "سجل العمل لن يحتفظ به"
 
 msgid "Work until the Pomodoro rings"
-msgstr ""
+msgstr "اعمل حتي تسمع صوت تنبيه البومودورو"
 
 msgid "Write your ideas here"
-msgstr ""
+msgstr "اكتب أفكارك عنا"
 
 msgid "Yesterday"
-msgstr ""
+msgstr "امس"
 
 msgid "You are not signed."
-msgstr ""
+msgstr "انت غير مسجل"
+
+msgid "You have finished all your tasks."
+msgstr "لقد انهيت جميع مهامك."
 
 msgid "You spent"
-msgstr ""
+msgstr "قضيت"
 
 msgid "and"
-msgstr ""
-
-msgid "as Facebook user"
-msgstr ""
-
-msgid "as Github user"
-msgstr ""
-
-msgid "as Google user"
-msgstr ""
+msgstr "و"
 
 msgid "auto"
-msgstr ""
+msgstr "تلقائي"
 
 msgid "average"
-msgstr ""
+msgstr "متوسط"
+
+msgid "break"
+msgstr "ﺎﺴﺗﺭﺎﺣﺓ"
 
 msgid "cancel"
-msgstr ""
+msgstr "إلغاء"
+
+msgid "category"
+msgstr "التصنيف"
 
 msgid "close"
-msgstr ""
+msgstr "إغلاق"
+
+msgid "copy"
+msgstr "نسخ"
 
 msgid "created"
-msgstr ""
+msgstr "المنشأ"
+
+msgid "custom"
+msgstr "تعديل"
 
 msgid "dark"
-msgstr ""
+msgstr "ظلام"
 
 msgid "day"
 msgid_plural "days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "يوم"
+msgstr[1] "أيام"
 msgstr[2] ""
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
+msgid "default"
+msgstr "إفتراضي"
+
 msgid "delay"
-msgstr ""
+msgstr "تاجيل"
 
 msgid "delays"
-msgstr ""
+msgstr "التأخير"
 
 msgid "delete"
-msgstr ""
+msgstr "مسح"
+
+msgid "description"
+msgstr "الوصف"
+
+msgid "done"
+msgstr "تم"
+
+msgid "duplicate"
+msgstr "مكرر"
+
+msgid "duration"
+msgstr "المدة الزمنية"
+
+msgid "finish time"
+msgstr "وقت الانتهاء"
 
 msgid "focus"
-msgstr ""
+msgstr "التركيز"
 
 msgid "for all time"
-msgstr ""
+msgstr "منذ بداية الوقت"
+
+msgid "friends"
+msgstr "اصدقاء"
+
+msgid "global"
+msgstr "عالمي"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ساعة"
+msgstr[1] "ساعات"
 msgstr[2] ""
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
+msgid "if you must exit now"
+msgstr "اذا تريد الخروج الان"
+
 msgid "in 10 seconds"
-msgstr ""
+msgstr "خلال 10 ثواني"
 
 msgid "in 2 seconds"
-msgstr ""
+msgstr "خلال 2 ثانية"
 
 msgid "in 3 seconds"
-msgstr ""
+msgstr "خلال 3 ثوان"
 
 msgid "in 5 seconds"
-msgstr ""
+msgstr "خلال 5 ثواني"
 
 msgid "in minutes"
-msgstr ""
+msgstr "بالدقائق"
 
 msgid "in pomodoros"
-msgstr ""
+msgstr "بالمودوروز"
+
+msgid "interruptions"
+msgstr "انقطاع"
 
 msgid "light"
-msgstr ""
+msgstr "ضوء"
 
 msgid "like"
 msgid_plural "likes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "إعجاب"
+msgstr[1] "إعجابات"
 msgstr[2] ""
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
+msgstr "العدد الاوسط"
+
+msgid "menu"
+msgstr ""
+
+msgid "merge"
+msgstr "دمج"
+
+msgid "messages"
+msgstr "رسائل"
+
+msgid "minimize"
 msgstr ""
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "دقيقة"
+msgstr[1] "دقائق"
 msgstr[2] ""
 msgstr[3] ""
 msgstr[4] ""
@@ -757,99 +847,282 @@ msgstr[5] ""
 
 msgid "month"
 msgid_plural "months"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "شهر"
+msgstr[1] "شهور"
+msgstr[2] "أشهر"
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
+msgid "never"
+msgstr "ابدا"
+
 msgid "next page"
-msgstr ""
+msgstr "الصفحة التالية"
 
 msgid "no description"
-msgstr ""
+msgstr "لا يوجد وصف"
+
+msgid "no information available"
+msgstr "لا تتوفر معلومات"
 
 msgid "number"
-msgstr ""
+msgstr "عدد"
 
 msgid "on"
-msgstr ""
+msgstr "علي"
+
+msgid "one message per line"
+msgstr "رسالة واحدة لكل سطر"
+
+msgid "pause"
+msgstr "توقيف مؤقت"
+
+msgid "personal"
+msgstr "شخصي"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "بمودورو"
+msgstr[1] "بومودوروز"
 msgstr[2] ""
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
+msgid "pomodoros"
+msgstr "بالمودوروز"
+
+msgid "preview"
+msgstr "معاينة"
+
 msgid "previous page"
-msgstr ""
+msgstr "الصفحة السابقة"
+
+msgid "prolong time"
+msgstr "إطالة الوقت"
 
 msgid "rating"
-msgstr ""
-
-msgid "record"
-msgstr ""
+msgstr "تقيم"
 
 msgid "refresh"
-msgstr ""
+msgstr "تحديث"
 
 msgid "registered users spend on completing pomodoros"
-msgstr ""
+msgstr "مستخدمين مسجلين قضوا وقتهم فى إكمال مؤقتات البومودورز"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
+msgstr " مستخدمين مسجلين قضوا وقتهم فى إكمال مؤقتات البومودورز اليوم"
+
+msgid "remove categories"
+msgstr "إزالة الفئات"
 
 msgid "resume"
-msgstr ""
+msgstr "استمرار"
 
 msgid "save"
-msgstr ""
+msgstr "حفظ"
+
+msgid "series"
+msgstr "سلسلة"
+
+msgid "skip"
+msgstr "الغاء"
 
 msgid "start"
-msgstr ""
+msgstr "ابدا"
+
+msgid "stop"
+msgstr "توقف"
+
+msgid "system"
+msgstr "نظام"
 
 msgid "take a long break"
-msgstr ""
+msgstr "خذ استراحة كبيرة"
 
 msgid "take a short break"
-msgstr ""
+msgstr "خذ استراحة قصيرة"
 
 msgid "time"
-msgstr ""
+msgstr "وقت"
 
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
-msgstr ""
+msgstr "إلي حسابك فى التليجرام، إكتب '/start' ثم أدخل كود البوت فى الحقل التالي"
 
-msgid "version"
-msgstr ""
+msgid "today"
+msgstr "اليوم"
+
+msgid "unknown"
+msgstr "غير معروف"
+
+msgid "user"
+msgstr "المستعمل"
+
+msgid "week"
+msgstr "أسبوع"
 
 msgid "were"
-msgstr ""
+msgstr "كان"
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "سنة"
+msgstr[1] "سنوات"
+msgstr[2] "سنين"
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-#~ msgid "Congratulations!"
+#~ msgid "Add to TODO"
+#~ msgstr "أضف إلى قائمة المهام"
+
+#~ msgid "Apply"
+#~ msgstr "تنفيذ"
+
+#~ msgid "Are you sure want to delete"
+#~ msgstr "هل أنت متأكد انك تريد المسح"
+
+#~ msgid "August"
+#~ msgstr "اغسطس"
+
+#~ msgid "Break is over. The next pomodoro will go better!"
+#~ msgstr "الاستراحة انتهت. البومودورو التالية ستكون افضل!"
+
+#~ msgid "Connect Telegram Bot"
+#~ msgstr "توصيل بوت التليجرام"
+
+#~ msgid "Daily history"
+#~ msgstr "السجل اليومي"
+
+#~ msgid "Date"
+#~ msgstr "التاريخ"
+
+#~ msgid "December"
+#~ msgstr "ديسمبر"
+
+#~ msgid "Drag/Move to sort"
+#~ msgstr "جر/حرك للترتيب"
+
+#~ msgid "Enable Telegram Bot"
+#~ msgstr "تفعيل بوت تليجرام"
+
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "شغل إشعارات التليجرام"
+
+#~ msgid "February"
+#~ msgstr "فبراير"
+
+#~ msgid "Get notifications, check history"
+#~ msgstr "الحصول على إشعارات، فحص السجل"
+
+#~ msgid "Great work! TODO list is empty."
+#~ msgstr "عمل عظيم! قائمة الاعمال المطلوب انجازها فارغة."
+
+#~ msgid "Hide Others"
+#~ msgstr "اخف الاخرين"
+
+#~ msgid "Hide Pomodoro-Tracker"
+#~ msgstr "اخف Pomodoro-Tracker"
+
+#~ msgid "Import/Export tasks"
 #~ msgstr ""
 
-#~ msgid "Daily Goal Completed."
-#~ msgstr ""
+#~ msgid "Integration with Facebook"
+#~ msgstr "دمج مع فيسبوك"
+
+#~ msgid "Integration with Github"
+#~ msgstr "دمج مع جت هب"
+
+#~ msgid "January"
+#~ msgstr "يناير"
+
+#~ msgid "July"
+#~ msgstr "يوليو"
+
+#~ msgid "June"
+#~ msgstr "يونيو"
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "حمل المهام اليومية من تقويم جوجل"
+
+#~ msgid "Login to the service using Facebook authentication."
+#~ msgstr "تسجيل الدخول بإستخدام مصادقة فيسبوك"
+
+#~ msgid "Login to the service using Github authentication."
+#~ msgstr "تسجيل الدخول بإستخدام مصادقة جت هب"
+
+#~ msgid "Login to view your stats"
+#~ msgstr "سجل الدخول لتتمكن من رؤية احصائياتك"
+
+#~ msgid "March"
+#~ msgstr "مارس"
 
 #~ msgid "Mark done"
-#~ msgstr ""
+#~ msgstr "حدد منتهي"
+
+#~ msgid "May"
+#~ msgstr "مايو"
+
+#~ msgid "November"
+#~ msgstr "نوفمبر"
+
+#~ msgid "October"
+#~ msgstr "اكتوبر"
+
+#~ msgid "Pomodoro is finished. Have a short break."
+#~ msgstr "البومودورو انتهت. خذ استراحة قصيرة."
+
+#~ msgid "Pomodoros"
+#~ msgstr "بومودورز"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "سياسة الخصوصية"
+
+#~ msgid "Reload"
+#~ msgstr "تحميل"
+
+#~ msgid "Remove"
+#~ msgstr "إزالة"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "التقارير والإشعارات"
+
+#~ msgid "Send Daily Reports"
+#~ msgstr "أرسل تقارير يومية"
+
+#~ msgid "Send reports on email: "
+#~ msgstr "أرسل التقارير عبر البريد"
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "أرسل التقارير عبر تطبيق التليجرام"
+
+#~ msgid "September"
+#~ msgstr "سبتمبر"
+
+#~ msgid "Show All"
+#~ msgstr "اظهر الجميع"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr "ادمج مع مهام جوجل"
 
 #~ msgid "The Pomodoro is running"
-#~ msgstr ""
+#~ msgstr "مؤقت البمودورو يعمل"
+
+#~ msgid "Time"
+#~ msgstr "الوقت"
+
+#~ msgid "Toggle Full Screen"
+#~ msgstr "تبديل الي وضع الشاشة الكاملة"
+
+#~ msgid "Try to complete some pomodoros above"
+#~ msgstr "جرب الإنتهاء من بعض البومودورات التالية"
+
+#~ msgid "in seconds"
+#~ msgstr "بالثواني"
+
+#~ msgid "quarter"
+#~ msgstr "ربع سنوي"
 
