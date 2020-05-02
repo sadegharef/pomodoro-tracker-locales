@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-22 11:37+0300\n"
+"POT-Creation-Date: 2020-05-02 20:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -59,9 +59,6 @@ msgstr "Haftaya göre etkinlik"
 
 msgid "Add"
 msgstr "Ekle"
-
-msgid "Add Activity"
-msgstr "Aktiviteyi ekle"
 
 msgid "Add TODO"
 msgstr "Yapılacaklara ekle"
@@ -212,6 +209,9 @@ msgstr ""
 
 msgid "Fill blank entries"
 msgstr "Boş girişleri doldur"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Pomodoro-Tracker'ı açmak için global kısayol"
 
 msgid "Great work!"
 msgstr "Harika iş!"
@@ -753,6 +753,9 @@ msgstr "sil"
 msgid "description"
 msgstr "açıklama"
 
+msgid "disable"
+msgstr "devre dışı"
+
 msgid "done"
 msgstr "yapilanlar"
 
@@ -957,6 +960,9 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "yil"
 msgstr[1] "yil"
+
+#~ msgid "Add Activity"
+#~ msgstr "Aktiviteyi ekle"
 
 #~ msgid "Apply"
 #~ msgstr "Uygulamak"

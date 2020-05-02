@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-22 11:37+0300\n"
+"POT-Creation-Date: 2020-05-02 20:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -61,9 +61,6 @@ msgstr "Δραστηριότητα ανα εβδομάδες"
 
 msgid "Add"
 msgstr "Πρόσθεσε"
-
-msgid "Add Activity"
-msgstr "Πρόσθεσε Δραστηριότητα"
 
 msgid "Add TODO"
 msgstr "Πρόσθεσε TODO"
@@ -212,6 +209,9 @@ msgstr ""
 
 msgid "Fill blank entries"
 msgstr "Συμπληρώστε κενές καταχωρήσεις"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Παγκόσμια συντόμευση για άνοιγμα του Pomodoro-Tracker"
 
 msgid "Great work!"
 msgstr "Σπουδαία δουλειά"
@@ -763,6 +763,9 @@ msgstr "Διαγραφή"
 msgid "description"
 msgstr "Περιγραφή"
 
+msgid "disable"
+msgstr "καθιστώ ανίκανο"
+
 msgid "done"
 msgstr "Τελείωσε"
 
@@ -967,6 +970,9 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "χρόνο"
 msgstr[1] "χρόνια"
+
+#~ msgid "Add Activity"
+#~ msgstr "Πρόσθεσε Δραστηριότητα"
 
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Ενεργοποίησε Ειδοποιήσεις απο το Telegram"

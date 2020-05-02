@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-22 11:37+0300\n"
+"POT-Creation-Date: 2020-05-02 20:52+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -59,9 +59,6 @@ msgstr "Activité par semaine"
 
 msgid "Add"
 msgstr "Ajout"
-
-msgid "Add Activity"
-msgstr "Ajouter une activité"
 
 msgid "Add TODO"
 msgstr "Ajouter à TODO"
@@ -210,6 +207,9 @@ msgstr ""
 
 msgid "Fill blank entries"
 msgstr "Remplissez les entrées vides"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Raccourci mondial pour ouvrir Pomodoro-Tracker"
 
 msgid "Great work!"
 msgstr "Beau travail!"
@@ -747,6 +747,9 @@ msgstr "supprimer"
 msgid "description"
 msgstr "description"
 
+msgid "disable"
+msgstr "désactiver"
+
 msgid "done"
 msgstr "terminé"
 
@@ -953,6 +956,9 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "an"
 msgstr[1] "ans"
+
+#~ msgid "Add Activity"
+#~ msgstr "Ajouter une activité"
 
 #~ msgid "Apply"
 #~ msgstr "Appliquer"

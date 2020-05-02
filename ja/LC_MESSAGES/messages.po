@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-22 11:37+0300\n"
+"POT-Creation-Date: 2020-05-02 20:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -59,9 +59,6 @@ msgstr "アクティビティ / 週ごと"
 
 msgid "Add"
 msgstr "追加"
-
-msgid "Add Activity"
-msgstr "アクティビティの追加"
 
 msgid "Add TODO"
 msgstr "TODOの追加"
@@ -208,6 +205,9 @@ msgstr "ファイル"
 
 msgid "Fill blank entries"
 msgstr "空白のエントリを埋める"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Pomodoro-Trackerを開くためのグローバルショートカット"
 
 msgid "Great work!"
 msgstr "すごい仕事！"
@@ -729,6 +729,9 @@ msgstr "削除"
 msgid "description"
 msgstr "説明"
 
+msgid "disable"
+msgstr "無効にする"
+
 msgid "done"
 msgstr "完了"
 
@@ -931,6 +934,9 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "年"
 msgstr[1] "年"
+
+#~ msgid "Add Activity"
+#~ msgstr "アクティビティの追加"
 
 #~ msgid "Apply"
 #~ msgstr "適用"

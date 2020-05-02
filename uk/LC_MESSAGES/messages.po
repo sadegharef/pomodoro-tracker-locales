@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-22 11:37+0300\n"
+"POT-Creation-Date: 2020-05-02 20:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -60,9 +60,6 @@ msgstr "Активність за тижнями"
 
 msgid "Add"
 msgstr "Додати"
-
-msgid "Add Activity"
-msgstr "Додати у вибране"
 
 msgid "Add TODO"
 msgstr "Запланувати"
@@ -211,6 +208,9 @@ msgstr ""
 
 msgid "Fill blank entries"
 msgstr "Заповніть порожні записи"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Глобальний ярлик для відкриття Pomodoro-Tracker"
 
 msgid "Great work!"
 msgstr "Чудова робота!"
@@ -752,6 +752,9 @@ msgstr "видалити"
 msgid "description"
 msgstr "опис"
 
+msgid "disable"
+msgstr "відключити"
+
 msgid "done"
 msgstr "зроблено"
 
@@ -960,6 +963,9 @@ msgid_plural "years"
 msgstr[0] "рік"
 msgstr[1] "роки"
 msgstr[2] "років"
+
+#~ msgid "Add Activity"
+#~ msgstr "Додати у вибране"
 
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Увімкнути сповіщення в Телеграмі"

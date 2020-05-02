@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-22 11:37+0300\n"
+"POT-Creation-Date: 2020-05-02 20:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -59,9 +59,6 @@ msgstr "Hoạt động theo tuần"
 
 msgid "Add"
 msgstr "Thêm"
-
-msgid "Add Activity"
-msgstr "Thêm Hoạt động"
 
 msgid "Add TODO"
 msgstr "Thêm vào TODO"
@@ -210,6 +207,9 @@ msgstr ""
 
 msgid "Fill blank entries"
 msgstr "Điền vào các mục trống"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Phím tắt toàn cầu để mở Pomodoro-Tracker"
 
 msgid "Great work!"
 msgstr "Tốt lắm!"
@@ -733,6 +733,9 @@ msgstr "xoá"
 msgid "description"
 msgstr "mô tả"
 
+msgid "disable"
+msgstr "vô hiệu hóa"
+
 msgid "done"
 msgstr "hoàn thành"
 
@@ -932,6 +935,9 @@ msgstr[0] ""
 
 #~ msgid "%1$s records were imported"
 #~ msgstr ""
+
+#~ msgid "Add Activity"
+#~ msgstr "Thêm Hoạt động"
 
 #~ msgid "Apply"
 #~ msgstr "Áp dụng"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-22 11:37+0300\n"
+"POT-Creation-Date: 2020-05-02 20:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -59,9 +59,6 @@ msgstr "Апта бойынша іСтер"
 
 msgid "Add"
 msgstr "Қосу"
-
-msgid "Add Activity"
-msgstr "іС қосу"
 
 msgid "Add TODO"
 msgstr "TODO қосу"
@@ -210,6 +207,9 @@ msgstr ""
 
 msgid "Fill blank entries"
 msgstr "Бос жазбаларды толтырыңыз"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Pomodoro-Tracker ашуға арналған ғаламдық тіркесім"
 
 msgid "Great work!"
 msgstr "Күшті жұмыс істедіңіз!"
@@ -745,6 +745,9 @@ msgstr "өшір"
 msgid "description"
 msgstr "сипаттамасы"
 
+msgid "disable"
+msgstr "ажыратыңыз"
+
 msgid "done"
 msgstr "аяқталған"
 
@@ -947,6 +950,9 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "жыл"
 msgstr[1] "жыл"
+
+#~ msgid "Add Activity"
+#~ msgstr "іС қосу"
 
 #~ msgid "Apply"
 #~ msgstr "Қабылдау"

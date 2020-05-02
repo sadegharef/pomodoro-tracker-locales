@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-22 11:36+0300\n"
+"POT-Creation-Date: 2020-05-02 20:52+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -60,9 +60,6 @@ msgstr "Активность по неделям"
 
 msgid "Add"
 msgstr "Добавить"
-
-msgid "Add Activity"
-msgstr "Добавить в избранное"
 
 msgid "Add TODO"
 msgstr "Запланировать"
@@ -211,6 +208,9 @@ msgstr "Файл"
 
 msgid "Fill blank entries"
 msgstr "Заполнить пустые записи"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Комбинация клавиш для открытия Pomodoro-Tracker"
 
 msgid "Great work!"
 msgstr "Отличная работа!"
@@ -753,6 +753,9 @@ msgstr "удалить"
 msgid "description"
 msgstr "описание"
 
+msgid "disable"
+msgstr "выключить"
+
 msgid "done"
 msgstr "сделано"
 
@@ -961,6 +964,9 @@ msgid_plural "years"
 msgstr[0] "год"
 msgstr[1] "года"
 msgstr[2] "лет"
+
+#~ msgid "Add Activity"
+#~ msgstr "Добавить в избранное"
 
 #~ msgid "Import/Export tasks"
 #~ msgstr ""
