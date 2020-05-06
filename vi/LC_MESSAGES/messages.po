@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-02 20:53+0300\n"
+"POT-Creation-Date: 2020-05-06 11:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -739,9 +739,6 @@ msgstr "vô hiệu hóa"
 msgid "done"
 msgstr "hoàn thành"
 
-msgid "duplicate"
-msgstr "bản sao"
-
 msgid "duration"
 msgstr "thời lượng"
 
@@ -891,6 +888,9 @@ msgstr "loạt"
 msgid "skip"
 msgstr "bỏ qua"
 
+msgid "split"
+msgstr "bửa củi"
+
 msgid "start"
 msgstr "bắt đầu"
 
@@ -1031,6 +1031,9 @@ msgstr[0] ""
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Hãy thử hoàn thành vài pomodoros ở trên"
+
+#~ msgid "duplicate"
+#~ msgstr "bản sao"
 
 #~ msgid "quarter"
 #~ msgstr "quý"

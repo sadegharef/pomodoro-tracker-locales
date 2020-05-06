@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-02 20:52+0300\n"
+"POT-Creation-Date: 2020-05-06 11:48+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -759,9 +759,6 @@ msgstr "выключить"
 msgid "done"
 msgstr "сделано"
 
-msgid "duplicate"
-msgstr "скопировать"
-
 msgid "duration"
 msgstr "продолжительность"
 
@@ -921,6 +918,9 @@ msgstr "серия"
 msgid "skip"
 msgstr "пропустить"
 
+msgid "split"
+msgstr "разбить"
+
 msgid "start"
 msgstr "старт"
 
@@ -973,4 +973,7 @@ msgstr[2] "лет"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Отчеты и оповещения"
+
+#~ msgid "duplicate"
+#~ msgstr "скопировать"
 

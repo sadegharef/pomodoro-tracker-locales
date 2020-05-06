@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-05-02 20:53+0300\n"
+"POT-Creation-Date: 2020-05-06 11:49+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -762,9 +762,6 @@ msgstr "wyłączyć"
 msgid "done"
 msgstr "wykonane"
 
-msgid "duplicate"
-msgstr "duplikuj"
-
 msgid "duration"
 msgstr "czas trwania"
 
@@ -924,6 +921,9 @@ msgstr "seria"
 msgid "skip"
 msgstr "pomiń"
 
+msgid "split"
+msgstr "dzielić"
+
 msgid "start"
 msgstr "start"
 
@@ -1068,6 +1068,9 @@ msgstr[2] "lat"
 
 #~ msgid "View"
 #~ msgstr "Widok"
+
+#~ msgid "duplicate"
+#~ msgstr "duplikuj"
 
 #~ msgid "quarter"
 #~ msgstr "kwartał"

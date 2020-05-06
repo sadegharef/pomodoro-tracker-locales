@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-02 20:53+0300\n"
+"POT-Creation-Date: 2020-05-06 11:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -759,9 +759,6 @@ msgstr "devre dışı"
 msgid "done"
 msgstr "yapilanlar"
 
-msgid "duplicate"
-msgstr "Çift"
-
 msgid "duration"
 msgstr "Süre"
 
@@ -918,6 +915,9 @@ msgstr "dizi"
 msgid "skip"
 msgstr "geç"
 
+msgid "split"
+msgstr "bölmek"
+
 msgid "start"
 msgstr "başlat"
 
@@ -1053,6 +1053,9 @@ msgstr[1] "yil"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Yukarıdaki pomodorolardan bazılarını tamamlamayı deneyin"
+
+#~ msgid "duplicate"
+#~ msgstr "Çift"
 
 #~ msgid "quarter"
 #~ msgstr "çeyrek"

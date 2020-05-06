@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-02 20:52+0300\n"
+"POT-Creation-Date: 2020-05-06 11:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -762,9 +762,6 @@ msgstr "inhabilitar"
 msgid "done"
 msgstr "hecho"
 
-msgid "duplicate"
-msgstr "duplicar"
-
 msgid "duration"
 msgstr "duración"
 
@@ -919,6 +916,9 @@ msgstr "serie"
 msgid "skip"
 msgstr "omitir"
 
+msgid "split"
+msgstr "dividido"
+
 msgid "start"
 msgstr "inicio"
 
@@ -1056,6 +1056,9 @@ msgstr[1] "años"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Intenta completar algunos pomodoros de arriba"
+
+#~ msgid "duplicate"
+#~ msgstr "duplicar"
 
 #~ msgid "quarter"
 #~ msgstr "trimestre"

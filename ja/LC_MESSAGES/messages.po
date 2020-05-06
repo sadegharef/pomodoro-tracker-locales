@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-02 20:52+0300\n"
+"POT-Creation-Date: 2020-05-06 11:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -735,9 +735,6 @@ msgstr "無効にする"
 msgid "done"
 msgstr "完了"
 
-msgid "duplicate"
-msgstr "複製する"
-
 msgid "duration"
 msgstr "期間"
 
@@ -892,6 +889,9 @@ msgstr "シリーズ"
 msgid "skip"
 msgstr "スキップ"
 
+msgid "split"
+msgstr "裂ける"
+
 msgid "start"
 msgstr "開始"
 
@@ -1027,6 +1027,9 @@ msgstr[1] "年"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "上記のポモドーロを完了してください"
+
+#~ msgid "duplicate"
+#~ msgstr "複製する"
 
 #~ msgid "quarter"
 #~ msgstr "四半期"

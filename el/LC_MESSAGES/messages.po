@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-02 20:53+0300\n"
+"POT-Creation-Date: 2020-05-06 11:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -769,9 +769,6 @@ msgstr "καθιστώ ανίκανο"
 msgid "done"
 msgstr "Τελείωσε"
 
-msgid "duplicate"
-msgstr "Διπλότυπο"
-
 msgid "duration"
 msgstr "Διάρκεια"
 
@@ -926,6 +923,9 @@ msgstr "σειρά"
 msgid "skip"
 msgstr "παράλειψη"
 
+msgid "split"
+msgstr "χωρίζω"
+
 msgid "start"
 msgstr "ξεκίνα"
 
@@ -1000,6 +1000,9 @@ msgstr[1] "χρόνια"
 
 #~ msgid "Sync with Google Tasks"
 #~ msgstr "Κανε συγχρονισμό με το Google Tasks"
+
+#~ msgid "duplicate"
+#~ msgstr "Διπλότυπο"
 
 #~ msgid "quarter"
 #~ msgstr "τριμηνία"

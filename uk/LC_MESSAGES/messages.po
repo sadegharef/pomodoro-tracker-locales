@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-02 20:53+0300\n"
+"POT-Creation-Date: 2020-05-06 11:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -758,9 +758,6 @@ msgstr "відключити"
 msgid "done"
 msgstr "зроблено"
 
-msgid "duplicate"
-msgstr "скопіювати"
-
 msgid "duration"
 msgstr "тривалість"
 
@@ -920,6 +917,9 @@ msgstr "серія"
 msgid "skip"
 msgstr "пропустити"
 
+msgid "split"
+msgstr "розщеплюватися"
+
 msgid "start"
 msgstr "старт"
 
@@ -990,6 +990,9 @@ msgstr[2] "років"
 
 #~ msgid "Sync with Google Tasks"
 #~ msgstr "Синхронізація з Google Tasks"
+
+#~ msgid "duplicate"
+#~ msgstr "скопіювати"
 
 #~ msgid "quarter"
 #~ msgstr "квартал"

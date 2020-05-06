@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-05-02 20:52+0300\n"
+"POT-Creation-Date: 2020-05-06 11:49+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -756,9 +756,6 @@ msgstr "uitschakelen"
 msgid "done"
 msgstr "afgehandeld"
 
-msgid "duplicate"
-msgstr "duplicaat"
-
 msgid "duration"
 msgstr "looptijd"
 
@@ -913,6 +910,9 @@ msgstr "serie"
 msgid "skip"
 msgstr "overslaan"
 
+msgid "split"
+msgstr "verdelen"
+
 msgid "start"
 msgstr "start"
 
@@ -1050,6 +1050,9 @@ msgstr[1] "jaren"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Probeer wat pomodori hierboven af te ronden"
+
+#~ msgid "duplicate"
+#~ msgstr "duplicaat"
 
 #~ msgid "quarter"
 #~ msgstr "kwartaal"

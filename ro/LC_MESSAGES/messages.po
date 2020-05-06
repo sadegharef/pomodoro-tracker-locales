@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.3.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-02 20:53+0300\n"
+"POT-Creation-Date: 2020-05-06 11:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ro\n"
@@ -737,9 +737,6 @@ msgstr ""
 msgid "done"
 msgstr ""
 
-msgid "duplicate"
-msgstr ""
-
 msgid "duration"
 msgstr ""
 
@@ -899,6 +896,9 @@ msgstr ""
 msgid "skip"
 msgstr ""
 
+msgid "split"
+msgstr ""
+
 msgid "start"
 msgstr ""
 
@@ -942,3 +942,7 @@ msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+
+#~ msgid "duplicate"
+#~ msgstr ""
+

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-02 20:52+0300\n"
+"POT-Creation-Date: 2020-05-06 11:48+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -755,9 +755,6 @@ msgstr "تعطيل"
 msgid "done"
 msgstr "تم"
 
-msgid "duplicate"
-msgstr "مكرر"
-
 msgid "duration"
 msgstr "المدة الزمنية"
 
@@ -931,6 +928,9 @@ msgstr "سلسلة"
 
 msgid "skip"
 msgstr "الغاء"
+
+msgid "split"
+msgstr "انقسم"
 
 msgid "start"
 msgstr "ابدا"
@@ -1125,6 +1125,9 @@ msgstr[5] ""
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "جرب الإنتهاء من بعض البومودورات التالية"
+
+#~ msgid "duplicate"
+#~ msgstr "مكرر"
 
 #~ msgid "in seconds"
 #~ msgstr "بالثواني"
