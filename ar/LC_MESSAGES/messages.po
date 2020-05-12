@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-06 11:48+0300\n"
+"POT-Creation-Date: 2020-05-12 15:40+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -155,9 +155,6 @@ msgstr "الهدف اليومي"
 
 msgid "Daily Goal Completed."
 msgstr "تم الإنتهاء من الهدف اليومي."
-
-msgid "Daily Task"
-msgstr "مهام يومية"
 
 msgid "Date format"
 msgstr "شكل التاريخ"
@@ -441,6 +438,12 @@ msgstr "إزالة واحدة"
 msgid "Repeat"
 msgstr "كرر"
 
+msgid "Repeat every"
+msgstr "تكرار كل"
+
+msgid "Repeating Task"
+msgstr "تكرار المهمة"
+
 msgid "Reports Time"
 msgstr "وقت التقارير"
 
@@ -470,6 +473,9 @@ msgstr ""
 
 msgid "Server has been updated."
 msgstr "تم تحديث الخادم."
+
+msgid "Set Recurrence"
+msgstr "تعيين التكرار"
 
 msgid "Set do not disturb"
 msgstr "تعيين عدم الإزعاج"
@@ -506,6 +512,9 @@ msgstr "ابدا مؤقت البومودورو"
 
 msgid "Start working:"
 msgstr "بدا العمل:"
+
+msgid "Starts on"
+msgstr "يبدأ في"
 
 msgid "Stats"
 msgstr "احصائيات"
@@ -767,6 +776,9 @@ msgstr "التركيز"
 msgid "for all time"
 msgstr "منذ بداية الوقت"
 
+msgid "friday"
+msgstr "يوم الجمعة"
+
 msgid "friends"
 msgstr "اصدقاء"
 
@@ -845,6 +857,9 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
+msgid "monday"
+msgstr "الإثنين"
+
 msgid "month"
 msgid_plural "months"
 msgstr[0] "شهر"
@@ -920,6 +935,9 @@ msgstr "إزالة الفئات"
 msgid "resume"
 msgstr "استمرار"
 
+msgid "saturday"
+msgstr "يوم السبت"
+
 msgid "save"
 msgstr "حفظ"
 
@@ -938,6 +956,9 @@ msgstr "ابدا"
 msgid "stop"
 msgstr "توقف"
 
+msgid "sunday"
+msgstr "الأحد"
+
 msgid "system"
 msgstr "نظام"
 
@@ -946,6 +967,9 @@ msgstr "خذ استراحة كبيرة"
 
 msgid "take a short break"
 msgstr "خذ استراحة قصيرة"
+
+msgid "thursday"
+msgstr "الخميس"
 
 msgid "time"
 msgstr "وقت"
@@ -958,14 +982,26 @@ msgstr "إلي حسابك فى التليجرام، إكتب '/start' ثم أد�
 msgid "today"
 msgstr "اليوم"
 
+msgid "tuesday"
+msgstr "الثلاثاء"
+
 msgid "unknown"
 msgstr "غير معروف"
 
 msgid "user"
 msgstr "المستعمل"
 
+msgid "wednesday"
+msgstr "الأربعاء"
+
 msgid "week"
-msgstr "أسبوع"
+msgid_plural "weeks"
+msgstr[0] "أسبوع"
+msgstr[1] "أسابيع"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
 
 msgid "were"
 msgstr "كان"
@@ -999,6 +1035,9 @@ msgstr[5] ""
 
 #~ msgid "Connect Telegram Bot"
 #~ msgstr "توصيل بوت التليجرام"
+
+#~ msgid "Daily Task"
+#~ msgstr "مهام يومية"
 
 #~ msgid "Daily history"
 #~ msgstr "السجل اليومي"

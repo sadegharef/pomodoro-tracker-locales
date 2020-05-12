@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-06 11:49+0300\n"
+"POT-Creation-Date: 2020-05-12 15:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -157,9 +157,6 @@ msgstr "Ціль на день"
 
 msgid "Daily Goal Completed."
 msgstr "Ціль на день виконано."
-
-msgid "Daily Task"
-msgstr "Повторювати щоденно"
 
 msgid "Date format"
 msgstr "Формат дати"
@@ -445,6 +442,12 @@ msgstr "Прибрати один"
 msgid "Repeat"
 msgstr "Повторити"
 
+msgid "Repeat every"
+msgstr "Повторити кожен"
+
+msgid "Repeating Task"
+msgstr "Завдання, що повторюється"
+
 msgid "Reports Time"
 msgstr "Час звітів"
 
@@ -474,6 +477,9 @@ msgstr ""
 
 msgid "Server has been updated."
 msgstr "Сервер було оновлено"
+
+msgid "Set Recurrence"
+msgstr "Встановити повторність"
 
 msgid "Set do not disturb"
 msgstr "Набір не турбувати"
@@ -510,6 +516,9 @@ msgstr "Почати Помідор"
 
 msgid "Start working:"
 msgstr "Починайте працювати:"
+
+msgid "Starts on"
+msgstr "Починається далі"
 
 msgid "Stats"
 msgstr "Статистика"
@@ -770,6 +779,9 @@ msgstr "фокус"
 msgid "for all time"
 msgstr "за весь час"
 
+msgid "friday"
+msgstr "п’ятниця"
+
 msgid "friends"
 msgstr "друзі"
 
@@ -838,6 +850,9 @@ msgid_plural "minutes"
 msgstr[0] "хвилина"
 msgstr[1] "хвилини"
 msgstr[2] "хвилин"
+
+msgid "monday"
+msgstr "понеділок"
 
 msgid "month"
 msgid_plural "months"
@@ -908,6 +923,9 @@ msgstr "видалити категорії"
 msgid "resume"
 msgstr "відновити"
 
+msgid "saturday"
+msgstr "субота"
+
 msgid "save"
 msgstr "зберегти"
 
@@ -926,6 +944,9 @@ msgstr "старт"
 msgid "stop"
 msgstr "стоп"
 
+msgid "sunday"
+msgstr "неділя"
+
 msgid "system"
 msgstr "системна"
 
@@ -934,6 +955,9 @@ msgstr "зробіть довгу перерву"
 
 msgid "take a short break"
 msgstr "зробіть коротку перерву"
+
+msgid "thursday"
+msgstr "четвер"
 
 msgid "time"
 msgstr "час"
@@ -946,14 +970,24 @@ msgstr "у вашому Телеграмі напишіть `/start` та вве
 msgid "today"
 msgstr "сьогодні"
 
+msgid "tuesday"
+msgstr "вівторок"
+
 msgid "unknown"
 msgstr "невідомо"
 
 msgid "user"
 msgstr "користувач"
 
+msgid "wednesday"
+msgstr "середа"
+
+#, fuzzy
 msgid "week"
-msgstr "тиждень"
+msgid_plural "weeks"
+msgstr[0] "тиждень"
+msgstr[1] "тижнів"
+msgstr[2] "тижнів"
 
 msgid "were"
 msgstr "були"
@@ -966,6 +1000,9 @@ msgstr[2] "років"
 
 #~ msgid "Add Activity"
 #~ msgstr "Додати у вибране"
+
+#~ msgid "Daily Task"
+#~ msgstr "Повторювати щоденно"
 
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Увімкнути сповіщення в Телеграмі"

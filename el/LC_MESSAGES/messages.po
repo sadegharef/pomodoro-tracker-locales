@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-06 11:49+0300\n"
+"POT-Creation-Date: 2020-05-12 15:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -158,9 +158,6 @@ msgstr "Καθημερινός Στόχος"
 
 msgid "Daily Goal Completed."
 msgstr "Καθημερινός Στόχος Επιτευχθεί"
-
-msgid "Daily Task"
-msgstr "Καθημερίνη Ασχολία"
 
 msgid "Date format"
 msgstr "Μορφή Ημερομηνίας"
@@ -452,6 +449,12 @@ msgstr "Αφαίρεσε ενα"
 msgid "Repeat"
 msgstr "Επανάλαβε"
 
+msgid "Repeat every"
+msgstr "επαναλάβετε κάθε"
+
+msgid "Repeating Task"
+msgstr "Επαναλαμβανόμενη εργασία"
+
 msgid "Reports Time"
 msgstr "'Ωρα Αναφοράς"
 
@@ -481,6 +484,9 @@ msgstr ""
 
 msgid "Server has been updated."
 msgstr "Έχει γίνει ενημέρωση της υπηρεσίας"
+
+msgid "Set Recurrence"
+msgstr "Ρυθμίστε την επανάληψη"
 
 msgid "Set do not disturb"
 msgstr "Ορίστε να μην ενοχλείτε"
@@ -517,6 +523,9 @@ msgstr "Ξεκίνα το Πομοντόρο χρονόμετρο"
 
 msgid "Start working:"
 msgstr "Ξεκίνα να δουλεύεις:"
+
+msgid "Starts on"
+msgstr "ξεκινά στις"
 
 msgid "Stats"
 msgstr "Στατιστικά"
@@ -781,6 +790,9 @@ msgstr "Συγκεντρώση"
 msgid "for all time"
 msgstr "Για όλο των χρόνο συνολικά"
 
+msgid "friday"
+msgstr "παρασκευή"
+
 msgid "friends"
 msgstr "Φίλοι"
 
@@ -846,6 +858,9 @@ msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "λεπτό"
 msgstr[1] "λεπτά"
+
+msgid "monday"
+msgstr "δευτέρα"
 
 msgid "month"
 msgid_plural "months"
@@ -914,6 +929,9 @@ msgstr "αφαίρεσε κατηγοριές"
 msgid "resume"
 msgstr "ξανάρχισε"
 
+msgid "saturday"
+msgstr "σάββατο"
+
 msgid "save"
 msgstr "αποθήκευση"
 
@@ -932,6 +950,9 @@ msgstr "ξεκίνα"
 msgid "stop"
 msgstr "σταμάτα"
 
+msgid "sunday"
+msgstr "κυριακή"
+
 msgid "system"
 msgstr "σύστημα"
 
@@ -940,6 +961,9 @@ msgstr "κανε ενα μεγάλο διάλειμμα"
 
 msgid "take a short break"
 msgstr "κανε ενα μικρό διάλειμμα"
+
+msgid "thursday"
+msgstr "πέμπτη"
 
 msgid "time"
 msgstr "χρόνος"
@@ -954,14 +978,22 @@ msgstr ""
 msgid "today"
 msgstr "σήμερα"
 
+msgid "tuesday"
+msgstr "τρίτη"
+
 msgid "unknown"
 msgstr "άγνωστος"
 
 msgid "user"
 msgstr "χρήστης"
 
+msgid "wednesday"
+msgstr "τετάρτη"
+
 msgid "week"
-msgstr "εβδομάδα"
+msgid_plural "weeks"
+msgstr[0] "εβδομάδα"
+msgstr[1] "εβδομάδες"
 
 msgid "were"
 msgstr "ήταν"
@@ -973,6 +1005,9 @@ msgstr[1] "χρόνια"
 
 #~ msgid "Add Activity"
 #~ msgstr "Πρόσθεσε Δραστηριότητα"
+
+#~ msgid "Daily Task"
+#~ msgstr "Καθημερίνη Ασχολία"
 
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Ενεργοποίησε Ειδοποιήσεις απο το Telegram"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-06 11:49+0300\n"
+"POT-Creation-Date: 2020-05-12 15:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -156,9 +156,6 @@ msgstr "Günlük Gol"
 
 msgid "Daily Goal Completed."
 msgstr "Günlük gol tamamlandı."
-
-msgid "Daily Task"
-msgstr "Günlük iş olarak işaretle"
 
 msgid "Date format"
 msgstr "Tarih biçimi"
@@ -448,6 +445,12 @@ msgstr "Birini kaldır"
 msgid "Repeat"
 msgstr "Tekrar et"
 
+msgid "Repeat every"
+msgstr "Her tekrarla"
+
+msgid "Repeating Task"
+msgstr "Tekrarlanan görev"
+
 msgid "Reports Time"
 msgstr ""
 
@@ -477,6 +480,9 @@ msgstr "Sunucu Hatası"
 
 msgid "Server has been updated."
 msgstr "Sunucu güncellendi."
+
+msgid "Set Recurrence"
+msgstr "Tekrarlamak"
 
 msgid "Set do not disturb"
 msgstr "Set rahatsız etmeyin"
@@ -513,6 +519,9 @@ msgstr "Pomodoro zamanlayıcısını başlat"
 
 msgid "Start working:"
 msgstr "Çalışmaya başlayın:"
+
+msgid "Starts on"
+msgstr "Başlar"
 
 msgid "Stats"
 msgstr "İstatistikler"
@@ -771,6 +780,9 @@ msgstr "odaklanma"
 msgid "for all time"
 msgstr "tüm zamanlar için"
 
+msgid "friday"
+msgstr "cuma"
+
 msgid "friends"
 msgstr "arkadaş"
 
@@ -836,6 +848,9 @@ msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "dakika"
 msgstr[1] "dakika"
+
+msgid "monday"
+msgstr "pazartesi"
 
 msgid "month"
 msgid_plural "months"
@@ -906,6 +921,9 @@ msgstr "kategorileri kaldır"
 msgid "resume"
 msgstr "devam et"
 
+msgid "saturday"
+msgstr "cumartesi"
+
 msgid "save"
 msgstr "kaydet"
 
@@ -924,6 +942,9 @@ msgstr "başlat"
 msgid "stop"
 msgstr "durdur"
 
+msgid "sunday"
+msgstr "pazar"
+
 msgid "system"
 msgstr "sistem"
 
@@ -932,6 +953,9 @@ msgstr "uzun bir mola al"
 
 msgid "take a short break"
 msgstr "kisa bir mola al"
+
+msgid "thursday"
+msgstr "perşembe"
 
 msgid "time"
 msgstr "zaman"
@@ -944,14 +968,22 @@ msgstr ""
 msgid "today"
 msgstr "bugün"
 
+msgid "tuesday"
+msgstr "salı"
+
 msgid "unknown"
 msgstr "bilinmeyen"
 
 msgid "user"
 msgstr "kullanıcı"
 
+msgid "wednesday"
+msgstr "çarşamba"
+
 msgid "week"
-msgstr ""
+msgid_plural "weeks"
+msgstr[0] "hafta"
+msgstr[1] "haftalar"
 
 msgid "were"
 msgstr ""
@@ -975,6 +1007,9 @@ msgstr[1] "yil"
 
 #~ msgid "August"
 #~ msgstr "Ağustos"
+
+#~ msgid "Daily Task"
+#~ msgstr "Günlük iş olarak işaretle"
 
 #~ msgid "Daily history"
 #~ msgstr "Günlük geçmişi"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-05-06 11:49+0300\n"
+"POT-Creation-Date: 2020-05-12 15:41+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -155,9 +155,6 @@ msgstr "Dagelijks doel"
 
 msgid "Daily Goal Completed."
 msgstr "Dagelijks doel behaald."
-
-msgid "Daily Task"
-msgstr "Markeer als dagelijkse taak"
 
 msgid "Date format"
 msgstr "Datumformaat"
@@ -443,6 +440,12 @@ msgstr "Verwijder er een"
 msgid "Repeat"
 msgstr "Herhaling"
 
+msgid "Repeat every"
+msgstr "Herhaal elke"
+
+msgid "Repeating Task"
+msgstr "Herhalende taak"
+
 msgid "Reports Time"
 msgstr "Rapportagetijd"
 
@@ -472,6 +475,9 @@ msgstr ""
 
 msgid "Server has been updated."
 msgstr "Server is geüpdatet."
+
+msgid "Set Recurrence"
+msgstr "Stel herhaling in"
 
 msgid "Set do not disturb"
 msgstr "Stel niet storen"
@@ -508,6 +514,9 @@ msgstr "Start de Pomodoro-timer"
 
 msgid "Start working:"
 msgstr "Begin met werken:"
+
+msgid "Starts on"
+msgstr "Begint op"
 
 msgid "Stats"
 msgstr "Statistieken"
@@ -768,6 +777,9 @@ msgstr "focus"
 msgid "for all time"
 msgstr "in totaal"
 
+msgid "friday"
+msgstr "vrijdag"
+
 msgid "friends"
 msgstr "vrienden"
 
@@ -833,6 +845,9 @@ msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "minuut"
 msgstr[1] "minuten"
+
+msgid "monday"
+msgstr "maandag"
 
 msgid "month"
 msgid_plural "months"
@@ -901,6 +916,9 @@ msgstr "verwijder categorieën"
 msgid "resume"
 msgstr "verdergaan"
 
+msgid "saturday"
+msgstr "zaterdag"
+
 msgid "save"
 msgstr "opslaan"
 
@@ -919,6 +937,9 @@ msgstr "start"
 msgid "stop"
 msgstr "stop"
 
+msgid "sunday"
+msgstr "zondag"
+
 msgid "system"
 msgstr "systeem"
 
@@ -927,6 +948,9 @@ msgstr "neem een lange pauze"
 
 msgid "take a short break"
 msgstr "neem een korte pauze"
+
+msgid "thursday"
+msgstr "donderdag"
 
 msgid "time"
 msgstr "tijd"
@@ -941,14 +965,22 @@ msgstr ""
 msgid "today"
 msgstr "vandaag"
 
+msgid "tuesday"
+msgstr "dinsdag"
+
 msgid "unknown"
 msgstr "onbekend"
 
 msgid "user"
 msgstr "gebruiker"
 
+msgid "wednesday"
+msgstr "woensdag"
+
 msgid "week"
-msgstr "week"
+msgid_plural "weeks"
+msgstr[0] "week"
+msgstr[1] "weken"
 
 msgid "were"
 msgstr "waren"
@@ -972,6 +1004,9 @@ msgstr[1] "jaren"
 
 #~ msgid "August"
 #~ msgstr "augustus"
+
+#~ msgid "Daily Task"
+#~ msgstr "Markeer als dagelijkse taak"
 
 #~ msgid "Daily history"
 #~ msgstr "Dagelijkse geschiedenis"

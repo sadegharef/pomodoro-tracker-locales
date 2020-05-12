@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-06 11:49+0300\n"
+"POT-Creation-Date: 2020-05-12 15:41+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -154,9 +154,6 @@ msgstr "每日目标"
 
 msgid "Daily Goal Completed."
 msgstr "每日目标完成"
-
-msgid "Daily Task"
-msgstr "标记为每日任务"
 
 msgid "Date format"
 msgstr "日期格式"
@@ -438,6 +435,12 @@ msgstr "删除一个"
 msgid "Repeat"
 msgstr "重复"
 
+msgid "Repeat every"
+msgstr "重复每一个"
+
+msgid "Repeating Task"
+msgstr "重复任务"
+
 msgid "Reports Time"
 msgstr ""
 
@@ -467,6 +470,9 @@ msgstr ""
 
 msgid "Server has been updated."
 msgstr "服务器已更新。"
+
+msgid "Set Recurrence"
+msgstr "设定复发"
 
 msgid "Set do not disturb"
 msgstr "设置请勿打扰"
@@ -503,6 +509,9 @@ msgstr "启动番茄钟的计时器"
 
 msgid "Start working:"
 msgstr "开始工作"
+
+msgid "Starts on"
+msgstr "开始于"
 
 msgid "Stats"
 msgstr "统计"
@@ -746,6 +755,9 @@ msgstr ""
 msgid "for all time"
 msgstr "总计"
 
+msgid "friday"
+msgstr "星期五"
+
 msgid "friends"
 msgstr ""
 
@@ -808,6 +820,9 @@ msgstr ""
 msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "分钟"
+
+msgid "monday"
+msgstr "星期一"
 
 msgid "month"
 msgid_plural "months"
@@ -874,6 +889,9 @@ msgstr ""
 msgid "resume"
 msgstr "继续"
 
+msgid "saturday"
+msgstr "星期六"
+
 msgid "save"
 msgstr ""
 
@@ -892,6 +910,9 @@ msgstr "开始"
 msgid "stop"
 msgstr "停止"
 
+msgid "sunday"
+msgstr "星期日"
+
 msgid "system"
 msgstr ""
 
@@ -900,6 +921,9 @@ msgstr "开始一个长休息"
 
 msgid "take a short break"
 msgstr "开始一个短休息"
+
+msgid "thursday"
+msgstr "星期四"
 
 msgid "time"
 msgstr "时间"
@@ -912,14 +936,21 @@ msgstr "到你的telegram，输入‘/start’指令并输入bot字段的编码"
 msgid "today"
 msgstr "今天"
 
+msgid "tuesday"
+msgstr "星期二"
+
 msgid "unknown"
 msgstr ""
 
 msgid "user"
 msgstr ""
 
+msgid "wednesday"
+msgstr "星期三"
+
 msgid "week"
-msgstr ""
+msgid_plural "weeks"
+msgstr[0] "周"
 
 msgid "were"
 msgstr "是"
@@ -945,6 +976,9 @@ msgstr[0] "年"
 
 #~ msgid "Break is over."
 #~ msgstr ""
+
+#~ msgid "Daily Task"
+#~ msgstr "标记为每日任务"
 
 #~ msgid "Daily history"
 #~ msgstr "历史记录"

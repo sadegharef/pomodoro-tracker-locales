@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.3.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-06 11:49+0300\n"
+"POT-Creation-Date: 2020-05-12 15:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ro\n"
@@ -154,9 +154,6 @@ msgid "Daily Goal"
 msgstr ""
 
 msgid "Daily Goal Completed."
-msgstr ""
-
-msgid "Daily Task"
 msgstr ""
 
 msgid "Date format"
@@ -439,6 +436,12 @@ msgstr ""
 msgid "Repeat"
 msgstr ""
 
+msgid "Repeat every"
+msgstr ""
+
+msgid "Repeating Task"
+msgstr ""
+
 msgid "Reports Time"
 msgstr ""
 
@@ -467,6 +470,9 @@ msgid "Server Error"
 msgstr ""
 
 msgid "Server has been updated."
+msgstr ""
+
+msgid "Set Recurrence"
 msgstr ""
 
 msgid "Set do not disturb"
@@ -503,6 +509,9 @@ msgid "Start the Pomodoro timer"
 msgstr ""
 
 msgid "Start working:"
+msgstr ""
+
+msgid "Starts on"
 msgstr ""
 
 msgid "Stats"
@@ -749,6 +758,9 @@ msgstr ""
 msgid "for all time"
 msgstr ""
 
+msgid "friday"
+msgstr ""
+
 msgid "friends"
 msgstr ""
 
@@ -817,6 +829,9 @@ msgid_plural "minutes"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+
+msgid "monday"
+msgstr ""
 
 msgid "month"
 msgid_plural "months"
@@ -887,6 +902,9 @@ msgstr ""
 msgid "resume"
 msgstr ""
 
+msgid "saturday"
+msgstr ""
+
 msgid "save"
 msgstr ""
 
@@ -905,6 +923,9 @@ msgstr ""
 msgid "stop"
 msgstr ""
 
+msgid "sunday"
+msgstr ""
+
 msgid "system"
 msgstr ""
 
@@ -912,6 +933,9 @@ msgid "take a long break"
 msgstr ""
 
 msgid "take a short break"
+msgstr ""
+
+msgid "thursday"
 msgstr ""
 
 msgid "time"
@@ -925,14 +949,23 @@ msgstr ""
 msgid "today"
 msgstr ""
 
+msgid "tuesday"
+msgstr ""
+
 msgid "unknown"
 msgstr ""
 
 msgid "user"
 msgstr ""
 
-msgid "week"
+msgid "wednesday"
 msgstr ""
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "were"
 msgstr ""
@@ -942,7 +975,3 @@ msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-
-#~ msgid "duplicate"
-#~ msgstr ""
-

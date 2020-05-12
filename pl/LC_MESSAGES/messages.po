@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-05-06 11:49+0300\n"
+"POT-Creation-Date: 2020-05-12 15:41+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -155,9 +155,6 @@ msgstr "Cel dnia (w pomodoro)"
 
 msgid "Daily Goal Completed."
 msgstr "Osiągnieto cel dnia."
-
-msgid "Daily Task"
-msgstr "Zadanie codzienne"
 
 msgid "Date format"
 msgstr "Format daty"
@@ -445,6 +442,12 @@ msgstr "Usuń jedno Pomodoro"
 msgid "Repeat"
 msgstr "Powtórz"
 
+msgid "Repeat every"
+msgstr "Powtarzać każdy"
+
+msgid "Repeating Task"
+msgstr "Powtarzające się zadanie"
+
 msgid "Reports Time"
 msgstr "Czas raportu"
 
@@ -474,6 +477,9 @@ msgstr "Błąd serwera"
 
 msgid "Server has been updated."
 msgstr "Serwer został zaktualizowany."
+
+msgid "Set Recurrence"
+msgstr "Ustawić powtarzalność"
 
 msgid "Set do not disturb"
 msgstr "Nie przeszkadzać"
@@ -510,6 +516,9 @@ msgstr "Uruchom Pomodoro Timer"
 
 msgid "Start working:"
 msgstr "Rozpocznij pracę:"
+
+msgid "Starts on"
+msgstr "Zaczyna się"
 
 msgid "Stats"
 msgstr "Statystyki"
@@ -774,6 +783,9 @@ msgstr "skupienie"
 msgid "for all time"
 msgstr "od początku istnienia tej aplikacji."
 
+msgid "friday"
+msgstr "piątek"
+
 msgid "friends"
 msgstr "przyjaciele"
 
@@ -842,6 +854,9 @@ msgid_plural "minutes"
 msgstr[0] "minuta"
 msgstr[1] "minuty"
 msgstr[2] "minut"
+
+msgid "monday"
+msgstr "poniedziałek"
 
 msgid "month"
 msgid_plural "months"
@@ -912,6 +927,9 @@ msgstr "usuń kategorie"
 msgid "resume"
 msgstr "wznów"
 
+msgid "saturday"
+msgstr "sobota"
+
 msgid "save"
 msgstr "zapisz"
 
@@ -930,6 +948,9 @@ msgstr "start"
 msgid "stop"
 msgstr "zatrzymaj"
 
+msgid "sunday"
+msgstr "niedziela"
+
 msgid "system"
 msgstr "system"
 
@@ -938,6 +959,9 @@ msgstr "Długa przerwa"
 
 msgid "take a short break"
 msgstr "Krótka przerwa"
+
+msgid "thursday"
+msgstr "czwartek"
 
 msgid "time"
 msgstr "czas"
@@ -952,14 +976,23 @@ msgstr ""
 msgid "today"
 msgstr "dzisiaj"
 
+msgid "tuesday"
+msgstr "wtorek"
+
 msgid "unknown"
 msgstr "nieznany"
 
 msgid "user"
 msgstr "użytkownik"
 
+msgid "wednesday"
+msgstr "środa"
+
 msgid "week"
-msgstr "tydzień"
+msgid_plural "weeks"
+msgstr[0] "tydzień"
+msgstr[1] "tygodnie"
+msgstr[2] "tygodnie"
 
 msgid "were"
 msgstr "były"
@@ -984,6 +1017,9 @@ msgstr[2] "lat"
 
 #~ msgid "August"
 #~ msgstr "Sierpień"
+
+#~ msgid "Daily Task"
+#~ msgstr "Zadanie codzienne"
 
 #~ msgid "Daily history"
 #~ msgstr "Historia dnia"

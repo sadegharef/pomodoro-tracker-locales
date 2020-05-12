@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-06 11:48+0300\n"
+"POT-Creation-Date: 2020-05-12 15:40+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -157,9 +157,6 @@ msgstr "Цель на день"
 
 msgid "Daily Goal Completed."
 msgstr "Цель на день выполнена."
-
-msgid "Daily Task"
-msgstr "Повторять ежедневно"
 
 msgid "Date format"
 msgstr "Формат даты"
@@ -447,6 +444,12 @@ msgstr "Убрать один"
 msgid "Repeat"
 msgstr "Повторить"
 
+msgid "Repeat every"
+msgstr "Повторять через"
+
+msgid "Repeating Task"
+msgstr "Повторяющаяся задача"
+
 msgid "Reports Time"
 msgstr "Время отчетов"
 
@@ -476,6 +479,9 @@ msgstr "Ошибка сервера"
 
 msgid "Server has been updated."
 msgstr "Сервер был обновлен."
+
+msgid "Set Recurrence"
+msgstr "Установить повторение задачи"
 
 msgid "Set do not disturb"
 msgstr "Выключать оповещения"
@@ -512,6 +518,9 @@ msgstr "Запустите таймер («помидор»)"
 
 msgid "Start working:"
 msgstr "Начинайте работать:"
+
+msgid "Starts on"
+msgstr "Начинается"
 
 msgid "Stats"
 msgstr "Статистика"
@@ -771,6 +780,9 @@ msgstr "фокус"
 msgid "for all time"
 msgstr "за все время"
 
+msgid "friday"
+msgstr "пятница"
+
 msgid "friends"
 msgstr "друзья"
 
@@ -839,6 +851,9 @@ msgid_plural "minutes"
 msgstr[0] "минута"
 msgstr[1] "минуты"
 msgstr[2] "минут"
+
+msgid "monday"
+msgstr "понедельник"
 
 msgid "month"
 msgid_plural "months"
@@ -909,6 +924,9 @@ msgstr "удалить категории"
 msgid "resume"
 msgstr "продолжить"
 
+msgid "saturday"
+msgstr "суббота"
+
 msgid "save"
 msgstr "сохранить"
 
@@ -927,6 +945,9 @@ msgstr "старт"
 msgid "stop"
 msgstr "стоп"
 
+msgid "sunday"
+msgstr "воскресенье"
+
 msgid "system"
 msgstr "системная"
 
@@ -935,6 +956,9 @@ msgstr "сделайте длинный перерыв"
 
 msgid "take a short break"
 msgstr "сделайте короткий перерыв"
+
+msgid "thursday"
+msgstr "четверг"
 
 msgid "time"
 msgstr "время"
@@ -947,14 +971,23 @@ msgstr "в ваш telegram, напишите `/start` и введите полу
 msgid "today"
 msgstr "сегодня"
 
+msgid "tuesday"
+msgstr "вторник"
+
 msgid "unknown"
 msgstr "неизвестно"
 
 msgid "user"
 msgstr "пользователь"
 
+msgid "wednesday"
+msgstr "среда"
+
 msgid "week"
-msgstr "неделя"
+msgid_plural "weeks"
+msgstr[0] "неделя"
+msgstr[1] "недели"
+msgstr[2] "недель"
 
 msgid "were"
 msgstr "были"
@@ -967,6 +1000,9 @@ msgstr[2] "лет"
 
 #~ msgid "Add Activity"
 #~ msgstr "Добавить в избранное"
+
+#~ msgid "Daily Task"
+#~ msgstr "Повторять ежедневно"
 
 #~ msgid "Import/Export tasks"
 #~ msgstr ""

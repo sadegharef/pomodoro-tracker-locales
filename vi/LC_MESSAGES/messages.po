@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-06 11:49+0300\n"
+"POT-Creation-Date: 2020-05-12 15:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -156,9 +156,6 @@ msgstr "Mục tiêu hằng ngày"
 
 msgid "Daily Goal Completed."
 msgstr "Mục tiêu hằng ngày đã hoàn thành."
-
-msgid "Daily Task"
-msgstr "Đánh dấu như công việc hằng ngày"
 
 msgid "Date format"
 msgstr "Định dạng ngày"
@@ -443,6 +440,12 @@ msgstr "Loại bỏ một"
 msgid "Repeat"
 msgstr "Nói lại"
 
+msgid "Repeat every"
+msgstr "Lặp lại mỗi"
+
+msgid "Repeating Task"
+msgstr "Nhiệm vụ lặp lại"
+
 msgid "Reports Time"
 msgstr ""
 
@@ -472,6 +475,9 @@ msgstr ""
 
 msgid "Server has been updated."
 msgstr "Hệ thống đã được cập nhật."
+
+msgid "Set Recurrence"
+msgstr "Đặt tái phát"
 
 msgid "Set do not disturb"
 msgstr "Đặt không làm phiền"
@@ -508,6 +514,9 @@ msgstr "Bắt đầu chạy đồng hồ Pomodoro"
 
 msgid "Start working:"
 msgstr "Bắt đầu làm việc:"
+
+msgid "Starts on"
+msgstr "Bắt đầu từ"
 
 msgid "Stats"
 msgstr "Thống kê"
@@ -751,6 +760,9 @@ msgstr "tập trung"
 msgid "for all time"
 msgstr ""
 
+msgid "friday"
+msgstr "thứ sáu"
+
 msgid "friends"
 msgstr ""
 
@@ -813,6 +825,9 @@ msgstr ""
 msgid "minute"
 msgid_plural "minutes"
 msgstr[0] ""
+
+msgid "monday"
+msgstr "thứ hai"
 
 msgid "month"
 msgid_plural "months"
@@ -879,6 +894,9 @@ msgstr "xóa danh mục"
 msgid "resume"
 msgstr "tiếp tục"
 
+msgid "saturday"
+msgstr "ngày thứ bảy"
+
 msgid "save"
 msgstr "lưu"
 
@@ -897,6 +915,9 @@ msgstr "bắt đầu"
 msgid "stop"
 msgstr "dừng lại"
 
+msgid "sunday"
+msgstr "chủ nhật"
+
 msgid "system"
 msgstr ""
 
@@ -905,6 +926,9 @@ msgstr "nghỉ dài nào"
 
 msgid "take a short break"
 msgstr "nghỉ một xíu nào"
+
+msgid "thursday"
+msgstr "thứ năm"
 
 msgid "time"
 msgstr "thời gian"
@@ -917,14 +941,21 @@ msgstr ""
 msgid "today"
 msgstr "hôm nay"
 
+msgid "tuesday"
+msgstr "thứ ba"
+
 msgid "unknown"
 msgstr ""
 
 msgid "user"
 msgstr "người dùng"
 
+msgid "wednesday"
+msgstr "thứ tư"
+
 msgid "week"
-msgstr ""
+msgid_plural "weeks"
+msgstr[0] "tuần"
 
 msgid "were"
 msgstr ""
@@ -953,6 +984,9 @@ msgstr[0] ""
 
 #~ msgid "Break is over."
 #~ msgstr ""
+
+#~ msgid "Daily Task"
+#~ msgstr "Đánh dấu như công việc hằng ngày"
 
 #~ msgid "Daily history"
 #~ msgstr "Lịch sử hằng ngày"

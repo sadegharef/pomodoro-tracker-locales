@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-06 11:49+0300\n"
+"POT-Creation-Date: 2020-05-12 15:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -156,9 +156,6 @@ msgstr "Objetivo Diario"
 
 msgid "Daily Goal Completed."
 msgstr "Obiettivo giornaliero completato."
-
-msgid "Daily Task"
-msgstr "Marcar como tarea diaria"
 
 msgid "Date format"
 msgstr "Formato de Fecha"
@@ -449,6 +446,12 @@ msgstr "Quitar uno"
 msgid "Repeat"
 msgstr "Repetir"
 
+msgid "Repeat every"
+msgstr "Repite cada"
+
+msgid "Repeating Task"
+msgstr "Tarea repetitiva"
+
 msgid "Reports Time"
 msgstr "Hora del informe"
 
@@ -478,6 +481,9 @@ msgstr ""
 
 msgid "Server has been updated."
 msgstr "Servidor ha sido actualizado."
+
+msgid "Set Recurrence"
+msgstr "Establecer recurrencia"
 
 msgid "Set do not disturb"
 msgstr "Establecer no molestar"
@@ -514,6 +520,9 @@ msgstr "Inicia el cronómetro Pomodoro"
 
 msgid "Start working:"
 msgstr "Empieza a trabajar:"
+
+msgid "Starts on"
+msgstr "Comienza en"
 
 msgid "Stats"
 msgstr "Estadísticas"
@@ -774,6 +783,9 @@ msgstr "focus"
 msgid "for all time"
 msgstr "para todo el tiempo"
 
+msgid "friday"
+msgstr "viernes"
+
 msgid "friends"
 msgstr "amigos"
 
@@ -839,6 +851,9 @@ msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "minuto"
 msgstr[1] "minutos"
+
+msgid "monday"
+msgstr "lunes"
 
 msgid "month"
 msgid_plural "months"
@@ -907,6 +922,9 @@ msgstr "eliminar categorías"
 msgid "resume"
 msgstr "continuar"
 
+msgid "saturday"
+msgstr "sábado"
+
 msgid "save"
 msgstr "salvar"
 
@@ -925,6 +943,9 @@ msgstr "inicio"
 msgid "stop"
 msgstr "parar"
 
+msgid "sunday"
+msgstr "domingo"
+
 msgid "system"
 msgstr "sistema"
 
@@ -933,6 +954,9 @@ msgstr "haz un descanso largo"
 
 msgid "take a short break"
 msgstr "haz un descanso corto"
+
+msgid "thursday"
+msgstr "jueves"
 
 msgid "time"
 msgstr "tiempo"
@@ -947,14 +971,22 @@ msgstr ""
 msgid "today"
 msgstr "hoy"
 
+msgid "tuesday"
+msgstr "martes"
+
 msgid "unknown"
 msgstr "desconocido"
 
 msgid "user"
 msgstr "usuario"
 
+msgid "wednesday"
+msgstr "miércoles"
+
 msgid "week"
-msgstr "semana"
+msgid_plural "weeks"
+msgstr[0] "semana"
+msgstr[1] "semanas"
 
 msgid "were"
 msgstr "fueron"
@@ -981,6 +1013,9 @@ msgstr[1] "años"
 
 #~ msgid "Custom"
 #~ msgstr "Personalizado"
+
+#~ msgid "Daily Task"
+#~ msgstr "Marcar como tarea diaria"
 
 #~ msgid "Daily history"
 #~ msgstr "Historial diario"

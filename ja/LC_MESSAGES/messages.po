@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-06 11:49+0300\n"
+"POT-Creation-Date: 2020-05-12 15:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -154,9 +154,6 @@ msgstr "毎日の目標"
 
 msgid "Daily Goal Completed."
 msgstr "毎日の目標達成"
-
-msgid "Daily Task"
-msgstr "毎日のタスクとして登録する"
 
 msgid "Date format"
 msgstr "日付の表示形式"
@@ -438,6 +435,12 @@ msgstr "削除する"
 msgid "Repeat"
 msgstr "繰り返す"
 
+msgid "Repeat every"
+msgstr "毎回繰り返す"
+
+msgid "Repeating Task"
+msgstr "繰り返しタスク"
+
 msgid "Reports Time"
 msgstr "日報を送る時間"
 
@@ -467,6 +470,9 @@ msgstr "サーバーエラー"
 
 msgid "Server has been updated."
 msgstr "サーバーが更新されました。"
+
+msgid "Set Recurrence"
+msgstr "再発を設定"
 
 msgid "Set do not disturb"
 msgstr "サイレントセット"
@@ -503,6 +509,9 @@ msgstr "ポモドーロ・タイマーを開始します"
 
 msgid "Start working:"
 msgstr "作業の進め方："
+
+msgid "Starts on"
+msgstr "始まる"
 
 msgid "Stats"
 msgstr "統計"
@@ -747,6 +756,9 @@ msgstr "集中"
 msgid "for all time"
 msgstr "経ちました"
 
+msgid "friday"
+msgstr "金曜日"
+
 msgid "friends"
 msgstr "フレンド"
 
@@ -812,6 +824,9 @@ msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "分"
 msgstr[1] "分"
+
+msgid "monday"
+msgstr "月曜"
 
 msgid "month"
 msgid_plural "months"
@@ -880,6 +895,9 @@ msgstr "カテゴリーを削除する"
 msgid "resume"
 msgstr "再開"
 
+msgid "saturday"
+msgstr "土曜日"
+
 msgid "save"
 msgstr "保存"
 
@@ -898,6 +916,9 @@ msgstr "開始"
 msgid "stop"
 msgstr "停止"
 
+msgid "sunday"
+msgstr "日曜日"
+
 msgid "system"
 msgstr "システム"
 
@@ -906,6 +927,9 @@ msgstr "長時間休憩"
 
 msgid "take a short break"
 msgstr "短時間休憩"
+
+msgid "thursday"
+msgstr "木曜日"
 
 msgid "time"
 msgstr "時間"
@@ -918,14 +942,22 @@ msgstr "あなたの電報に `/ start`と打ち込んでボットのコード�
 msgid "today"
 msgstr "今日"
 
+msgid "tuesday"
+msgstr "火曜日"
+
 msgid "unknown"
 msgstr "不明"
 
 msgid "user"
 msgstr "ユーザー"
 
+msgid "wednesday"
+msgstr "水曜日"
+
 msgid "week"
-msgstr "週"
+msgid_plural "weeks"
+msgstr[0] "週間"
+msgstr[1] "週間"
 
 msgid "were"
 msgstr "週間"
@@ -949,6 +981,9 @@ msgstr[1] "年"
 
 #~ msgid "August"
 #~ msgstr "8月"
+
+#~ msgid "Daily Task"
+#~ msgstr "毎日のタスクとして登録する"
 
 #~ msgid "Daily history"
 #~ msgstr "毎日の歴史"

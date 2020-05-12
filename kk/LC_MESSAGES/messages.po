@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-06 11:49+0300\n"
+"POT-Creation-Date: 2020-05-12 15:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -156,9 +156,6 @@ msgstr "Күн мақсаты"
 
 msgid "Daily Goal Completed."
 msgstr "Күн мақсаты орындалды"
-
-msgid "Daily Task"
-msgstr "Күн іСі қылу"
 
 msgid "Date format"
 msgstr "Күн форматы"
@@ -444,6 +441,12 @@ msgstr ""
 msgid "Repeat"
 msgstr "Қайталаңыз"
 
+msgid "Repeat every"
+msgstr "Қайталау"
+
+msgid "Repeating Task"
+msgstr "Қайталау тапсырмасы"
+
 msgid "Reports Time"
 msgstr "Осы уақытта"
 
@@ -473,6 +476,9 @@ msgstr ""
 
 msgid "Server has been updated."
 msgstr "Сервер жаңарды"
+
+msgid "Set Recurrence"
+msgstr "Қайталануды орнатыңыз"
 
 msgid "Set do not disturb"
 msgstr "Мазаламаңыз"
@@ -509,6 +515,9 @@ msgstr "Қызанақ таймерін бастаңыз"
 
 msgid "Start working:"
 msgstr "Жұмысты бастаңыз"
+
+msgid "Starts on"
+msgstr "Басталады"
 
 msgid "Stats"
 msgstr "Статистика"
@@ -763,6 +772,9 @@ msgstr "фокус"
 msgid "for all time"
 msgstr "ресурс ашылғалы бері"
 
+msgid "friday"
+msgstr "жұма"
+
 msgid "friends"
 msgstr "достар"
 
@@ -828,6 +840,9 @@ msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "минут"
 msgstr[1] "минут"
+
+msgid "monday"
+msgstr "дүйсенбі"
 
 msgid "month"
 msgid_plural "months"
@@ -896,6 +911,9 @@ msgstr "санаттарды жою"
 msgid "resume"
 msgstr "жалғастыру"
 
+msgid "saturday"
+msgstr "сенбі"
+
 msgid "save"
 msgstr "сақтау"
 
@@ -914,6 +932,9 @@ msgstr "старт"
 msgid "stop"
 msgstr "стоп"
 
+msgid "sunday"
+msgstr "жексенбі"
+
 msgid "system"
 msgstr "жүйе"
 
@@ -922,6 +943,9 @@ msgstr "ұзақ үзілістен"
 
 msgid "take a short break"
 msgstr "қысқа үзілістен"
+
+msgid "thursday"
+msgstr "бейсенбі"
 
 msgid "time"
 msgstr "уақыт"
@@ -934,14 +958,22 @@ msgstr "телеграмдағы ботта `/start` арқылы кодты е�
 msgid "today"
 msgstr "бүгін"
 
+msgid "tuesday"
+msgstr "сейсенбі"
+
 msgid "unknown"
 msgstr "белгісіз"
 
 msgid "user"
 msgstr "пайдаланушы"
 
+msgid "wednesday"
+msgstr "сәрсенбі"
+
 msgid "week"
-msgstr "апта"
+msgid_plural "weeks"
+msgstr[0] "апта"
+msgstr[1] "апта"
 
 msgid "were"
 msgstr "болды"
@@ -965,6 +997,9 @@ msgstr[1] "жыл"
 
 #~ msgid "August"
 #~ msgstr "Тамыз"
+
+#~ msgid "Daily Task"
+#~ msgstr "Күн іСі қылу"
 
 #~ msgid "Daily history"
 #~ msgstr "Күнделікті жазбалар"
