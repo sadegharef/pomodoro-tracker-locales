@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-12 15:41+0300\n"
+"POT-Creation-Date: 2020-05-15 17:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -169,6 +169,9 @@ msgstr "Non avviare il successivo pomodoro se TODO è vuoto"
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Trascina&rilascia/tocca per ordinare gli oggetti."
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "Modifica"
 
@@ -180,6 +183,9 @@ msgstr "Attiva le notifiche"
 
 msgid "Enable Web Notifications"
 msgstr "Attiva le notifiche web"
+
+msgid "Ends on"
+msgstr "Finisce"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Accresce il focus e la concentrazione riducendo le interruzioni"
@@ -239,6 +245,9 @@ msgstr "Importato da sorgenti externe"
 
 msgid "Improve your work or study process"
 msgstr "Migliora il tuo lavoro o il tuo processo di studio"
+
+msgid "Inbox"
+msgstr ""
 
 msgid "Increase awareness of your decisions"
 msgstr "Aumenta la consapevolezza delle tue decisioni"
@@ -447,9 +456,6 @@ msgstr "Ripetere"
 msgid "Repeat every"
 msgstr "Ripeti ogni"
 
-msgid "Repeating Task"
-msgstr "Compito ripetuto"
-
 msgid "Reports Time"
 msgstr "Tempo del rapporto"
 
@@ -480,11 +486,17 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Il server è stato aggiornato."
 
+msgid "Set Due"
+msgstr "Imposta scadenza"
+
 msgid "Set Recurrence"
 msgstr "Impostare la ricorrenza"
 
 msgid "Set do not disturb"
 msgstr "Impostare non disturbare"
+
+msgid "Set to Tomorrow"
+msgstr "Domani"
 
 msgid "Settings"
 msgstr "Impostazioni"
@@ -816,6 +828,9 @@ msgstr "in pomodori"
 msgid "interruptions"
 msgstr "interruzioni"
 
+msgid "later"
+msgstr "dopo"
+
 msgid "light"
 msgstr "chiaro"
 
@@ -966,6 +981,9 @@ msgstr ""
 msgid "today"
 msgstr "oggi"
 
+msgid "tomorrow"
+msgstr "domani"
+
 msgid "tuesday"
 msgstr "martedì"
 
@@ -1062,6 +1080,9 @@ msgstr[1] "anni"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Informativa sulla privacy"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Compito ripetuto"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Rapporti e notifiche"

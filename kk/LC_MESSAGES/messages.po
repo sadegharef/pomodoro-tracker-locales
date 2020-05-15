@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-12 15:41+0300\n"
+"POT-Creation-Date: 2020-05-15 17:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -169,6 +169,9 @@ msgstr "TODO тізімі бос болса, келесі қызанақты б�
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Іріктеу үшін қозғаңыз"
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "Өңдеу"
 
@@ -180,6 +183,9 @@ msgstr "Хабарландыруларды қосыңыз"
 
 msgid "Enable Web Notifications"
 msgstr "Web-хабарлама"
+
+msgid "Ends on"
+msgstr "Аяқталады"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Концентрация арттыру, алаңдауды азайту"
@@ -241,6 +247,9 @@ msgstr "сыртқы көздерден импортталған"
 
 msgid "Improve your work or study process"
 msgstr "Жұмыс немесе оқу дағдысын жақсарту"
+
+msgid "Inbox"
+msgstr "Кіріс жәшігі"
 
 msgid "Increase awareness of your decisions"
 msgstr "Қабылдаған шешімдерден хабардар боп отыру"
@@ -444,9 +453,6 @@ msgstr "Қайталаңыз"
 msgid "Repeat every"
 msgstr "Қайталау"
 
-msgid "Repeating Task"
-msgstr "Қайталау тапсырмасы"
-
 msgid "Reports Time"
 msgstr "Осы уақытта"
 
@@ -477,11 +483,17 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Сервер жаңарды"
 
+msgid "Set Due"
+msgstr "Белгіленген уақыт"
+
 msgid "Set Recurrence"
 msgstr "Қайталануды орнатыңыз"
 
 msgid "Set do not disturb"
 msgstr "Мазаламаңыз"
+
+msgid "Set to Tomorrow"
+msgstr "Ертеңге қойыңыз"
 
 msgid "Settings"
 msgstr "Баптаулар"
@@ -810,6 +822,9 @@ msgstr "қызанақ"
 msgid "interruptions"
 msgstr "үзілістер"
 
+msgid "later"
+msgstr "кейінірек"
+
 msgid "light"
 msgstr "жарық"
 
@@ -958,6 +973,9 @@ msgstr "телеграмдағы ботта `/start` арқылы кодты е�
 msgid "today"
 msgstr "бүгін"
 
+msgid "tomorrow"
+msgstr "ертең"
+
 msgid "tuesday"
 msgstr "сейсенбі"
 
@@ -1054,6 +1072,9 @@ msgstr[1] "жыл"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Құпия келісімі"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Қайталау тапсырмасы"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Есептер мен хабарландырулар"

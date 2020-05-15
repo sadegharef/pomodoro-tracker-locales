@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-12 15:41+0300\n"
+"POT-Creation-Date: 2020-05-15 17:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -170,6 +170,9 @@ msgstr "Не починати наступний Помідор, якщо спи
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Перетягуйте для сортування"
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "Редагувати"
 
@@ -181,6 +184,9 @@ msgstr "Увімкнути сповіщення"
 
 msgid "Enable Web Notifications"
 msgstr "Увімкнути сповіщення в браузері"
+
+msgid "Ends on"
+msgstr "Закінчується далі"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Поліпшити зосередженість та концентрацію, звільняючи від відволікань"
@@ -240,6 +246,9 @@ msgstr "Імпортовано із зовнішніх джерел"
 
 msgid "Improve your work or study process"
 msgstr "Покращити вашу роботу чи процес навчання"
+
+msgid "Inbox"
+msgstr "Вхідні"
 
 msgid "Increase awareness of your decisions"
 msgstr "Посилити усвідомлення ваших рішень"
@@ -445,9 +454,6 @@ msgstr "Повторити"
 msgid "Repeat every"
 msgstr "Повторити кожен"
 
-msgid "Repeating Task"
-msgstr "Завдання, що повторюється"
-
 msgid "Reports Time"
 msgstr "Час звітів"
 
@@ -478,11 +484,17 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Сервер було оновлено"
 
+msgid "Set Due"
+msgstr "Встановити належне"
+
 msgid "Set Recurrence"
 msgstr "Встановити повторність"
 
 msgid "Set do not disturb"
 msgstr "Набір не турбувати"
+
+msgid "Set to Tomorrow"
+msgstr "Встановити на завтра"
 
 msgid "Settings"
 msgstr "Налаштування"
@@ -818,6 +830,9 @@ msgstr "в Помідорах"
 msgid "interruptions"
 msgstr "перешкоди"
 
+msgid "later"
+msgstr "пізніше"
+
 msgid "light"
 msgstr "світла"
 
@@ -970,6 +985,9 @@ msgstr "у вашому Телеграмі напишіть `/start` та вве
 msgid "today"
 msgstr "сьогодні"
 
+msgid "tomorrow"
+msgstr "завтра"
+
 msgid "tuesday"
 msgstr "вівторок"
 
@@ -1015,6 +1033,9 @@ msgstr[2] "років"
 
 #~ msgid "Load daily tasks from Google Calendar"
 #~ msgstr "Завантажувати щоденні завдання з календаря Google"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Завдання, що повторюється"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Звіти та сповіщення"

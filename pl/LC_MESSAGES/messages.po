@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-05-12 15:41+0300\n"
+"POT-Creation-Date: 2020-05-15 17:40+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -168,6 +168,9 @@ msgstr "Nie zaczynaj kolejnego pomodoro jeżeli lista zadań jest pusta"
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Przeciągaj elementy by je układać."
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "Edytuj"
 
@@ -179,6 +182,9 @@ msgstr "Włącz powiadomienia"
 
 msgid "Enable Web Notifications"
 msgstr "Włącz powiadomienia systemowe"
+
+msgid "Ends on"
+msgstr "Kończy się"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Poprawić skupienie i koncentrację poprzez ograniczenie przerw w pracy"
@@ -240,6 +246,9 @@ msgstr "Importowano z zewnętrznego źródła"
 
 msgid "Improve your work or study process"
 msgstr "Poprawić jakość Twojej pracy lub nauki"
+
+msgid "Inbox"
+msgstr "W pudełku"
 
 msgid "Increase awareness of your decisions"
 msgstr "Zwiększyć świadomość o znaczeniu podejmowanych decyzji"
@@ -445,9 +454,6 @@ msgstr "Powtórz"
 msgid "Repeat every"
 msgstr "Powtarzać każdy"
 
-msgid "Repeating Task"
-msgstr "Powtarzające się zadanie"
-
 msgid "Reports Time"
 msgstr "Czas raportu"
 
@@ -478,11 +484,17 @@ msgstr "Błąd serwera"
 msgid "Server has been updated."
 msgstr "Serwer został zaktualizowany."
 
+msgid "Set Due"
+msgstr "Ustawiony termin"
+
 msgid "Set Recurrence"
 msgstr "Ustawić powtarzalność"
 
 msgid "Set do not disturb"
 msgstr "Nie przeszkadzać"
+
+msgid "Set to Tomorrow"
+msgstr "Ustaw na jutro"
 
 msgid "Settings"
 msgstr "Ustawienia"
@@ -822,6 +834,9 @@ msgstr "w Pomodoro"
 msgid "interruptions"
 msgstr "zakłócenia"
 
+msgid "later"
+msgstr "później"
+
 msgid "light"
 msgstr "Jasny"
 
@@ -976,6 +991,9 @@ msgstr ""
 msgid "today"
 msgstr "dzisiaj"
 
+msgid "tomorrow"
+msgstr "jutro"
+
 msgid "tuesday"
 msgstr "wtorek"
 
@@ -1078,6 +1096,9 @@ msgstr[2] "lat"
 #~ msgid "Release Notes"
 #~ msgstr "Release Notes"
 
+#~ msgid "Repeating Task"
+#~ msgstr "Powtarzające się zadanie"
+
 #~ msgid "Reports and notifications"
 #~ msgstr "Raporty i powiadomienia"
 
@@ -1098,6 +1119,11 @@ msgstr[2] "lat"
 
 #~ msgid "Sync with Google Tasks"
 #~ msgstr "Synchronizuj z Google Tasks"
+
+# | msgid "pomodoro"
+# | msgid_plural "pomodoros"
+#~ msgid "Tomorrow"
+#~ msgstr "Pomodoro"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Spróbuj ukończyć dowolne z powyższych Pomodoro"

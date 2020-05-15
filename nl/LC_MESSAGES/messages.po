@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-05-12 15:41+0300\n"
+"POT-Creation-Date: 2020-05-15 17:40+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -168,6 +168,9 @@ msgstr "Start de volgende pomodoro niet als de TODO-lijst leeg is"
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Sleep om te sorteren."
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "Bewerken"
 
@@ -179,6 +182,9 @@ msgstr "Activeer notificaties"
 
 msgid "Enable Web Notifications"
 msgstr "Activeer web-notificaties"
+
+msgid "Ends on"
+msgstr "Eindigt op"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Verbeteren van focus en concentratie, door onderbrekingen te verminderen"
@@ -238,6 +244,9 @@ msgstr "Geïmporteerd uit externe bronnen"
 
 msgid "Improve your work or study process"
 msgstr "Uw werk- of leerproces verbeteren"
+
+msgid "Inbox"
+msgstr ""
 
 msgid "Increase awareness of your decisions"
 msgstr "Toename van bewustwording van eigen beslissingen"
@@ -443,9 +452,6 @@ msgstr "Herhaling"
 msgid "Repeat every"
 msgstr "Herhaal elke"
 
-msgid "Repeating Task"
-msgstr "Herhalende taak"
-
 msgid "Reports Time"
 msgstr "Rapportagetijd"
 
@@ -476,11 +482,17 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Server is geüpdatet."
 
+msgid "Set Due"
+msgstr "Vervallen"
+
 msgid "Set Recurrence"
 msgstr "Stel herhaling in"
 
 msgid "Set do not disturb"
 msgstr "Stel niet storen"
+
+msgid "Set to Tomorrow"
+msgstr "Stel voor morgen"
 
 msgid "Settings"
 msgstr "Instellingen"
@@ -815,6 +827,9 @@ msgstr "in pomodori"
 msgid "interruptions"
 msgstr "onderbrekingen"
 
+msgid "later"
+msgstr "later"
+
 msgid "light"
 msgstr "licht"
 
@@ -965,6 +980,9 @@ msgstr ""
 msgid "today"
 msgstr "vandaag"
 
+msgid "tomorrow"
+msgstr "morgen"
+
 msgid "tuesday"
 msgstr "dinsdag"
 
@@ -1061,6 +1079,9 @@ msgstr[1] "jaren"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Privacy Policy"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Herhalende taak"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Rapporten en meldingen"

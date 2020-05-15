@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-12 15:41+0300\n"
+"POT-Creation-Date: 2020-05-15 17:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -169,6 +169,9 @@ msgstr "Không bắt đầu pomorodo tiếp theo nếu danh sách TODO trống"
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Kéo và thả / Chạm để sắp xếp các mục"
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "Chỉnh sửa"
 
@@ -180,6 +183,9 @@ msgstr "Bật Thông báo"
 
 msgid "Enable Web Notifications"
 msgstr "Bật Thông báo Web"
+
+msgid "Ends on"
+msgstr "Kết thúc vào"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr ""
@@ -239,6 +245,9 @@ msgstr ""
 
 msgid "Improve your work or study process"
 msgstr ""
+
+msgid "Inbox"
+msgstr "Hộp thư đến"
 
 msgid "Increase awareness of your decisions"
 msgstr ""
@@ -443,9 +452,6 @@ msgstr "Nói lại"
 msgid "Repeat every"
 msgstr "Lặp lại mỗi"
 
-msgid "Repeating Task"
-msgstr "Nhiệm vụ lặp lại"
-
 msgid "Reports Time"
 msgstr ""
 
@@ -476,11 +482,17 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Hệ thống đã được cập nhật."
 
+msgid "Set Due"
+msgstr "Đặt do"
+
 msgid "Set Recurrence"
 msgstr "Đặt tái phát"
 
 msgid "Set do not disturb"
 msgstr "Đặt không làm phiền"
+
+msgid "Set to Tomorrow"
+msgstr "Đặt vào ngày mai"
 
 msgid "Settings"
 msgstr "Cài đặt"
@@ -797,6 +809,9 @@ msgstr "trong những pomodoro"
 msgid "interruptions"
 msgstr ""
 
+msgid "later"
+msgstr "một lát sau"
+
 msgid "light"
 msgstr "sáng"
 
@@ -941,6 +956,9 @@ msgstr ""
 msgid "today"
 msgstr "hôm nay"
 
+msgid "tomorrow"
+msgstr "Ngày mai"
+
 msgid "tuesday"
 msgstr "thứ ba"
 
@@ -1041,6 +1059,9 @@ msgstr[0] ""
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Chính sách bảo mật"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Nhiệm vụ lặp lại"
 
 #~ msgid "Reports and notifications"
 #~ msgstr ""

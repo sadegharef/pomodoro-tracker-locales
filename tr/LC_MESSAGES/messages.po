@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-12 15:41+0300\n"
+"POT-Creation-Date: 2020-05-15 17:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -171,6 +171,9 @@ msgstr ""
 "Öğeleri düzenlemek için çift tıklayın/dokunun. Sıralamak için "
 "Sürükle/Taşı."
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "Düzenlemek"
 
@@ -182,6 +185,9 @@ msgstr "Bildirimlerini Etkinleştir"
 
 msgid "Enable Web Notifications"
 msgstr "Web Bildirimlerini Etkinleştir"
+
+msgid "Ends on"
+msgstr "Bitiş tarihi"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Odaklanma ve konsantrasyon kabiliyetlerinizi geliştirin"
@@ -243,6 +249,9 @@ msgstr "Dış kaynaklardan ithal edilen"
 
 msgid "Improve your work or study process"
 msgstr "Çalışma veya öğrenme sürecinizi geliştirin"
+
+msgid "Inbox"
+msgstr "Gelen kutusu"
 
 msgid "Increase awareness of your decisions"
 msgstr "Aldığınız kararlardaki farkındalığınızı arttırın"
@@ -448,9 +457,6 @@ msgstr "Tekrar et"
 msgid "Repeat every"
 msgstr "Her tekrarla"
 
-msgid "Repeating Task"
-msgstr "Tekrarlanan görev"
-
 msgid "Reports Time"
 msgstr ""
 
@@ -481,11 +487,17 @@ msgstr "Sunucu Hatası"
 msgid "Server has been updated."
 msgstr "Sunucu güncellendi."
 
+msgid "Set Due"
+msgstr "Son ödeme tarihi"
+
 msgid "Set Recurrence"
 msgstr "Tekrarlamak"
 
 msgid "Set do not disturb"
 msgstr "Set rahatsız etmeyin"
+
+msgid "Set to Tomorrow"
+msgstr "Yarına ayarla"
 
 msgid "Settings"
 msgstr "Ayarlar"
@@ -818,6 +830,9 @@ msgstr "pomodoro"
 msgid "interruptions"
 msgstr "kesintiler"
 
+msgid "later"
+msgstr "sonra"
+
 msgid "light"
 msgstr "işık"
 
@@ -968,6 +983,9 @@ msgstr ""
 msgid "today"
 msgstr "bugün"
 
+msgid "tomorrow"
+msgstr "yarın"
+
 msgid "tuesday"
 msgstr "salı"
 
@@ -1064,6 +1082,9 @@ msgstr[1] "yil"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Gizlilik Politikası"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Tekrarlanan görev"
 
 #~ msgid "Reports and notifications"
 #~ msgstr ""

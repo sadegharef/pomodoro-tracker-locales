@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.12.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-12 15:40+0300\n"
+"POT-Creation-Date: 2020-05-15 17:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: cs\n"
@@ -168,6 +168,9 @@ msgstr ""
 msgid "Drag&Drop/Touch to sort items."
 msgstr ""
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr ""
 
@@ -178,6 +181,9 @@ msgid "Enable Notifications"
 msgstr ""
 
 msgid "Enable Web Notifications"
+msgstr ""
+
+msgid "Ends on"
 msgstr ""
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
@@ -237,6 +243,9 @@ msgid "Imported from External Sources"
 msgstr ""
 
 msgid "Improve your work or study process"
+msgstr ""
+
+msgid "Inbox"
 msgstr ""
 
 msgid "Increase awareness of your decisions"
@@ -439,9 +448,6 @@ msgstr ""
 msgid "Repeat every"
 msgstr ""
 
-msgid "Repeating Task"
-msgstr ""
-
 msgid "Reports Time"
 msgstr ""
 
@@ -472,10 +478,16 @@ msgstr ""
 msgid "Server has been updated."
 msgstr ""
 
+msgid "Set Due"
+msgstr ""
+
 msgid "Set Recurrence"
 msgstr ""
 
 msgid "Set do not disturb"
+msgstr ""
+
+msgid "Set to Tomorrow"
 msgstr ""
 
 msgid "Settings"
@@ -797,6 +809,9 @@ msgstr ""
 msgid "interruptions"
 msgstr ""
 
+msgid "later"
+msgstr ""
+
 msgid "light"
 msgstr ""
 
@@ -949,6 +964,9 @@ msgstr ""
 msgid "today"
 msgstr ""
 
+msgid "tomorrow"
+msgstr ""
+
 msgid "tuesday"
 msgstr ""
 
@@ -975,3 +993,7 @@ msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+
+#~ msgid "Repeating Task"
+#~ msgstr ""
+

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-12 15:40+0300\n"
+"POT-Creation-Date: 2020-05-15 17:39+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -168,6 +168,9 @@ msgstr "لا تبدأ بمودورو قادمة إذا كانت قائمة ال�
 msgid "Drag&Drop/Touch to sort items."
 msgstr "سحب&جر/لمس لترتيب العناصر"
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "عدل"
 
@@ -179,6 +182,9 @@ msgstr "تمكين الإخطارات"
 
 msgid "Enable Web Notifications"
 msgstr "شغل إشعارات الويب"
+
+msgid "Ends on"
+msgstr "ينتهي في"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "تعزيز التركيز عن طريق قطع الانقطاعات"
@@ -238,6 +244,9 @@ msgstr "استيراد من مصادر خارجية"
 
 msgid "Improve your work or study process"
 msgstr "حسن اداء عملك او مذاكرتك"
+
+msgid "Inbox"
+msgstr "صندوق الوارد"
 
 msgid "Increase awareness of your decisions"
 msgstr "زيادة الوعي عند اتخاذ القرارت"
@@ -441,9 +450,6 @@ msgstr "كرر"
 msgid "Repeat every"
 msgstr "تكرار كل"
 
-msgid "Repeating Task"
-msgstr "تكرار المهمة"
-
 msgid "Reports Time"
 msgstr "وقت التقارير"
 
@@ -474,11 +480,17 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "تم تحديث الخادم."
 
+msgid "Set Due"
+msgstr "تعيين المستحقة"
+
 msgid "Set Recurrence"
 msgstr "تعيين التكرار"
 
 msgid "Set do not disturb"
 msgstr "تعيين عدم الإزعاج"
+
+msgid "Set to Tomorrow"
+msgstr "تعيين الغد"
 
 msgid "Settings"
 msgstr "اعدادات"
@@ -818,6 +830,9 @@ msgstr "بالمودوروز"
 msgid "interruptions"
 msgstr "انقطاع"
 
+msgid "later"
+msgstr "في وقت لاحق"
+
 msgid "light"
 msgstr "ضوء"
 
@@ -982,6 +997,9 @@ msgstr "إلي حسابك فى التليجرام، إكتب '/start' ثم أد�
 msgid "today"
 msgstr "اليوم"
 
+msgid "tomorrow"
+msgstr "غدا"
+
 msgid "tuesday"
 msgstr "الثلاثاء"
 
@@ -1131,6 +1149,9 @@ msgstr[5] ""
 
 #~ msgid "Remove"
 #~ msgstr "إزالة"
+
+#~ msgid "Repeating Task"
+#~ msgstr "تكرار المهمة"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "التقارير والإشعارات"

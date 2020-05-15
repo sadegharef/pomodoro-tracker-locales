@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-05-12 15:40+0300\n"
+"POT-Creation-Date: 2020-05-15 17:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -167,6 +167,9 @@ msgstr "Starte nicht den nächsten Pomodoro wenn TODO-Liste leer ist"
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Drag&Drop/Touch um Einträge zu sortieren"
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "Bearbeiten"
 
@@ -178,6 +181,9 @@ msgstr "Aktiviere Benachrichtigungen"
 
 msgid "Enable Web Notifications"
 msgstr "Aktiviere Web-Benachrichtigungen"
+
+msgid "Ends on"
+msgstr "Endet am"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr ""
@@ -245,6 +251,9 @@ msgstr "aus externen Quellen importiert"
 
 msgid "Improve your work or study process"
 msgstr "Den Arbeits- und Lernprozess verbessern"
+
+msgid "Inbox"
+msgstr "Posteingang"
 
 msgid "Increase awareness of your decisions"
 msgstr "Auf eigene Entscheidungen aufmerksam machen"
@@ -446,9 +455,6 @@ msgstr "Wiederholen"
 msgid "Repeat every"
 msgstr "Wiederhole jeden"
 
-msgid "Repeating Task"
-msgstr "Aufgabe wiederholen"
-
 msgid "Reports Time"
 msgstr "Bericht ist Zeit"
 
@@ -479,11 +485,17 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Server wurde aktualisiert."
 
+msgid "Set Due"
+msgstr "Fälligkeitsdatum festlegen"
+
 msgid "Set Recurrence"
 msgstr "Wiederholung einstellen"
 
 msgid "Set do not disturb"
 msgstr "Set nicht stören"
+
+msgid "Set to Tomorrow"
+msgstr "Auf morgen eingestellt"
 
 msgid "Settings"
 msgstr "Einstellungen"
@@ -816,6 +828,9 @@ msgstr "In Pomodoros"
 msgid "interruptions"
 msgstr "unterbrechungen"
 
+msgid "later"
+msgstr "später"
+
 msgid "light"
 msgstr "hell"
 
@@ -966,6 +981,9 @@ msgstr ""
 msgid "today"
 msgstr "heute"
 
+msgid "tomorrow"
+msgstr "morgen"
+
 msgid "tuesday"
 msgstr "dienstag"
 
@@ -1059,6 +1077,9 @@ msgstr[1] "Jahre"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Datenschutzbestimmungen"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Aufgabe wiederholen"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Berichte und Benachrichtigungen"

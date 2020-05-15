@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-12 15:40+0300\n"
+"POT-Creation-Date: 2020-05-15 17:39+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -169,6 +169,9 @@ msgstr "No comience el pomodoro siguiente si TODO está vacío"
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Arrastra&Suelta/Toca para ordenar elementos."
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "Editar"
 
@@ -180,6 +183,9 @@ msgstr "Activar Notificaciones"
 
 msgid "Enable Web Notifications"
 msgstr "Activar Notificaciones Web"
+
+msgid "Ends on"
+msgstr "Termina en"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Aumenta la concentración y el enfoque disminuyendo las interrupciones"
@@ -241,6 +247,9 @@ msgstr "Importado de fuentes externas"
 
 msgid "Improve your work or study process"
 msgstr "Mejore su trabajo o proceso de estudio"
+
+msgid "Inbox"
+msgstr "Bandeja de entrada"
 
 msgid "Increase awareness of your decisions"
 msgstr "Te hace más consciente de tus decisiones"
@@ -449,9 +458,6 @@ msgstr "Repetir"
 msgid "Repeat every"
 msgstr "Repite cada"
 
-msgid "Repeating Task"
-msgstr "Tarea repetitiva"
-
 msgid "Reports Time"
 msgstr "Hora del informe"
 
@@ -482,11 +488,17 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Servidor ha sido actualizado."
 
+msgid "Set Due"
+msgstr "Establecer vencimiento"
+
 msgid "Set Recurrence"
 msgstr "Establecer recurrencia"
 
 msgid "Set do not disturb"
 msgstr "Establecer no molestar"
+
+msgid "Set to Tomorrow"
+msgstr "Listo para mañana"
 
 msgid "Settings"
 msgstr "Ajustes"
@@ -821,6 +833,9 @@ msgstr "en pomodoros"
 msgid "interruptions"
 msgstr "interrupciones"
 
+msgid "later"
+msgstr "más tarde"
+
 msgid "light"
 msgstr "ligero"
 
@@ -971,6 +986,9 @@ msgstr ""
 msgid "today"
 msgstr "hoy"
 
+msgid "tomorrow"
+msgstr "mañana"
+
 msgid "tuesday"
 msgstr "martes"
 
@@ -1067,6 +1085,9 @@ msgstr[1] "años"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Política de privacidad"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Tarea repetitiva"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Informes y notificaciones"

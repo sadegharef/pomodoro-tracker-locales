@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-12 15:40+0300\n"
+"POT-Creation-Date: 2020-05-15 17:39+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -169,6 +169,9 @@ msgstr "Ne pas commencer le pomodoro suivant si la liste TODO est vide"
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Cliquez-glissez/maintenez pour trier les éléments"
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "Modifier"
 
@@ -180,6 +183,9 @@ msgstr "Activer les notifications"
 
 msgid "Enable Web Notifications"
 msgstr "Activer les notifications Web"
+
+msgid "Ends on"
+msgstr "Se termine le"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Augmenter l'attention et la concentration en réduisant les interruptions"
@@ -239,6 +245,9 @@ msgstr "Importé de sources externes"
 
 msgid "Improve your work or study process"
 msgstr "Améliorer votre méthode de travail ou d'étude"
+
+msgid "Inbox"
+msgstr "Boîte de réception"
 
 msgid "Increase awareness of your decisions"
 msgstr "Mieux comprendre vos décisions"
@@ -443,9 +452,6 @@ msgstr "Répéter"
 msgid "Repeat every"
 msgstr "Répéter tous les"
 
-msgid "Repeating Task"
-msgstr "Tâche répétée"
-
 msgid "Reports Time"
 msgstr "Heure du rapport"
 
@@ -476,11 +482,17 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Le serveur a été mis à jour."
 
+msgid "Set Due"
+msgstr "Échéance"
+
 msgid "Set Recurrence"
 msgstr "Définir la récurrence"
 
 msgid "Set do not disturb"
 msgstr "Set ne pas déranger"
+
+msgid "Set to Tomorrow"
+msgstr "Prêt pour demain"
 
 msgid "Settings"
 msgstr "Paramètres"
@@ -812,6 +824,9 @@ msgstr "en pomodoros"
 msgid "interruptions"
 msgstr "interruptions"
 
+msgid "later"
+msgstr "plus tard"
+
 msgid "light"
 msgstr "clair"
 
@@ -964,6 +979,9 @@ msgstr ""
 msgid "today"
 msgstr "aujourd'hui"
 
+msgid "tomorrow"
+msgstr "demain"
+
 msgid "tuesday"
 msgstr "mardi"
 
@@ -1057,6 +1075,9 @@ msgstr[1] "ans"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Politique de confidentialité"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Tâche répétée"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Rapports et notifications"

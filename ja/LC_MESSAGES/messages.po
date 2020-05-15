@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-12 15:41+0300\n"
+"POT-Creation-Date: 2020-05-15 17:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -167,6 +167,9 @@ msgstr "TODOが空の場合、次のポモドーロを開始しないでくだ�
 msgid "Drag&Drop/Touch to sort items."
 msgstr "項目を編集するにはダブルクリックまたはタップしてください。ドラッグ＆ドロップで項目の並べ替えができます。"
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "編集"
 
@@ -178,6 +181,9 @@ msgstr "通知機能を有効にする"
 
 msgid "Enable Web Notifications"
 msgstr "Web通知機能を有効にする"
+
+msgid "Ends on"
+msgstr "で終わる"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "作業の割り込みを断ち切ることで集中力を向上させます"
@@ -237,6 +243,9 @@ msgstr "外部ソースをインポートしました"
 
 msgid "Improve your work or study process"
 msgstr "仕事や学習の効果を高めます"
+
+msgid "Inbox"
+msgstr "受信トレイ"
 
 msgid "Increase awareness of your decisions"
 msgstr "決断力を向上させます"
@@ -438,9 +447,6 @@ msgstr "繰り返す"
 msgid "Repeat every"
 msgstr "毎回繰り返す"
 
-msgid "Repeating Task"
-msgstr "繰り返しタスク"
-
 msgid "Reports Time"
 msgstr "日報を送る時間"
 
@@ -471,11 +477,17 @@ msgstr "サーバーエラー"
 msgid "Server has been updated."
 msgstr "サーバーが更新されました。"
 
+msgid "Set Due"
+msgstr "期限設定"
+
 msgid "Set Recurrence"
 msgstr "再発を設定"
 
 msgid "Set do not disturb"
 msgstr "サイレントセット"
+
+msgid "Set to Tomorrow"
+msgstr "明日へ"
 
 msgid "Settings"
 msgstr "設定"
@@ -794,6 +806,9 @@ msgstr "ポモドーロ"
 msgid "interruptions"
 msgstr "中断"
 
+msgid "later"
+msgstr "後"
+
 msgid "light"
 msgstr "light"
 
@@ -942,6 +957,9 @@ msgstr "あなたの電報に `/ start`と打ち込んでボットのコード�
 msgid "today"
 msgstr "今日"
 
+msgid "tomorrow"
+msgstr "明日"
+
 msgid "tuesday"
 msgstr "火曜日"
 
@@ -1038,6 +1056,9 @@ msgstr[1] "年"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Privacy Policy"
+
+#~ msgid "Repeating Task"
+#~ msgstr "繰り返しタスク"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "レポートと通知"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-12 15:41+0300\n"
+"POT-Creation-Date: 2020-05-15 17:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -171,6 +171,9 @@ msgstr "Μην ξεκινήσεις το επόμενο πομοντόρο αμ�
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Σύρε&Άφησε/Ακούμπα για να ταξινομήσεις τα αντικείμενα."
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "Επεξεργασία"
 
@@ -182,6 +185,9 @@ msgstr "Ενεργοποίηση ειδοποιήσεων"
 
 msgid "Enable Web Notifications"
 msgstr "Ενεργοποίησε Ειδοποιήσεις Ιστοσελιδας"
+
+msgid "Ends on"
+msgstr "Τελειώνει"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Ενίσχυσε την συγκέντρωση κόβοντας της αποσπάσεις"
@@ -243,6 +249,9 @@ msgstr "Έγινε εισαγωγή απο Εξωτερικές Πηγές"
 
 msgid "Improve your work or study process"
 msgstr "Βελτίωσε την διαδικασία δουλειάς η διαβάσματος"
+
+msgid "Inbox"
+msgstr "Inbox"
 
 msgid "Increase awareness of your decisions"
 msgstr "Ανεβασε την γνώση των αποφάσεων σου"
@@ -452,9 +461,6 @@ msgstr "Επανάλαβε"
 msgid "Repeat every"
 msgstr "επαναλάβετε κάθε"
 
-msgid "Repeating Task"
-msgstr "Επαναλαμβανόμενη εργασία"
-
 msgid "Reports Time"
 msgstr "'Ωρα Αναφοράς"
 
@@ -485,11 +491,17 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Έχει γίνει ενημέρωση της υπηρεσίας"
 
+msgid "Set Due"
+msgstr "Ορισμός προθεσμίας"
+
 msgid "Set Recurrence"
 msgstr "Ρυθμίστε την επανάληψη"
 
 msgid "Set do not disturb"
 msgstr "Ορίστε να μην ενοχλείτε"
+
+msgid "Set to Tomorrow"
+msgstr "Σε αύριο"
 
 msgid "Settings"
 msgstr "Ρυθμίσεις"
@@ -828,6 +840,9 @@ msgstr "σε Πομοντόρος"
 msgid "interruptions"
 msgstr "διακοπών"
 
+msgid "later"
+msgstr "αργότερα"
+
 msgid "light"
 msgstr "φωτεινό"
 
@@ -978,6 +993,9 @@ msgstr ""
 msgid "today"
 msgstr "σήμερα"
 
+msgid "tomorrow"
+msgstr "αύριο"
+
 msgid "tuesday"
 msgstr "τρίτη"
 
@@ -1023,6 +1041,9 @@ msgstr[1] "χρόνια"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Πολιτική Απορρήτου"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Επαναλαμβανόμενη εργασία"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Αναφορές και ειδοποίησεις"

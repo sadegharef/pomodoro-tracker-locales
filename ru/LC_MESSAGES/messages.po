@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-12 15:40+0300\n"
+"POT-Creation-Date: 2020-05-15 17:39+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -170,6 +170,9 @@ msgstr "Не начинать следующий помидор если спи�
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Перетаскивайте для сортировки."
 
+msgid "Due"
+msgstr "Срок"
+
 msgid "Edit"
 msgstr "Редактировать"
 
@@ -181,6 +184,9 @@ msgstr "Включить оповещения"
 
 msgid "Enable Web Notifications"
 msgstr "Включить оповещения в браузере"
+
+msgid "Ends on"
+msgstr "Заканчивается"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Улучшения концентрации, избавления от отвлекающих факторов"
@@ -242,6 +248,9 @@ msgstr "Импортировано из внешних источников"
 
 msgid "Improve your work or study process"
 msgstr "Улучшения вашего рабочего или учебного процесса"
+
+msgid "Inbox"
+msgstr "Входящие"
 
 msgid "Increase awareness of your decisions"
 msgstr "Повышения осведомлённости о ваших решениях"
@@ -447,9 +456,6 @@ msgstr "Повторить"
 msgid "Repeat every"
 msgstr "Повторять через"
 
-msgid "Repeating Task"
-msgstr "Повторяющаяся задача"
-
 msgid "Reports Time"
 msgstr "Время отчетов"
 
@@ -480,11 +486,17 @@ msgstr "Ошибка сервера"
 msgid "Server has been updated."
 msgstr "Сервер был обновлен."
 
+msgid "Set Due"
+msgstr "Установить срок"
+
 msgid "Set Recurrence"
 msgstr "Установить повторение задачи"
 
 msgid "Set do not disturb"
 msgstr "Выключать оповещения"
+
+msgid "Set to Tomorrow"
+msgstr "Назначить на завтра"
 
 msgid "Settings"
 msgstr "Настройки"
@@ -819,6 +831,9 @@ msgstr "в помидорах"
 msgid "interruptions"
 msgstr "помехи"
 
+msgid "later"
+msgstr "позже"
+
 msgid "light"
 msgstr "светлая"
 
@@ -971,6 +986,9 @@ msgstr "в ваш telegram, напишите `/start` и введите полу
 msgid "today"
 msgstr "сегодня"
 
+msgid "tomorrow"
+msgstr "завтра"
+
 msgid "tuesday"
 msgstr "вторник"
 
@@ -1006,6 +1024,9 @@ msgstr[2] "лет"
 
 #~ msgid "Import/Export tasks"
 #~ msgstr ""
+
+#~ msgid "Repeating Task"
+#~ msgstr "Повторяющаяся задача"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Отчеты и оповещения"

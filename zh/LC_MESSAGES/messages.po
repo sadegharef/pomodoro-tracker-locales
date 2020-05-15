@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-12 15:41+0300\n"
+"POT-Creation-Date: 2020-05-15 17:40+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -167,6 +167,9 @@ msgstr "当代办是空的时候不开启下一个番茄钟"
 msgid "Drag&Drop/Touch to sort items."
 msgstr "拖动来排序"
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr "编辑"
 
@@ -178,6 +181,9 @@ msgstr "启用通知"
 
 msgid "Enable Web Notifications"
 msgstr "启用网页通知"
+
+msgid "Ends on"
+msgstr "结束于"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "通过减少中断来提高注意力和专注力"
@@ -237,6 +243,9 @@ msgstr "从外部进口"
 
 msgid "Improve your work or study process"
 msgstr "改善工作学习过程"
+
+msgid "Inbox"
+msgstr "收件箱"
 
 msgid "Increase awareness of your decisions"
 msgstr "提高您的决定意识"
@@ -438,9 +447,6 @@ msgstr "重复"
 msgid "Repeat every"
 msgstr "重复每一个"
 
-msgid "Repeating Task"
-msgstr "重复任务"
-
 msgid "Reports Time"
 msgstr ""
 
@@ -471,11 +477,17 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "服务器已更新。"
 
+msgid "Set Due"
+msgstr "设置到期"
+
 msgid "Set Recurrence"
 msgstr "设定复发"
 
 msgid "Set do not disturb"
 msgstr "设置请勿打扰"
+
+msgid "Set to Tomorrow"
+msgstr "明天开始"
 
 msgid "Settings"
 msgstr "设置"
@@ -792,6 +804,9 @@ msgstr "个番茄时间之后"
 msgid "interruptions"
 msgstr "中断"
 
+msgid "later"
+msgstr "后来"
+
 msgid "light"
 msgstr "明亮"
 
@@ -936,6 +951,9 @@ msgstr "到你的telegram，输入‘/start’指令并输入bot字段的编码"
 msgid "today"
 msgstr "今天"
 
+msgid "tomorrow"
+msgstr "明天"
+
 msgid "tuesday"
 msgstr "星期二"
 
@@ -1033,6 +1051,9 @@ msgstr[0] "年"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "隐私权政策"
+
+#~ msgid "Repeating Task"
+#~ msgstr "重复任务"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "报告和通知"
