@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-15 17:40+0300\n"
+"POT-Creation-Date: 2020-05-20 13:45+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -491,8 +491,14 @@ msgstr "Đặt tái phát"
 msgid "Set do not disturb"
 msgstr "Đặt không làm phiền"
 
+msgid "Set to Later"
+msgstr "Đặt thành sau"
+
 msgid "Set to Tomorrow"
 msgstr "Đặt vào ngày mai"
+
+msgid "Set to Week"
+msgstr "Đặt thành tuần"
 
 msgid "Settings"
 msgstr "Cài đặt"

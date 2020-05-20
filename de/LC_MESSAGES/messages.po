@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-05-15 17:39+0300\n"
+"POT-Creation-Date: 2020-05-20 13:45+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -494,8 +494,14 @@ msgstr "Wiederholung einstellen"
 msgid "Set do not disturb"
 msgstr "Set nicht stören"
 
+msgid "Set to Later"
+msgstr "Auf später einstellen"
+
 msgid "Set to Tomorrow"
 msgstr "Auf morgen eingestellt"
+
+msgid "Set to Week"
+msgstr "Auf woche eingestellt"
 
 msgid "Settings"
 msgstr "Einstellungen"

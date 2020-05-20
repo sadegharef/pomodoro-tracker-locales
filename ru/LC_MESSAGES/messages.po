@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-15 17:39+0300\n"
+"POT-Creation-Date: 2020-05-20 13:45+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -490,13 +490,19 @@ msgid "Set Due"
 msgstr "Установить срок"
 
 msgid "Set Recurrence"
-msgstr "Установить повторение задачи"
+msgstr "Настроить повторение"
 
 msgid "Set do not disturb"
 msgstr "Выключать оповещения"
 
+msgid "Set to Later"
+msgstr "Отложить на попозже"
+
 msgid "Set to Tomorrow"
-msgstr "Назначить на завтра"
+msgstr "Перенести на завтра"
+
+msgid "Set to Week"
+msgstr "Перенести на неделю"
 
 msgid "Settings"
 msgstr "Настройки"

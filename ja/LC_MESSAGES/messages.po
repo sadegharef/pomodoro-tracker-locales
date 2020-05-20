@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-15 17:40+0300\n"
+"POT-Creation-Date: 2020-05-20 13:45+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -486,8 +486,14 @@ msgstr "再発を設定"
 msgid "Set do not disturb"
 msgstr "サイレントセット"
 
+msgid "Set to Later"
+msgstr "後で設定"
+
 msgid "Set to Tomorrow"
 msgstr "明日へ"
+
+msgid "Set to Week"
+msgstr "週に設定"
 
 msgid "Settings"
 msgstr "設定"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-15 17:40+0300\n"
+"POT-Creation-Date: 2020-05-20 13:46+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -486,8 +486,14 @@ msgstr "设定复发"
 msgid "Set do not disturb"
 msgstr "设置请勿打扰"
 
+msgid "Set to Later"
+msgstr "设置为以后"
+
 msgid "Set to Tomorrow"
 msgstr "明天开始"
+
+msgid "Set to Week"
+msgstr "设为星期"
 
 msgid "Settings"
 msgstr "设置"
