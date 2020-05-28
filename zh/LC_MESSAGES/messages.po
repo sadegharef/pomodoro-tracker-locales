@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-20 13:46+0300\n"
+"POT-Creation-Date: 2020-05-28 15:11+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -197,9 +197,6 @@ msgstr "导出CSV格式记录"
 msgid "Eye Keeper is enabled"
 msgstr ""
 
-msgid "Favorites"
-msgstr "收藏"
-
 msgid "Feedback"
 msgstr "反馈"
 
@@ -327,6 +324,9 @@ msgstr "标记为完成"
 msgid "Median per day"
 msgstr "按天的中位数"
 
+msgid "Move to Inbox"
+msgstr "移至收件箱"
+
 msgid "Navigate Back"
 msgstr ""
 
@@ -359,9 +359,6 @@ msgstr "剩余一分钟"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
-
-msgid "Pin to activities"
-msgstr "添加到收藏夹"
 
 msgid "Play alarm sound"
 msgstr "播放闹钟声音"
@@ -452,6 +449,9 @@ msgstr ""
 
 msgid "Rules & Tips"
 msgstr "规则 & 提示"
+
+msgid "Scheduler"
+msgstr "排程器"
 
 msgid "Schemes"
 msgstr "调度"
@@ -1016,6 +1016,9 @@ msgstr[0] "年"
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "启用Telegram通知"
 
+#~ msgid "Favorites"
+#~ msgstr "收藏"
+
 #~ msgid "February"
 #~ msgstr "二月"
 
@@ -1054,6 +1057,9 @@ msgstr[0] "年"
 
 #~ msgid "October"
 #~ msgstr "十月"
+
+#~ msgid "Pin to activities"
+#~ msgstr "添加到收藏夹"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "隐私权政策"

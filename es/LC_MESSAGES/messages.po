@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-20 13:45+0300\n"
+"POT-Creation-Date: 2020-05-28 15:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -199,9 +199,6 @@ msgstr "Exportar registros como CSV"
 msgid "Eye Keeper is enabled"
 msgstr "El guardián de los ojos está habilitado"
 
-msgid "Favorites"
-msgstr "Favoritos"
-
 msgid "Feedback"
 msgstr "Sugerencias"
 
@@ -336,6 +333,9 @@ msgstr "Marcar como hecho"
 msgid "Median per day"
 msgstr "Mediana por día"
 
+msgid "Move to Inbox"
+msgstr "Mover a la bandeja de entrada"
+
 msgid "Navigate Back"
 msgstr ""
 
@@ -368,9 +368,6 @@ msgstr "Queda un minuto"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Pausa el temporizador cuando la computadora entra en reposo"
-
-msgid "Pin to activities"
-msgstr "Marcar como favorito"
 
 msgid "Play alarm sound"
 msgstr "Sonar alarma"
@@ -463,6 +460,9 @@ msgstr "Hora del informe"
 
 msgid "Rules & Tips"
 msgstr "Reglas y Consejos"
+
+msgid "Scheduler"
+msgstr "Planificador"
 
 msgid "Schemes"
 msgstr "Esquemas"
@@ -1053,6 +1053,9 @@ msgstr[1] "años"
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Habilitar notificaciones de Telegram"
 
+#~ msgid "Favorites"
+#~ msgstr "Favoritos"
+
 #~ msgid "February"
 #~ msgstr "Febrero"
 
@@ -1088,6 +1091,9 @@ msgstr[1] "años"
 
 #~ msgid "October"
 #~ msgstr "Octubre"
+
+#~ msgid "Pin to activities"
+#~ msgstr "Marcar como favorito"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Política de privacidad"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-20 13:46+0300\n"
+"POT-Creation-Date: 2020-05-28 15:11+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -200,9 +200,6 @@ msgstr "Експортувати записи у файл CSV"
 msgid "Eye Keeper is enabled"
 msgstr "Оберігач очей увімкнено"
 
-msgid "Favorites"
-msgstr "Вибране"
-
 msgid "Feedback"
 msgstr "Ідеї"
 
@@ -332,6 +329,9 @@ msgstr "Відмітити як виконане"
 msgid "Median per day"
 msgstr "Медіана за день"
 
+msgid "Move to Inbox"
+msgstr "Переміщення до Вхідні"
+
 msgid "Navigate Back"
 msgstr "Назад"
 
@@ -364,9 +364,6 @@ msgstr "Залишилася хвилина"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Зупиняти таймер, коли компьютер іде в режим сну"
-
-msgid "Pin to activities"
-msgstr "Додати у вибране"
 
 msgid "Play alarm sound"
 msgstr "Грати фінішний звук"
@@ -459,6 +456,9 @@ msgstr "Час звітів"
 
 msgid "Rules & Tips"
 msgstr "Правила й поради"
+
+msgid "Scheduler"
+msgstr "Планувальник"
 
 msgid "Schemes"
 msgstr "Схеми"
@@ -1031,6 +1031,9 @@ msgstr[2] "років"
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Увімкнути сповіщення в Телеграмі"
 
+#~ msgid "Favorites"
+#~ msgstr "Вибране"
+
 #~ msgid "Import records from CSV"
 #~ msgstr "Імпортувати записи з файлу CSV"
 
@@ -1039,6 +1042,9 @@ msgstr[2] "років"
 
 #~ msgid "Load daily tasks from Google Calendar"
 #~ msgstr "Завантажувати щоденні завдання з календаря Google"
+
+#~ msgid "Pin to activities"
+#~ msgstr "Додати у вибране"
 
 #~ msgid "Repeating Task"
 #~ msgstr "Завдання, що повторюється"

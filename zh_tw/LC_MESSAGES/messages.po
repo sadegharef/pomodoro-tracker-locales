@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 10.0.13\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-17 10:16+0300\n"
+"POT-Creation-Date: 2020-05-28 15:11+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_tw\n"
@@ -17,7 +17,11 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr ""
 
 msgid "%1$s left"
 msgstr ""
@@ -25,13 +29,13 @@ msgstr ""
 msgid "%1$s paused."
 msgstr ""
 
-msgid "%1$s records were imported"
-msgstr ""
-
 msgid "%1$s started:"
 msgstr ""
 
 msgid "%1$s stopped:"
+msgstr ""
+
+msgid "%1$s tasks were imported"
 msgstr ""
 
 #, python-format
@@ -54,9 +58,6 @@ msgid "Activity by weeks"
 msgstr ""
 
 msgid "Add"
-msgstr ""
-
-msgid "Add Activity"
 msgstr ""
 
 msgid "Add TODO"
@@ -154,9 +155,6 @@ msgstr ""
 msgid "Daily Goal Completed."
 msgstr ""
 
-msgid "Daily Task"
-msgstr ""
-
 msgid "Date format"
 msgstr ""
 
@@ -169,16 +167,22 @@ msgstr ""
 msgid "Drag&Drop/Touch to sort items."
 msgstr ""
 
+msgid "Due"
+msgstr ""
+
 msgid "Edit"
 msgstr ""
 
 msgid "Enable Browser Alerts"
 msgstr ""
 
-msgid "Enable Telegram Notifications"
+msgid "Enable Notifications"
 msgstr ""
 
 msgid "Enable Web Notifications"
+msgstr ""
+
+msgid "Ends on"
 msgstr ""
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
@@ -193,16 +197,28 @@ msgstr ""
 msgid "Eye Keeper is enabled"
 msgstr ""
 
-msgid "Favorites"
+msgid "Feedback"
 msgstr ""
 
-msgid "Feedback"
+msgid "File"
+msgstr ""
+
+msgid "Fill blank entries"
+msgstr ""
+
+msgid "Global shortcut to open Pomodoro-Tracker"
 msgstr ""
 
 msgid "Great work!"
 msgstr ""
 
+msgid "Help"
+msgstr ""
+
 msgid "Hide notificaions"
+msgstr ""
+
+msgid "History"
 msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
@@ -213,19 +229,19 @@ msgid ""
 "another task"
 msgstr ""
 
-msgid "Import records from CSV"
+msgid "Import tasks from CSV"
 msgstr ""
 
 msgid "Import was failed. Check your CSV and try again."
-msgstr ""
-
-msgid "Import/Export tasks"
 msgstr ""
 
 msgid "Imported from External Sources"
 msgstr ""
 
 msgid "Improve your work or study process"
+msgstr ""
+
+msgid "Inbox"
 msgstr ""
 
 msgid "Increase awareness of your decisions"
@@ -272,7 +288,7 @@ msgstr ""
 msgid "Link copied"
 msgstr ""
 
-msgid "Load daily tasks from Google Calendar"
+msgid "Load daily tasks"
 msgstr ""
 
 msgid "Loading"
@@ -308,6 +324,9 @@ msgstr ""
 msgid "Median per day"
 msgstr ""
 
+msgid "Move to Inbox"
+msgstr ""
+
 msgid "Navigate Back"
 msgstr ""
 
@@ -315,6 +334,9 @@ msgid "Navigate Forward"
 msgstr ""
 
 msgid "New"
+msgstr ""
+
+msgid "Next long break"
 msgstr ""
 
 msgid "Notification Test"
@@ -338,9 +360,6 @@ msgstr ""
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
-msgid "Pin to activities"
-msgstr ""
-
 msgid "Play alarm sound"
 msgstr ""
 
@@ -356,7 +375,13 @@ msgstr ""
 msgid "Please reload the application."
 msgstr ""
 
+msgid "Please select a value"
+msgstr ""
+
 msgid "Please unblock notifications in your browser"
+msgstr ""
+
+msgid "Please, login to use the feature"
 msgstr ""
 
 msgid "Please, login to view your stats"
@@ -389,6 +414,9 @@ msgstr ""
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr ""
 
+msgid "Rate the application"
+msgstr ""
+
 msgid "Records are empty"
 msgstr ""
 
@@ -413,13 +441,16 @@ msgstr ""
 msgid "Repeat"
 msgstr ""
 
+msgid "Repeat every"
+msgstr ""
+
 msgid "Reports Time"
 msgstr ""
 
-msgid "Reports and notifications"
+msgid "Rules & Tips"
 msgstr ""
 
-msgid "Rules & Tips"
+msgid "Scheduler"
 msgstr ""
 
 msgid "Schemes"
@@ -431,16 +462,37 @@ msgstr ""
 msgid "Select Dates"
 msgstr ""
 
-msgid "Send reports on email: "
+msgid "Select a calendar to import tasks"
 msgstr ""
 
-msgid "Send reports on telegram"
+msgid "Send daily reports"
 msgstr ""
 
 msgid "Send test notification"
 msgstr ""
 
+msgid "Server Error"
+msgstr ""
+
 msgid "Server has been updated."
+msgstr ""
+
+msgid "Set Due"
+msgstr ""
+
+msgid "Set Recurrence"
+msgstr ""
+
+msgid "Set do not disturb"
+msgstr ""
+
+msgid "Set to Later"
+msgstr ""
+
+msgid "Set to Tomorrow"
+msgstr ""
+
+msgid "Set to Week"
 msgstr ""
 
 msgid "Settings"
@@ -461,6 +513,9 @@ msgstr ""
 msgid "Sign Up / Login"
 msgstr ""
 
+msgid "Sign in with %1$s"
+msgstr ""
+
 msgid "Sleep Mode is enabled"
 msgstr ""
 
@@ -471,6 +526,9 @@ msgid "Start the Pomodoro timer"
 msgstr ""
 
 msgid "Start working:"
+msgstr ""
+
+msgid "Starts on"
 msgstr ""
 
 msgid "Stats"
@@ -487,7 +545,7 @@ msgstr ""
 msgid "Support the Project"
 msgstr ""
 
-msgid "Sync with Google Tasks"
+msgid "Sync my tasks only"
 msgstr ""
 
 msgid "TODO"
@@ -606,6 +664,9 @@ msgstr ""
 msgid "Unselect Category"
 msgstr ""
 
+msgid "Update status"
+msgstr ""
+
 msgid "View"
 msgstr ""
 
@@ -613,6 +674,9 @@ msgid "Volume"
 msgstr ""
 
 msgid "What is it?"
+msgstr ""
+
+msgid "Window"
 msgstr ""
 
 msgid "Work days"
@@ -640,27 +704,6 @@ msgid "You spent"
 msgstr ""
 
 msgid "and"
-msgstr ""
-
-msgid "as Bitbucket user"
-msgstr ""
-
-msgid "as Facebook user"
-msgstr ""
-
-msgid "as Github user"
-msgstr ""
-
-msgid "as Google user"
-msgstr ""
-
-msgid "as Twitter user"
-msgstr ""
-
-msgid "as VK user"
-msgstr ""
-
-msgid "as Yandex user"
 msgstr ""
 
 msgid "auto"
@@ -712,10 +755,10 @@ msgstr ""
 msgid "description"
 msgstr ""
 
-msgid "done"
+msgid "disable"
 msgstr ""
 
-msgid "duplicate"
+msgid "done"
 msgstr ""
 
 msgid "duration"
@@ -728,6 +771,9 @@ msgid "focus"
 msgstr ""
 
 msgid "for all time"
+msgstr ""
+
+msgid "friday"
 msgstr ""
 
 msgid "friends"
@@ -764,6 +810,9 @@ msgstr ""
 msgid "interruptions"
 msgstr ""
 
+msgid "later"
+msgstr ""
+
 msgid "light"
 msgstr ""
 
@@ -771,7 +820,13 @@ msgid "like"
 msgid_plural "likes"
 msgstr[0] ""
 
+msgid "maximize"
+msgstr ""
+
 msgid "median"
+msgstr ""
+
+msgid "menu"
 msgstr ""
 
 msgid "merge"
@@ -780,9 +835,15 @@ msgstr ""
 msgid "messages"
 msgstr ""
 
+msgid "minimize"
+msgstr ""
+
 msgid "minute"
 msgid_plural "minutes"
 msgstr[0] ""
+
+msgid "monday"
+msgstr ""
 
 msgid "month"
 msgid_plural "months"
@@ -828,6 +889,9 @@ msgstr ""
 msgid "previous page"
 msgstr ""
 
+msgid "prolong time"
+msgstr ""
+
 msgid "rating"
 msgstr ""
 
@@ -846,6 +910,9 @@ msgstr ""
 msgid "resume"
 msgstr ""
 
+msgid "saturday"
+msgstr ""
+
 msgid "save"
 msgstr ""
 
@@ -855,10 +922,16 @@ msgstr ""
 msgid "skip"
 msgstr ""
 
+msgid "split"
+msgstr ""
+
 msgid "start"
 msgstr ""
 
 msgid "stop"
+msgstr ""
+
+msgid "sunday"
 msgstr ""
 
 msgid "system"
@@ -868,6 +941,9 @@ msgid "take a long break"
 msgstr ""
 
 msgid "take a short break"
+msgstr ""
+
+msgid "thursday"
 msgstr ""
 
 msgid "time"
@@ -881,14 +957,24 @@ msgstr ""
 msgid "today"
 msgstr ""
 
+msgid "tomorrow"
+msgstr ""
+
+msgid "tuesday"
+msgstr ""
+
 msgid "unknown"
 msgstr ""
 
 msgid "user"
 msgstr ""
 
-msgid "week"
+msgid "wednesday"
 msgstr ""
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] ""
 
 msgid "were"
 msgstr ""
@@ -896,4 +982,3 @@ msgstr ""
 msgid "year"
 msgid_plural "years"
 msgstr[0] ""
-

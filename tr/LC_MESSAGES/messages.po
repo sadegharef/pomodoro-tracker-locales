@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-20 13:45+0300\n"
+"POT-Creation-Date: 2020-05-28 15:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -201,9 +201,6 @@ msgstr "Kayıtları CSV olarak dışarı aktar"
 msgid "Eye Keeper is enabled"
 msgstr ""
 
-msgid "Favorites"
-msgstr "Favoriler"
-
 msgid "Feedback"
 msgstr "Geri Bildirim"
 
@@ -335,6 +332,9 @@ msgstr "Tamamlandı olarak işaretle"
 msgid "Median per day"
 msgstr "Günlük ortalama"
 
+msgid "Move to Inbox"
+msgstr "Gelen kutusuna taşı"
+
 msgid "Navigate Back"
 msgstr ""
 
@@ -367,9 +367,6 @@ msgstr "bir dakika kaldı"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
-
-msgid "Pin to activities"
-msgstr "Favorilere ekle"
 
 msgid "Play alarm sound"
 msgstr "Alarm sesi çal"
@@ -462,6 +459,9 @@ msgstr ""
 
 msgid "Rules & Tips"
 msgstr "Kurallar & İpuçları"
+
+msgid "Scheduler"
+msgstr "Zamanlayıcı"
 
 msgid "Schemes"
 msgstr "Şemalari"
@@ -1047,6 +1047,9 @@ msgstr[1] "yil"
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Telgraf Bildirimlerini Etkinleştir"
 
+#~ msgid "Favorites"
+#~ msgstr "Favoriler"
+
 #~ msgid "February"
 #~ msgstr "Şubat"
 
@@ -1085,6 +1088,9 @@ msgstr[1] "yil"
 
 #~ msgid "October"
 #~ msgstr "Ekim"
+
+#~ msgid "Pin to activities"
+#~ msgstr "Favorilere ekle"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Gizlilik Politikası"

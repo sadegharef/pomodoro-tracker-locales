@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-20 13:45+0300\n"
+"POT-Creation-Date: 2020-05-28 15:10+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -198,9 +198,6 @@ msgstr "تصدير السجلات كملف من نوع CSV"
 msgid "Eye Keeper is enabled"
 msgstr "المراقب مفعل"
 
-msgid "Favorites"
-msgstr "المفضلة"
-
 msgid "Feedback"
 msgstr "مراجعة"
 
@@ -330,6 +327,9 @@ msgstr "تم الإنتهاء منها"
 msgid "Median per day"
 msgstr "العدد الاوسط لكل يوم"
 
+msgid "Move to Inbox"
+msgstr "الانتقال إلى البريد الوارد"
+
 msgid "Navigate Back"
 msgstr "رجوع سلبي"
 
@@ -362,9 +362,6 @@ msgstr "دقيقة واحدة متبقية"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "وقف/استمرار عندما يكون الكمبيوتر فى حالة نائم/خامل"
-
-msgid "Pin to activities"
-msgstr "إضافة للمفضلة"
 
 msgid "Play alarm sound"
 msgstr "شغل صوت المنبه"
@@ -455,6 +452,9 @@ msgstr "وقت التقارير"
 
 msgid "Rules & Tips"
 msgstr "قوانين & نصائح"
+
+msgid "Scheduler"
+msgstr "المجدول"
 
 msgid "Schemes"
 msgstr "المخططات"
@@ -1081,6 +1081,9 @@ msgstr[5] ""
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "شغل إشعارات التليجرام"
 
+#~ msgid "Favorites"
+#~ msgstr "المفضلة"
+
 #~ msgid "February"
 #~ msgstr "فبراير"
 
@@ -1140,6 +1143,9 @@ msgstr[5] ""
 
 #~ msgid "October"
 #~ msgstr "اكتوبر"
+
+#~ msgid "Pin to activities"
+#~ msgstr "إضافة للمفضلة"
 
 #~ msgid "Pomodoro is finished. Have a short break."
 #~ msgstr "البومودورو انتهت. خذ استراحة قصيرة."

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-20 13:46+0300\n"
+"POT-Creation-Date: 2020-05-28 15:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -201,9 +201,6 @@ msgstr "Κανε εξαγωγή τα αρχεία σαν CSV"
 msgid "Eye Keeper is enabled"
 msgstr ""
 
-msgid "Favorites"
-msgstr "Αγαπημένα"
-
 msgid "Feedback"
 msgstr "Ανατροφοδότηση"
 
@@ -335,6 +332,9 @@ msgstr "Σημείωσε σαν ολοκληρωμένο"
 msgid "Median per day"
 msgstr "διάμεσο ανα ημέρα"
 
+msgid "Move to Inbox"
+msgstr "Μετακίνηση στα εισερχόμενα"
+
 msgid "Navigate Back"
 msgstr ""
 
@@ -367,9 +367,6 @@ msgstr "Απέμεινε ενα λέπτο"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
-
-msgid "Pin to activities"
-msgstr "Καρφίτσωμα στης δραστηριότητες"
 
 msgid "Play alarm sound"
 msgstr "Παίξε ηχο συναγερμού"
@@ -466,6 +463,9 @@ msgstr "'Ωρα Αναφοράς"
 
 msgid "Rules & Tips"
 msgstr "Κανόνες & Συμβουλές"
+
+msgid "Scheduler"
+msgstr "Χρονοδιάγραμμα"
 
 msgid "Schemes"
 msgstr "Σχέδια"
@@ -1036,6 +1036,9 @@ msgstr[1] "χρόνια"
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Ενεργοποίησε Ειδοποιήσεις απο το Telegram"
 
+#~ msgid "Favorites"
+#~ msgstr "Αγαπημένα"
+
 #~ msgid "Import records from CSV"
 #~ msgstr "Κανε εισαγωγή τα αρχεία απο csv"
 
@@ -1044,6 +1047,9 @@ msgstr[1] "χρόνια"
 
 #~ msgid "Load daily tasks from Google Calendar"
 #~ msgstr "Φόρτωσε καθημερινές ασχολίες απο το Ημερολόγιο Google"
+
+#~ msgid "Pin to activities"
+#~ msgstr "Καρφίτσωμα στης δραστηριότητες"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Πολιτική Απορρήτου"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-05-20 13:45+0300\n"
+"POT-Creation-Date: 2020-05-28 15:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -199,9 +199,6 @@ msgstr "Exportieren der Einträge (*.csv)"
 msgid "Eye Keeper is enabled"
 msgstr "Eye-Keeper ist aktiviert"
 
-msgid "Favorites"
-msgstr "Favoriten"
-
 msgid "Feedback"
 msgstr "Feedback"
 
@@ -253,7 +250,7 @@ msgid "Improve your work or study process"
 msgstr "Den Arbeits- und Lernprozess verbessern"
 
 msgid "Inbox"
-msgstr "Posteingang"
+msgstr "Inbox"
 
 msgid "Increase awareness of your decisions"
 msgstr "Auf eigene Entscheidungen aufmerksam machen"
@@ -335,6 +332,9 @@ msgstr "Markiere als erledigt"
 msgid "Median per day"
 msgstr "Median pro Tag"
 
+msgid "Move to Inbox"
+msgstr "In den Inbox verschieben"
+
 msgid "Navigate Back"
 msgstr ""
 
@@ -367,9 +367,6 @@ msgstr "Eine Minute noch"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Timer anhalten, wenn der Computer in den Energiesparmodus wechselt"
-
-msgid "Pin to activities"
-msgstr "Markiere als Favorit"
 
 msgid "Play alarm sound"
 msgstr "Spiele Alarm Sound wenn Pomodoro beendet"
@@ -460,6 +457,9 @@ msgstr "Bericht ist Zeit"
 
 msgid "Rules & Tips"
 msgstr "Regeln und Tipps"
+
+msgid "Scheduler"
+msgstr "Planer"
 
 msgid "Schemes"
 msgstr "Schemes"
@@ -1045,6 +1045,9 @@ msgstr[1] "Jahre"
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Aktiviere Telegram-Benachrichtigungen"
 
+#~ msgid "Favorites"
+#~ msgstr "Favoriten"
+
 #~ msgid "February"
 #~ msgstr "Februar"
 
@@ -1080,6 +1083,9 @@ msgstr[1] "Jahre"
 
 #~ msgid "October"
 #~ msgstr "Oktober"
+
+#~ msgid "Pin to activities"
+#~ msgstr "Markiere als Favorit"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Datenschutzbestimmungen"
