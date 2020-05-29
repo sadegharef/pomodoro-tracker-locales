@@ -628,7 +628,7 @@ msgid "The integration is outdated. Please reconnect."
 msgstr "Интеграция просрочена. Пожалуйста переподключитесь."
 
 msgid "The list is empty"
-msgstr "Список пуст."
+msgstr "Список пуст"
 
 msgid "The next Pomodoro will go better"
 msgstr "Следующий «помидор» будет лучше"
