@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-28 15:10+0300\n"
+"POT-Creation-Date: 2020-05-29 13:41+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -678,9 +678,6 @@ msgstr "Попробуйте добавить задачи используя ф
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Попробуйте выполнить несколько помидоров или выберите другой период"
 
-msgid "Try to mark TODO as activity or use the form above"
-msgstr "Попробуйте добавить задачу в избраное или используйте форму выше."
-
 msgid "Tune the timer"
 msgstr "Настройки"
 
@@ -1042,6 +1039,9 @@ msgstr[2] "лет"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Отчеты и оповещения"
+
+#~ msgid "Try to mark TODO as activity or use the form above"
+#~ msgstr "Попробуйте добавить задачу в избраное или используйте форму выше."
 
 #~ msgid "duplicate"
 #~ msgstr "скопировать"

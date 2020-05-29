@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-28 15:10+0300\n"
+"POT-Creation-Date: 2020-05-29 13:41+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -671,9 +671,6 @@ msgstr "تحاول إضافة بعض المهام استخدم الإستمار�
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "حاول انهاء بعض البومودوروز او اختار فترة مختلفة"
 
-msgid "Try to mark TODO as activity or use the form above"
-msgstr "جرب تمييز الTODO كنشاط او إستخدم الإستمارة التالية"
-
 msgid "Tune the timer"
 msgstr "اضبط المؤقت"
 
@@ -1197,6 +1194,9 @@ msgstr[5] ""
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "جرب الإنتهاء من بعض البومودورات التالية"
+
+#~ msgid "Try to mark TODO as activity or use the form above"
+#~ msgstr "جرب تمييز الTODO كنشاط او إستخدم الإستمارة التالية"
 
 #~ msgid "duplicate"
 #~ msgstr "مكرر"

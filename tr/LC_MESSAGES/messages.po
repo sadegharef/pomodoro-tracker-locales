@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-28 15:10+0300\n"
+"POT-Creation-Date: 2020-05-29 13:42+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -679,9 +679,6 @@ msgstr "Yukarıdaki formu kullanmak için birkaç görev ekleyin"
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Birkaç pomodoro bitirmeyi deneyin veya farklı bir zaman aralığı seçin"
 
-msgid "Try to mark TODO as activity or use the form above"
-msgstr "Görevi aktivite olarak işaretleyin veya yukarıdaki formu kullanın"
-
 msgid "Tune the timer"
 msgstr "Zamanlayıcıyı ayarla"
 
@@ -1121,6 +1118,9 @@ msgstr[1] "yil"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Yukarıdaki pomodorolardan bazılarını tamamlamayı deneyin"
+
+#~ msgid "Try to mark TODO as activity or use the form above"
+#~ msgstr "Görevi aktivite olarak işaretleyin veya yukarıdaki formu kullanın"
 
 #~ msgid "duplicate"
 #~ msgstr "Çift"

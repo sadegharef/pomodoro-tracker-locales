@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 10.0.13\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-28 15:11+0300\n"
+"POT-Creation-Date: 2020-05-29 13:42+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_tw\n"
@@ -653,9 +653,6 @@ msgid "Try to add some tasks use the form above"
 msgstr ""
 
 msgid "Try to complete some pomodoros or choose a different period"
-msgstr ""
-
-msgid "Try to mark TODO as activity or use the form above"
 msgstr ""
 
 msgid "Tune the timer"

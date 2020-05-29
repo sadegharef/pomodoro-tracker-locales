@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-28 15:10+0300\n"
+"POT-Creation-Date: 2020-05-29 13:41+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -673,9 +673,6 @@ msgstr "Pour ajouter des tâches, remplissez le champ ci-dessus"
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Essayez de faire quelques pomodoros ou choisissez une autre période"
 
-msgid "Try to mark TODO as activity or use the form above"
-msgstr "Essayez de marquer TODO comme activité ou remplissez le champ ci-dessus"
-
 msgid "Tune the timer"
 msgstr "Régler la minuterie"
 
@@ -1114,6 +1111,9 @@ msgstr[1] "ans"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Essayez de terminer quelques pomodoros ci-dessus"
+
+#~ msgid "Try to mark TODO as activity or use the form above"
+#~ msgstr "Essayez de marquer TODO comme activité ou remplissez le champ ci-dessus"
 
 #~ msgid "duplicate"
 #~ msgstr "dupliquer"

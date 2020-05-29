@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-28 15:10+0300\n"
+"POT-Creation-Date: 2020-05-29 13:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -655,9 +655,6 @@ msgstr "上のフォームに入力してタスクを追加してください"
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "ポモドーロを完了するか、別の期間をえらんでください。"
 
-msgid "Try to mark TODO as activity or use the form above"
-msgstr "TODOをアクティビティとしてマークするか、上記のフォームを使用してください。"
-
 msgid "Tune the timer"
 msgstr "タイマーを調整する"
 
@@ -1095,6 +1092,9 @@ msgstr[1] "年"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "上記のポモドーロを完了してください"
+
+#~ msgid "Try to mark TODO as activity or use the form above"
+#~ msgstr "TODOをアクティビティとしてマークするか、上記のフォームを使用してください。"
 
 #~ msgid "duplicate"
 #~ msgstr "複製する"

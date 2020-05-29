@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-05-28 15:10+0300\n"
+"POT-Creation-Date: 2020-05-29 13:41+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -676,9 +676,6 @@ msgstr "Probeer wat taken toe te voegen met bovenstaand formulier"
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Probeer wat pomodori af te ronden, of kies een andere periode"
 
-msgid "Try to mark TODO as activity or use the form above"
-msgstr "Probeer TODO als activiteit te markeren, of gebruik bovenstaand formulier"
-
 msgid "Tune the timer"
 msgstr "Timer instellen"
 
@@ -1118,6 +1115,11 @@ msgstr[1] "jaren"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Probeer wat pomodori hierboven af te ronden"
+
+#~ msgid "Try to mark TODO as activity or use the form above"
+#~ msgstr ""
+#~ "Probeer TODO als activiteit te markeren,"
+#~ " of gebruik bovenstaand formulier"
 
 #~ msgid "duplicate"
 #~ msgstr "duplicaat"
