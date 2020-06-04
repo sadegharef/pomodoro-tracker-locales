@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-29 13:41+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -273,11 +273,8 @@ msgstr ""
 msgid "Language"
 msgstr "Тіл"
 
-msgid "Last 180 days"
-msgstr "Соңғы 180 күн"
-
-msgid "Last 90 days"
-msgstr "Соңғы тоқсан"
+msgid "Last 365 days"
+msgstr "Соңғы 365 күн"
 
 msgid "Last Month"
 msgstr "Өткен ай"
@@ -507,6 +504,9 @@ msgstr "Баптаулар"
 msgid "Share timer data"
 msgstr "Таймер деректерін бөлісу"
 
+msgid "Short break"
+msgstr "Қысқа үзіліс"
+
 msgid "Short break duration"
 msgstr "Қысқа үзіліс ұзақтығы"
 
@@ -640,6 +640,9 @@ msgstr "Осы ширекжыл"
 
 msgid "This Week"
 msgstr "Осы апта"
+
+msgid "This Year"
+msgstr "Бұл жылы"
 
 msgid "Time format"
 msgstr "Уақыт форматы"

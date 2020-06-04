@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-29 13:41+0300\n"
+"POT-Creation-Date: 2020-06-04 12:01+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -274,11 +274,8 @@ msgstr ""
 msgid "Language"
 msgstr "Язык"
 
-msgid "Last 180 days"
-msgstr "Последние 180 дней"
-
-msgid "Last 90 days"
-msgstr "Последние 90 дней"
+msgid "Last 365 days"
+msgstr "Последние 365 дней"
 
 msgid "Last Month"
 msgstr "Прошлый месяц"
@@ -510,6 +507,9 @@ msgstr "Настройки"
 msgid "Share timer data"
 msgstr "Поделиться данными таймера"
 
+msgid "Short break"
+msgstr "Короткий перерыв"
+
 msgid "Short break duration"
 msgstr "Продолжительность короткого перерыва"
 
@@ -647,6 +647,9 @@ msgstr "Этот квартал"
 
 msgid "This Week"
 msgstr "Эта неделя"
+
+msgid "This Year"
+msgstr "Этот год"
 
 msgid "Time format"
 msgstr "Формат времени"

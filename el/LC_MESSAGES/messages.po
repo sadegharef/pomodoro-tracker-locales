@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-29 13:41+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -275,11 +275,8 @@ msgstr ""
 msgid "Language"
 msgstr "Γλώσσα"
 
-msgid "Last 180 days"
-msgstr "Τελευταίες 180 ημέρες"
-
-msgid "Last 90 days"
-msgstr "Τελευταίες 90 ημέρες"
+msgid "Last 365 days"
+msgstr "Τελευταίες 365 ημέρες"
 
 msgid "Last Month"
 msgstr "Τελευταίος Μήνας"
@@ -515,6 +512,9 @@ msgstr "Ρυθμίσεις"
 msgid "Share timer data"
 msgstr "Κοινή χρήση δεδομένων χρονοδιακόπτη"
 
+msgid "Short break"
+msgstr "Σύντομο διάλλειμα"
+
 msgid "Short break duration"
 msgstr "Διάρκεια μικρών διαλειμμάτων"
 
@@ -656,6 +656,9 @@ msgstr "Αυτή την Τριμηνία"
 
 msgid "This Week"
 msgstr "Αυτή την εβδομαδα"
+
+msgid "This Year"
+msgstr "Αυτή την χρονιά"
 
 msgid "Time format"
 msgstr "Μορφή Χρόνου"

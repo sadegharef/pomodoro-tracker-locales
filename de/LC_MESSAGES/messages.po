@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-05-29 13:41+0300\n"
+"POT-Creation-Date: 2020-06-04 12:01+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -275,11 +275,8 @@ msgstr ""
 msgid "Language"
 msgstr "Sprache"
 
-msgid "Last 180 days"
-msgstr "Letzte 180 Tage"
-
-msgid "Last 90 days"
-msgstr "Letzte 90 Tage"
+msgid "Last 365 days"
+msgstr "Letzte 365 Tage"
 
 msgid "Last Month"
 msgstr "Letzten Monat"
@@ -509,6 +506,9 @@ msgstr "Einstellungen"
 msgid "Share timer data"
 msgstr "Teilen Sie Timer-Daten"
 
+msgid "Short break"
+msgstr "Kurze Pause"
+
 msgid "Short break duration"
 msgstr "Länge der kurzen Pause"
 
@@ -646,6 +646,9 @@ msgstr "Dieses Quartal"
 
 msgid "This Week"
 msgstr "Diese Woche"
+
+msgid "This Year"
+msgstr "Dieses Jahr"
 
 msgid "Time format"
 msgstr "Zeitformat"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-29 13:42+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -275,11 +275,8 @@ msgstr ""
 msgid "Language"
 msgstr "Dil"
 
-msgid "Last 180 days"
-msgstr "Son 180 günde"
-
-msgid "Last 90 days"
-msgstr "Son 90 günde"
+msgid "Last 365 days"
+msgstr "Son 365 günde"
 
 msgid "Last Month"
 msgstr "Geçen ay"
@@ -511,6 +508,9 @@ msgstr "Ayarlar"
 msgid "Share timer data"
 msgstr "Zamanlayıcı verilerini paylaş"
 
+msgid "Short break"
+msgstr "Kısa ara"
+
 msgid "Short break duration"
 msgstr "Kısa mola süresi"
 
@@ -648,6 +648,9 @@ msgstr "Bu çeyrek"
 
 msgid "This Week"
 msgstr "Bu Hafta"
+
+msgid "This Year"
+msgstr "Bu yıl"
 
 msgid "Time format"
 msgstr "Saat biçimi"

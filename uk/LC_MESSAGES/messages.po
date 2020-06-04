@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-29 13:42+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -272,11 +272,8 @@ msgstr ""
 msgid "Language"
 msgstr "Мова"
 
-msgid "Last 180 days"
-msgstr "Останні 180 днів"
-
-msgid "Last 90 days"
-msgstr "Останні 90 днів"
+msgid "Last 365 days"
+msgstr "Останні 365 днів"
 
 msgid "Last Month"
 msgstr "Останній місяць"
@@ -508,6 +505,9 @@ msgstr "Налаштування"
 msgid "Share timer data"
 msgstr "Обмін даними таймера"
 
+msgid "Short break"
+msgstr "Невелика перерва"
+
 msgid "Short break duration"
 msgstr "Тривалість короткої перерви"
 
@@ -646,6 +646,9 @@ msgstr "Цей квартал"
 
 msgid "This Week"
 msgstr "Цей тиждень"
+
+msgid "This Year"
+msgstr "Цей рік"
 
 msgid "Time format"
 msgstr "Формат часу"

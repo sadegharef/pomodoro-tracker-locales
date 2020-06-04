@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-29 13:42+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -272,11 +272,8 @@ msgstr ""
 msgid "Language"
 msgstr "Ngôn ngữ"
 
-msgid "Last 180 days"
-msgstr "180 ngày qua"
-
-msgid "Last 90 days"
-msgstr "90 ngày qua"
+msgid "Last 365 days"
+msgstr "365 ngày qua"
 
 msgid "Last Month"
 msgstr "Tháng trước"
@@ -506,6 +503,9 @@ msgstr "Cài đặt"
 msgid "Share timer data"
 msgstr ""
 
+msgid "Short break"
+msgstr "Nghỉ ngắn"
+
 msgid "Short break duration"
 msgstr ""
 
@@ -629,6 +629,9 @@ msgstr "Quý này"
 
 msgid "This Week"
 msgstr "Tuần này"
+
+msgid "This Year"
+msgstr "Năm nay"
 
 msgid "Time format"
 msgstr "Định dạng thời gian"

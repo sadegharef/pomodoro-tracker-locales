@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-05-29 13:41+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -270,11 +270,8 @@ msgstr ""
 msgid "Language"
 msgstr "Taal"
 
-msgid "Last 180 days"
-msgstr "Laatste 180 dagen"
-
-msgid "Last 90 days"
-msgstr "Laatste 90 dagen"
+msgid "Last 365 days"
+msgstr "Laatste 365 dagen"
 
 msgid "Last Month"
 msgstr "Vorige maand"
@@ -506,6 +503,9 @@ msgstr "Instellingen"
 msgid "Share timer data"
 msgstr "Deel timergegevens"
 
+msgid "Short break"
+msgstr "Korte pauze"
+
 msgid "Short break duration"
 msgstr "Korte-pauzeduur"
 
@@ -645,6 +645,9 @@ msgstr "Dit kwartaal"
 
 msgid "This Week"
 msgstr "Deze week"
+
+msgid "This Year"
+msgstr "Dit jaar"
 
 msgid "Time format"
 msgstr "Tijdformaat"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-29 13:41+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -267,11 +267,8 @@ msgstr "タスクが完了するまで、ポモドーロ単位で、集中作業
 msgid "Language"
 msgstr "言語"
 
-msgid "Last 180 days"
-msgstr "過去180日間"
-
-msgid "Last 90 days"
-msgstr "過去90日間"
+msgid "Last 365 days"
+msgstr "過去365日間"
 
 msgid "Last Month"
 msgstr "先月"
@@ -501,6 +498,9 @@ msgstr "設定"
 msgid "Share timer data"
 msgstr "タイマーのデータをシェアする"
 
+msgid "Short break"
+msgstr "短い休憩"
+
 msgid "Short break duration"
 msgstr "短い休憩時間"
 
@@ -624,6 +624,9 @@ msgstr "現在の四半期"
 
 msgid "This Week"
 msgstr "今週"
+
+msgid "This Year"
+msgstr "今年"
 
 msgid "Time format"
 msgstr "時間の表示形式"

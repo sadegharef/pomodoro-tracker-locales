@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-29 13:42+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -267,11 +267,8 @@ msgstr "一个番茄钟接着一个番茄钟地持续工作，直到手头的任
 msgid "Language"
 msgstr "语言"
 
-msgid "Last 180 days"
-msgstr "过去180天"
-
-msgid "Last 90 days"
-msgstr "过去90天"
+msgid "Last 365 days"
+msgstr "过去365天"
 
 msgid "Last Month"
 msgstr "上月"
@@ -501,6 +498,9 @@ msgstr "设置"
 msgid "Share timer data"
 msgstr ""
 
+msgid "Short break"
+msgstr "短暂休息"
+
 msgid "Short break duration"
 msgstr "短休息时长"
 
@@ -624,6 +624,9 @@ msgstr "本季度"
 
 msgid "This Week"
 msgstr "本周"
+
+msgid "This Year"
+msgstr "今年"
 
 msgid "Time format"
 msgstr "时间格式"

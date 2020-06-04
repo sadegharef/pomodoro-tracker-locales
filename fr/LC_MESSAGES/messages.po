@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-05-29 13:41+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -272,11 +272,8 @@ msgstr ""
 msgid "Language"
 msgstr "La langue"
 
-msgid "Last 180 days"
-msgstr "ces 180 derniers jours"
-
-msgid "Last 90 days"
-msgstr "ces 90 derniers jours"
+msgid "Last 365 days"
+msgstr "ces 365 derniers jours"
 
 msgid "Last Month"
 msgstr "le mois dernier"
@@ -506,6 +503,9 @@ msgstr "Paramètres"
 msgid "Share timer data"
 msgstr "Partager les données de la minuterie"
 
+msgid "Short break"
+msgstr "Courte pause"
+
 msgid "Short break duration"
 msgstr "Durée de la petite pause"
 
@@ -642,6 +642,9 @@ msgstr "ce trimestre-ci"
 
 msgid "This Week"
 msgstr "cette semaine-ci"
+
+msgid "This Year"
+msgstr "Cette année"
 
 msgid "Time format"
 msgstr "Format horaire"
