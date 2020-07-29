@@ -409,7 +409,7 @@ msgid "Press"
 msgstr "Нажмите"
 
 msgid "Profile"
-msgstr ""
+msgstr "Профиль"
 
 msgid "Provide Feedback"
 msgstr "Отправить отзыв"
