@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-04-22 11:37+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -58,9 +58,6 @@ msgstr "Activiteit per week"
 
 msgid "Add"
 msgstr "Voeg"
-
-msgid "Add Activity"
-msgstr "Voeg activiteit toe"
 
 msgid "Add TODO"
 msgstr "Aan TODO toevoegen"
@@ -159,9 +156,6 @@ msgstr "Dagelijks doel"
 msgid "Daily Goal Completed."
 msgstr "Dagelijks doel behaald."
 
-msgid "Daily Task"
-msgstr "Markeer als dagelijkse taak"
-
 msgid "Date format"
 msgstr "Datumformaat"
 
@@ -173,6 +167,9 @@ msgstr "Start de volgende pomodoro niet als de TODO-lijst leeg is"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Sleep om te sorteren."
+
+msgid "Due"
+msgstr ""
 
 msgid "Edit"
 msgstr "Bewerken"
@@ -186,6 +183,9 @@ msgstr "Activeer notificaties"
 msgid "Enable Web Notifications"
 msgstr "Activeer web-notificaties"
 
+msgid "Ends on"
+msgstr "Eindigt op"
+
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Verbeteren van focus en concentratie, door onderbrekingen te verminderen"
 
@@ -198,9 +198,6 @@ msgstr "Exporteer als csv"
 msgid "Eye Keeper is enabled"
 msgstr ""
 
-msgid "Favorites"
-msgstr "Favorieten"
-
 msgid "Feedback"
 msgstr "Feedback"
 
@@ -209,6 +206,9 @@ msgstr ""
 
 msgid "Fill blank entries"
 msgstr "Vul lege gegevens in"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Globale snelkoppeling om Pomodoro-Tracker te openen"
 
 msgid "Great work!"
 msgstr "Goed bezig!"
@@ -242,6 +242,9 @@ msgstr "Geïmporteerd uit externe bronnen"
 msgid "Improve your work or study process"
 msgstr "Uw werk- of leerproces verbeteren"
 
+msgid "Inbox"
+msgstr ""
+
 msgid "Increase awareness of your decisions"
 msgstr "Toename van bewustwording van eigen beslissingen"
 
@@ -267,11 +270,8 @@ msgstr ""
 msgid "Language"
 msgstr "Taal"
 
-msgid "Last 180 days"
-msgstr "Laatste 180 dagen"
-
-msgid "Last 90 days"
-msgstr "Laatste 90 dagen"
+msgid "Last 365 days"
+msgstr "Laatste 365 dagen"
 
 msgid "Last Month"
 msgstr "Vorige maand"
@@ -324,6 +324,9 @@ msgstr "Markeer als klaar"
 msgid "Median per day"
 msgstr "Mediaan per dag"
 
+msgid "Move to Inbox"
+msgstr "Verplaats naar Inbox"
+
 msgid "Navigate Back"
 msgstr ""
 
@@ -356,9 +359,6 @@ msgstr "Eén minuut over"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
-
-msgid "Pin to activities"
-msgstr "Pin aan favorieten"
 
 msgid "Play alarm sound"
 msgstr "Speel alarm af"
@@ -443,11 +443,17 @@ msgstr "Verwijder er een"
 msgid "Repeat"
 msgstr "Herhaling"
 
+msgid "Repeat every"
+msgstr "Herhaal elke"
+
 msgid "Reports Time"
 msgstr "Rapportagetijd"
 
 msgid "Rules & Tips"
 msgstr "Regels & tips"
+
+msgid "Scheduler"
+msgstr "Planner"
 
 msgid "Schemes"
 msgstr "Schema's"
@@ -473,14 +479,32 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Server is geüpdatet."
 
+msgid "Set Due"
+msgstr "Vervallen"
+
+msgid "Set Recurrence"
+msgstr "Stel herhaling in"
+
 msgid "Set do not disturb"
 msgstr "Stel niet storen"
+
+msgid "Set to Later"
+msgstr "Stel in op later"
+
+msgid "Set to Tomorrow"
+msgstr "Stel voor morgen"
+
+msgid "Set to Week"
+msgstr "Stel in op week"
 
 msgid "Settings"
 msgstr "Instellingen"
 
 msgid "Share timer data"
 msgstr "Deel timergegevens"
+
+msgid "Short break"
+msgstr "Korte pauze"
 
 msgid "Short break duration"
 msgstr "Korte-pauzeduur"
@@ -508,6 +532,9 @@ msgstr "Start de Pomodoro-timer"
 
 msgid "Start working:"
 msgstr "Begin met werken:"
+
+msgid "Starts on"
+msgstr "Begint op"
 
 msgid "Stats"
 msgstr "Statistieken"
@@ -619,6 +646,9 @@ msgstr "Dit kwartaal"
 msgid "This Week"
 msgstr "Deze week"
 
+msgid "This Year"
+msgstr "Dit jaar"
+
 msgid "Time format"
 msgstr "Tijdformaat"
 
@@ -648,9 +678,6 @@ msgstr "Probeer wat taken toe te voegen met bovenstaand formulier"
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Probeer wat pomodori af te ronden, of kies een andere periode"
-
-msgid "Try to mark TODO as activity or use the form above"
-msgstr "Probeer TODO als activiteit te markeren, of gebruik bovenstaand formulier"
 
 msgid "Tune the timer"
 msgstr "Timer instellen"
@@ -750,11 +777,11 @@ msgstr "verwijderen"
 msgid "description"
 msgstr "omschrijving"
 
+msgid "disable"
+msgstr "uitschakelen"
+
 msgid "done"
 msgstr "afgehandeld"
-
-msgid "duplicate"
-msgstr "duplicaat"
 
 msgid "duration"
 msgstr "looptijd"
@@ -767,6 +794,9 @@ msgstr "focus"
 
 msgid "for all time"
 msgstr "in totaal"
+
+msgid "friday"
+msgstr "vrijdag"
 
 msgid "friends"
 msgstr "vrienden"
@@ -803,6 +833,9 @@ msgstr "in pomodori"
 msgid "interruptions"
 msgstr "onderbrekingen"
 
+msgid "later"
+msgstr "later"
+
 msgid "light"
 msgstr "licht"
 
@@ -833,6 +866,9 @@ msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "minuut"
 msgstr[1] "minuten"
+
+msgid "monday"
+msgstr "maandag"
 
 msgid "month"
 msgid_plural "months"
@@ -901,6 +937,9 @@ msgstr "verwijder categorieën"
 msgid "resume"
 msgstr "verdergaan"
 
+msgid "saturday"
+msgstr "zaterdag"
+
 msgid "save"
 msgstr "opslaan"
 
@@ -910,11 +949,17 @@ msgstr "serie"
 msgid "skip"
 msgstr "overslaan"
 
+msgid "split"
+msgstr "verdelen"
+
 msgid "start"
 msgstr "start"
 
 msgid "stop"
 msgstr "stop"
+
+msgid "sunday"
+msgstr "zondag"
 
 msgid "system"
 msgstr "systeem"
@@ -924,6 +969,9 @@ msgstr "neem een lange pauze"
 
 msgid "take a short break"
 msgstr "neem een korte pauze"
+
+msgid "thursday"
+msgstr "donderdag"
 
 msgid "time"
 msgstr "tijd"
@@ -938,14 +986,25 @@ msgstr ""
 msgid "today"
 msgstr "vandaag"
 
+msgid "tomorrow"
+msgstr "morgen"
+
+msgid "tuesday"
+msgstr "dinsdag"
+
 msgid "unknown"
 msgstr "onbekend"
 
 msgid "user"
 msgstr "gebruiker"
 
+msgid "wednesday"
+msgstr "woensdag"
+
 msgid "week"
-msgstr "week"
+msgid_plural "weeks"
+msgstr[0] "week"
+msgstr[1] "weken"
 
 msgid "were"
 msgstr "waren"
@@ -954,6 +1013,9 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "jaar"
 msgstr[1] "jaren"
+
+#~ msgid "Add Activity"
+#~ msgstr "Voeg activiteit toe"
 
 #~ msgid "Apply"
 #~ msgstr "Toepassen"
@@ -967,6 +1029,9 @@ msgstr[1] "jaren"
 #~ msgid "August"
 #~ msgstr "augustus"
 
+#~ msgid "Daily Task"
+#~ msgstr "Markeer als dagelijkse taak"
+
 #~ msgid "Daily history"
 #~ msgstr "Dagelijkse geschiedenis"
 
@@ -978,6 +1043,9 @@ msgstr[1] "jaren"
 
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Activeer Telegram-notificaties"
+
+#~ msgid "Favorites"
+#~ msgstr "Favorieten"
 
 #~ msgid "February"
 #~ msgstr "februari"
@@ -1018,8 +1086,14 @@ msgstr[1] "jaren"
 #~ msgid "October"
 #~ msgstr "oktober"
 
+#~ msgid "Pin to activities"
+#~ msgstr "Pin aan favorieten"
+
 #~ msgid "Privacy Policy"
 #~ msgstr "Privacy Policy"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Herhalende taak"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Rapporten en meldingen"
@@ -1044,6 +1118,14 @@ msgstr[1] "jaren"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Probeer wat pomodori hierboven af te ronden"
+
+#~ msgid "Try to mark TODO as activity or use the form above"
+#~ msgstr ""
+#~ "Probeer TODO als activiteit te markeren,"
+#~ " of gebruik bovenstaand formulier"
+
+#~ msgid "duplicate"
+#~ msgstr "duplicaat"
 
 #~ msgid "quarter"
 #~ msgstr "kwartaal"

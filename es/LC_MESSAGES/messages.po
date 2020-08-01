@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-22 11:37+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -59,9 +59,6 @@ msgstr "Actividad por semanas"
 
 msgid "Add"
 msgstr "Añadir"
-
-msgid "Add Activity"
-msgstr "Añade una Actividad"
 
 msgid "Add TODO"
 msgstr "Añadir a TODO"
@@ -160,9 +157,6 @@ msgstr "Objetivo Diario"
 msgid "Daily Goal Completed."
 msgstr "Obiettivo giornaliero completato."
 
-msgid "Daily Task"
-msgstr "Marcar como tarea diaria"
-
 msgid "Date format"
 msgstr "Formato de Fecha"
 
@@ -174,6 +168,9 @@ msgstr "No comience el pomodoro siguiente si TODO está vacío"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Arrastra&Suelta/Toca para ordenar elementos."
+
+msgid "Due"
+msgstr ""
 
 msgid "Edit"
 msgstr "Editar"
@@ -187,6 +184,9 @@ msgstr "Activar Notificaciones"
 msgid "Enable Web Notifications"
 msgstr "Activar Notificaciones Web"
 
+msgid "Ends on"
+msgstr "Termina en"
+
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Aumenta la concentración y el enfoque disminuyendo las interrupciones"
 
@@ -199,9 +199,6 @@ msgstr "Exportar registros como CSV"
 msgid "Eye Keeper is enabled"
 msgstr "El guardián de los ojos está habilitado"
 
-msgid "Favorites"
-msgstr "Favoritos"
-
 msgid "Feedback"
 msgstr "Sugerencias"
 
@@ -210,6 +207,9 @@ msgstr ""
 
 msgid "Fill blank entries"
 msgstr "Rellenar entradas en blanco"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Atajo global para abrir Pomodoro-Tracker"
 
 msgid "Great work!"
 msgstr "¡Buen trabajo!"
@@ -245,6 +245,9 @@ msgstr "Importado de fuentes externas"
 msgid "Improve your work or study process"
 msgstr "Mejore su trabajo o proceso de estudio"
 
+msgid "Inbox"
+msgstr "Bandeja de entrada"
+
 msgid "Increase awareness of your decisions"
 msgstr "Te hace más consciente de tus decisiones"
 
@@ -271,11 +274,8 @@ msgstr ""
 msgid "Language"
 msgstr "Idioma"
 
-msgid "Last 180 days"
-msgstr "Últimos 180 días"
-
-msgid "Last 90 days"
-msgstr "Últimos 90 días"
+msgid "Last 365 days"
+msgstr "Últimos 365 días"
 
 msgid "Last Month"
 msgstr "El mes pasado"
@@ -330,6 +330,9 @@ msgstr "Marcar como hecho"
 msgid "Median per day"
 msgstr "Mediana por día"
 
+msgid "Move to Inbox"
+msgstr "Mover a la bandeja de entrada"
+
 msgid "Navigate Back"
 msgstr ""
 
@@ -362,9 +365,6 @@ msgstr "Queda un minuto"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Pausa el temporizador cuando la computadora entra en reposo"
-
-msgid "Pin to activities"
-msgstr "Marcar como favorito"
 
 msgid "Play alarm sound"
 msgstr "Sonar alarma"
@@ -449,11 +449,17 @@ msgstr "Quitar uno"
 msgid "Repeat"
 msgstr "Repetir"
 
+msgid "Repeat every"
+msgstr "Repite cada"
+
 msgid "Reports Time"
 msgstr "Hora del informe"
 
 msgid "Rules & Tips"
 msgstr "Reglas y Consejos"
+
+msgid "Scheduler"
+msgstr "Planificador"
 
 msgid "Schemes"
 msgstr "Esquemas"
@@ -479,14 +485,32 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Servidor ha sido actualizado."
 
+msgid "Set Due"
+msgstr "Establecer vencimiento"
+
+msgid "Set Recurrence"
+msgstr "Establecer recurrencia"
+
 msgid "Set do not disturb"
 msgstr "Establecer no molestar"
+
+msgid "Set to Later"
+msgstr "Establecer para más tarde"
+
+msgid "Set to Tomorrow"
+msgstr "Listo para mañana"
+
+msgid "Set to Week"
+msgstr "Establecer a la semana"
 
 msgid "Settings"
 msgstr "Ajustes"
 
 msgid "Share timer data"
 msgstr "Compartir datos del temporizador"
+
+msgid "Short break"
+msgstr "Pequeño descanso"
 
 msgid "Short break duration"
 msgstr "Duración del descanso corto"
@@ -514,6 +538,9 @@ msgstr "Inicia el cronómetro Pomodoro"
 
 msgid "Start working:"
 msgstr "Empieza a trabajar:"
+
+msgid "Starts on"
+msgstr "Comienza en"
 
 msgid "Stats"
 msgstr "Estadísticas"
@@ -625,6 +652,9 @@ msgstr "Este trimestre"
 msgid "This Week"
 msgstr "Esta Semana"
 
+msgid "This Year"
+msgstr "Este año"
+
 msgid "Time format"
 msgstr "Formato de Hora"
 
@@ -654,9 +684,6 @@ msgstr "Intenta añadir algunas tareas usando el formulario de arriba"
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Intenta completar algunos pomodoros o elige un periodo diferente"
-
-msgid "Try to mark TODO as activity or use the form above"
-msgstr "Intenta marcar TODO como actividad o usa el formulario de arriba"
 
 msgid "Tune the timer"
 msgstr "Ajustar el cronómetro"
@@ -756,11 +783,11 @@ msgstr "borrar"
 msgid "description"
 msgstr "descripción"
 
+msgid "disable"
+msgstr "inhabilitar"
+
 msgid "done"
 msgstr "hecho"
-
-msgid "duplicate"
-msgstr "duplicar"
 
 msgid "duration"
 msgstr "duración"
@@ -773,6 +800,9 @@ msgstr "focus"
 
 msgid "for all time"
 msgstr "para todo el tiempo"
+
+msgid "friday"
+msgstr "viernes"
 
 msgid "friends"
 msgstr "amigos"
@@ -809,6 +839,9 @@ msgstr "en pomodoros"
 msgid "interruptions"
 msgstr "interrupciones"
 
+msgid "later"
+msgstr "más tarde"
+
 msgid "light"
 msgstr "ligero"
 
@@ -839,6 +872,9 @@ msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "minuto"
 msgstr[1] "minutos"
+
+msgid "monday"
+msgstr "lunes"
 
 msgid "month"
 msgid_plural "months"
@@ -907,6 +943,9 @@ msgstr "eliminar categorías"
 msgid "resume"
 msgstr "continuar"
 
+msgid "saturday"
+msgstr "sábado"
+
 msgid "save"
 msgstr "salvar"
 
@@ -916,11 +955,17 @@ msgstr "serie"
 msgid "skip"
 msgstr "omitir"
 
+msgid "split"
+msgstr "dividido"
+
 msgid "start"
 msgstr "inicio"
 
 msgid "stop"
 msgstr "parar"
+
+msgid "sunday"
+msgstr "domingo"
 
 msgid "system"
 msgstr "sistema"
@@ -930,6 +975,9 @@ msgstr "haz un descanso largo"
 
 msgid "take a short break"
 msgstr "haz un descanso corto"
+
+msgid "thursday"
+msgstr "jueves"
 
 msgid "time"
 msgstr "tiempo"
@@ -944,14 +992,25 @@ msgstr ""
 msgid "today"
 msgstr "hoy"
 
+msgid "tomorrow"
+msgstr "mañana"
+
+msgid "tuesday"
+msgstr "martes"
+
 msgid "unknown"
 msgstr "desconocido"
 
 msgid "user"
 msgstr "usuario"
 
+msgid "wednesday"
+msgstr "miércoles"
+
 msgid "week"
-msgstr "semana"
+msgid_plural "weeks"
+msgstr[0] "semana"
+msgstr[1] "semanas"
 
 msgid "were"
 msgstr "fueron"
@@ -960,6 +1019,9 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "año"
 msgstr[1] "años"
+
+#~ msgid "Add Activity"
+#~ msgstr "Añade una Actividad"
 
 #~ msgid "Apply"
 #~ msgstr "Aplicar"
@@ -976,6 +1038,9 @@ msgstr[1] "años"
 #~ msgid "Custom"
 #~ msgstr "Personalizado"
 
+#~ msgid "Daily Task"
+#~ msgstr "Marcar como tarea diaria"
+
 #~ msgid "Daily history"
 #~ msgstr "Historial diario"
 
@@ -987,6 +1052,9 @@ msgstr[1] "años"
 
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Habilitar notificaciones de Telegram"
+
+#~ msgid "Favorites"
+#~ msgstr "Favoritos"
 
 #~ msgid "February"
 #~ msgstr "Febrero"
@@ -1024,8 +1092,14 @@ msgstr[1] "años"
 #~ msgid "October"
 #~ msgstr "Octubre"
 
+#~ msgid "Pin to activities"
+#~ msgstr "Marcar como favorito"
+
 #~ msgid "Privacy Policy"
 #~ msgstr "Política de privacidad"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Tarea repetitiva"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Informes y notificaciones"
@@ -1050,6 +1124,12 @@ msgstr[1] "años"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Intenta completar algunos pomodoros de arriba"
+
+#~ msgid "Try to mark TODO as activity or use the form above"
+#~ msgstr "Intenta marcar TODO como actividad o usa el formulario de arriba"
+
+#~ msgid "duplicate"
+#~ msgstr "duplicar"
 
 #~ msgid "quarter"
 #~ msgstr "trimestre"

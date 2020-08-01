@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-22 11:37+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -61,9 +61,6 @@ msgstr "Δραστηριότητα ανα εβδομάδες"
 
 msgid "Add"
 msgstr "Πρόσθεσε"
-
-msgid "Add Activity"
-msgstr "Πρόσθεσε Δραστηριότητα"
 
 msgid "Add TODO"
 msgstr "Πρόσθεσε TODO"
@@ -162,9 +159,6 @@ msgstr "Καθημερινός Στόχος"
 msgid "Daily Goal Completed."
 msgstr "Καθημερινός Στόχος Επιτευχθεί"
 
-msgid "Daily Task"
-msgstr "Καθημερίνη Ασχολία"
-
 msgid "Date format"
 msgstr "Μορφή Ημερομηνίας"
 
@@ -176,6 +170,9 @@ msgstr "Μην ξεκινήσεις το επόμενο πομοντόρο αμ�
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Σύρε&Άφησε/Ακούμπα για να ταξινομήσεις τα αντικείμενα."
+
+msgid "Due"
+msgstr ""
 
 msgid "Edit"
 msgstr "Επεξεργασία"
@@ -189,6 +186,9 @@ msgstr "Ενεργοποίηση ειδοποιήσεων"
 msgid "Enable Web Notifications"
 msgstr "Ενεργοποίησε Ειδοποιήσεις Ιστοσελιδας"
 
+msgid "Ends on"
+msgstr "Τελειώνει"
+
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Ενίσχυσε την συγκέντρωση κόβοντας της αποσπάσεις"
 
@@ -201,9 +201,6 @@ msgstr "Κανε εξαγωγή τα αρχεία σαν CSV"
 msgid "Eye Keeper is enabled"
 msgstr ""
 
-msgid "Favorites"
-msgstr "Αγαπημένα"
-
 msgid "Feedback"
 msgstr "Ανατροφοδότηση"
 
@@ -212,6 +209,9 @@ msgstr ""
 
 msgid "Fill blank entries"
 msgstr "Συμπληρώστε κενές καταχωρήσεις"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Παγκόσμια συντόμευση για άνοιγμα του Pomodoro-Tracker"
 
 msgid "Great work!"
 msgstr "Σπουδαία δουλειά"
@@ -247,6 +247,9 @@ msgstr "Έγινε εισαγωγή απο Εξωτερικές Πηγές"
 msgid "Improve your work or study process"
 msgstr "Βελτίωσε την διαδικασία δουλειάς η διαβάσματος"
 
+msgid "Inbox"
+msgstr "Inbox"
+
 msgid "Increase awareness of your decisions"
 msgstr "Ανεβασε την γνώση των αποφάσεων σου"
 
@@ -272,11 +275,8 @@ msgstr ""
 msgid "Language"
 msgstr "Γλώσσα"
 
-msgid "Last 180 days"
-msgstr "Τελευταίες 180 ημέρες"
-
-msgid "Last 90 days"
-msgstr "Τελευταίες 90 ημέρες"
+msgid "Last 365 days"
+msgstr "Τελευταίες 365 ημέρες"
 
 msgid "Last Month"
 msgstr "Τελευταίος Μήνας"
@@ -329,6 +329,9 @@ msgstr "Σημείωσε σαν ολοκληρωμένο"
 msgid "Median per day"
 msgstr "διάμεσο ανα ημέρα"
 
+msgid "Move to Inbox"
+msgstr "Μετακίνηση στα εισερχόμενα"
+
 msgid "Navigate Back"
 msgstr ""
 
@@ -361,9 +364,6 @@ msgstr "Απέμεινε ενα λέπτο"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
-
-msgid "Pin to activities"
-msgstr "Καρφίτσωμα στης δραστηριότητες"
 
 msgid "Play alarm sound"
 msgstr "Παίξε ηχο συναγερμού"
@@ -452,11 +452,17 @@ msgstr "Αφαίρεσε ενα"
 msgid "Repeat"
 msgstr "Επανάλαβε"
 
+msgid "Repeat every"
+msgstr "επαναλάβετε κάθε"
+
 msgid "Reports Time"
 msgstr "'Ωρα Αναφοράς"
 
 msgid "Rules & Tips"
 msgstr "Κανόνες & Συμβουλές"
+
+msgid "Scheduler"
+msgstr "Χρονοδιάγραμμα"
 
 msgid "Schemes"
 msgstr "Σχέδια"
@@ -482,14 +488,32 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Έχει γίνει ενημέρωση της υπηρεσίας"
 
+msgid "Set Due"
+msgstr "Ορισμός προθεσμίας"
+
+msgid "Set Recurrence"
+msgstr "Ρυθμίστε την επανάληψη"
+
 msgid "Set do not disturb"
 msgstr "Ορίστε να μην ενοχλείτε"
+
+msgid "Set to Later"
+msgstr "Ορισμός σε αργότερα"
+
+msgid "Set to Tomorrow"
+msgstr "Σε αύριο"
+
+msgid "Set to Week"
+msgstr "Ορισμός σε εβδομάδα"
 
 msgid "Settings"
 msgstr "Ρυθμίσεις"
 
 msgid "Share timer data"
 msgstr "Κοινή χρήση δεδομένων χρονοδιακόπτη"
+
+msgid "Short break"
+msgstr "Σύντομο διάλλειμα"
 
 msgid "Short break duration"
 msgstr "Διάρκεια μικρών διαλειμμάτων"
@@ -517,6 +541,9 @@ msgstr "Ξεκίνα το Πομοντόρο χρονόμετρο"
 
 msgid "Start working:"
 msgstr "Ξεκίνα να δουλεύεις:"
+
+msgid "Starts on"
+msgstr "ξεκινά στις"
 
 msgid "Stats"
 msgstr "Στατιστικά"
@@ -630,6 +657,9 @@ msgstr "Αυτή την Τριμηνία"
 msgid "This Week"
 msgstr "Αυτή την εβδομαδα"
 
+msgid "This Year"
+msgstr "Αυτή την χρονιά"
+
 msgid "Time format"
 msgstr "Μορφή Χρόνου"
 
@@ -659,11 +689,6 @@ msgstr "Προσπάθησε να βάλεις μερικές ασχολίες �
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Προσπάθησε να ολοκληρώσεις μερικά Πομοντόρο η διάλεξε διαφορετική περίοδο"
-
-msgid "Try to mark TODO as activity or use the form above"
-msgstr ""
-"Προσπάθησε να μαρκάρεις το TODO σαν δραστηριότητα η χρησημοποιήσε την "
-"φόρμα απο πάνω"
 
 msgid "Tune the timer"
 msgstr "Κούρδισε το χρονόμετρο"
@@ -763,11 +788,11 @@ msgstr "Διαγραφή"
 msgid "description"
 msgstr "Περιγραφή"
 
+msgid "disable"
+msgstr "καθιστώ ανίκανο"
+
 msgid "done"
 msgstr "Τελείωσε"
-
-msgid "duplicate"
-msgstr "Διπλότυπο"
 
 msgid "duration"
 msgstr "Διάρκεια"
@@ -780,6 +805,9 @@ msgstr "Συγκεντρώση"
 
 msgid "for all time"
 msgstr "Για όλο των χρόνο συνολικά"
+
+msgid "friday"
+msgstr "παρασκευή"
 
 msgid "friends"
 msgstr "Φίλοι"
@@ -816,6 +844,9 @@ msgstr "σε Πομοντόρος"
 msgid "interruptions"
 msgstr "διακοπών"
 
+msgid "later"
+msgstr "αργότερα"
+
 msgid "light"
 msgstr "φωτεινό"
 
@@ -846,6 +877,9 @@ msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "λεπτό"
 msgstr[1] "λεπτά"
+
+msgid "monday"
+msgstr "δευτέρα"
 
 msgid "month"
 msgid_plural "months"
@@ -914,6 +948,9 @@ msgstr "αφαίρεσε κατηγοριές"
 msgid "resume"
 msgstr "ξανάρχισε"
 
+msgid "saturday"
+msgstr "σάββατο"
+
 msgid "save"
 msgstr "αποθήκευση"
 
@@ -923,11 +960,17 @@ msgstr "σειρά"
 msgid "skip"
 msgstr "παράλειψη"
 
+msgid "split"
+msgstr "χωρίζω"
+
 msgid "start"
 msgstr "ξεκίνα"
 
 msgid "stop"
 msgstr "σταμάτα"
+
+msgid "sunday"
+msgstr "κυριακή"
 
 msgid "system"
 msgstr "σύστημα"
@@ -937,6 +980,9 @@ msgstr "κανε ενα μεγάλο διάλειμμα"
 
 msgid "take a short break"
 msgstr "κανε ενα μικρό διάλειμμα"
+
+msgid "thursday"
+msgstr "πέμπτη"
 
 msgid "time"
 msgstr "χρόνος"
@@ -951,14 +997,25 @@ msgstr ""
 msgid "today"
 msgstr "σήμερα"
 
+msgid "tomorrow"
+msgstr "αύριο"
+
+msgid "tuesday"
+msgstr "τρίτη"
+
 msgid "unknown"
 msgstr "άγνωστος"
 
 msgid "user"
 msgstr "χρήστης"
 
+msgid "wednesday"
+msgstr "τετάρτη"
+
 msgid "week"
-msgstr "εβδομάδα"
+msgid_plural "weeks"
+msgstr[0] "εβδομάδα"
+msgstr[1] "εβδομάδες"
 
 msgid "were"
 msgstr "ήταν"
@@ -968,8 +1025,17 @@ msgid_plural "years"
 msgstr[0] "χρόνο"
 msgstr[1] "χρόνια"
 
+#~ msgid "Add Activity"
+#~ msgstr "Πρόσθεσε Δραστηριότητα"
+
+#~ msgid "Daily Task"
+#~ msgstr "Καθημερίνη Ασχολία"
+
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Ενεργοποίησε Ειδοποιήσεις απο το Telegram"
+
+#~ msgid "Favorites"
+#~ msgstr "Αγαπημένα"
 
 #~ msgid "Import records from CSV"
 #~ msgstr "Κανε εισαγωγή τα αρχεία απο csv"
@@ -980,8 +1046,14 @@ msgstr[1] "χρόνια"
 #~ msgid "Load daily tasks from Google Calendar"
 #~ msgstr "Φόρτωσε καθημερινές ασχολίες απο το Ημερολόγιο Google"
 
+#~ msgid "Pin to activities"
+#~ msgstr "Καρφίτσωμα στης δραστηριότητες"
+
 #~ msgid "Privacy Policy"
 #~ msgstr "Πολιτική Απορρήτου"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Επαναλαμβανόμενη εργασία"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Αναφορές και ειδοποίησεις"
@@ -994,6 +1066,15 @@ msgstr[1] "χρόνια"
 
 #~ msgid "Sync with Google Tasks"
 #~ msgstr "Κανε συγχρονισμό με το Google Tasks"
+
+#~ msgid "Try to mark TODO as activity or use the form above"
+#~ msgstr ""
+#~ "Προσπάθησε να μαρκάρεις το TODO σαν "
+#~ "δραστηριότητα η χρησημοποιήσε την φόρμα "
+#~ "απο πάνω"
+
+#~ msgid "duplicate"
+#~ msgstr "Διπλότυπο"
 
 #~ msgid "quarter"
 #~ msgstr "τριμηνία"

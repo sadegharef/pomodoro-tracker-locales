@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-22 11:36+0300\n"
+"POT-Creation-Date: 2020-06-04 12:01+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -60,9 +60,6 @@ msgstr "النشاطات على حسب الاسابيع"
 
 msgid "Add"
 msgstr "إضافة"
-
-msgid "Add Activity"
-msgstr "أضف نشاط"
 
 msgid "Add TODO"
 msgstr "اضافة عمل مطلوب انجازه"
@@ -159,9 +156,6 @@ msgstr "الهدف اليومي"
 msgid "Daily Goal Completed."
 msgstr "تم الإنتهاء من الهدف اليومي."
 
-msgid "Daily Task"
-msgstr "مهام يومية"
-
 msgid "Date format"
 msgstr "شكل التاريخ"
 
@@ -173,6 +167,9 @@ msgstr "لا تبدأ بمودورو قادمة إذا كانت قائمة ال�
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "سحب&جر/لمس لترتيب العناصر"
+
+msgid "Due"
+msgstr ""
 
 msgid "Edit"
 msgstr "عدل"
@@ -186,6 +183,9 @@ msgstr "تمكين الإخطارات"
 msgid "Enable Web Notifications"
 msgstr "شغل إشعارات الويب"
 
+msgid "Ends on"
+msgstr "ينتهي في"
+
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "تعزيز التركيز عن طريق قطع الانقطاعات"
 
@@ -198,9 +198,6 @@ msgstr "تصدير السجلات كملف من نوع CSV"
 msgid "Eye Keeper is enabled"
 msgstr "المراقب مفعل"
 
-msgid "Favorites"
-msgstr "المفضلة"
-
 msgid "Feedback"
 msgstr "مراجعة"
 
@@ -209,6 +206,9 @@ msgstr ""
 
 msgid "Fill blank entries"
 msgstr "املأ الإدخالات الفارغة"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "اختصار عام لفتح Pomodoro-Tracker"
 
 msgid "Great work!"
 msgstr "عمل عظيم!"
@@ -242,6 +242,9 @@ msgstr "استيراد من مصادر خارجية"
 msgid "Improve your work or study process"
 msgstr "حسن اداء عملك او مذاكرتك"
 
+msgid "Inbox"
+msgstr "صندوق الوارد"
+
 msgid "Increase awareness of your decisions"
 msgstr "زيادة الوعي عند اتخاذ القرارت"
 
@@ -267,11 +270,8 @@ msgstr ""
 msgid "Language"
 msgstr "لغة"
 
-msgid "Last 180 days"
-msgstr "اخر 180 يوم"
-
-msgid "Last 90 days"
-msgstr "اخر 80 يوم"
+msgid "Last 365 days"
+msgstr "اخر 365 يوم"
 
 msgid "Last Month"
 msgstr "الشهر الفائت"
@@ -324,6 +324,9 @@ msgstr "تم الإنتهاء منها"
 msgid "Median per day"
 msgstr "العدد الاوسط لكل يوم"
 
+msgid "Move to Inbox"
+msgstr "الانتقال إلى البريد الوارد"
+
 msgid "Navigate Back"
 msgstr "رجوع سلبي"
 
@@ -356,9 +359,6 @@ msgstr "دقيقة واحدة متبقية"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "وقف/استمرار عندما يكون الكمبيوتر فى حالة نائم/خامل"
-
-msgid "Pin to activities"
-msgstr "إضافة للمفضلة"
 
 msgid "Play alarm sound"
 msgstr "شغل صوت المنبه"
@@ -441,11 +441,17 @@ msgstr "إزالة واحدة"
 msgid "Repeat"
 msgstr "كرر"
 
+msgid "Repeat every"
+msgstr "تكرار كل"
+
 msgid "Reports Time"
 msgstr "وقت التقارير"
 
 msgid "Rules & Tips"
 msgstr "قوانين & نصائح"
+
+msgid "Scheduler"
+msgstr "المجدول"
 
 msgid "Schemes"
 msgstr "المخططات"
@@ -471,14 +477,32 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "تم تحديث الخادم."
 
+msgid "Set Due"
+msgstr "تعيين المستحقة"
+
+msgid "Set Recurrence"
+msgstr "تعيين التكرار"
+
 msgid "Set do not disturb"
 msgstr "تعيين عدم الإزعاج"
+
+msgid "Set to Later"
+msgstr "تعيين لاحقًا"
+
+msgid "Set to Tomorrow"
+msgstr "تعيين الغد"
+
+msgid "Set to Week"
+msgstr "تعيين على الأسبوع"
 
 msgid "Settings"
 msgstr "اعدادات"
 
 msgid "Share timer data"
 msgstr "شارك معلومات المؤقت"
+
+msgid "Short break"
+msgstr "استراحة قصيرة"
 
 msgid "Short break duration"
 msgstr "مدة الإستراحة القصيرة"
@@ -506,6 +530,9 @@ msgstr "ابدا مؤقت البومودورو"
 
 msgid "Start working:"
 msgstr "بدا العمل:"
+
+msgid "Starts on"
+msgstr "يبدأ في"
 
 msgid "Stats"
 msgstr "احصائيات"
@@ -614,6 +641,9 @@ msgstr "هذا الربع سنوي"
 msgid "This Week"
 msgstr "هذا الإسبوع"
 
+msgid "This Year"
+msgstr "هذا العام"
+
 msgid "Time format"
 msgstr "شكل الوقت"
 
@@ -643,9 +673,6 @@ msgstr "تحاول إضافة بعض المهام استخدم الإستمار�
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "حاول انهاء بعض البومودوروز او اختار فترة مختلفة"
-
-msgid "Try to mark TODO as activity or use the form above"
-msgstr "جرب تمييز الTODO كنشاط او إستخدم الإستمارة التالية"
 
 msgid "Tune the timer"
 msgstr "اضبط المؤقت"
@@ -749,11 +776,11 @@ msgstr "مسح"
 msgid "description"
 msgstr "الوصف"
 
+msgid "disable"
+msgstr "تعطيل"
+
 msgid "done"
 msgstr "تم"
-
-msgid "duplicate"
-msgstr "مكرر"
 
 msgid "duration"
 msgstr "المدة الزمنية"
@@ -766,6 +793,9 @@ msgstr "التركيز"
 
 msgid "for all time"
 msgstr "منذ بداية الوقت"
+
+msgid "friday"
+msgstr "يوم الجمعة"
 
 msgid "friends"
 msgstr "اصدقاء"
@@ -806,6 +836,9 @@ msgstr "بالمودوروز"
 msgid "interruptions"
 msgstr "انقطاع"
 
+msgid "later"
+msgstr "في وقت لاحق"
+
 msgid "light"
 msgstr "ضوء"
 
@@ -844,6 +877,9 @@ msgstr[2] ""
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
+
+msgid "monday"
+msgstr "الإثنين"
 
 msgid "month"
 msgid_plural "months"
@@ -920,6 +956,9 @@ msgstr "إزالة الفئات"
 msgid "resume"
 msgstr "استمرار"
 
+msgid "saturday"
+msgstr "يوم السبت"
+
 msgid "save"
 msgstr "حفظ"
 
@@ -929,11 +968,17 @@ msgstr "سلسلة"
 msgid "skip"
 msgstr "الغاء"
 
+msgid "split"
+msgstr "انقسم"
+
 msgid "start"
 msgstr "ابدا"
 
 msgid "stop"
 msgstr "توقف"
+
+msgid "sunday"
+msgstr "الأحد"
 
 msgid "system"
 msgstr "نظام"
@@ -943,6 +988,9 @@ msgstr "خذ استراحة كبيرة"
 
 msgid "take a short break"
 msgstr "خذ استراحة قصيرة"
+
+msgid "thursday"
+msgstr "الخميس"
 
 msgid "time"
 msgstr "وقت"
@@ -955,14 +1003,29 @@ msgstr "إلي حسابك فى التليجرام، إكتب '/start' ثم أد�
 msgid "today"
 msgstr "اليوم"
 
+msgid "tomorrow"
+msgstr "غدا"
+
+msgid "tuesday"
+msgstr "الثلاثاء"
+
 msgid "unknown"
 msgstr "غير معروف"
 
 msgid "user"
 msgstr "المستعمل"
 
+msgid "wednesday"
+msgstr "الأربعاء"
+
 msgid "week"
-msgstr "أسبوع"
+msgid_plural "weeks"
+msgstr[0] "أسبوع"
+msgstr[1] "أسابيع"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
 
 msgid "were"
 msgstr "كان"
@@ -975,6 +1038,9 @@ msgstr[2] "سنين"
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
+
+#~ msgid "Add Activity"
+#~ msgstr "أضف نشاط"
 
 #~ msgid "Add to TODO"
 #~ msgstr "أضف إلى قائمة المهام"
@@ -994,6 +1060,9 @@ msgstr[5] ""
 #~ msgid "Connect Telegram Bot"
 #~ msgstr "توصيل بوت التليجرام"
 
+#~ msgid "Daily Task"
+#~ msgstr "مهام يومية"
+
 #~ msgid "Daily history"
 #~ msgstr "السجل اليومي"
 
@@ -1011,6 +1080,9 @@ msgstr[5] ""
 
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "شغل إشعارات التليجرام"
+
+#~ msgid "Favorites"
+#~ msgstr "المفضلة"
 
 #~ msgid "February"
 #~ msgstr "فبراير"
@@ -1072,6 +1144,9 @@ msgstr[5] ""
 #~ msgid "October"
 #~ msgstr "اكتوبر"
 
+#~ msgid "Pin to activities"
+#~ msgstr "إضافة للمفضلة"
+
 #~ msgid "Pomodoro is finished. Have a short break."
 #~ msgstr "البومودورو انتهت. خذ استراحة قصيرة."
 
@@ -1086,6 +1161,9 @@ msgstr[5] ""
 
 #~ msgid "Remove"
 #~ msgstr "إزالة"
+
+#~ msgid "Repeating Task"
+#~ msgstr "تكرار المهمة"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "التقارير والإشعارات"
@@ -1119,6 +1197,12 @@ msgstr[5] ""
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "جرب الإنتهاء من بعض البومودورات التالية"
+
+#~ msgid "Try to mark TODO as activity or use the form above"
+#~ msgstr "جرب تمييز الTODO كنشاط او إستخدم الإستمارة التالية"
+
+#~ msgid "duplicate"
+#~ msgstr "مكرر"
 
 #~ msgid "in seconds"
 #~ msgstr "بالثواني"

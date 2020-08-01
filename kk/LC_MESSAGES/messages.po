@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-22 11:37+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -59,9 +59,6 @@ msgstr "Апта бойынша іСтер"
 
 msgid "Add"
 msgstr "Қосу"
-
-msgid "Add Activity"
-msgstr "іС қосу"
 
 msgid "Add TODO"
 msgstr "TODO қосу"
@@ -160,9 +157,6 @@ msgstr "Күн мақсаты"
 msgid "Daily Goal Completed."
 msgstr "Күн мақсаты орындалды"
 
-msgid "Daily Task"
-msgstr "Күн іСі қылу"
-
 msgid "Date format"
 msgstr "Күн форматы"
 
@@ -174,6 +168,9 @@ msgstr "TODO тізімі бос болса, келесі қызанақты б�
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Іріктеу үшін қозғаңыз"
+
+msgid "Due"
+msgstr ""
 
 msgid "Edit"
 msgstr "Өңдеу"
@@ -187,6 +184,9 @@ msgstr "Хабарландыруларды қосыңыз"
 msgid "Enable Web Notifications"
 msgstr "Web-хабарлама"
 
+msgid "Ends on"
+msgstr "Аяқталады"
+
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Концентрация арттыру, алаңдауды азайту"
 
@@ -199,9 +199,6 @@ msgstr "CSV-ға жазбаларды порттау"
 msgid "Eye Keeper is enabled"
 msgstr ""
 
-msgid "Favorites"
-msgstr "Таңдамалы"
-
 msgid "Feedback"
 msgstr "Пікір"
 
@@ -210,6 +207,9 @@ msgstr ""
 
 msgid "Fill blank entries"
 msgstr "Бос жазбаларды толтырыңыз"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Pomodoro-Tracker ашуға арналған ғаламдық тіркесім"
 
 msgid "Great work!"
 msgstr "Күшті жұмыс істедіңіз!"
@@ -245,6 +245,9 @@ msgstr "сыртқы көздерден импортталған"
 msgid "Improve your work or study process"
 msgstr "Жұмыс немесе оқу дағдысын жақсарту"
 
+msgid "Inbox"
+msgstr "Кіріс жәшігі"
+
 msgid "Increase awareness of your decisions"
 msgstr "Қабылдаған шешімдерден хабардар боп отыру"
 
@@ -270,11 +273,8 @@ msgstr ""
 msgid "Language"
 msgstr "Тіл"
 
-msgid "Last 180 days"
-msgstr "Соңғы 180 күн"
-
-msgid "Last 90 days"
-msgstr "Соңғы тоқсан"
+msgid "Last 365 days"
+msgstr "Соңғы 365 күн"
 
 msgid "Last Month"
 msgstr "Өткен ай"
@@ -327,6 +327,9 @@ msgstr "Аяқталған қылу"
 msgid "Median per day"
 msgstr "Медиана/күн"
 
+msgid "Move to Inbox"
+msgstr "Кіріс жәшігіне жылжу"
+
 msgid "Navigate Back"
 msgstr ""
 
@@ -359,9 +362,6 @@ msgstr "Бір минут қалды"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
-
-msgid "Pin to activities"
-msgstr "Сүйіктілер тізіміне апару"
 
 msgid "Play alarm sound"
 msgstr "Мәре дыбысы"
@@ -444,11 +444,17 @@ msgstr ""
 msgid "Repeat"
 msgstr "Қайталаңыз"
 
+msgid "Repeat every"
+msgstr "Қайталау"
+
 msgid "Reports Time"
 msgstr "Осы уақытта"
 
 msgid "Rules & Tips"
 msgstr "Ереже мен Айлалар"
+
+msgid "Scheduler"
+msgstr "Жоспарлаушы"
 
 msgid "Schemes"
 msgstr "Сызбалар"
@@ -474,14 +480,32 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Сервер жаңарды"
 
+msgid "Set Due"
+msgstr "Белгіленген уақыт"
+
+msgid "Set Recurrence"
+msgstr "Қайталануды орнатыңыз"
+
 msgid "Set do not disturb"
 msgstr "Мазаламаңыз"
+
+msgid "Set to Later"
+msgstr "Кейінге қойыңыз"
+
+msgid "Set to Tomorrow"
+msgstr "Ертеңге қойыңыз"
+
+msgid "Set to Week"
+msgstr "Аптаға орнатыңыз"
 
 msgid "Settings"
 msgstr "Баптаулар"
 
 msgid "Share timer data"
 msgstr "Таймер деректерін бөлісу"
+
+msgid "Short break"
+msgstr "Қысқа үзіліс"
 
 msgid "Short break duration"
 msgstr "Қысқа үзіліс ұзақтығы"
@@ -509,6 +533,9 @@ msgstr "Қызанақ таймерін бастаңыз"
 
 msgid "Start working:"
 msgstr "Жұмысты бастаңыз"
+
+msgid "Starts on"
+msgstr "Басталады"
 
 msgid "Stats"
 msgstr "Статистика"
@@ -614,6 +641,9 @@ msgstr "Осы ширекжыл"
 msgid "This Week"
 msgstr "Осы апта"
 
+msgid "This Year"
+msgstr "Бұл жылы"
+
 msgid "Time format"
 msgstr "Уақыт форматы"
 
@@ -643,9 +673,6 @@ msgstr "Үлгіні қолданып, қосымша жұмыс қосыңыз"
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Тағы қосымша қызанақ жарыңыз немесе басқа период таңдаңыз"
-
-msgid "Try to mark TODO as activity or use the form above"
-msgstr "TODO-ды іС қылып көріңіз я келесі үлгіні толтырыңыз"
 
 msgid "Tune the timer"
 msgstr "Баптаулар"
@@ -745,11 +772,11 @@ msgstr "өшір"
 msgid "description"
 msgstr "сипаттамасы"
 
+msgid "disable"
+msgstr "ажыратыңыз"
+
 msgid "done"
 msgstr "аяқталған"
-
-msgid "duplicate"
-msgstr "көшірме"
 
 msgid "duration"
 msgstr "ұзақтығы"
@@ -762,6 +789,9 @@ msgstr "фокус"
 
 msgid "for all time"
 msgstr "ресурс ашылғалы бері"
+
+msgid "friday"
+msgstr "жұма"
 
 msgid "friends"
 msgstr "достар"
@@ -798,6 +828,9 @@ msgstr "қызанақ"
 msgid "interruptions"
 msgstr "үзілістер"
 
+msgid "later"
+msgstr "кейінірек"
+
 msgid "light"
 msgstr "жарық"
 
@@ -828,6 +861,9 @@ msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "минут"
 msgstr[1] "минут"
+
+msgid "monday"
+msgstr "дүйсенбі"
 
 msgid "month"
 msgid_plural "months"
@@ -896,6 +932,9 @@ msgstr "санаттарды жою"
 msgid "resume"
 msgstr "жалғастыру"
 
+msgid "saturday"
+msgstr "сенбі"
+
 msgid "save"
 msgstr "сақтау"
 
@@ -905,11 +944,17 @@ msgstr "сериясы"
 msgid "skip"
 msgstr "өткізу"
 
+msgid "split"
+msgstr "шағу"
+
 msgid "start"
 msgstr "старт"
 
 msgid "stop"
 msgstr "стоп"
+
+msgid "sunday"
+msgstr "жексенбі"
 
 msgid "system"
 msgstr "жүйе"
@@ -919,6 +964,9 @@ msgstr "ұзақ үзілістен"
 
 msgid "take a short break"
 msgstr "қысқа үзілістен"
+
+msgid "thursday"
+msgstr "бейсенбі"
 
 msgid "time"
 msgstr "уақыт"
@@ -931,14 +979,25 @@ msgstr "телеграмдағы ботта `/start` арқылы кодты е�
 msgid "today"
 msgstr "бүгін"
 
+msgid "tomorrow"
+msgstr "ертең"
+
+msgid "tuesday"
+msgstr "сейсенбі"
+
 msgid "unknown"
 msgstr "белгісіз"
 
 msgid "user"
 msgstr "пайдаланушы"
 
+msgid "wednesday"
+msgstr "сәрсенбі"
+
 msgid "week"
-msgstr "апта"
+msgid_plural "weeks"
+msgstr[0] "апта"
+msgstr[1] "апта"
 
 msgid "were"
 msgstr "болды"
@@ -947,6 +1006,9 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "жыл"
 msgstr[1] "жыл"
+
+#~ msgid "Add Activity"
+#~ msgstr "іС қосу"
 
 #~ msgid "Apply"
 #~ msgstr "Қабылдау"
@@ -960,6 +1022,9 @@ msgstr[1] "жыл"
 #~ msgid "August"
 #~ msgstr "Тамыз"
 
+#~ msgid "Daily Task"
+#~ msgstr "Күн іСі қылу"
+
 #~ msgid "Daily history"
 #~ msgstr "Күнделікті жазбалар"
 
@@ -971,6 +1036,9 @@ msgstr[1] "жыл"
 
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Telegram-хабарлама"
+
+#~ msgid "Favorites"
+#~ msgstr "Таңдамалы"
 
 #~ msgid "February"
 #~ msgstr "Ақпан"
@@ -1011,8 +1079,14 @@ msgstr[1] "жыл"
 #~ msgid "October"
 #~ msgstr "Қазан"
 
+#~ msgid "Pin to activities"
+#~ msgstr "Сүйіктілер тізіміне апару"
+
 #~ msgid "Privacy Policy"
 #~ msgstr "Құпия келісімі"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Қайталау тапсырмасы"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Есептер мен хабарландырулар"
@@ -1037,6 +1111,12 @@ msgstr[1] "жыл"
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Жоғарыдағы қей қызанақтарды аяқтау"
+
+#~ msgid "Try to mark TODO as activity or use the form above"
+#~ msgstr "TODO-ды іС қылып көріңіз я келесі үлгіні толтырыңыз"
+
+#~ msgid "duplicate"
+#~ msgstr "көшірме"
 
 #~ msgid "quarter"
 #~ msgstr "ширекжыл"

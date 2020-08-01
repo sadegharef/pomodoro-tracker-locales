@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-04-22 11:37+0300\n"
+"POT-Creation-Date: 2020-06-04 12:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -60,9 +60,6 @@ msgstr "Активність за тижнями"
 
 msgid "Add"
 msgstr "Додати"
-
-msgid "Add Activity"
-msgstr "Додати у вибране"
 
 msgid "Add TODO"
 msgstr "Запланувати"
@@ -161,9 +158,6 @@ msgstr "Ціль на день"
 msgid "Daily Goal Completed."
 msgstr "Ціль на день виконано."
 
-msgid "Daily Task"
-msgstr "Повторювати щоденно"
-
 msgid "Date format"
 msgstr "Формат дати"
 
@@ -175,6 +169,9 @@ msgstr "Не починати наступний Помідор, якщо спи
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Перетягуйте для сортування"
+
+msgid "Due"
+msgstr ""
 
 msgid "Edit"
 msgstr "Редагувати"
@@ -188,6 +185,9 @@ msgstr "Увімкнути сповіщення"
 msgid "Enable Web Notifications"
 msgstr "Увімкнути сповіщення в браузері"
 
+msgid "Ends on"
+msgstr "Закінчується далі"
+
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Поліпшити зосередженість та концентрацію, звільняючи від відволікань"
 
@@ -200,9 +200,6 @@ msgstr "Експортувати записи у файл CSV"
 msgid "Eye Keeper is enabled"
 msgstr "Оберігач очей увімкнено"
 
-msgid "Favorites"
-msgstr "Вибране"
-
 msgid "Feedback"
 msgstr "Ідеї"
 
@@ -211,6 +208,9 @@ msgstr ""
 
 msgid "Fill blank entries"
 msgstr "Заповніть порожні записи"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Глобальний ярлик для відкриття Pomodoro-Tracker"
 
 msgid "Great work!"
 msgstr "Чудова робота!"
@@ -244,6 +244,9 @@ msgstr "Імпортовано із зовнішніх джерел"
 msgid "Improve your work or study process"
 msgstr "Покращити вашу роботу чи процес навчання"
 
+msgid "Inbox"
+msgstr "Вхідні"
+
 msgid "Increase awareness of your decisions"
 msgstr "Посилити усвідомлення ваших рішень"
 
@@ -269,11 +272,8 @@ msgstr ""
 msgid "Language"
 msgstr "Мова"
 
-msgid "Last 180 days"
-msgstr "Останні 180 днів"
-
-msgid "Last 90 days"
-msgstr "Останні 90 днів"
+msgid "Last 365 days"
+msgstr "Останні 365 днів"
 
 msgid "Last Month"
 msgstr "Останній місяць"
@@ -326,6 +326,9 @@ msgstr "Відмітити як виконане"
 msgid "Median per day"
 msgstr "Медіана за день"
 
+msgid "Move to Inbox"
+msgstr "Переміщення до Вхідні"
+
 msgid "Navigate Back"
 msgstr "Назад"
 
@@ -358,9 +361,6 @@ msgstr "Залишилася хвилина"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Зупиняти таймер, коли компьютер іде в режим сну"
-
-msgid "Pin to activities"
-msgstr "Додати у вибране"
 
 msgid "Play alarm sound"
 msgstr "Грати фінішний звук"
@@ -445,11 +445,17 @@ msgstr "Прибрати один"
 msgid "Repeat"
 msgstr "Повторити"
 
+msgid "Repeat every"
+msgstr "Повторити кожен"
+
 msgid "Reports Time"
 msgstr "Час звітів"
 
 msgid "Rules & Tips"
 msgstr "Правила й поради"
+
+msgid "Scheduler"
+msgstr "Планувальник"
 
 msgid "Schemes"
 msgstr "Схеми"
@@ -475,14 +481,32 @@ msgstr ""
 msgid "Server has been updated."
 msgstr "Сервер було оновлено"
 
+msgid "Set Due"
+msgstr "Встановити належне"
+
+msgid "Set Recurrence"
+msgstr "Встановити повторність"
+
 msgid "Set do not disturb"
 msgstr "Набір не турбувати"
+
+msgid "Set to Later"
+msgstr "Призначити на пізніше"
+
+msgid "Set to Tomorrow"
+msgstr "Встановити на завтра"
+
+msgid "Set to Week"
+msgstr "Призначити на тиждень"
 
 msgid "Settings"
 msgstr "Налаштування"
 
 msgid "Share timer data"
 msgstr "Обмін даними таймера"
+
+msgid "Short break"
+msgstr "Невелика перерва"
 
 msgid "Short break duration"
 msgstr "Тривалість короткої перерви"
@@ -510,6 +534,9 @@ msgstr "Почати Помідор"
 
 msgid "Start working:"
 msgstr "Починайте працювати:"
+
+msgid "Starts on"
+msgstr "Починається далі"
 
 msgid "Stats"
 msgstr "Статистика"
@@ -620,6 +647,9 @@ msgstr "Цей квартал"
 msgid "This Week"
 msgstr "Цей тиждень"
 
+msgid "This Year"
+msgstr "Цей рік"
+
 msgid "Time format"
 msgstr "Формат часу"
 
@@ -649,9 +679,6 @@ msgstr "Спробуйте додати завдання, використову
 
 msgid "Try to complete some pomodoros or choose a different period"
 msgstr "Спробуйте виконати кілька Помідорів або виберіть інший період"
-
-msgid "Try to mark TODO as activity or use the form above"
-msgstr "Спробуйте додати завдання у Вибране або використайте форму вище"
 
 msgid "Tune the timer"
 msgstr "Налаштування таймера"
@@ -752,11 +779,11 @@ msgstr "видалити"
 msgid "description"
 msgstr "опис"
 
+msgid "disable"
+msgstr "відключити"
+
 msgid "done"
 msgstr "зроблено"
-
-msgid "duplicate"
-msgstr "скопіювати"
 
 msgid "duration"
 msgstr "тривалість"
@@ -769,6 +796,9 @@ msgstr "фокус"
 
 msgid "for all time"
 msgstr "за весь час"
+
+msgid "friday"
+msgstr "п’ятниця"
 
 msgid "friends"
 msgstr "друзі"
@@ -806,6 +836,9 @@ msgstr "в Помідорах"
 msgid "interruptions"
 msgstr "перешкоди"
 
+msgid "later"
+msgstr "пізніше"
+
 msgid "light"
 msgstr "світла"
 
@@ -838,6 +871,9 @@ msgid_plural "minutes"
 msgstr[0] "хвилина"
 msgstr[1] "хвилини"
 msgstr[2] "хвилин"
+
+msgid "monday"
+msgstr "понеділок"
 
 msgid "month"
 msgid_plural "months"
@@ -908,6 +944,9 @@ msgstr "видалити категорії"
 msgid "resume"
 msgstr "відновити"
 
+msgid "saturday"
+msgstr "субота"
+
 msgid "save"
 msgstr "зберегти"
 
@@ -917,11 +956,17 @@ msgstr "серія"
 msgid "skip"
 msgstr "пропустити"
 
+msgid "split"
+msgstr "розщеплюватися"
+
 msgid "start"
 msgstr "старт"
 
 msgid "stop"
 msgstr "стоп"
+
+msgid "sunday"
+msgstr "неділя"
 
 msgid "system"
 msgstr "системна"
@@ -931,6 +976,9 @@ msgstr "зробіть довгу перерву"
 
 msgid "take a short break"
 msgstr "зробіть коротку перерву"
+
+msgid "thursday"
+msgstr "четвер"
 
 msgid "time"
 msgstr "час"
@@ -943,14 +991,27 @@ msgstr "у вашому Телеграмі напишіть `/start` та вве
 msgid "today"
 msgstr "сьогодні"
 
+msgid "tomorrow"
+msgstr "завтра"
+
+msgid "tuesday"
+msgstr "вівторок"
+
 msgid "unknown"
 msgstr "невідомо"
 
 msgid "user"
 msgstr "користувач"
 
+msgid "wednesday"
+msgstr "середа"
+
+#, fuzzy
 msgid "week"
-msgstr "тиждень"
+msgid_plural "weeks"
+msgstr[0] "тиждень"
+msgstr[1] "тижнів"
+msgstr[2] "тижнів"
 
 msgid "were"
 msgstr "були"
@@ -961,8 +1022,17 @@ msgstr[0] "рік"
 msgstr[1] "роки"
 msgstr[2] "років"
 
+#~ msgid "Add Activity"
+#~ msgstr "Додати у вибране"
+
+#~ msgid "Daily Task"
+#~ msgstr "Повторювати щоденно"
+
 #~ msgid "Enable Telegram Notifications"
 #~ msgstr "Увімкнути сповіщення в Телеграмі"
+
+#~ msgid "Favorites"
+#~ msgstr "Вибране"
 
 #~ msgid "Import records from CSV"
 #~ msgstr "Імпортувати записи з файлу CSV"
@@ -972,6 +1042,12 @@ msgstr[2] "років"
 
 #~ msgid "Load daily tasks from Google Calendar"
 #~ msgstr "Завантажувати щоденні завдання з календаря Google"
+
+#~ msgid "Pin to activities"
+#~ msgstr "Додати у вибране"
+
+#~ msgid "Repeating Task"
+#~ msgstr "Завдання, що повторюється"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Звіти та сповіщення"
@@ -984,6 +1060,12 @@ msgstr[2] "років"
 
 #~ msgid "Sync with Google Tasks"
 #~ msgstr "Синхронізація з Google Tasks"
+
+#~ msgid "Try to mark TODO as activity or use the form above"
+#~ msgstr "Спробуйте додати завдання у Вибране або використайте форму вище"
+
+#~ msgid "duplicate"
+#~ msgstr "скопіювати"
 
 #~ msgid "quarter"
 #~ msgstr "квартал"
