@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-08-03 13:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -353,6 +353,9 @@ msgstr "開始したポモドーロは、タイマーが鳴るまで集中して
 
 msgid "One minute left"
 msgstr "残り1分です"
+
+msgid "Operation is complete"
+msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "コンピューターがスリープ/アイドル状態のときに一時停止/再開されます"
@@ -774,6 +777,9 @@ msgstr "集中"
 msgid "for all time"
 msgstr "経ちました"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "金曜日"
 
@@ -956,9 +962,9 @@ msgid "time"
 msgstr "時間"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr "あなたの電報に `/ start`と打ち込んでボットのコードを以下のフィールドに入力してください"
+msgstr "あなたの電報に `/reg`と打ち込んでボットのコードを以下のフィールドに入力してください"
 
 msgid "today"
 msgstr "今日"

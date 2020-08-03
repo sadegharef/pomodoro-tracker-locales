@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-08-03 13:53+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -353,6 +353,9 @@ msgstr "一旦番茄钟开始了，必须持续到番茄钟响起"
 
 msgid "One minute left"
 msgstr "剩余一分钟"
+
+msgid "Operation is complete"
+msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
@@ -773,6 +776,9 @@ msgstr ""
 msgid "for all time"
 msgstr "总计"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "星期五"
 
@@ -950,9 +956,9 @@ msgid "time"
 msgstr "时间"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr "到你的telegram，输入‘/start’指令并输入bot字段的编码"
+msgstr "到你的telegram，输入‘/reg’指令并输入bot字段的编码"
 
 msgid "today"
 msgstr "今天"

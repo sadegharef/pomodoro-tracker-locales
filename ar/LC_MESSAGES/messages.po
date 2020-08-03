@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:01+0300\n"
+"POT-Creation-Date: 2020-08-03 13:52+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -356,6 +356,9 @@ msgstr "ستسمع صوت التنبيه بمجرد بدأ البومودورو"
 
 msgid "One minute left"
 msgstr "دقيقة واحدة متبقية"
+
+msgid "Operation is complete"
+msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "وقف/استمرار عندما يكون الكمبيوتر فى حالة نائم/خامل"
@@ -794,6 +797,9 @@ msgstr "التركيز"
 msgid "for all time"
 msgstr "منذ بداية الوقت"
 
+msgid "forward"
+msgstr "القفز إلى الأمام"
+
 msgid "friday"
 msgstr "يوم الجمعة"
 
@@ -996,9 +1002,9 @@ msgid "time"
 msgstr "وقت"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr "إلي حسابك فى التليجرام، إكتب '/start' ثم أدخل كود البوت فى الحقل التالي"
+msgstr "إلي حسابك فى التليجرام، إكتب '/reg' ثم أدخل كود البوت فى الحقل التالي"
 
 msgid "today"
 msgstr "اليوم"

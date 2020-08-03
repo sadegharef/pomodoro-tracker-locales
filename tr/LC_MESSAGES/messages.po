@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-08-03 13:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -361,6 +361,9 @@ msgstr "Pomodoro bir kere başladıktan sonra bitmek zorundadır"
 
 msgid "One minute left"
 msgstr "bir dakika kaldı"
+
+msgid "Operation is complete"
+msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
@@ -798,6 +801,9 @@ msgstr "odaklanma"
 msgid "for all time"
 msgstr "tüm zamanlar için"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "cuma"
 
@@ -982,7 +988,7 @@ msgid "time"
 msgstr "zaman"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
 msgstr ""
 

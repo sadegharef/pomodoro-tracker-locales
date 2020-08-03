@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-08-03 13:53+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -356,6 +356,9 @@ msgstr "Als een pomodoro begint, moet hij rinkelen"
 
 msgid "One minute left"
 msgstr "Eén minuut over"
+
+msgid "Operation is complete"
+msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
@@ -795,6 +798,9 @@ msgstr "focus"
 msgid "for all time"
 msgstr "in totaal"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "vrijdag"
 
@@ -977,10 +983,10 @@ msgid "time"
 msgstr "tijd"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
 msgstr ""
-"toe aan je telegram, typ `/start`, en vul de code van de bot in "
+"toe aan je telegram, typ `/reg`, en vul de code van de bot in "
 "onderstaand veld in."
 
 msgid "today"

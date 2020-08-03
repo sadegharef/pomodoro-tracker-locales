@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-06-04 12:01+0300\n"
+"POT-Creation-Date: 2020-08-03 13:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -361,6 +361,9 @@ msgstr "Wenn ein Pomodoro beginnt muss es klingeln"
 
 msgid "One minute left"
 msgstr "Eine Minute noch"
+
+msgid "Operation is complete"
+msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Timer anhalten, wenn der Computer in den Energiesparmodus wechselt"
@@ -796,6 +799,9 @@ msgstr "fokus"
 msgid "for all time"
 msgstr "insgesamt"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "freitag"
 
@@ -978,10 +984,10 @@ msgid "time"
 msgstr "zeit"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
 msgstr ""
-"tippen Sie `/start` und den Code ein vom Telegram Bot um zu Ihrem "
+"tippen Sie `/reg` und den Code ein vom Telegram Bot um zu Ihrem "
 "Telegram zugelangen"
 
 msgid "today"

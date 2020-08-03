@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-08-03 13:52+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -361,6 +361,9 @@ msgstr "Οταν η Πομοντόρο ξεκίνα, πρέπει να κουδ�
 
 msgid "One minute left"
 msgstr "Απέμεινε ενα λέπτο"
+
+msgid "Operation is complete"
+msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
@@ -806,6 +809,9 @@ msgstr "Συγκεντρώση"
 msgid "for all time"
 msgstr "Για όλο των χρόνο συνολικά"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "παρασκευή"
 
@@ -988,10 +994,10 @@ msgid "time"
 msgstr "χρόνος"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
 msgstr ""
-"στο telegram σου, γράξε '/start' και βάλε ενα κωδικό απο το bot στο πεδίο"
+"στο telegram σου, γράξε '/reg' και βάλε ενα κωδικό απο το bot στο πεδίο"
 " παρακάτω"
 
 msgid "today"

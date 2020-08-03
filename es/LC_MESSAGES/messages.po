@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-08-03 13:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -362,6 +362,9 @@ msgstr "Una vez que comienza un Pomodoro, tiene que llegar a sonar"
 
 msgid "One minute left"
 msgstr "Queda un minuto"
+
+msgid "Operation is complete"
+msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Pausa el temporizador cuando la computadora entra en reposo"
@@ -801,6 +804,9 @@ msgstr "focus"
 msgid "for all time"
 msgstr "para todo el tiempo"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "viernes"
 
@@ -983,10 +989,10 @@ msgid "time"
 msgstr "tiempo"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
 msgstr ""
-"en tu telegram, escribe `/start` e ingresa el código desde el bot al "
+"en tu telegram, escribe `/reg` e ingresa el código desde el bot al "
 "campo abajo"
 
 msgid "today"

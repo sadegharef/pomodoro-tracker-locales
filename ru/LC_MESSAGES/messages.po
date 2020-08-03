@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:01+0300\n"
+"POT-Creation-Date: 2020-08-03 13:52+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -360,6 +360,9 @@ msgstr "Если вы начали «помидор» — вы должны ег
 
 msgid "One minute left"
 msgstr "Осталась одна минута"
+
+msgid "Operation is complete"
+msgstr "Операция выполнена"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Останавливать таймер когда комьютер уходит в спящий режим"
@@ -798,6 +801,9 @@ msgstr "фокус"
 msgid "for all time"
 msgstr "за все время"
 
+msgid "forward"
+msgstr "пропустить"
+
 msgid "friday"
 msgstr "пятница"
 
@@ -985,9 +991,9 @@ msgid "time"
 msgstr "время"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr "в ваш telegram, напишите `/start` и введите полученный код в поле ниже"
+msgstr "в ваш telegram, напишите `/reg` и введите полученный код в поле ниже"
 
 msgid "today"
 msgstr "сегодня"

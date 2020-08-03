@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-08-03 13:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -359,6 +359,9 @@ msgstr "Қызанақ бастасаңыз, міндетті түрде аяқ�
 
 msgid "One minute left"
 msgstr "Бір минут қалды"
+
+msgid "Operation is complete"
+msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
@@ -790,6 +793,9 @@ msgstr "фокус"
 msgid "for all time"
 msgstr "ресурс ашылғалы бері"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "жұма"
 
@@ -972,9 +978,9 @@ msgid "time"
 msgstr "уақыт"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr "телеграмдағы ботта `/start` арқылы кодты енгізіңіз"
+msgstr "телеграмдағы ботта `/reg` арқылы кодты енгізіңіз"
 
 msgid "today"
 msgstr "бүгін"
