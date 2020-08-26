@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-08-03 13:53+0300\n"
+"POT-Creation-Date: 2020-08-26 09:37+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -829,6 +829,9 @@ msgid_plural "likes"
 msgstr[0] "いいね"
 msgstr[1] "いいね"
 
+msgid "login"
+msgstr "ログインする"
+
 msgid "maximize"
 msgstr "最大値"
 
@@ -927,6 +930,9 @@ msgstr "土曜日"
 
 msgid "save"
 msgstr "保存"
+
+msgid "send password"
+msgstr "パスワードを送る"
 
 msgid "series"
 msgstr "シリーズ"

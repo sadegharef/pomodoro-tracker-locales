@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-08-03 13:53+0300\n"
+"POT-Creation-Date: 2020-08-26 09:37+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -826,8 +826,11 @@ msgid "like"
 msgid_plural "likes"
 msgstr[0] "赞"
 
+msgid "login"
+msgstr "登录"
+
 msgid "maximize"
-msgstr ""
+msgstr "最大化"
 
 msgid "median"
 msgstr "中位数"
@@ -920,7 +923,10 @@ msgid "saturday"
 msgstr "星期六"
 
 msgid "save"
-msgstr ""
+msgstr "保存"
+
+msgid "send password"
+msgstr "发送密码"
 
 msgid "series"
 msgstr "系列"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-08-03 13:53+0300\n"
+"POT-Creation-Date: 2020-08-26 09:37+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -847,6 +847,9 @@ msgid_plural "likes"
 msgstr[0] "like"
 msgstr[1] "likes"
 
+msgid "login"
+msgstr "s'identifier"
+
 msgid "maximize"
 msgstr ""
 
@@ -949,6 +952,9 @@ msgstr "samedi"
 
 msgid "save"
 msgstr ""
+
+msgid "send password"
+msgstr "envoyer le mot de passe"
 
 msgid "series"
 msgstr "séries"

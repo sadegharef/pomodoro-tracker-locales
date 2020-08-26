@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-08-03 13:53+0300\n"
+"POT-Creation-Date: 2020-08-26 09:37+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -858,6 +858,9 @@ msgstr[0] "polubienie"
 msgstr[1] "polubienia"
 msgstr[2] "polubień"
 
+msgid "login"
+msgstr "zaloguj sie"
+
 msgid "maximize"
 msgstr "maksymalizuj"
 
@@ -959,6 +962,9 @@ msgstr "sobota"
 
 msgid "save"
 msgstr "zapisz"
+
+msgid "send password"
+msgstr "wyślij hasło"
 
 msgid "series"
 msgstr "seria"

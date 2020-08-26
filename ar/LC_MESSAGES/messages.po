@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-08-03 13:52+0300\n"
+"POT-Creation-Date: 2020-08-26 09:36+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -857,6 +857,9 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
+msgid "login"
+msgstr "تسجيل الدخول"
+
 msgid "maximize"
 msgstr ""
 
@@ -967,6 +970,9 @@ msgstr "يوم السبت"
 
 msgid "save"
 msgstr "حفظ"
+
+msgid "send password"
+msgstr "إرسال كلمة المرور"
 
 msgid "series"
 msgstr "سلسلة"

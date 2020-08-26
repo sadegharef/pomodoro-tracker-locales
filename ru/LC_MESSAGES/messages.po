@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-08-03 13:52+0300\n"
+"POT-Creation-Date: 2020-08-26 09:36+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -855,6 +855,9 @@ msgstr[0] "плюс"
 msgstr[1] "плюса"
 msgstr[2] "плюсов"
 
+msgid "login"
+msgstr "войти"
+
 msgid "maximize"
 msgstr "максимизировать"
 
@@ -956,6 +959,9 @@ msgstr "суббота"
 
 msgid "save"
 msgstr "сохранить"
+
+msgid "send password"
+msgstr "отправить пароль"
 
 msgid "series"
 msgstr "серия"
