@@ -594,7 +594,7 @@ msgstr ""
 "Pomodoro tekniği herhangi bir görev için kullanabileceğiniz bir zaman "
 "yönetim tekniğidir. Birçok kişi için zaman bir düşmandır. “Saat tik "
 "seslerinin” özellikle yaklaşan zaman sınırlarında oluşturduğu kaygı "
-"başarısız çalışmalara ve kötü çalışma alışkanlıklarına yol açar ve buda "
+"başarısız çalışmalara ve kötü çalışma alışkanlıklarına yol açar ve bu da "
 "işin ertelenmesine sebebiyet verir."
 
 msgid ""
