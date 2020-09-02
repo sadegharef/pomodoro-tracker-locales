@@ -114,7 +114,7 @@ msgid "Changes saved"
 msgstr "Изменения сохранены"
 
 msgid "Clear DONE history once per day"
-msgstr "Раз в день ощищать историю задач"
+msgstr "Раз в день очищать историю задач"
 
 msgid "Clear the list"
 msgstr "Очистить список"
