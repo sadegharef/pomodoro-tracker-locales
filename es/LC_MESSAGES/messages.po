@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-08-26 09:37+0300\n"
+"POT-Creation-Date: 2020-09-04 14:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -381,6 +381,9 @@ msgstr "Haz sonar un tictac durante los descansos"
 msgid "Please don't send me these awesome daily reports"
 msgstr "Por favor no me envíes estos increíbles informes diarios"
 
+msgid "Please log in using a different method and connect the %1$s after"
+msgstr "Inicie sesión con un método diferente y conecte el %1$s después"
+
 msgid "Please reload the application."
 msgstr "Por favor recarga la aplicación."
 
@@ -726,6 +729,13 @@ msgstr "Ayer"
 
 msgid "You are not signed."
 msgstr "No estás identificado."
+
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
+msgstr ""
+"Estás intentando iniciar sesión con %1$s, pero un usuario con el correo "
+"electrónico ya está registrado"
 
 msgid "You have finished all your tasks."
 msgstr "Has terminado todas tus tareas."

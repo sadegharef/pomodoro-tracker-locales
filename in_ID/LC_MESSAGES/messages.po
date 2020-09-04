@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 16.1.2\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-08-26 09:36+0300\n"
+"POT-Creation-Date: 2020-09-04 14:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: in_ID\n"
@@ -372,6 +372,9 @@ msgstr ""
 msgid "Please don't send me these awesome daily reports"
 msgstr ""
 
+msgid "Please log in using a different method and connect the %1$s after"
+msgstr ""
+
 msgid "Please reload the application."
 msgstr ""
 
@@ -698,6 +701,11 @@ msgid "Yesterday"
 msgstr ""
 
 msgid "You are not signed."
+msgstr ""
+
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
 msgstr ""
 
 msgid "You have finished all your tasks."

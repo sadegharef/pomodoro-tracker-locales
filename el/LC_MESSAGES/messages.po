@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-08-26 09:36+0300\n"
+"POT-Creation-Date: 2020-09-04 14:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -380,6 +380,9 @@ msgstr "Παίξε ήχο τικαρίσματος στα διαλείματα"
 msgid "Please don't send me these awesome daily reports"
 msgstr "Παρακαλώ μην μου στέλνετε αυτες της φοβερές καθημερινές αναφορές"
 
+msgid "Please log in using a different method and connect the %1$s after"
+msgstr ""
+
 msgid "Please reload the application."
 msgstr "Παρακαλώ ξανά φορτώστε το πρόγραμμα"
 
@@ -731,6 +734,11 @@ msgstr "Χθες"
 
 msgid "You are not signed."
 msgstr "Δεν έκανες είσοδο."
+
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
+msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Έχεις τελείωση ολες της ασχολίες σου."

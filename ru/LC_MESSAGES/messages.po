@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-08-26 09:36+0300\n"
+"POT-Creation-Date: 2020-09-04 14:02+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -379,6 +379,9 @@ msgstr "Проигрывать тикающий звук во время пер�
 msgid "Please don't send me these awesome daily reports"
 msgstr "Пожалуйста, не присылайте мне эти замечательные отчеты"
 
+msgid "Please log in using a different method and connect the %1$s after"
+msgstr "Пожалуйста войдите используя другой метод и подключите %1$s после"
+
 msgid "Please reload the application."
 msgstr "Пожалуйста, перезагрузите приложение."
 
@@ -722,6 +725,13 @@ msgstr "Вчера"
 
 msgid "You are not signed."
 msgstr "Вы не авторизированы."
+
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
+msgstr ""
+"Вы пытаетесь войти с использованием %1$s, но уже существует пользователь "
+"с таким email"
 
 msgid "You have finished all your tasks."
 msgstr "Вы выполнили все свои задачи."
