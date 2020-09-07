@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-09-04 14:03+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -359,6 +359,9 @@ msgstr "Khi một Pomodoro bắt đầu, nó sẽ reng"
 msgid "One minute left"
 msgstr "Còn một phút"
 
+msgid "Operation is complete"
+msgstr ""
+
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
@@ -373,6 +376,9 @@ msgstr "Mở tiếng tích tắc trong lúc nghỉ"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Đừng gửi cho tôi những bản báo cáo hằng ngày tuyệt vời này "
+
+msgid "Please log in using a different method and connect the %1$s after"
+msgstr ""
 
 msgid "Please reload the application."
 msgstr "Hãy chạy lại ứng dụng"
@@ -702,6 +708,11 @@ msgstr "Hôm qua"
 msgid "You are not signed."
 msgstr "Bạn chưa đăng nhập."
 
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
+msgstr ""
+
 msgid "You have finished all your tasks."
 msgstr "Bạn đã hoàn thành tất cả công việc cần làm."
 
@@ -778,6 +789,9 @@ msgstr "tập trung"
 msgid "for all time"
 msgstr ""
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "thứ sáu"
 
@@ -824,6 +838,9 @@ msgstr "sáng"
 msgid "like"
 msgid_plural "likes"
 msgstr[0] ""
+
+msgid "login"
+msgstr "đăng nhập"
 
 msgid "maximize"
 msgstr ""
@@ -921,6 +938,9 @@ msgstr "ngày thứ bảy"
 msgid "save"
 msgstr "lưu"
 
+msgid "send password"
+msgstr "gửi mật khẩu"
+
 msgid "series"
 msgstr "loạt"
 
@@ -955,7 +975,7 @@ msgid "time"
 msgstr "thời gian"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
 msgstr ""
 

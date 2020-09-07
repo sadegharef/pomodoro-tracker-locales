@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-08-01 16:03+0100\n"
+"POT-Creation-Date: 2020-09-04 14:03+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -359,6 +359,9 @@ msgstr "Tracker musi wydać dźwięk gdy zaczyna się nowe Pomodoro"
 msgid "One minute left"
 msgstr "Została minuta do końca Pomodoro"
 
+msgid "Operation is complete"
+msgstr ""
+
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Wstrzymaj/wznów Pomodoro gdy komputer przechodzi w stan uśpienia"
 
@@ -373,6 +376,9 @@ msgstr "Odtwarzaj dźwięk tykania podczas przerw"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Proszę nie wysyłać mi tych wspaniałych, codziennych raportów"
+
+msgid "Please log in using a different method and connect the %1$s after"
+msgstr ""
 
 msgid "Please reload the application."
 msgstr "Proszę przeładować aplikację."
@@ -587,10 +593,10 @@ msgid ""
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
-"Technika Pomodoro to metoda zarządzania czasem, która może być "
-"stosowana do ukończenia dowolnego zadania. Wiele osób widzi "
-"przeciwnika w upływającym czasie. Niepokój powodowany przez „tykający "
-"zegar”, szczególnie gdy ogranicza nas deadline, prowadzi do zmniejszonej "
+"Technika Pomodoro to metoda zarządzania czasem, która może być stosowana "
+"do ukończenia dowolnego zadania. Wiele osób widzi przeciwnika w "
+"upływającym czasie. Niepokój powodowany przez „tykający zegar”, "
+"szczególnie gdy ogranicza nas deadline, prowadzi do zmniejszonej "
 "efektywności nauki i pracy. Powoduje to wyrabianie złych nawyków, takich "
 "jak odkładanie spraw na później i pośpieszne załatwianie ich gdy zbliża "
 "się deadline."
@@ -723,6 +729,11 @@ msgstr "Wczoraj"
 msgid "You are not signed."
 msgstr "Nie jesteś zalogowany/a"
 
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
+msgstr ""
+
 msgid "You have finished all your tasks."
 msgstr "Ukończyłeś/aś wszystkie zadania."
 
@@ -801,6 +812,9 @@ msgstr "skupienie"
 msgid "for all time"
 msgstr "od początku istnienia tej aplikacji."
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "piątek"
 
@@ -851,6 +865,9 @@ msgid_plural "likes"
 msgstr[0] "polubienie"
 msgstr[1] "polubienia"
 msgstr[2] "polubień"
+
+msgid "login"
+msgstr "zaloguj sie"
 
 msgid "maximize"
 msgstr "maksymalizuj"
@@ -954,6 +971,9 @@ msgstr "sobota"
 msgid "save"
 msgstr "zapisz"
 
+msgid "send password"
+msgstr "wyślij hasło"
+
 msgid "series"
 msgstr "seria"
 
@@ -988,10 +1008,10 @@ msgid "time"
 msgstr "czas"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
 msgstr ""
-"do Twojego Telegram'u, wpisz '/start' a następnie wpisz kod otrzymany od "
+"do Twojego Telegram'u, wpisz '/reg' a następnie wpisz kod otrzymany od "
 "bota w pole poniżej"
 
 msgid "today"

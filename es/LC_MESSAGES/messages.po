@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-09-04 14:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -363,6 +363,9 @@ msgstr "Una vez que comienza un Pomodoro, tiene que llegar a sonar"
 msgid "One minute left"
 msgstr "Queda un minuto"
 
+msgid "Operation is complete"
+msgstr ""
+
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Pausa el temporizador cuando la computadora entra en reposo"
 
@@ -377,6 +380,9 @@ msgstr "Haz sonar un tictac durante los descansos"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Por favor no me envíes estos increíbles informes diarios"
+
+msgid "Please log in using a different method and connect the %1$s after"
+msgstr "Inicie sesión con un método diferente y conecte el %1$s después"
 
 msgid "Please reload the application."
 msgstr "Por favor recarga la aplicación."
@@ -724,6 +730,13 @@ msgstr "Ayer"
 msgid "You are not signed."
 msgstr "No estás identificado."
 
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
+msgstr ""
+"Estás intentando iniciar sesión con %1$s, pero un usuario con el correo "
+"electrónico ya está registrado"
+
 msgid "You have finished all your tasks."
 msgstr "Has terminado todas tus tareas."
 
@@ -801,6 +814,9 @@ msgstr "focus"
 msgid "for all time"
 msgstr "para todo el tiempo"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "viernes"
 
@@ -849,6 +865,9 @@ msgid "like"
 msgid_plural "likes"
 msgstr[0] "me gusta"
 msgstr[1] "me gustas"
+
+msgid "login"
+msgstr "iniciar sesión"
 
 msgid "maximize"
 msgstr ""
@@ -949,6 +968,9 @@ msgstr "sábado"
 msgid "save"
 msgstr "salvar"
 
+msgid "send password"
+msgstr "enviar contraseña"
+
 msgid "series"
 msgstr "serie"
 
@@ -983,11 +1005,11 @@ msgid "time"
 msgstr "tiempo"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
 msgstr ""
-"en tu telegram, escribe `/start` e ingresa el código desde el bot al "
-"campo abajo"
+"en tu telegram, escribe `/reg` e ingresa el código desde el bot al campo "
+"abajo"
 
 msgid "today"
 msgstr "hoy"

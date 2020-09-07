@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-09-04 14:03+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -354,6 +354,9 @@ msgstr "一旦番茄钟开始了，必须持续到番茄钟响起"
 msgid "One minute left"
 msgstr "剩余一分钟"
 
+msgid "Operation is complete"
+msgstr ""
+
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
@@ -368,6 +371,9 @@ msgstr "休息的时候播放滴答声音"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "请不要将这些精彩的每日报道寄给我"
+
+msgid "Please log in using a different method and connect the %1$s after"
+msgstr ""
 
 msgid "Please reload the application."
 msgstr "重新加载应用程序"
@@ -697,6 +703,11 @@ msgstr "昨天"
 msgid "You are not signed."
 msgstr "你没有登陆"
 
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
+msgstr ""
+
 msgid "You have finished all your tasks."
 msgstr "你已经完成你的所有任务。"
 
@@ -773,6 +784,9 @@ msgstr ""
 msgid "for all time"
 msgstr "总计"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "星期五"
 
@@ -820,8 +834,11 @@ msgid "like"
 msgid_plural "likes"
 msgstr[0] "赞"
 
+msgid "login"
+msgstr "登录"
+
 msgid "maximize"
-msgstr ""
+msgstr "最大化"
 
 msgid "median"
 msgstr "中位数"
@@ -914,7 +931,10 @@ msgid "saturday"
 msgstr "星期六"
 
 msgid "save"
-msgstr ""
+msgstr "保存"
+
+msgid "send password"
+msgstr "发送密码"
 
 msgid "series"
 msgstr "系列"
@@ -950,9 +970,9 @@ msgid "time"
 msgstr "时间"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr "到你的telegram，输入‘/start’指令并输入bot字段的编码"
+msgstr "到你的telegram，输入‘/reg’指令并输入bot字段的编码"
 
 msgid "today"
 msgstr "今天"

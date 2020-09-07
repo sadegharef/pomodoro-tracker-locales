@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:01+0300\n"
+"POT-Creation-Date: 2020-09-04 14:02+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -357,6 +357,9 @@ msgstr "ستسمع صوت التنبيه بمجرد بدأ البومودورو"
 msgid "One minute left"
 msgstr "دقيقة واحدة متبقية"
 
+msgid "Operation is complete"
+msgstr ""
+
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "وقف/استمرار عندما يكون الكمبيوتر فى حالة نائم/خامل"
 
@@ -371,6 +374,9 @@ msgstr "شغل صوت التكتكة اثناء الإستراحات"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "رجاء لا ترسل لي تقارير يومية رائعة"
+
+msgid "Please log in using a different method and connect the %1$s after"
+msgstr ""
 
 msgid "Please reload the application."
 msgstr "من فضلك اعد تحميل التطبيق."
@@ -713,6 +719,11 @@ msgstr "امس"
 msgid "You are not signed."
 msgstr "انت غير مسجل"
 
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
+msgstr ""
+
 msgid "You have finished all your tasks."
 msgstr "لقد انهيت جميع مهامك."
 
@@ -794,6 +805,9 @@ msgstr "التركيز"
 msgid "for all time"
 msgstr "منذ بداية الوقت"
 
+msgid "forward"
+msgstr "القفز إلى الأمام"
+
 msgid "friday"
 msgstr "يوم الجمعة"
 
@@ -850,6 +864,9 @@ msgstr[2] ""
 msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
+
+msgid "login"
+msgstr "تسجيل الدخول"
 
 msgid "maximize"
 msgstr ""
@@ -962,6 +979,9 @@ msgstr "يوم السبت"
 msgid "save"
 msgstr "حفظ"
 
+msgid "send password"
+msgstr "إرسال كلمة المرور"
+
 msgid "series"
 msgstr "سلسلة"
 
@@ -996,9 +1016,9 @@ msgid "time"
 msgstr "وقت"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr "إلي حسابك فى التليجرام، إكتب '/start' ثم أدخل كود البوت فى الحقل التالي"
+msgstr "إلي حسابك فى التليجرام، إكتب '/reg' ثم أدخل كود البوت فى الحقل التالي"
 
 msgid "today"
 msgstr "اليوم"

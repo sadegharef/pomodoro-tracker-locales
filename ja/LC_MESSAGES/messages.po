@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-09-04 14:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -354,6 +354,9 @@ msgstr "開始したポモドーロは、タイマーが鳴るまで集中して
 msgid "One minute left"
 msgstr "残り1分です"
 
+msgid "Operation is complete"
+msgstr ""
+
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "コンピューターがスリープ/アイドル状態のときに一時停止/再開されます"
 
@@ -368,6 +371,9 @@ msgstr "休憩中に音を立てて再生する"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "これらのすばらしい日報を私に送らないでください"
+
+msgid "Please log in using a different method and connect the %1$s after"
+msgstr "別の方法でログインし、%1$sを接続してください"
 
 msgid "Please reload the application."
 msgstr "アプリケーションを再読み込みする"
@@ -697,6 +703,11 @@ msgstr "昨日"
 msgid "You are not signed."
 msgstr "あなたは署名されていません。"
 
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
+msgstr "%1$sでログインしようとしているが、そのメールのユーザーはすでに登録されている"
+
 msgid "You have finished all your tasks."
 msgstr "すべてのタスクを完了しました。"
 
@@ -774,6 +785,9 @@ msgstr "集中"
 msgid "for all time"
 msgstr "経ちました"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "金曜日"
 
@@ -822,6 +836,9 @@ msgid "like"
 msgid_plural "likes"
 msgstr[0] "いいね"
 msgstr[1] "いいね"
+
+msgid "login"
+msgstr "ログインする"
 
 msgid "maximize"
 msgstr "最大値"
@@ -922,6 +939,9 @@ msgstr "土曜日"
 msgid "save"
 msgstr "保存"
 
+msgid "send password"
+msgstr "パスワードを送る"
+
 msgid "series"
 msgstr "シリーズ"
 
@@ -956,9 +976,9 @@ msgid "time"
 msgstr "時間"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr "あなたの電報に `/ start`と打ち込んでボットのコードを以下のフィールドに入力してください"
+msgstr "あなたの電報に `/reg`と打ち込んでボットのコードを以下のフィールドに入力してください"
 
 msgid "today"
 msgstr "今日"

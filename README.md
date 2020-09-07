@@ -11,25 +11,26 @@ help with other languages. Any help is very appreciated.
 Current status (languages are supported):
 
 * [Russian](https://github.com/klen/pomodoro-tracker-locales/tree/master/ru/LC_MESSAGES/messages.po) (fully translated)
-* [Arabic](https://github.com/klen/pomodoro-tracker-locales/tree/master/ar/LC_MESSAGES/messages.po) (fully translated)
 * [Ukranian](https://github.com/klen/pomodoro-tracker-locales/tree/master/uk/LC_MESSAGES/messages.po) (fully translated)
 
+* [Arabic](https://github.com/klen/pomodoro-tracker-locales/tree/master/ar/LC_MESSAGES/messages.po) (translated, needs updates)
 * [Spanish](https://github.com/klen/pomodoro-tracker-locales/tree/master/es/LC_MESSAGES/messages.po) (translated, needs checking)
 * [Portuguese/Brasilian](https://github.com/klen/pomodoro-tracker-locales/tree/master/pt_br/LC_MESSAGES/messages.po) (translated, needs checking)
 * [French](https://github.com/klen/pomodoro-tracker-locales/tree/master/fr/LC_MESSAGES/messages.po) (translated, needs checking)
 * [German](https://github.com/klen/pomodoro-tracker-locales/tree/master/de/LC_MESSAGES/messages.po) (translated, needs checking)
 * [Dutch](https://github.com/klen/pomodoro-tracker-locales/tree/master/nl/LC_MESSAGES/messages.po) (translated, needs checking)
+* [Greek](https://github.com/klen/pomodoro-tracker-locales/tree/master/el/LC_MESSAGES/messages.po) (translated, needs checking)
+* [Japanese](https://github.com/klen/pomodoro-tracker-locales/tree/master/ja/LC_MESSAGES/messages.po) (translated, needs checking)
+* [Turkish](https://github.com/klen/pomodoro-tracker-locales/tree/master/tr/LC_MESSAGES/messages.po) (translated, needs checking)
+* [Italian](https://github.com/klen/pomodoro-tracker-locales/tree/master/it/LC_MESSAGES/messages.po) (translated, needs checking)
+* [Chinese](https://github.com/klen/pomodoro-tracker-locales/tree/master/zh/LC_MESSAGES/messages.po) (translated, needs checking)
+* [Kazakh](https://github.com/klen/pomodoro-tracker-locales/tree/master/kk/LC_MESSAGES/messages.po) (translated, needs checking)
+* [Polish](https://github.com/klen/pomodoro-tracker-locales/tree/master/pl/LC_MESSAGES/messages.po) (translated, needs checking)
 
-* [Greek](https://github.com/klen/pomodoro-tracker-locales/tree/master/el/LC_MESSAGES/messages.po) (outdated, needs checking)
-* [Japanese](https://github.com/klen/pomodoro-tracker-locales/tree/master/ja/LC_MESSAGES/messages.po) (outdated, needs checking)
-* [Turkish](https://github.com/klen/pomodoro-tracker-locales/tree/master/tr/LC_MESSAGES/messages.po) (outdated, needs checking)
-* [Italian](https://github.com/klen/pomodoro-tracker-locales/tree/master/it/LC_MESSAGES/messages.po) (outdated, needs checking)
-* [Chinese](https://github.com/klen/pomodoro-tracker-locales/tree/master/zh/LC_MESSAGES/messages.po) (outdated, needs checking)
-* [Kazakh](https://github.com/klen/pomodoro-tracker-locales/tree/master/kk/LC_MESSAGES/messages.po) (outdated, needs checking)
-* [Polish](https://github.com/klen/pomodoro-tracker-locales/tree/master/pl/LC_MESSAGES/messages.po) (outdated, needs checking)
 * [Vietnamese](https://github.com/klen/pomodoro-tracker-locales/tree/master/vi/LC_MESSAGES/messages.po) (outdated)
 
 * [Czech](https://github.com/klen/pomodoro-tracker-locales/tree/master/cz/LC_MESSAGES/messages.po) (not started yet)
+* [Hebrew](https://github.com/klen/pomodoro-tracker-locales/tree/master/he/LC_MESSAGES/messages.po) (not started yet)
 * [Norwegian](https://github.com/klen/pomodoro-tracker-locales/tree/master/no/LC_MESSAGES/messages.po) (not started yet)
 * [Romanian](https://github.com/klen/pomodoro-tracker-locales/tree/master/ro/LC_MESSAGES/messages.po) (not started yet)
 

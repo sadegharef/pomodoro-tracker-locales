@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-09-04 14:03+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -362,6 +362,9 @@ msgstr "Pomodoro bir kere başladıktan sonra bitmek zorundadır"
 msgid "One minute left"
 msgstr "bir dakika kaldı"
 
+msgid "Operation is complete"
+msgstr ""
+
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
@@ -376,6 +379,11 @@ msgstr "Mola esnasında tiz ses çalın"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr ""
+
+msgid "Please log in using a different method and connect the %1$s after"
+msgstr ""
+"Lütfen farklı bir yöntem kullanarak giriş yapın ve daha sonra %1$s'a "
+"bağlanın"
 
 msgid "Please reload the application."
 msgstr "Uygulamayı tekrar yükle"
@@ -591,7 +599,7 @@ msgstr ""
 "Pomodoro tekniği herhangi bir görev için kullanabileceğiniz bir zaman "
 "yönetim tekniğidir. Birçok kişi için zaman bir düşmandır. “Saat tik "
 "seslerinin” özellikle yaklaşan zaman sınırlarında oluşturduğu kaygı "
-"başarısız çalışmalara ve kötü çalışma alışkanlıklarına yol açar ve buda "
+"başarısız çalışmalara ve kötü çalışma alışkanlıklarına yol açar ve bu da "
 "işin ertelenmesine sebebiyet verir."
 
 msgid ""
@@ -721,6 +729,13 @@ msgstr "Dün"
 msgid "You are not signed."
 msgstr "Sen imzalanmadın"
 
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
+msgstr ""
+"%1$s ile oturum açmaya çalışıyorsunuz, ancak e-postaya sahip bir "
+"kullanıcı zaten kayıtlı"
+
 msgid "You have finished all your tasks."
 msgstr "Tüm görevlerinizi bitirdiniz."
 
@@ -798,6 +813,9 @@ msgstr "odaklanma"
 msgid "for all time"
 msgstr "tüm zamanlar için"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "cuma"
 
@@ -846,6 +864,9 @@ msgid "like"
 msgid_plural "likes"
 msgstr[0] "beğen"
 msgstr[1] ""
+
+msgid "login"
+msgstr "oturum aç"
 
 msgid "maximize"
 msgstr ""
@@ -948,6 +969,9 @@ msgstr "cumartesi"
 msgid "save"
 msgstr "kaydet"
 
+msgid "send password"
+msgstr "şifreyi gönder"
+
 msgid "series"
 msgstr "dizi"
 
@@ -982,7 +1006,7 @@ msgid "time"
 msgstr "zaman"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
 msgstr ""
 

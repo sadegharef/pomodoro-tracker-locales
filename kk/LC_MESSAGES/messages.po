@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-09-04 14:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -360,6 +360,9 @@ msgstr "Қызанақ бастасаңыз, міндетті түрде аяқ�
 msgid "One minute left"
 msgstr "Бір минут қалды"
 
+msgid "Operation is complete"
+msgstr ""
+
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
@@ -374,6 +377,9 @@ msgstr "Үзілісте сағат дыбысы"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Осы керемет, әп-әдемі репорттарды маған жібермеңізші!"
+
+msgid "Please log in using a different method and connect the %1$s after"
+msgstr ""
 
 msgid "Please reload the application."
 msgstr "Қосымшаны қайта қосыңыз"
@@ -713,6 +719,11 @@ msgstr "Кеше"
 msgid "You are not signed."
 msgstr "Әзір кірмепсіз"
 
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
+msgstr ""
+
 msgid "You have finished all your tasks."
 msgstr "Бар жұмыстарды аяқтадыңыз!"
 
@@ -790,6 +801,9 @@ msgstr "фокус"
 msgid "for all time"
 msgstr "ресурс ашылғалы бері"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "жұма"
 
@@ -838,6 +852,9 @@ msgid "like"
 msgid_plural "likes"
 msgstr[0] "лайк"
 msgstr[1] "лайк"
+
+msgid "login"
+msgstr "кіру"
 
 msgid "maximize"
 msgstr ""
@@ -938,6 +955,9 @@ msgstr "сенбі"
 msgid "save"
 msgstr "сақтау"
 
+msgid "send password"
+msgstr "пароль жіберу"
+
 msgid "series"
 msgstr "сериясы"
 
@@ -972,9 +992,9 @@ msgid "time"
 msgstr "уақыт"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr "телеграмдағы ботта `/start` арқылы кодты енгізіңіз"
+msgstr "телеграмдағы ботта `/reg` арқылы кодты енгізіңіз"
 
 msgid "today"
 msgstr "бүгін"

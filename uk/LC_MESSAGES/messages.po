@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:02+0300\n"
+"POT-Creation-Date: 2020-09-04 14:03+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -359,6 +359,9 @@ msgstr "Якщо ви почали Помідор – ви маєте його �
 msgid "One minute left"
 msgstr "Залишилася хвилина"
 
+msgid "Operation is complete"
+msgstr ""
+
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Зупиняти таймер, коли компьютер іде в режим сну"
 
@@ -373,6 +376,9 @@ msgstr "Грати звук цокання під час перерви"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Будь ласка, не присилайте мені ці чудові щоденні звіти"
+
+msgid "Please log in using a different method and connect the %1$s after"
+msgstr "Зверніться до іншого методу та підключіть %1$s після"
 
 msgid "Please reload the application."
 msgstr "Будь ласка, перезавантажте застосунок"
@@ -719,6 +725,11 @@ msgstr "Вчора"
 msgid "You are not signed."
 msgstr "Ви не увійшли."
 
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
+msgstr "Ви намагаєтесь зайти за допомогою %1$s, але користувач вже має такий email"
+
 msgid "You have finished all your tasks."
 msgstr "Ви завершили всі свої завдання."
 
@@ -797,6 +808,9 @@ msgstr "фокус"
 msgid "for all time"
 msgstr "за весь час"
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr "п’ятниця"
 
@@ -847,6 +861,9 @@ msgid_plural "likes"
 msgstr[0] "плюс"
 msgstr[1] "плюси"
 msgstr[2] "плюсів"
+
+msgid "login"
+msgstr "увійти"
 
 msgid "maximize"
 msgstr ""
@@ -950,6 +967,9 @@ msgstr "субота"
 msgid "save"
 msgstr "зберегти"
 
+msgid "send password"
+msgstr "надіслати пароль"
+
 msgid "series"
 msgstr "серія"
 
@@ -984,9 +1004,9 @@ msgid "time"
 msgstr "час"
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr "у вашому Телеграмі напишіть `/start` та введіть отриманий код у полі нижче"
+msgstr "у вашому Телеграмі напишіть `/reg` та введіть отриманий код у полі нижче"
 
 msgid "today"
 msgstr "сьогодні"

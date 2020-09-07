@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 10.0.13\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-04 12:03+0300\n"
+"POT-Creation-Date: 2020-09-04 14:03+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_tw\n"
@@ -354,6 +354,9 @@ msgstr ""
 msgid "One minute left"
 msgstr ""
 
+msgid "Operation is complete"
+msgstr ""
+
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
@@ -367,6 +370,9 @@ msgid "Play ticking sound while breaks"
 msgstr ""
 
 msgid "Please don't send me these awesome daily reports"
+msgstr ""
+
+msgid "Please log in using a different method and connect the %1$s after"
 msgstr ""
 
 msgid "Please reload the application."
@@ -697,6 +703,11 @@ msgstr ""
 msgid "You are not signed."
 msgstr ""
 
+msgid ""
+"You are trying to log in with %1$s, but a user with the email is already "
+"registered"
+msgstr ""
+
 msgid "You have finished all your tasks."
 msgstr ""
 
@@ -773,6 +784,9 @@ msgstr ""
 msgid "for all time"
 msgstr ""
 
+msgid "forward"
+msgstr ""
+
 msgid "friday"
 msgstr ""
 
@@ -819,6 +833,9 @@ msgstr ""
 msgid "like"
 msgid_plural "likes"
 msgstr[0] ""
+
+msgid "login"
+msgstr ""
 
 msgid "maximize"
 msgstr ""
@@ -916,6 +933,9 @@ msgstr ""
 msgid "save"
 msgstr ""
 
+msgid "send password"
+msgstr ""
+
 msgid "series"
 msgstr ""
 
@@ -950,7 +970,7 @@ msgid "time"
 msgstr ""
 
 msgid ""
-"to your telegram, type `/start` and enter a code from the bot to field "
+"to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
 msgstr ""
 
@@ -982,3 +1002,4 @@ msgstr ""
 msgid "year"
 msgid_plural "years"
 msgstr[0] ""
+
