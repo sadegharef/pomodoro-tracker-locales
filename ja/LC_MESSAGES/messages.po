@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:02+0300\n"
+"POT-Creation-Date: 2020-09-09 16:33+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -372,9 +372,6 @@ msgstr "休憩中に音を立てて再生する"
 msgid "Please don't send me these awesome daily reports"
 msgstr "これらのすばらしい日報を私に送らないでください"
 
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr "別の方法でログインし、%1$sを接続してください"
-
 msgid "Please reload the application."
 msgstr "アプリケーションを再読み込みする"
 
@@ -704,8 +701,13 @@ msgid "You are not signed."
 msgstr "あなたは署名されていません。"
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr "%1$sアカウントに接続しようとしていますが、すでに別のユーザーに接続されています"
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr "%1$sでログインしようとしているが、そのメールのユーザーはすでに登録されている"
 
 msgid "You have finished all your tasks."
@@ -1085,6 +1087,9 @@ msgstr[1] "年"
 
 #~ msgid "Pin to activities"
 #~ msgstr "お気に入りに追加"
+
+#~ msgid "Please log in using a different method and connect the %1$s after"
+#~ msgstr "別の方法でログインし、%1$sを接続してください"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Privacy Policy"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:02+0300\n"
+"POT-Creation-Date: 2020-09-09 16:32+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -375,9 +375,6 @@ msgstr "شغل صوت التكتكة اثناء الإستراحات"
 msgid "Please don't send me these awesome daily reports"
 msgstr "رجاء لا ترسل لي تقارير يومية رائعة"
 
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr ""
-
 msgid "Please reload the application."
 msgstr "من فضلك اعد تحميل التطبيق."
 
@@ -720,8 +717,13 @@ msgid "You are not signed."
 msgstr "انت غير مسجل"
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr ""
 
 msgid "You have finished all your tasks."
@@ -1166,6 +1168,9 @@ msgstr[5] ""
 
 #~ msgid "Pin to activities"
 #~ msgstr "إضافة للمفضلة"
+
+#~ msgid "Please log in using a different method and connect the %1$s after"
+#~ msgstr ""
 
 #~ msgid "Pomodoro is finished. Have a short break."
 #~ msgstr "البومودورو انتهت. خذ استراحة قصيرة."

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:03+0300\n"
+"POT-Creation-Date: 2020-09-09 16:33+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -377,9 +377,6 @@ msgstr "Грати звук цокання під час перерви"
 msgid "Please don't send me these awesome daily reports"
 msgstr "Будь ласка, не присилайте мені ці чудові щоденні звіти"
 
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr "Зверніться до іншого методу та підключіть %1$s після"
-
 msgid "Please reload the application."
 msgstr "Будь ласка, перезавантажте застосунок"
 
@@ -726,8 +723,15 @@ msgid "You are not signed."
 msgstr "Ви не увійшли."
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+"Ви намагаєтесь підключити запис Google, але він уже підключений до іншого"
+" користувача"
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr "Ви намагаєтесь зайти за допомогою %1$s, але користувач вже має такий email"
 
 msgid "You have finished all your tasks."
@@ -1065,6 +1069,9 @@ msgstr[2] "років"
 
 #~ msgid "Pin to activities"
 #~ msgstr "Додати у вибране"
+
+#~ msgid "Please log in using a different method and connect the %1$s after"
+#~ msgstr "Зверніться до іншого методу та підключіть %1$s після"
 
 #~ msgid "Repeating Task"
 #~ msgstr "Завдання, що повторюється"
