@@ -382,16 +382,16 @@ msgid "Please reload the application."
 msgstr "Mohon untuk memuat ulang aplikasi"
 
 msgid "Please select a value"
-msgstr "Silahkan pilih nilai"
+msgstr "Silakan pilih nilai"
 
 msgid "Please unblock notifications in your browser"
 msgstr "Mohon untuk membuka blokir notifikasi di peramban anda"
 
 msgid "Please, login to use the feature"
-msgstr "Silahkan masuk untuk menggunakan fitur"
+msgstr "Silakan masuk untuk menggunakan fitur"
 
 msgid "Please, login to view your stats"
-msgstr "Silahkan masuk untuk melihat statistik anda"
+msgstr "Silakan masuk untuk melihat statistik anda"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
 msgstr "Pomodoro Tracker adalah aplikasi produktifitas didesain untuk bekerja dan belajar."
@@ -478,10 +478,10 @@ msgid "Send test notification"
 msgstr "Kirim notifikasi percobaan"
 
 msgid "Server Error"
-msgstr "Peladen Error"
+msgstr "Server Error"
 
 msgid "Server has been updated."
-msgstr "Peladen telah diperbarui."
+msgstr "Server telah diperbarui."
 
 msgid "Set Due"
 msgstr "Atur Jatuh Tempo"
@@ -628,7 +628,7 @@ msgstr ""
 "bekerja."
 
 msgid "The integration is outdated. Please reconnect."
-msgstr "Integrasi sudah kadaluarsa. Tolong sambungkan ulang."
+msgstr "Integrasi sudah kedaluwarsa. Tolong sambungkan ulang."
 
 msgid "The list is empty"
 msgstr "Daftar ini kosong"
