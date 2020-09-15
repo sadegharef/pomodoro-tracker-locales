@@ -1,18 +1,18 @@
-# Spanish translations for pomodoro.
-# Copyright (C) 2016 ORGANIZATION
+# Portuguese translations for pomodoro.
+# Copyright (C) 2020 ORGANIZATION
 # This file is distributed under the same license as the pomodoro project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: pomodoro 2.2.8\n"
+"Project-Id-Version: pomodoro 16.12.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-15 11:37+0300\n"
+"POT-Creation-Date: 2020-09-15 11:38+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
-"Language: es\n"
-"Language-Team: es <LL@li.org>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: pt\n"
+"Language-Team: pt <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -21,153 +21,153 @@ msgstr ""
 
 #, python-format
 msgid " Sign in with %(provider)s "
-msgstr "Iniciar sesión con %(provider)s "
+msgstr "Faça login com %(provider)s"
 
 msgid "%1$s left"
-msgstr "quedan %1$s"
+msgstr "faltam %1$s"
 
 msgid "%1$s paused."
-msgstr "%1$s en pausa."
+msgstr "%1$s pausado."
 
 msgid "%1$s started:"
-msgstr "%1$s empezado:"
+msgstr "%1$s começado:"
 
 msgid "%1$s stopped:"
-msgstr "%1$s detenido:"
+msgstr "%1$s parado:"
 
 msgid "%1$s tasks were imported"
-msgstr "%1$s tareas fueron importados"
+msgstr "Foram importados %1$s tarefas"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr "%s aquí tienes tu informe Diario para %s"
+msgstr "%s aqui está o seu relatório diário para %s"
 
 msgid "A random message will be chosen if there are multiple."
-msgstr "Se elegirá un mensaje aleatorio si hay varios."
+msgstr "Uma mensagem aleatória será escolhida se houver várias."
 
 msgid "Activities"
-msgstr "Actividades"
+msgstr "Atividades"
 
 msgid "Activity by days"
-msgstr "Actividad por días"
+msgstr "Atividade por dias"
 
 msgid "Activity by months"
-msgstr "Actividad por meses"
+msgstr "Atividade por meses"
 
 msgid "Activity by weeks"
-msgstr "Actividad por semanas"
+msgstr "Atividade por semanas"
 
 msgid "Add"
-msgstr "Añadir"
+msgstr "Adicionar"
 
 msgid "Add TODO"
-msgstr "Añadir a TODO"
+msgstr "Adicionar à lista PARA FAZER"
 
 msgid "Add category"
-msgstr "Añadir categoría"
+msgstr "Adicionar categoria"
 
 msgid "Add more"
-msgstr "Añadir más"
+msgstr "Adicionar mais"
 
 msgid "Add new tasks to the top"
-msgstr "Añadir nuevas tareas a la parte superior"
+msgstr "Adicione novas tarefas ao topo"
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr "Alivia la ansiedad vinculada a comenzar"
+msgstr "Alivío da ansiedade ligada a algo que está por vir"
 
 msgid "Application"
-msgstr "Aplicación"
+msgstr "Aplicação"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
-"Al comienzo de cada día, selecciona las tareas que necesitas completar y "
-"colócalas en la lista TODO de arriba."
+"A cada inicío de dia, selecione as tarefas que você precisa completar e "
+"as coloque na lista de TAREFAS, logo abaixo:"
 
 msgid "At time"
-msgstr ""
+msgstr "cronômetro"
 
 msgid "Auto start breaks"
-msgstr "Inicio automático de descansos"
+msgstr "Iniciar automaticamente as pausas"
 
 msgid "Auto start pomodoros"
-msgstr "Inicio automático de pomodoros"
+msgstr "Iniciar automaticamente os pomodoros"
 
 msgid "Block screen on breaks"
-msgstr "Bloquear pantalla en descansos"
+msgstr "Bloquear tela em intervalos"
 
 msgid "Bolster the determination to achieve your goals"
-msgstr "Refuerza tu determinación para alcanzar tus metas"
+msgstr "Impulso ainda maior em sua determinação em alcançar seus objetivos"
 
 msgid "Boost motivation and keep it constant"
-msgstr "Impulsa tu motivación y la mantiene constante"
+msgstr "Impulsionar sua motivação e mantê-la constante"
 
 msgid "Break is over"
-msgstr "El descanso ha terminado"
+msgstr "Pausa acabou"
 
 msgid "Categories"
-msgstr "Categorías"
+msgstr "Categorias"
 
 msgid "Changes saved"
-msgstr "Cambios guardados"
+msgstr "Mudanças salvas"
 
 msgid "Clear DONE history once per day"
-msgstr "Borrar el historial de HECHO una vez por día"
+msgstr "Excluir o histórico feito uma vez por dia"
 
 msgid "Clear the list"
-msgstr "Limpiar la lista"
+msgstr "Limpe a lista"
 
 msgid "Click on a number to add more."
-msgstr "Click en un número para agregar más"
+msgstr "Clique em um número para adicionar mais."
 
 msgid "Click to open menu"
-msgstr "Menú abierto"
+msgstr "Menu aberto"
 
 msgid "Click/tap to edit items."
-msgstr "Click/toca para editar elementos."
+msgstr "Clique duplo para editar os itens."
 
 msgid "Close"
-msgstr "Cerrar"
+msgstr "Fechar"
 
 msgid "Code"
 msgstr "Código"
 
 msgid "Color Theme"
-msgstr "Tema de color"
+msgstr "Tema de cores"
 
 msgid "Configure"
 msgstr "Configurar"
 
 msgid "Congratulations!"
-msgstr "¡Felicidades!"
+msgstr "Parabéns!"
 
 msgid "Connect"
-msgstr "Conectar"
+msgstr "Ligar"
 
 msgid "Create"
-msgstr "Crear"
+msgstr "Criar"
 
 msgid "Create a category"
-msgstr "Crea una categoría"
+msgstr "Criar uma categoria"
 
 msgid "Daily Goal"
-msgstr "Objetivo Diario"
+msgstr "Objetivo Diário"
 
 msgid "Daily Goal Completed."
-msgstr "Obiettivo giornaliero completato."
+msgstr "Meta diária concluída."
 
 msgid "Date format"
-msgstr "Formato de Fecha"
+msgstr "Formato da data"
 
 msgid "Disconnect"
-msgstr "Desconectar"
+msgstr "Desligar"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr "No comience el pomodoro siguiente si TODO está vacío"
+msgstr "Não comece próximo pomodoro se TODO estiver vazio"
 
 msgid "Drag&Drop/Touch to sort items."
-msgstr "Arrastra&Suelta/Toca para ordenar elementos."
+msgstr "Arraste e Solte para ordená-los."
 
 msgid "Due"
 msgstr ""
@@ -176,162 +176,159 @@ msgid "Edit"
 msgstr "Editar"
 
 msgid "Enable Browser Alerts"
-msgstr "Activar Alertas de Navegador"
+msgstr "Ativar alertas no navegador"
 
 msgid "Enable Notifications"
-msgstr "Activar Notificaciones"
+msgstr "Ativar notificações"
 
 msgid "Enable Web Notifications"
-msgstr "Activar Notificaciones Web"
+msgstr "Ativar notificações Web"
 
 msgid "Ends on"
-msgstr "Termina en"
+msgstr "Termina em"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
-msgstr "Aumenta la concentración y el enfoque disminuyendo las interrupciones"
+msgstr "Melhorar foco e concentração reduzindo interrupções"
 
 msgid "Enjoy your break"
-msgstr "Disfruta tu descanso"
+msgstr "Aproveite a sua folga"
 
 msgid "Export the records as CSV"
 msgstr "Exportar registros como CSV"
 
 msgid "Eye Keeper is enabled"
-msgstr "El guardián de los ojos está habilitado"
+msgstr "O detentor de olho está ativado"
 
 msgid "Feedback"
-msgstr "Sugerencias"
+msgstr "Comentários"
 
 msgid "File"
 msgstr ""
 
 msgid "Fill blank entries"
-msgstr "Rellenar entradas en blanco"
+msgstr "Preencher entradas em branco"
 
 msgid "Global shortcut to open Pomodoro-Tracker"
-msgstr "Atajo global para abrir Pomodoro-Tracker"
+msgstr "Atalho global para abrir o Pomodoro-Tracker"
 
 msgid "Great work!"
-msgstr "¡Buen trabajo!"
+msgstr "Bom trabalho!"
 
 msgid "Help"
 msgstr ""
 
 msgid "Hide notificaions"
-msgstr "Ocultar notificaciones"
+msgstr "Esconder notificações"
 
 msgid "History"
 msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr ""
-"Si necesitas más de 5-7 Pomodoros para una tarea, divídela en tareas más "
-"pequeñas"
+msgstr "Se uma tarefa levar mais que 5-7 Pomodoros, divida-as em tarefas menores"
 
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
-msgstr "Si necesitas menos de un Pomodoro, agrégala y júntala con otra tarea"
+msgstr ""
+"Se essa tarefa levar menos que um Pomodoro, adicione e combine com outra "
+"tarefa"
 
 msgid "Import tasks from CSV"
-msgstr "Importar tareas desde CSV"
+msgstr "Importar tarefas do CSV"
 
 msgid "Import was failed. Check your CSV and try again."
-msgstr "La importación falló. Verifica tu CSV y vuelve a intentarlo."
+msgstr "A importação falhou. Verifique o seu CSV e tente novamente."
 
 msgid "Imported from External Sources"
-msgstr "Importado de fuentes externas"
+msgstr "Importados de fontes externas"
 
 msgid "Improve your work or study process"
-msgstr "Mejore su trabajo o proceso de estudio"
+msgstr "Melhorar seu processo de estudo e trabalho"
 
 msgid "Inbox"
-msgstr "Bandeja de entrada"
+msgstr "Caixa de entrada"
 
 msgid "Increase awareness of your decisions"
-msgstr "Te hace más consciente de tus decisiones"
+msgstr "Aumento da sua consciência sobre suas decisões"
 
 msgid "Integration with %1$s"
-msgstr "Integración con %1$s"
+msgstr "Integração com %1$s"
 
 msgid "Integrations"
-msgstr "Integraciones"
+msgstr "Integrações"
 
 msgid "Interruption tracked"
-msgstr "Interrupción rastreada"
+msgstr "Interrupção rastreada"
 
 msgid "Join the global rating"
-msgstr "Únete a la calificación global"
+msgstr "Junte-se à classificação global"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
 msgstr ""
-"Sigue trabajando, Pomodoro tras Pomodoro, hasta que la tarea que tienes "
-"entre manos haya finalizado. Cada 4 Pomodoros tómate un descanso más "
-"largo, (15-30 minutos)."
+"Continue trabalhando, Pomodoro a Pomodoro, até que a tarefa seja "
+"terminada. A cada 4 Pomodoros, faça uma pausa longa (15-30 minutos)."
 
 msgid "Language"
-msgstr "Idioma"
+msgstr "Língua"
 
 msgid "Last 365 days"
-msgstr "Últimos 365 días"
+msgstr "Últimos 365 dias"
 
 msgid "Last Month"
-msgstr "El mes pasado"
+msgstr "Mês passado"
 
 msgid "Last Quarter"
-msgstr "Último trimestre"
+msgstr "Ultimo trimestre"
 
 msgid "Last Week"
-msgstr "La semana pasada"
+msgstr "Semana passada"
 
 msgid "Like"
-msgstr "Me gusta"
+msgstr "Curtir"
 
 msgid "Link copied"
-msgstr "Enlace copiado"
+msgstr "Link copiado"
 
 msgid "Load daily tasks"
-msgstr "Cargar tareas diarias"
+msgstr "Carregar tarefas diárias"
 
 msgid "Loading"
-msgstr "Cargando"
+msgstr "Carregando"
 
 msgid "Lock is enabled"
-msgstr "El bloqueo está habilitado"
+msgstr "Bloquear está ativado"
 
 msgid "Login to the service and track your progress"
-msgstr "Inicia sesión en el servicio y haz seguimiento de tu progreso"
+msgstr "Entre no serviço para acompanhar seu progresso"
 
 msgid "Login to the service using %1$s authentication."
-msgstr "Inicie sesión en el servicio utilizando la autenticación de %1$s."
+msgstr "Faça login no serviço usando a autenticação do %1$s."
 
 msgid "Logout"
-msgstr "Salir"
+msgstr "Sair"
 
 msgid "Long break"
-msgstr "Descanso largo"
+msgstr "Pausa longa"
 
 msgid "Long break delay"
-msgstr "Retraso del descanso largo"
+msgstr "Atraso da pausa longa"
 
 msgid "Long break duration"
-msgstr "Duración del descanso largo"
+msgstr "Duração da pausa longa"
 
 msgid "Look away at something that is 6 metres away for %1$s seconds"
-msgstr ""
-"Mira hacia otro lado a algo que está a 6 metros de distancia durante %1$s"
-" segundos"
+msgstr "Olhe para algo que está a 6 metros de distância por %1$s segundos"
 
 msgid "Mark as done"
-msgstr "Marcar como hecho"
+msgstr "Marcar como feito"
 
 msgid "Median per day"
-msgstr "Mediana por día"
+msgstr "Mediana por dia"
 
 msgid "Move to Inbox"
-msgstr "Mover a la bandeja de entrada"
+msgstr "Mova para a caixa de entrada"
 
 msgid "Navigate Back"
 msgstr ""
@@ -340,213 +337,213 @@ msgid "Navigate Forward"
 msgstr ""
 
 msgid "New"
-msgstr "Nuevo"
+msgstr "Novo"
 
 msgid "Next long break"
-msgstr "Próximo descanso largo"
+msgstr "Próxima longa pausa"
 
 msgid "Notification Test"
-msgstr "Prueba de notificación"
+msgstr "Teste de notificação"
 
 msgid "Notifications"
-msgstr "Notificaciones"
+msgstr "Notificações"
 
 msgid "Notify when there is one minute left"
-msgstr "Notificar cuando quede un minuto"
+msgstr "Notificar quando faltar um minuto"
 
 msgid "Of those"
-msgstr "De esos"
+msgstr "Desses"
 
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr "Una vez que comienza un Pomodoro, tiene que llegar a sonar"
+msgstr "Uma vez que um Pomodoro começa, ele tem que tocar"
 
 msgid "One minute left"
-msgstr "Queda un minuto"
+msgstr "Falta um minuto"
 
 msgid "Operation is complete"
 msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
-msgstr "Pausa el temporizador cuando la computadora entra en reposo"
+msgstr "Pausa temporizador quando o computador vai dormir"
 
 msgid "Play alarm sound"
-msgstr "Sonar alarma"
+msgstr "Tocar som do alarme"
 
 msgid "Play ticking sound"
-msgstr "Haz sonar un tictac"
+msgstr "Tocar som do tic-tac"
 
 msgid "Play ticking sound while breaks"
-msgstr "Haz sonar un tictac durante los descansos"
+msgstr "Tocar som durante as pausas"
 
 msgid "Please don't send me these awesome daily reports"
-msgstr "Por favor no me envíes estos increíbles informes diarios"
+msgstr "Por favor não me mande estes incríveis relatórios diários"
 
 msgid "Please reload the application."
-msgstr "Por favor recarga la aplicación."
+msgstr "Por favor, recarregue o aplicativo."
 
 msgid "Please select a value"
-msgstr "Por favor seleccione un valor"
+msgstr "Por favor selecione um valor"
 
 msgid "Please unblock notifications in your browser"
 msgstr ""
 
 msgid "Please, login to use the feature"
-msgstr "Por favor, inicie sesión para usar la función"
+msgstr "Por favor, faça o login para usar o recurso"
 
 msgid "Please, login to view your stats"
-msgstr "Inicia sesión para ver tus estadísticas"
+msgstr "Por favor, faça login para ver suas estatísticas"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
 msgstr ""
 
 msgid "Pomodoro duration"
-msgstr "Duración del Pomodoro"
+msgstr "Duração do pomodoro"
 
 msgid "Pomodoro is finished"
-msgstr "Pomodoro finalizado"
+msgstr "O pomodoro terminou"
 
 msgid "Preferences"
-msgstr "Preferencias"
+msgstr "Preferências"
 
 msgid "Press"
-msgstr "Presione"
+msgstr "Pressione"
 
 msgid "Profile"
 msgstr ""
 
 msgid "Provide Feedback"
-msgstr "Suministre realimentación"
+msgstr "Dar uma resposta"
 
 msgid "Quit"
-msgstr "Dejar"
+msgstr "Sair"
 
 msgid "Raise browser alert when pomodoro/break is over"
-msgstr "Destacar alertas del navegador cuando termina pomodoro/descanso"
+msgstr "Exibir alertas do navegador quando um pomodoro ou pausa terminar"
 
 msgid "Rate the application"
-msgstr "Califica la aplicación"
+msgstr "Classifique o aplicativo"
 
 msgid "Records are empty"
-msgstr "Registros están vacíos"
+msgstr "Não há registros"
 
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
 msgstr ""
-"Refina el proceso de estimación, tanto en términos cualitativos como "
-"cuantitativos "
+"Aperfeiçoar sua capacidade de estimar, tanto em qualidade quanto em "
+"quantidade"
 
 msgid "Register"
-msgstr "Registro"
+msgstr "Registre-se"
 
 msgid "Relax"
-msgstr "Relajarse"
+msgstr "Relaxar"
 
 msgid "Release Notes"
-msgstr "Notas de lanzamiento"
+msgstr "Notas de lançamento"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
-msgstr "Eliminar una tarea de TODO cuando Pomodoro esté completo"
+msgstr "Remover uma tarefa de TODO quando o Pomodoro estiver concluído"
 
 msgid "Remove one"
-msgstr "Quitar uno"
+msgstr "Remova um"
 
 msgid "Repeat"
 msgstr "Repetir"
 
 msgid "Repeat every"
-msgstr "Repite cada"
+msgstr "Repita cada"
 
 msgid "Reports Time"
-msgstr "Hora del informe"
+msgstr ""
 
 msgid "Rules & Tips"
-msgstr "Reglas y Consejos"
+msgstr "Regras e dicas"
 
 msgid "Scheduler"
-msgstr "Planificador"
+msgstr "Agendador"
 
 msgid "Schemes"
 msgstr "Esquemas"
 
 msgid "Select Category"
-msgstr "Seleccionar categoría"
+msgstr "Selecione a categoria"
 
 msgid "Select Dates"
-msgstr "Seleccionar fechas"
+msgstr "Selecione datas"
 
 msgid "Select a calendar to import tasks"
-msgstr "Seleccione un calendario para importar tareas"
+msgstr "Selecione um calendário para importar tarefas"
 
 msgid "Send daily reports"
-msgstr "Enviar informes diarios"
+msgstr "Enviar relatórios diários"
 
 msgid "Send test notification"
-msgstr "Enviar notificación de prueba"
+msgstr "Enviar notificação de teste"
 
 msgid "Server Error"
 msgstr ""
 
 msgid "Server has been updated."
-msgstr "Servidor ha sido actualizado."
+msgstr "Servidor foi atualizado"
 
 msgid "Set Due"
-msgstr "Establecer vencimiento"
+msgstr "Definir vencimento"
 
 msgid "Set Recurrence"
-msgstr "Establecer recurrencia"
+msgstr "Definir recorrência"
 
 msgid "Set do not disturb"
-msgstr "Establecer no molestar"
+msgstr "Conjunto não perturbe"
 
 msgid "Set to Later"
-msgstr "Establecer para más tarde"
+msgstr "Definir para mais tarde"
 
 msgid "Set to Tomorrow"
-msgstr "Listo para mañana"
+msgstr "Definir para amanhã"
 
 msgid "Set to Week"
-msgstr "Establecer a la semana"
+msgstr "Definir para semana"
 
 msgid "Settings"
-msgstr "Ajustes"
+msgstr "Configurações"
 
 msgid "Share timer data"
-msgstr "Compartir datos del temporizador"
+msgstr "Compartilhar dados do timer"
 
 msgid "Short break"
-msgstr "Pequeño descanso"
+msgstr "Intervalo curto"
 
 msgid "Short break duration"
-msgstr "Duración del descanso corto"
+msgstr "Duração da pausa curta"
 
 msgid "Short description"
-msgstr "Descripción corta"
+msgstr "Descrição curta"
 
 msgid "Show window"
-msgstr "Mostrar ventana"
+msgstr "Mostrar janela"
 
 msgid "Sign Up / Login"
-msgstr "Regístrate / Inicia sesión"
+msgstr "Registrar-se / Entrar"
 
 msgid "Sign in with %1$s"
-msgstr "Iniciar sesión con %1$s"
+msgstr "Faça login com %1$s"
 
 msgid "Sleep Mode is enabled"
-msgstr "el modo de suspensión está habilitado"
+msgstr "o modo de suspensão está ativado"
 
 msgid "Sort by"
 msgstr "Ordenar por"
 
 msgid "Start the Pomodoro timer"
-msgstr "Inicia el cronómetro Pomodoro"
+msgstr "Inicie o Pomodoro"
 
 msgid "Start working:"
-msgstr "Empieza a trabajar:"
+msgstr "Comece a trabalhar:"
 
 msgid "Starts on"
-msgstr "Comienza en"
+msgstr "Começa em"
 
 msgid "Stats"
-msgstr "Estadísticas"
+msgstr "Estatísticas"
 
 msgid "Stay focused and finish tasks effectively."
 msgstr ""
@@ -554,39 +551,37 @@ msgstr ""
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
-msgstr ""
-"Fortalece tu resolución para seguir aplicándote al frente de situaciones "
-"complejas"
+msgstr "Reforçar sua vontade de dedicar-se a encarar situações complexas"
 
 msgid "Support the Project"
-msgstr "Apoya el proyecto"
+msgstr "Apoie o projeto"
 
 msgid "Sync my tasks only"
-msgstr "Sincronizar solo mis tareas"
+msgstr "Sincronizar apenas minhas tarefas"
 
 msgid "TODO"
-msgstr "TODO"
+msgstr "TAREFA"
 
 msgid "TODO list is empty."
-msgstr "La lista TODO está vacía"
+msgstr "A lista de TAREFAS está vazia"
 
 msgid "TODO list was updated."
-msgstr "Se actualizó la lista TODO"
+msgstr "Lista TODO foi atualizada."
 
 msgid "Take a short break (3-5 minutes)"
-msgstr "Haz un breve descanso (3-5 minutos)"
+msgstr "Faça uma pausa curta (3-5 minutos)"
 
 msgid "Take more time to your life."
 msgstr ""
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr "Gracias por los comentarios! Su mensaje está en espera de la moderación."
+msgstr "Obrigado pelo feedback! Sua mensagem está aguardando por moderação."
 
 msgid "The Basics"
-msgstr "Los Principios"
+msgstr "O Básico"
 
 msgid "The Goals"
-msgstr "Los Objetivos"
+msgstr "Os Objetivos"
 
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
@@ -594,27 +589,27 @@ msgid ""
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
-"La Técnica Pomodoro es un método de gestión de tiempo que se puede usar "
-"para cualquier tarea. Para muchos, el tiempo es un enemigo. La anxiedad "
-"producida por los “ticks del reloj”, sobre todo si se tiene una fecha "
-"límite, conduce a hábitos de trabajo y estudio ineficaces que a su vez "
-"conducen a la procrastinación."
+"A técnica Pomodoro é um método para gerenciamento do tempo que pode ser "
+"usada para qualquer tarefa. Para muitas pessoas, tempo é um inimigo. A "
+"ansiedade provocada pelo “tic-tac do relógio”, especiamente quando "
+"envolve uma entrega, acompanhada de hábitos de trabalho e estudo "
+"ineficientes, levam à procastinação."
 
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
 msgstr ""
-"No deberías usar la Técnica Pomodoro para las actividades que haces "
-"durante tu tiempo libre. ¡Disfruta del tiempo libre!"
+"A técnica do Pomodoro não deve ser usada para as atividades que você faz "
+"em seu tempo livre. Aproveite seu tempo livre!"
 
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
-"La Técnica Pomodoro proporciona una simple herramienta/proceso para "
-"mejorar la productividad (tuya o de los miembros de tu equipo) para hacer"
-" lo siguiente:"
+"A técnica do Pomodoro fornece uma ferramenta simples para melhorar a "
+"produtividade (a sua própria e a dos membros da sua equipe) que poderá "
+"vir acompanhada de: "
 
 msgid ""
 "The Pomodoro Tracker — A useful tool for time management based on "
@@ -626,203 +621,203 @@ msgid ""
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr ""
-"El espíritu de la Técnica Pomodoro es usar el tiempo como un valioso "
-"aliado para alcanzar lo que se quiere hacer del modo en que se quiere "
-"hacer, y permitirnos mejorar continuamente la forma en que trabajamos o "
-"estudiamos."
+"O objetivo da técnica Pomodoro é usar o tempo como um aliado valioso para"
+" realizar o que queremos e fazer da maneira que queremos. Essa técnica "
+"nos permite melhorar continuamente a maneira como trabalhamos ou "
+"estudamos\""
 
 msgid "The integration is outdated. Please reconnect."
-msgstr "La integración está desactualizada. Por favor, vuelva a conectar."
+msgstr "A integração está desatualizada. Por favor, reconecte."
 
 msgid "The list is empty"
-msgstr "La lista está vacía"
+msgstr "A lista está vazia"
 
 msgid "The next Pomodoro will go better"
-msgstr "El siguiente Pomodoro será mejor"
+msgstr "O próximo Pomodoro será melhor!"
 
 msgid "The next pomodoro will go better!"
-msgstr "El siguiente Pomodoro será mejor"
+msgstr "O próximo Pomodoro será melhor!"
 
 msgid "There are completed tasks"
-msgstr "Hay tareas completadas"
+msgstr "Existem tarefas concluídas"
 
 msgid "This Month"
-msgstr "Este Mes"
+msgstr "Este mês"
 
 msgid "This Quarter"
-msgstr "Este trimestre"
+msgstr "Neste trimestre"
 
 msgid "This Week"
-msgstr "Esta Semana"
+msgstr "Esta semana"
 
 msgid "This Year"
-msgstr "Este año"
+msgstr "Este ano"
 
 msgid "Time format"
-msgstr "Formato de Hora"
+msgstr "Formato das horas:"
 
 msgid "Time spent"
-msgstr "Tiempo empleado"
+msgstr "Tempo gasto"
 
 msgid "Time zone"
-msgstr "Zona horaria"
+msgstr "fuso horário"
 
 msgid "Timer"
-msgstr "Cronómetro"
+msgstr "Cronômetro"
 
 msgid "Title"
 msgstr "Título"
 
 msgid "Toggle eye keeper"
-msgstr ""
+msgstr "ativar o protetor de olhos"
 
 msgid "Toggle fullscreen"
-msgstr "Alternar a pantalla completa"
+msgstr "Alternar para tela cheia"
 
 msgid "Toggle mini timer"
-msgstr "Cambia el Mini-Timer"
+msgstr "Mude o Cronômetro"
 
 msgid "Try to add some tasks use the form above"
-msgstr "Intenta añadir algunas tareas usando el formulario de arriba"
+msgstr "Experimente adicionar algumas tarefas pelo formulário abaixo"
 
 msgid "Try to complete some pomodoros or choose a different period"
-msgstr "Intenta completar algunos pomodoros o elige un periodo diferente"
+msgstr "Experimente completar alguns pomodoros ou escolha um período diferente"
 
 msgid "Tune the timer"
-msgstr "Ajustar el cronómetro"
+msgstr "Sintonizar o temporizador"
 
 msgid "Unselect Category"
-msgstr "Deseleccionar categoría"
+msgstr "Desmarque a categoria"
 
 msgid "Update status"
-msgstr "Estado de actualización"
+msgstr "Atualizar o status"
 
 msgid "View"
-msgstr ""
+msgstr "Visualizar"
 
 msgid "Volume"
-msgstr "Volumen"
+msgstr "Volume"
 
 msgid "What is it?"
-msgstr "¿En qué consiste?"
+msgstr "O que é isso?"
 
 msgid "Window"
 msgstr ""
 
 msgid "Work days"
-msgstr "Días de trabajo"
+msgstr "Dias trabalhados"
 
 msgid "Work history won`t be saved."
-msgstr "El historial de trabajo no se guardará."
+msgstr "O histórico de trabalho não será salvo"
 
 msgid "Work until the Pomodoro rings"
-msgstr "Trabaja hasta que suene el Pomodoro"
+msgstr "Trabalhe até que o alarme do Pomodoro toque"
 
 msgid "Write your ideas here"
-msgstr "Escribe tus ideas aquí"
+msgstr "Escreva suas ideias aqui"
 
 msgid "Yesterday"
-msgstr "Ayer"
+msgstr "Ontem"
 
 msgid "You are not signed."
-msgstr "No estás identificado."
+msgstr "Você não está autenticado."
 
 msgid ""
 "You are trying to connect a %1$s account, but it is already connected to "
 "another user"
 msgstr ""
-"Está intentando conectar una cuenta de %1$s, pero ya está conectada a "
-"otro usuario"
+"Você está tentando se conectar a uma conta do %1$s, mas ela já está "
+"conectada a outro usuário"
 
 msgid ""
 "You are trying to log in with a %1$s account, but a user with the email "
 "is already registered"
 msgstr ""
-"Estás intentando iniciar sesión con %1$s, pero un usuario con el correo "
-"electrónico ya está registrado"
+"Você está tentando entrar no %1$s, mas um usuário com o e-mail já está "
+"registrado"
 
 msgid "You have finished all your tasks."
-msgstr "Has terminado todas tus tareas."
+msgstr "Você terminou todas as suas tarefas."
 
 msgid "You spent"
-msgstr "Empleaste"
+msgstr "Você gastou"
 
 msgid "and"
-msgstr "y"
+msgstr "e"
 
 msgid "auto"
-msgstr "automático"
+msgstr ""
 
 msgid "average"
-msgstr "promedio"
+msgstr "média"
 
 msgid "break"
-msgstr "descanso"
+msgstr "pausa"
 
 msgid "cancel"
 msgstr "cancelar"
 
 msgid "category"
-msgstr "categoría"
+msgstr "categoria"
 
 msgid "close"
-msgstr "cerrar"
+msgstr "fechar"
 
 msgid "copy"
-msgstr "copiar"
+msgstr "cópia de"
 
 msgid "created"
-msgstr "fecha"
+msgstr "criada"
 
 msgid "custom"
 msgstr "personalizado"
 
 msgid "dark"
-msgstr "oscuro"
+msgstr "escuro"
 
 msgid "day"
 msgid_plural "days"
-msgstr[0] "día"
-msgstr[1] "días"
+msgstr[0] "dia"
+msgstr[1] "dias"
 
 msgid "default"
-msgstr "predeterminado"
+msgstr "padrão"
 
 msgid "delay"
-msgstr "retrasar"
+msgstr "demora"
 
 msgid "delays"
-msgstr "retrasar"
+msgstr "atrasos"
 
 msgid "delete"
-msgstr "borrar"
+msgstr "apagar"
 
 msgid "description"
-msgstr "descripción"
+msgstr "descrição"
 
 msgid "disable"
-msgstr "inhabilitar"
+msgstr "desabilitar"
 
 msgid "done"
-msgstr "hecho"
+msgstr "feito"
 
 msgid "duration"
-msgstr "duración"
+msgstr "duração"
 
 msgid "finish time"
-msgstr "tiempo de finalización"
+msgstr "hora de terminar"
 
 msgid "focus"
-msgstr "focus"
+msgstr "foco"
 
 msgid "for all time"
-msgstr "para todo el tiempo"
+msgstr "por todos os tempos"
 
 msgid "forward"
 msgstr ""
 
 msgid "friday"
-msgstr "viernes"
+msgstr "sexta-feira"
 
 msgid "friends"
 msgstr "amigos"
@@ -836,42 +831,42 @@ msgstr[0] "hora"
 msgstr[1] "horas"
 
 msgid "if you must exit now"
-msgstr "si debes salir ahora"
+msgstr "se você deve sair agora"
 
 msgid "in 10 seconds"
-msgstr "en 10 segundos"
+msgstr "em 10 segundos"
 
 msgid "in 2 seconds"
-msgstr "en 2 segundos"
+msgstr "em 2 segundos"
 
 msgid "in 3 seconds"
-msgstr "en 3 segundos"
+msgstr "em 3 segundos"
 
 msgid "in 5 seconds"
-msgstr "en 5 segundos"
+msgstr "em 5 segundos"
 
 msgid "in minutes"
-msgstr "en minutos"
+msgstr "em minutos"
 
 msgid "in pomodoros"
-msgstr "en pomodoros"
+msgstr "em pomodoros"
 
 msgid "interruptions"
-msgstr "interrupciones"
+msgstr "interrupções"
 
 msgid "later"
-msgstr "más tarde"
+msgstr "mais tarde"
 
 msgid "light"
-msgstr "ligero"
+msgstr "luz"
 
 msgid "like"
 msgid_plural "likes"
-msgstr[0] "me gusta"
-msgstr[1] "me gustas"
+msgstr[0] "Curtir"
+msgstr[1] "Curtidas"
 
 msgid "login"
-msgstr "iniciar sesión"
+msgstr "conecte-se"
 
 msgid "maximize"
 msgstr ""
@@ -883,10 +878,10 @@ msgid "menu"
 msgstr ""
 
 msgid "merge"
-msgstr "unir"
+msgstr "fundir"
 
 msgid "messages"
-msgstr "mensajes"
+msgstr "mensagens"
 
 msgid "minimize"
 msgstr ""
@@ -897,39 +892,39 @@ msgstr[0] "minuto"
 msgstr[1] "minutos"
 
 msgid "monday"
-msgstr "lunes"
+msgstr "segunda-feira"
 
 msgid "month"
 msgid_plural "months"
-msgstr[0] "mes"
+msgstr[0] "mês"
 msgstr[1] "meses"
 
 msgid "never"
 msgstr "nunca"
 
 msgid "next page"
-msgstr "siguiente página"
+msgstr "próxima página"
 
 msgid "no description"
-msgstr "sin descripción"
+msgstr "sem descrição"
 
 msgid "no information available"
-msgstr "no hay información disponible"
+msgstr "nenhuma informação disponível"
 
 msgid "number"
 msgstr "número"
 
 msgid "on"
-msgstr "en"
+msgstr "em"
 
 msgid "one message per line"
-msgstr "un mensaje por línea"
+msgstr "uma mensagem por linha"
 
 msgid "pause"
-msgstr "pausa"
+msgstr "pausar"
 
 msgid "personal"
-msgstr ""
+msgstr "individual"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
@@ -940,31 +935,31 @@ msgid "pomodoros"
 msgstr "pomodoros"
 
 msgid "preview"
-msgstr "avance"
+msgstr "preview"
 
 msgid "previous page"
-msgstr "pagina anterior"
+msgstr "página anterior"
 
 msgid "prolong time"
-msgstr "prolongar el tiempo"
+msgstr "prolongar o tempo"
 
 msgid "rating"
-msgstr "evaluación"
+msgstr "avaliação"
 
 msgid "refresh"
 msgstr "refrescar"
 
 msgid "registered users spend on completing pomodoros"
-msgstr "han empleado usuarios registrados en completar pomodoros"
+msgstr "usuários registrados gastaram para completar pomodoros"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr "han empleado hoy usuarios registrados en completar pomodoros."
+msgstr "usuários registrados gastaram para completar pomodoros hoje."
 
 msgid "remove categories"
-msgstr "eliminar categorías"
+msgstr "remover categorias"
 
 msgid "resume"
-msgstr "continuar"
+msgstr "retornar"
 
 msgid "saturday"
 msgstr "sábado"
@@ -973,19 +968,19 @@ msgid "save"
 msgstr "salvar"
 
 msgid "send password"
-msgstr "enviar contraseña"
+msgstr "enviar senha"
 
 msgid "series"
-msgstr "serie"
+msgstr "series"
 
 msgid "skip"
-msgstr "omitir"
+msgstr "ignorar"
 
 msgid "split"
-msgstr "dividido"
+msgstr "rachar"
 
 msgid "start"
-msgstr "inicio"
+msgstr "iniciar"
 
 msgid "stop"
 msgstr "parar"
@@ -997,41 +992,41 @@ msgid "system"
 msgstr "sistema"
 
 msgid "take a long break"
-msgstr "haz un descanso largo"
+msgstr "faça uma pausa longa"
 
 msgid "take a short break"
-msgstr "haz un descanso corto"
+msgstr "faça uma pausa curta"
 
 msgid "thursday"
-msgstr "jueves"
+msgstr "quinta-feira"
 
 msgid "time"
-msgstr "tiempo"
+msgstr "tempo"
 
 msgid ""
 "to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
 msgstr ""
-"en tu telegram, escribe `/reg` e ingresa el código desde el bot al campo "
-"abajo"
+"No seu Telegram, digite `/reg` e preencha com um dos códigos do robô "
+"listados abaixo"
 
 msgid "today"
-msgstr "hoy"
+msgstr "hoje"
 
 msgid "tomorrow"
-msgstr "mañana"
+msgstr "amanhã"
 
 msgid "tuesday"
-msgstr "martes"
+msgstr "terça"
 
 msgid "unknown"
-msgstr "desconocido"
+msgstr "desconhecido"
 
 msgid "user"
-msgstr "usuario"
+msgstr "usuário"
 
 msgid "wednesday"
-msgstr "miércoles"
+msgstr "quarta-feira"
 
 msgid "week"
 msgid_plural "weeks"
@@ -1039,133 +1034,130 @@ msgstr[0] "semana"
 msgstr[1] "semanas"
 
 msgid "were"
-msgstr "fueron"
+msgstr "foram"
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] "año"
-msgstr[1] "años"
+msgstr[0] "ano"
+msgstr[1] "anos"
 
 #~ msgid "Add Activity"
-#~ msgstr "Añade una Actividad"
+#~ msgstr "Adicionar Atividade"
 
 #~ msgid "Apply"
-#~ msgstr "Aplicar"
+#~ msgstr "Aplique"
 
 #~ msgid "April"
 #~ msgstr "Abril"
 
 #~ msgid "Are you sure want to delete"
-#~ msgstr "Seguro que quieres borrar"
+#~ msgstr "Tem certeza que deseja apagar"
 
 #~ msgid "August"
 #~ msgstr "Agosto"
 
-#~ msgid "Custom"
-#~ msgstr "Personalizado"
-
 #~ msgid "Daily Task"
-#~ msgstr "Marcar como tarea diaria"
+#~ msgstr "Marcar como uma tarefa diária"
 
 #~ msgid "Daily history"
-#~ msgstr "Historial diario"
+#~ msgstr "Histórico diário"
 
 #~ msgid "Date"
-#~ msgstr "Fecha"
+#~ msgstr "Data"
 
 #~ msgid "December"
-#~ msgstr "Diciembre"
+#~ msgstr "Dezembro"
 
 #~ msgid "Enable Telegram Notifications"
-#~ msgstr "Habilitar notificaciones de Telegram"
+#~ msgstr "Ativar notificações do Telegram"
 
 #~ msgid "Favorites"
 #~ msgstr "Favoritos"
 
 #~ msgid "February"
-#~ msgstr "Febrero"
+#~ msgstr "Fevereiro"
 
 #~ msgid "Import records from CSV"
-#~ msgstr "Importar registros de CSV"
+#~ msgstr "Importar registros de um CSV"
 
 #~ msgid "Import/Export tasks"
 #~ msgstr ""
 
 #~ msgid "January"
-#~ msgstr "Enero"
+#~ msgstr "Janeiro"
 
 #~ msgid "July"
-#~ msgstr "Julio"
+#~ msgstr "Julho"
 
 #~ msgid "June"
-#~ msgstr "Junio"
+#~ msgstr "Junho"
 
 #~ msgid "Load daily tasks from Google Calendar"
-#~ msgstr "Carga las tareas diarias desde Google Calendar"
+#~ msgstr "Carregar tarefas diárias do calendário do Google"
 
 #~ msgid "Login to view your stats"
-#~ msgstr "Inicia sesión para ver tus estadísticas"
+#~ msgstr "Entre para ver suas estatísticas"
 
 #~ msgid "March"
-#~ msgstr "Marzo"
+#~ msgstr "Março"
 
 #~ msgid "May"
-#~ msgstr "Mayo"
+#~ msgstr "Maio"
 
 #~ msgid "November"
-#~ msgstr "Noviembre"
+#~ msgstr "Novembro"
 
 #~ msgid "October"
-#~ msgstr "Octubre"
+#~ msgstr "Outubro"
 
 #~ msgid "Pin to activities"
-#~ msgstr "Marcar como favorito"
-
-#~ msgid "Please log in using a different method and connect the %1$s after"
-#~ msgstr "Inicie sesión con un método diferente y conecte el %1$s después"
+#~ msgstr "Fixar em favoritos"
 
 #~ msgid "Privacy Policy"
-#~ msgstr "Política de privacidad"
+#~ msgstr "Política de privacidade"
 
 #~ msgid "Repeating Task"
-#~ msgstr "Tarea repetitiva"
+#~ msgstr "Tarefa de repetição"
 
 #~ msgid "Reports and notifications"
-#~ msgstr "Informes y notificaciones"
+#~ msgstr "Relatórios e notificações"
 
 #~ msgid "Send Daily Reports"
-#~ msgstr "Enviar informes diarios"
+#~ msgstr "Enviar relatórios diários"
 
 #~ msgid "Send reports on email: "
-#~ msgstr "Enviar informes por email: "
+#~ msgstr "Enviar relatórios no e-mail: "
 
 #~ msgid "Send reports on telegram"
-#~ msgstr "Enviar informes por Telegram"
+#~ msgstr "Enviar relatórios no Telegram"
 
 #~ msgid "September"
-#~ msgstr "Septiembre"
+#~ msgstr "Setembro"
 
 #~ msgid "Sync with Google Tasks"
-#~ msgstr "Sincronizar con Google Tasks"
+#~ msgstr "Sincronizar com Google Tasks"
 
 #~ msgid "The Pomodoro is running"
-#~ msgstr "El Pomodoro está en marcha"
+#~ msgstr "O Pomodoro está executando"
 
 #~ msgid "Try to complete some pomodoros above"
-#~ msgstr "Intenta completar algunos pomodoros de arriba"
+#~ msgstr "Tente completar alguns dos pomodoros acima"
 
 #~ msgid "Try to mark TODO as activity or use the form above"
-#~ msgstr "Intenta marcar TODO como actividad o usa el formulario de arriba"
+#~ msgstr ""
+#~ "Experimente marcar uma atividade como: "
+#~ "PARA FAZER, ou use o formulário "
+#~ "abaixo"
 
 #~ msgid "duplicate"
-#~ msgstr "duplicar"
+#~ msgstr "duplicado"
 
 #~ msgid "quarter"
 #~ msgstr "trimestre"
 
 #~ msgid "record"
-#~ msgstr "registrar"
+#~ msgstr "registro"
 
 #~ msgid "version"
-#~ msgstr "versión"
+#~ msgstr "versão"
 
