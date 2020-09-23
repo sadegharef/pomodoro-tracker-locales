@@ -179,7 +179,7 @@ msgstr "启用浏览器弹窗"
 msgid "Enable Notifications"
 msgstr "启用通知"
 
-msgid "Enable Web Notifications"
+msgid "Enable Desktop Notifications"
 msgstr "启用网页通知"
 
 msgid "Ends on"

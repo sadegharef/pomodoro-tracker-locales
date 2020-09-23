@@ -180,8 +180,8 @@ msgstr "Activeer browser-alerts"
 msgid "Enable Notifications"
 msgstr "Activeer notificaties"
 
-msgid "Enable Web Notifications"
-msgstr "Activeer web-notificaties"
+msgid "Enable Desktop Notifications"
+msgstr "Activeer Desktop-notificaties"
 
 msgid "Ends on"
 msgstr "Eindigt op"

@@ -183,7 +183,7 @@ msgstr "Ενεργοποίησε Ειδοποιήσεις Λογισμικού �
 msgid "Enable Notifications"
 msgstr "Ενεργοποίηση ειδοποιήσεων"
 
-msgid "Enable Web Notifications"
+msgid "Enable Desktop Notifications"
 msgstr "Ενεργοποίησε Ειδοποιήσεις Ιστοσελιδας"
 
 msgid "Ends on"

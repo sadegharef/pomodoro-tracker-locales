@@ -183,8 +183,8 @@ msgstr "Tarayıcı Uyarılarını Etkinleştir"
 msgid "Enable Notifications"
 msgstr "Bildirimlerini Etkinleştir"
 
-msgid "Enable Web Notifications"
-msgstr "Web Bildirimlerini Etkinleştir"
+msgid "Enable Desktop Notifications"
+msgstr "Desktop Bildirimlerini Etkinleştir"
 
 msgid "Ends on"
 msgstr "Bitiş tarihi"

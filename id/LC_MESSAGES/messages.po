@@ -181,8 +181,8 @@ msgstr "Aktifkan Peringatan Peramban"
 msgid "Enable Notifications"
 msgstr "Aktifkan Notifikasi"
 
-msgid "Enable Web Notifications"
-msgstr "Aktifkan Notifikasi Web"
+msgid "Enable Desktop Notifications"
+msgstr "Aktifkan Notifikasi Desktop"
 
 msgid "Ends on"
 msgstr "Berakhir pada"

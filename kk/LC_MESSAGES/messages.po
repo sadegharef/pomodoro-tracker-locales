@@ -181,8 +181,8 @@ msgstr "Шағын терезе күйінде"
 msgid "Enable Notifications"
 msgstr "Хабарландыруларды қосыңыз"
 
-msgid "Enable Web Notifications"
-msgstr "Web-хабарлама"
+msgid "Enable Desktop Notifications"
+msgstr "Desktop-хабарлама"
 
 msgid "Ends on"
 msgstr "Аяқталады"

@@ -179,8 +179,8 @@ msgstr "ブラウザーアラートを有効にする"
 msgid "Enable Notifications"
 msgstr "通知機能を有効にする"
 
-msgid "Enable Web Notifications"
-msgstr "Web通知機能を有効にする"
+msgid "Enable Desktop Notifications"
+msgstr "Desktop通知機能を有効にする"
 
 msgid "Ends on"
 msgstr "で終わる"

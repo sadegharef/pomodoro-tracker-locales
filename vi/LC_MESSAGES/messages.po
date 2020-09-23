@@ -181,8 +181,8 @@ msgstr "Bật Thông báo Trình duyệt"
 msgid "Enable Notifications"
 msgstr "Bật Thông báo"
 
-msgid "Enable Web Notifications"
-msgstr "Bật Thông báo Web"
+msgid "Enable Desktop Notifications"
+msgstr "Bật Thông báo Desktop"
 
 msgid "Ends on"
 msgstr "Kết thúc vào"

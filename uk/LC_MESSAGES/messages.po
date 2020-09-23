@@ -182,8 +182,8 @@ msgstr "Увімкнути спливні вікна"
 msgid "Enable Notifications"
 msgstr "Увімкнути сповіщення"
 
-msgid "Enable Web Notifications"
-msgstr "Увімкнути сповіщення в браузері"
+msgid "Enable Desktop Notifications"
+msgstr "Увімкнути сповіщення в системі"
 
 msgid "Ends on"
 msgstr "Закінчується далі"

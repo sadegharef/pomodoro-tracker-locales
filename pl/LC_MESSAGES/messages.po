@@ -180,7 +180,7 @@ msgstr "Włącz powiadomienia przeglądarki"
 msgid "Enable Notifications"
 msgstr "Włącz powiadomienia"
 
-msgid "Enable Web Notifications"
+msgid "Enable Desktop Notifications"
 msgstr "Włącz powiadomienia systemowe"
 
 msgid "Ends on"

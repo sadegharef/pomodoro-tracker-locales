@@ -181,8 +181,8 @@ msgstr "Activar Alertas de Navegador"
 msgid "Enable Notifications"
 msgstr "Activar Notificaciones"
 
-msgid "Enable Web Notifications"
-msgstr "Activar Notificaciones Web"
+msgid "Enable Desktop Notifications"
+msgstr "Activar Notificaciones Desktop"
 
 msgid "Ends on"
 msgstr "Termina en"

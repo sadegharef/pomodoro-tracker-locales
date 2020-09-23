@@ -180,7 +180,7 @@ msgstr "شغل تنبيهات المتصفح"
 msgid "Enable Notifications"
 msgstr "تمكين الإخطارات"
 
-msgid "Enable Web Notifications"
+msgid "Enable Desktop Notifications"
 msgstr "شغل إشعارات الويب"
 
 msgid "Ends on"

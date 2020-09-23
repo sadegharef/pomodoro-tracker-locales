@@ -180,7 +180,7 @@ msgstr ""
 msgid "Enable Notifications"
 msgstr ""
 
-msgid "Enable Web Notifications"
+msgid "Enable Desktop Notifications"
 msgstr ""
 
 msgid "Ends on"

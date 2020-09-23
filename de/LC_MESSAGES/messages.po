@@ -179,8 +179,8 @@ msgstr "Aktiviere Browser-Benachrichtigungen"
 msgid "Enable Notifications"
 msgstr "Aktiviere Benachrichtigungen"
 
-msgid "Enable Web Notifications"
-msgstr "Aktiviere Web-Benachrichtigungen"
+msgid "Enable Desktop Notifications"
+msgstr "Aktiviere Desktop-Benachrichtigungen"
 
 msgid "Ends on"
 msgstr "Endet am"

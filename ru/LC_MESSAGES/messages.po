@@ -182,8 +182,8 @@ msgstr "Включить всплывающие окна"
 msgid "Enable Notifications"
 msgstr "Включить оповещения"
 
-msgid "Enable Web Notifications"
-msgstr "Включить оповещения в браузере"
+msgid "Enable Desktop Notifications"
+msgstr "Включить системные оповещения"
 
 msgid "Ends on"
 msgstr "Заканчивается"
