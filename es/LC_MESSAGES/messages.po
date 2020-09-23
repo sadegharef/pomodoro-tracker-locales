@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-15 11:37+0300\n"
+"POT-Creation-Date: 2020-09-23 16:12+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -77,6 +77,9 @@ msgstr "Alivia la ansiedad vinculada a comenzar"
 
 msgid "Application"
 msgstr "Aplicación"
+
+msgid "Ask for the permission"
+msgstr "Pide el permiso"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -178,11 +181,11 @@ msgstr "Editar"
 msgid "Enable Browser Alerts"
 msgstr "Activar Alertas de Navegador"
 
-msgid "Enable Notifications"
-msgstr "Activar Notificaciones"
-
 msgid "Enable Desktop Notifications"
 msgstr "Activar Notificaciones Desktop"
+
+msgid "Enable Notifications"
+msgstr "Activar Notificaciones"
 
 msgid "Ends on"
 msgstr "Termina en"
@@ -222,6 +225,9 @@ msgstr "Ocultar notificaciones"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "¿Como arreglar?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr ""
@@ -377,6 +383,9 @@ msgstr "Haz sonar un tictac"
 
 msgid "Play ticking sound while breaks"
 msgstr "Haz sonar un tictac durante los descansos"
+
+msgid "Please allow notifications in your browser"
+msgstr "Permita las notificaciones en su navegador"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Por favor no me envíes estos increíbles informes diarios"

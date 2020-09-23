@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-15 11:38+0300\n"
+"POT-Creation-Date: 2020-09-23 16:13+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -78,6 +78,9 @@ msgstr "Полегшити бентежність перед початком р
 
 msgid "Application"
 msgstr "Додаток"
+
+msgid "Ask for the permission"
+msgstr "Попросіть дозволу"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -179,11 +182,11 @@ msgstr "Редагувати"
 msgid "Enable Browser Alerts"
 msgstr "Увімкнути спливні вікна"
 
-msgid "Enable Notifications"
-msgstr "Увімкнути сповіщення"
-
 msgid "Enable Desktop Notifications"
 msgstr "Увімкнути сповіщення в системі"
+
+msgid "Enable Notifications"
+msgstr "Увімкнути сповіщення"
 
 msgid "Ends on"
 msgstr "Закінчується далі"
@@ -223,6 +226,9 @@ msgstr "Ховати сповіщення"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "Як виправити?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Якщо завдання потребує більше 5-7 Помідорів, розбийте її на менші"
@@ -373,6 +379,9 @@ msgstr "Грати звук цокання"
 
 msgid "Play ticking sound while breaks"
 msgstr "Грати звук цокання під час перерви"
+
+msgid "Please allow notifications in your browser"
+msgstr "Будь ласка, дозвольте сповіщення у вашому браузері"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Будь ласка, не присилайте мені ці чудові щоденні звіти"

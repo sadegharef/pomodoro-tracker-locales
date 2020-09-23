@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-09-15 11:37+0300\n"
+"POT-Creation-Date: 2020-09-23 16:12+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -77,6 +77,9 @@ msgstr "Angstzustände vermeiden"
 
 msgid "Application"
 msgstr "Anwendung"
+
+msgid "Ask for the permission"
+msgstr "Bitte um Erlaubnis"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -176,11 +179,11 @@ msgstr "Bearbeiten"
 msgid "Enable Browser Alerts"
 msgstr "Aktiviere Browser-Benachrichtigungen"
 
-msgid "Enable Notifications"
-msgstr "Aktiviere Benachrichtigungen"
-
 msgid "Enable Desktop Notifications"
 msgstr "Aktiviere Desktop-Benachrichtigungen"
+
+msgid "Enable Notifications"
+msgstr "Aktiviere Benachrichtigungen"
 
 msgid "Ends on"
 msgstr "Endet am"
@@ -222,6 +225,9 @@ msgstr "Benachrichtigungen verstecken"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "Wie repariert man?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr ""
@@ -376,6 +382,9 @@ msgstr "Akkustisches Uhrticken während Pomodoros"
 
 msgid "Play ticking sound while breaks"
 msgstr "Akkustisches Uhrticken während Pausen"
+
+msgid "Please allow notifications in your browser"
+msgstr "Bitte erlauben Sie Benachrichtigungen in Ihrem Browser"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Bitte senden sie keine weiteren dieser täglichen Berichte"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-15 11:38+0300\n"
+"POT-Creation-Date: 2020-09-23 16:13+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -77,6 +77,9 @@ msgstr "Hedeflerinizle bağlantılı olan kaygılarınızı hafifletin"
 
 msgid "Application"
 msgstr "Uygulama"
+
+msgid "Ask for the permission"
+msgstr "İzin isteyin"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -180,11 +183,11 @@ msgstr "Düzenlemek"
 msgid "Enable Browser Alerts"
 msgstr "Tarayıcı Uyarılarını Etkinleştir"
 
-msgid "Enable Notifications"
-msgstr "Bildirimlerini Etkinleştir"
-
 msgid "Enable Desktop Notifications"
 msgstr "Desktop Bildirimlerini Etkinleştir"
+
+msgid "Enable Notifications"
+msgstr "Bildirimlerini Etkinleştir"
 
 msgid "Ends on"
 msgstr "Bitiş tarihi"
@@ -224,6 +227,9 @@ msgstr "Bildirimleri gizle"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "Nasıl düzeltilir?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "İşiniz 5-7 Pomodoro'dan fazla sürüyorsa abartıya kaçmayın"
@@ -376,6 +382,9 @@ msgstr "Tıkırtı sesi çal"
 
 msgid "Play ticking sound while breaks"
 msgstr "Mola esnasında tiz ses çalın"
+
+msgid "Please allow notifications in your browser"
+msgstr "Lütfen tarayıcınızda bildirimlere izin verin"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr ""

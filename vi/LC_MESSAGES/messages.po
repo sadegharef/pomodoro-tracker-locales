@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-15 11:38+0300\n"
+"POT-Creation-Date: 2020-09-23 16:13+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -77,6 +77,9 @@ msgstr ""
 
 msgid "Application"
 msgstr "Ứng dụng"
+
+msgid "Ask for the permission"
+msgstr "Yêu cầu sự cho phép"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -178,11 +181,11 @@ msgstr "Chỉnh sửa"
 msgid "Enable Browser Alerts"
 msgstr "Bật Thông báo Trình duyệt"
 
-msgid "Enable Notifications"
-msgstr "Bật Thông báo"
-
 msgid "Enable Desktop Notifications"
 msgstr "Bật Thông báo Desktop"
+
+msgid "Enable Notifications"
+msgstr "Bật Thông báo"
 
 msgid "Ends on"
 msgstr "Kết thúc vào"
@@ -222,6 +225,9 @@ msgstr "Ẩn Thông báo"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "Làm thế nào để khắc phục?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Nếu một công việc cần nhiều hơn 5-7 pomodoros, hãy chia nhỏ nó"
@@ -373,6 +379,9 @@ msgstr "Mở tiếng tích tắc"
 
 msgid "Play ticking sound while breaks"
 msgstr "Mở tiếng tích tắc trong lúc nghỉ"
+
+msgid "Please allow notifications in your browser"
+msgstr "Vui lòng cho phép thông báo trong trình duyệt của bạn"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Đừng gửi cho tôi những bản báo cáo hằng ngày tuyệt vời này "

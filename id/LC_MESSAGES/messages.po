@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 16.12.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-15 11:37+0300\n"
+"POT-Creation-Date: 2020-09-23 16:12+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: id\n"
@@ -77,6 +77,9 @@ msgstr "Mengurangi kecemasan saat memulai tugas baru"
 
 msgid "Application"
 msgstr "Aplikasi"
+
+msgid "Ask for the permission"
+msgstr "Minta izin"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -178,11 +181,11 @@ msgstr "Edit"
 msgid "Enable Browser Alerts"
 msgstr "Aktifkan Peringatan Peramban"
 
-msgid "Enable Notifications"
-msgstr "Aktifkan Notifikasi"
-
 msgid "Enable Desktop Notifications"
 msgstr "Aktifkan Notifikasi Desktop"
+
+msgid "Enable Notifications"
+msgstr "Aktifkan Notifikasi"
 
 msgid "Ends on"
 msgstr "Berakhir pada"
@@ -222,6 +225,9 @@ msgstr "Sembunyikan notifikasi"
 
 msgid "History"
 msgstr "Riwayat"
+
+msgid "How to fix?"
+msgstr "Bagaimana cara memperbaiki?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Jika terdapat lebih dari 5-7 Pomodoro pada tugas, pecah tugasnya"
@@ -374,6 +380,9 @@ msgstr "Putar suara detakan"
 
 msgid "Play ticking sound while breaks"
 msgstr "Putar suara detakan ketika beristirahat"
+
+msgid "Please allow notifications in your browser"
+msgstr "Mohon izinkan pemberitahuan di browser Anda"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Mohon untuk tidak mengirimkankan laporan harian itu ke saya"
@@ -1044,3 +1053,4 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "tahun"
 msgstr[1] "tahun"
+

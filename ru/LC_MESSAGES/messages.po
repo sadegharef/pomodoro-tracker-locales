@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-15 11:37+0300\n"
+"POT-Creation-Date: 2020-09-23 16:12+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -78,6 +78,9 @@ msgstr "Облегчения начала работы"
 
 msgid "Application"
 msgstr "Приложение"
+
+msgid "Ask for the permission"
+msgstr "Запросить разрешение"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -179,11 +182,11 @@ msgstr "Редактировать"
 msgid "Enable Browser Alerts"
 msgstr "Включить всплывающие окна"
 
-msgid "Enable Notifications"
-msgstr "Включить оповещения"
-
 msgid "Enable Desktop Notifications"
 msgstr "Включить системные оповещения"
+
+msgid "Enable Notifications"
+msgstr "Включить оповещения"
 
 msgid "Ends on"
 msgstr "Заканчивается"
@@ -223,6 +226,9 @@ msgstr "Прятать оповещения"
 
 msgid "History"
 msgstr "История"
+
+msgid "How to fix?"
+msgstr "Как исправить"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Если задача требует более 5-7 «помидоров» — разбейте её на подзадачи"
@@ -375,6 +381,9 @@ msgstr "Проигрывать тикающий звук"
 
 msgid "Play ticking sound while breaks"
 msgstr "Проигрывать тикающий звук во время перерыва"
+
+msgid "Please allow notifications in your browser"
+msgstr "Пожалуйста разрешите оповещения в системе"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "Пожалуйста, не присылайте мне эти замечательные отчеты"

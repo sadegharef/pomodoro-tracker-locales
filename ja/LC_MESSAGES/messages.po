@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-15 11:38+0300\n"
+"POT-Creation-Date: 2020-09-23 16:12+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -77,6 +77,9 @@ msgstr "迫りくる不安を和らげます"
 
 msgid "Application"
 msgstr "基本設定"
+
+msgid "Ask for the permission"
+msgstr "許可を求める"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -176,11 +179,11 @@ msgstr "編集"
 msgid "Enable Browser Alerts"
 msgstr "ブラウザーアラートを有効にする"
 
-msgid "Enable Notifications"
-msgstr "通知機能を有効にする"
-
 msgid "Enable Desktop Notifications"
 msgstr "Desktop通知機能を有効にする"
+
+msgid "Enable Notifications"
+msgstr "通知機能を有効にする"
 
 msgid "Ends on"
 msgstr "で終わる"
@@ -220,6 +223,9 @@ msgstr "通知が隠れるまで"
 
 msgid "History"
 msgstr "履歴"
+
+msgid "How to fix?"
+msgstr "直し方？"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "1つのタスクが5-7ポモドーロ以上の場合は、タスクをもっと細かくしましょう"
@@ -368,6 +374,9 @@ msgstr "チクタク音を再生する"
 
 msgid "Play ticking sound while breaks"
 msgstr "休憩中に音を立てて再生する"
+
+msgid "Please allow notifications in your browser"
+msgstr "ブラウザで通知を許可してください"
 
 msgid "Please don't send me these awesome daily reports"
 msgstr "これらのすばらしい日報を私に送らないでください"
