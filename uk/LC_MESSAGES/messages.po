@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-23 16:13+0300\n"
+"POT-Creation-Date: 2020-09-29 13:06+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -932,6 +932,9 @@ msgstr "на"
 msgid "one message per line"
 msgstr "одне повідомлення на рядок"
 
+msgid "page"
+msgstr "сторінка"
+
 msgid "pause"
 msgstr "пауза"
 
@@ -967,9 +970,6 @@ msgstr "зареєстровані користувачі витратили н�
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "зареєстровані користувачі витратили на завдання сьогодні."
-
-msgid "remove categories"
-msgstr "видалити категорії"
 
 msgid "resume"
 msgstr "відновити"
@@ -1105,4 +1105,7 @@ msgstr[2] "років"
 
 #~ msgid "quarter"
 #~ msgstr "квартал"
+
+#~ msgid "remove categories"
+#~ msgstr "видалити категорії"
 

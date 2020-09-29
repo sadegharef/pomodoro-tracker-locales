@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-23 16:13+0300\n"
+"POT-Creation-Date: 2020-09-29 13:06+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -914,7 +914,7 @@ msgid "never"
 msgstr ""
 
 msgid "next page"
-msgstr ""
+msgstr "sonraki sayfa"
 
 msgid "no description"
 msgstr "açıklama yok"
@@ -930,6 +930,9 @@ msgstr ""
 
 msgid "one message per line"
 msgstr "her satıra bir mesaj"
+
+msgid "page"
+msgstr "sayfa"
 
 msgid "pause"
 msgstr "duraklat"
@@ -949,7 +952,7 @@ msgid "preview"
 msgstr "önizle"
 
 msgid "previous page"
-msgstr ""
+msgstr "önceki sayfa"
 
 msgid "prolong time"
 msgstr "uzatma süresi"
@@ -967,9 +970,6 @@ msgid "registered users spend on completing pomodoros today."
 msgstr ""
 "kayıtlı kullanıcıların bugün pomodorolarını tamamlamak için harcadıkları "
 "vakit"
-
-msgid "remove categories"
-msgstr "kategorileri kaldır"
 
 msgid "resume"
 msgstr "devam et"
@@ -1174,6 +1174,9 @@ msgstr[1] "yil"
 
 #~ msgid "record"
 #~ msgstr "rekor"
+
+#~ msgid "remove categories"
+#~ msgstr "kategorileri kaldır"
 
 #~ msgid "version"
 #~ msgstr "sürüm"

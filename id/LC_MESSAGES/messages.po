@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 16.12.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-23 16:12+0300\n"
+"POT-Creation-Date: 2020-09-29 13:06+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: id\n"
@@ -933,6 +933,9 @@ msgstr "on"
 msgid "one message per line"
 msgstr "satu pesan per-baris"
 
+msgid "page"
+msgstr "halaman"
+
 msgid "pause"
 msgstr "jeda"
 
@@ -967,9 +970,6 @@ msgstr "pengguna terdaftar menghabiskan untuk menyelesaikan pomodoro"
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "pengguna terdaftar menghabiskan untuk menyelesaikan pomodoro hari ini."
-
-msgid "remove categories"
-msgstr "hapus kategori"
 
 msgid "resume"
 msgstr "lanjutkan"
@@ -1053,4 +1053,7 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "tahun"
 msgstr[1] "tahun"
+
+#~ msgid "remove categories"
+#~ msgstr "hapus kategori"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-23 16:12+0300\n"
+"POT-Creation-Date: 2020-09-29 13:06+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -919,6 +919,9 @@ msgstr ""
 msgid "one message per line"
 msgstr "бір жолға бір хабарлама"
 
+msgid "page"
+msgstr "бет"
+
 msgid "pause"
 msgstr "пауза"
 
@@ -953,9 +956,6 @@ msgstr "- қызанақ орындау кезінде осындай уақыт
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "- бүгінгі қолданушылар жұмсаған уақыт"
-
-msgid "remove categories"
-msgstr "санаттарды жою"
 
 msgid "resume"
 msgstr "жалғастыру"
@@ -1154,6 +1154,9 @@ msgstr[1] "жыл"
 
 #~ msgid "record"
 #~ msgstr "баспа"
+
+#~ msgid "remove categories"
+#~ msgstr "санаттарды жою"
 
 #~ msgid "version"
 #~ msgstr "нұсқасы"

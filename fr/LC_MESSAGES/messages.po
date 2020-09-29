@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-23 16:12+0300\n"
+"POT-Creation-Date: 2020-09-29 13:05+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -925,6 +925,9 @@ msgstr "sur"
 msgid "one message per line"
 msgstr "un message par ligne"
 
+msgid "page"
+msgstr "page"
+
 msgid "pause"
 msgstr "pause"
 
@@ -963,9 +966,6 @@ msgid "registered users spend on completing pomodoros today."
 msgstr ""
 ", c'est le temps passé aujourd'hui sur la méthode pomodoro par les "
 "utilisateurs enregistrés."
-
-msgid "remove categories"
-msgstr "supprimer des catégories"
 
 msgid "resume"
 msgstr "reprendre"
@@ -1167,6 +1167,9 @@ msgstr[1] "ans"
 
 #~ msgid "record"
 #~ msgstr "enregistrer"
+
+#~ msgid "remove categories"
+#~ msgstr "supprimer des catégories"
 
 #~ msgid "version"
 #~ msgstr "version"

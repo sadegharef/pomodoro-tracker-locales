@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-09-23 16:13+0300\n"
+"POT-Creation-Date: 2020-09-29 13:06+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -938,6 +938,9 @@ msgstr "na"
 msgid "one message per line"
 msgstr "jedna wiadomość na linię"
 
+msgid "page"
+msgstr "strona"
+
 msgid "pause"
 msgstr "pauza"
 
@@ -973,9 +976,6 @@ msgstr "spędzili zarejestrowani użytkownicy korzystając z Pomodoro"
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "spędzili zarejestrowani użytkownicy korzystając dzisiaj z Pomodoro."
-
-msgid "remove categories"
-msgstr "usuń kategorie"
 
 msgid "resume"
 msgstr "wznów"
@@ -1195,6 +1195,9 @@ msgstr[2] "lat"
 
 #~ msgid "record"
 #~ msgstr "rekord"
+
+#~ msgid "remove categories"
+#~ msgstr "usuń kategorie"
 
 #~ msgid "version"
 #~ msgstr "wersja"

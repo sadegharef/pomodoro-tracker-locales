@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-23 16:13+0300\n"
+"POT-Creation-Date: 2020-09-29 13:06+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -898,6 +898,9 @@ msgstr "在"
 msgid "one message per line"
 msgstr "每行一条消息"
 
+msgid "page"
+msgstr "页"
+
 msgid "pause"
 msgstr "暂停"
 
@@ -931,9 +934,6 @@ msgstr "已注册用户在番茄钟花费的总时间"
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "已注册用户今天在番茄钟花费的时间"
-
-msgid "remove categories"
-msgstr ""
 
 msgid "resume"
 msgstr "继续"
@@ -1133,6 +1133,9 @@ msgstr[0] "年"
 
 #~ msgid "record"
 #~ msgstr "记录"
+
+#~ msgid "remove categories"
+#~ msgstr ""
 
 #~ msgid "version"
 #~ msgstr "版本"

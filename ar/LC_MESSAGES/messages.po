@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-23 16:12+0300\n"
+"POT-Creation-Date: 2020-09-29 13:05+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -939,6 +939,9 @@ msgstr "علي"
 msgid "one message per line"
 msgstr "رسالة واحدة لكل سطر"
 
+msgid "page"
+msgstr "الصفحة"
+
 msgid "pause"
 msgstr "توقيف مؤقت"
 
@@ -977,9 +980,6 @@ msgstr "مستخدمين مسجلين قضوا وقتهم فى إكمال مؤق
 
 msgid "registered users spend on completing pomodoros today."
 msgstr " مستخدمين مسجلين قضوا وقتهم فى إكمال مؤقتات البومودورز اليوم"
-
-msgid "remove categories"
-msgstr "إزالة الفئات"
 
 msgid "resume"
 msgstr "استمرار"
@@ -1243,4 +1243,7 @@ msgstr[5] ""
 
 #~ msgid "quarter"
 #~ msgstr "ربع سنوي"
+
+#~ msgid "remove categories"
+#~ msgstr "إزالة الفئات"
 
