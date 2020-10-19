@@ -316,7 +316,7 @@ msgid "Long break"
 msgstr "Lange pauze"
 
 msgid "Long break delay"
-msgstr "Lange pazue na"
+msgstr "Lange pauze na"
 
 msgid "Long break duration"
 msgstr "Lange-pauzeduur"
