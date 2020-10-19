@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-19 15:10+0300\n"
+"POT-Creation-Date: 2020-10-19 16:34+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -642,6 +642,9 @@ msgstr "Tuần này"
 msgid "This Year"
 msgstr "Năm nay"
 
+msgid "Time Scheme has been changed"
+msgstr "Lược đồ thời gian đã được thay đổi"
+
 msgid "Time format"
 msgstr "Định dạng thời gian"
 
@@ -1093,9 +1096,6 @@ msgstr[0] ""
 
 #~ msgid "October"
 #~ msgstr "Tháng 10"
-
-#~ msgid "Operation is complete"
-#~ msgstr ""
 
 #~ msgid "Pin to activities"
 #~ msgstr "Gắn lên Yêu thích"

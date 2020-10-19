@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-19 15:10+0300\n"
+"POT-Creation-Date: 2020-10-19 16:34+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -637,6 +637,9 @@ msgstr "本周"
 msgid "This Year"
 msgstr "今年"
 
+msgid "Time Scheme has been changed"
+msgstr "时间方案已更改"
+
 msgid "Time format"
 msgstr "时间格式"
 
@@ -1085,9 +1088,6 @@ msgstr[0] "年"
 
 #~ msgid "October"
 #~ msgstr "十月"
-
-#~ msgid "Operation is complete"
-#~ msgstr ""
 
 #~ msgid "Pin to activities"
 #~ msgstr "添加到收藏夹"
