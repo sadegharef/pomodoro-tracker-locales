@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-01 12:52+0300\n"
+"POT-Creation-Date: 2020-10-19 15:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -364,9 +364,6 @@ msgstr "Якщо ви почали Помідор – ви маєте його �
 
 msgid "One minute left"
 msgstr "Залишилася хвилина"
-
-msgid "Operation is complete"
-msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Зупиняти таймер, коли компьютер іде в режим сну"
@@ -1075,6 +1072,9 @@ msgstr[2] "років"
 
 #~ msgid "Load daily tasks from Google Calendar"
 #~ msgstr "Завантажувати щоденні завдання з календаря Google"
+
+#~ msgid "Operation is complete"
+#~ msgstr ""
 
 #~ msgid "Pin to activities"
 #~ msgstr "Додати у вибране"

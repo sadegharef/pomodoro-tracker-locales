@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 16.12.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-01 12:51+0300\n"
+"POT-Creation-Date: 2020-10-19 15:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Dafiul Haq <dafiulhaq97@gmail.com>\n"
 "Language: id\n"
@@ -367,9 +367,6 @@ msgstr "Ketika Pomodoro dimulai, lonceng akan berdering"
 
 msgid "One minute left"
 msgstr "Satu menit tersisa"
-
-msgid "Operation is complete"
-msgstr "Operasi selesai"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Jeda/batalkan jeda ketika komputer dalam keadaan sleep/diam"
@@ -1055,6 +1052,9 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "tahun"
 msgstr[1] "tahun"
+
+#~ msgid "Operation is complete"
+#~ msgstr "Operasi selesai"
 
 #~ msgid "remove categories"
 #~ msgstr "hapus kategori"

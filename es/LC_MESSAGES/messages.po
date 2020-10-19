@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-01 12:51+0300\n"
+"POT-Creation-Date: 2020-10-19 15:09+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -368,9 +368,6 @@ msgstr "Una vez que comienza un Pomodoro, tiene que llegar a sonar"
 
 msgid "One minute left"
 msgstr "Queda un minuto"
-
-msgid "Operation is complete"
-msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Pausa el temporizador cuando la computadora entra en reposo"
@@ -1126,6 +1123,9 @@ msgstr[1] "años"
 
 #~ msgid "October"
 #~ msgstr "Octubre"
+
+#~ msgid "Operation is complete"
+#~ msgstr ""
 
 #~ msgid "Pin to activities"
 #~ msgstr "Marcar como favorito"

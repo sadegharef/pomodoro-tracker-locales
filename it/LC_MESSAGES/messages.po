@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-01 12:51+0300\n"
+"POT-Creation-Date: 2020-10-19 15:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -364,9 +364,6 @@ msgstr "Una volta che il pomodoro inizia, deve suonare"
 
 msgid "One minute left"
 msgstr "Un minuto rimasto"
-
-msgid "Operation is complete"
-msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Ferma/Parti quando il computer è inattivo"
@@ -1117,6 +1114,9 @@ msgstr[1] "anni"
 
 #~ msgid "October"
 #~ msgstr "Ottobre"
+
+#~ msgid "Operation is complete"
+#~ msgstr ""
 
 #~ msgid "Pin to activities"
 #~ msgstr "Pin ai preferiti"

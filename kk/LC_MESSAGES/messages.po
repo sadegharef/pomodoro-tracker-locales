@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-01 12:51+0300\n"
+"POT-Creation-Date: 2020-10-19 15:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -365,9 +365,6 @@ msgstr "Қызанақ бастасаңыз, міндетті түрде аяқ�
 
 msgid "One minute left"
 msgstr "Бір минут қалды"
-
-msgid "Operation is complete"
-msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
@@ -1109,6 +1106,9 @@ msgstr[1] "жыл"
 
 #~ msgid "October"
 #~ msgstr "Қазан"
+
+#~ msgid "Operation is complete"
+#~ msgstr ""
 
 #~ msgid "Pin to activities"
 #~ msgstr "Сүйіктілер тізіміне апару"

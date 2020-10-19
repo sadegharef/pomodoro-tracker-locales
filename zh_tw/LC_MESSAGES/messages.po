@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 10.0.13\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-01 12:52+0300\n"
+"POT-Creation-Date: 2020-10-19 15:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_tw\n"
@@ -358,9 +358,6 @@ msgid "Once a Pomodoro begins, it has to ring"
 msgstr ""
 
 msgid "One minute left"
-msgstr ""
-
-msgid "Operation is complete"
 msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
@@ -1013,4 +1010,7 @@ msgstr ""
 msgid "year"
 msgid_plural "years"
 msgstr[0] ""
+
+#~ msgid "Operation is complete"
+#~ msgstr ""
 

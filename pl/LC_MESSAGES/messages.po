@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-10-01 12:51+0300\n"
+"POT-Creation-Date: 2020-10-19 15:10+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -364,9 +364,6 @@ msgstr "Tracker musi wydać dźwięk gdy zaczyna się nowe Pomodoro"
 
 msgid "One minute left"
 msgstr "Została minuta do końca Pomodoro"
-
-msgid "Operation is complete"
-msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Wstrzymaj/wznów Pomodoro gdy komputer przechodzi w stan uśpienia"
@@ -1127,6 +1124,9 @@ msgstr[2] "lat"
 
 #~ msgid "October"
 #~ msgstr "Październik"
+
+#~ msgid "Operation is complete"
+#~ msgstr ""
 
 #~ msgid "Pin to activities"
 #~ msgstr "Przypnij do ulubionych"

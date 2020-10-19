@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-01 12:51+0300\n"
+"POT-Creation-Date: 2020-10-19 15:09+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -366,9 +366,6 @@ msgstr "Если вы начали «помидор» — вы должны ег
 
 msgid "One minute left"
 msgstr "Осталась одна минута"
-
-msgid "Operation is complete"
-msgstr "Операция выполнена"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Останавливать таймер когда комьютер уходит в спящий режим"
@@ -1068,6 +1065,9 @@ msgstr[2] "лет"
 
 #~ msgid "Import/Export tasks"
 #~ msgstr ""
+
+#~ msgid "Operation is complete"
+#~ msgstr "Операция выполнена"
 
 #~ msgid "Pin to activities"
 #~ msgstr "Добавить в избранное"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-01 12:51+0300\n"
+"POT-Creation-Date: 2020-10-19 15:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -359,9 +359,6 @@ msgstr "開始したポモドーロは、タイマーが鳴るまで集中して
 
 msgid "One minute left"
 msgstr "残り1分です"
-
-msgid "Operation is complete"
-msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "コンピューターがスリープ/アイドル状態のときに一時停止/再開されます"
@@ -1093,6 +1090,9 @@ msgstr[1] "年"
 
 #~ msgid "October"
 #~ msgstr "10月"
+
+#~ msgid "Operation is complete"
+#~ msgstr ""
 
 #~ msgid "Pin to activities"
 #~ msgstr "お気に入りに追加"

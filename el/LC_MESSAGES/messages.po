@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-01 12:51+0300\n"
+"POT-Creation-Date: 2020-10-19 15:09+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -367,9 +367,6 @@ msgstr "Οταν η Πομοντόρο ξεκίνα, πρέπει να κουδ�
 
 msgid "One minute left"
 msgstr "Απέμεινε ενα λέπτο"
-
-msgid "Operation is complete"
-msgstr ""
 
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
@@ -1076,6 +1073,9 @@ msgstr[1] "χρόνια"
 
 #~ msgid "Load daily tasks from Google Calendar"
 #~ msgstr "Φόρτωσε καθημερινές ασχολίες απο το Ημερολόγιο Google"
+
+#~ msgid "Operation is complete"
+#~ msgstr ""
 
 #~ msgid "Pin to activities"
 #~ msgstr "Καρφίτσωμα στης δραστηριότητες"
