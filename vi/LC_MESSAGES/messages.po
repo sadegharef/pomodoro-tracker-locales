@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-19 16:34+0300\n"
+"POT-Creation-Date: 2020-10-27 13:20+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -47,6 +47,9 @@ msgstr "Một tin nhắn ngẫu nhiên sẽ được chọn nếu có nhiều."
 
 msgid "Activities"
 msgstr "Hoạt động"
+
+msgid "Activities list is updated"
+msgstr "Danh sách hoạt động được cập nhật"
 
 msgid "Activity by days"
 msgstr "Hoạt động theo ngày"
@@ -147,6 +150,9 @@ msgstr "Chúc mừng!"
 
 msgid "Connect"
 msgstr "Kết nối"
+
+msgid "Copy to %1$s"
+msgstr "Sao chép vào %1$s"
 
 msgid "Create"
 msgstr "Tạo"
@@ -568,8 +574,8 @@ msgstr "TODO"
 msgid "TODO list is empty."
 msgstr "Danh sách DOTO trống."
 
-msgid "TODO list was updated."
-msgstr "Danh sách TODO đã được cập nhật."
+msgid "TODO list is updated"
+msgstr "Danh sách TODO đã được cập nhật"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "Nghỉ một chút (3-5 phút)"

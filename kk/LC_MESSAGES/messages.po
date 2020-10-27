@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-19 16:33+0300\n"
+"POT-Creation-Date: 2020-10-27 13:20+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -47,6 +47,9 @@ msgstr "Кездейсоқ хабар бірнеше болса таңдалад
 
 msgid "Activities"
 msgstr "іС"
+
+msgid "Activities list is updated"
+msgstr "Іс-шаралар тізімі жаңартылды"
 
 msgid "Activity by days"
 msgstr "Күндер бойынша іСтер"
@@ -147,6 +150,9 @@ msgstr "Бәрекелді!"
 
 msgid "Connect"
 msgstr "Қосылу"
+
+msgid "Copy to %1$s"
+msgstr "%1$s-ге көшіру"
 
 msgid "Create"
 msgstr "Қосу"
@@ -569,7 +575,7 @@ msgstr "TODO"
 msgid "TODO list is empty."
 msgstr "TODO тізімі бос"
 
-msgid "TODO list was updated."
+msgid "TODO list is updated"
 msgstr "TODO тізімі жаңарды"
 
 msgid "Take a short break (3-5 minutes)"

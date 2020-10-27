@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-19 16:33+0300\n"
+"POT-Creation-Date: 2020-10-27 13:20+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -47,6 +47,9 @@ msgstr "複数ある場合、ランダムなメッセージが選択されます
 
 msgid "Activities"
 msgstr "アクティビティ"
+
+msgid "Activities list is updated"
+msgstr "活動リストを更新"
 
 msgid "Activity by days"
 msgstr "アクティビティ / 日ごと"
@@ -145,6 +148,9 @@ msgstr "おめでとうございます！"
 
 msgid "Connect"
 msgstr "連携"
+
+msgid "Copy to %1$s"
+msgstr "%1$sにコピー"
 
 msgid "Create"
 msgstr "作成"
@@ -563,7 +569,7 @@ msgstr "TODO"
 msgid "TODO list is empty."
 msgstr "TODOリストが空です"
 
-msgid "TODO list was updated."
+msgid "TODO list is updated"
 msgstr "TODOリストが更新されました"
 
 msgid "Take a short break (3-5 minutes)"

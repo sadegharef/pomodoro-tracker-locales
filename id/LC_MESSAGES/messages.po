@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 16.12.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-19 16:33+0300\n"
+"POT-Creation-Date: 2020-10-27 13:20+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Dafiul Haq <dafiulhaq97@gmail.com>\n"
 "Language: id\n"
@@ -47,6 +47,9 @@ msgstr "Pesan acak akan dipilih jika terdapat lebih dari satu pesan."
 
 msgid "Activities"
 msgstr "Aktivitas"
+
+msgid "Activities list is updated"
+msgstr "Daftar aktivitas diperbarui"
 
 msgid "Activity by days"
 msgstr "Aktivitas berdasarkan hari"
@@ -147,6 +150,9 @@ msgstr "Selamat!"
 
 msgid "Connect"
 msgstr "Hubungkan"
+
+msgid "Copy to %1$s"
+msgstr "Salin ke %1$s"
 
 msgid "Create"
 msgstr "Buat"
@@ -575,7 +581,7 @@ msgstr "TODO"
 msgid "TODO list is empty."
 msgstr "Daftar TODO kosong"
 
-msgid "TODO list was updated."
+msgid "TODO list is updated"
 msgstr "Daftar TODO diperbarui"
 
 msgid "Take a short break (3-5 minutes)"

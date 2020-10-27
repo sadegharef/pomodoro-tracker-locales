@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-19 16:34+0300\n"
+"POT-Creation-Date: 2020-10-27 13:20+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -47,6 +47,9 @@ msgstr "Birden fazla varsa rastgele bir mesaj seçilecektir."
 
 msgid "Activities"
 msgstr "Aktiviteler"
+
+msgid "Activities list is updated"
+msgstr "Aktivite listesi güncellenir"
 
 msgid "Activity by days"
 msgstr "Günlere göre etkinlik"
@@ -147,6 +150,9 @@ msgstr "Tebrikler!"
 
 msgid "Connect"
 msgstr "Bağlayın"
+
+msgid "Copy to %1$s"
+msgstr "%1$s'e kopyala"
 
 msgid "Create"
 msgstr "Oluştur"
@@ -573,7 +579,7 @@ msgstr "Yapılacaklar"
 msgid "TODO list is empty."
 msgstr "Yapılacaklar listesi boş"
 
-msgid "TODO list was updated."
+msgid "TODO list is updated"
 msgstr "TODO listesi güncellendi"
 
 msgid "Take a short break (3-5 minutes)"

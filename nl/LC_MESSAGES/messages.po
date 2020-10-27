@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-10-19 16:33+0300\n"
+"POT-Creation-Date: 2020-10-27 13:20+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -46,6 +46,9 @@ msgstr "Een willekeurig bericht wordt gekozen als er meerdere zijn."
 
 msgid "Activities"
 msgstr "Activiteiten"
+
+msgid "Activities list is updated"
+msgstr "De activiteitenlijst wordt bijgewerkt"
 
 msgid "Activity by days"
 msgstr "Activiteit per dag"
@@ -146,6 +149,9 @@ msgstr "Gefeliciteerd!"
 
 msgid "Connect"
 msgstr "Verbinden"
+
+msgid "Copy to %1$s"
+msgstr "Kopieer naar %1$s"
 
 msgid "Create"
 msgstr "Maak"
@@ -570,8 +576,8 @@ msgstr "TODO"
 msgid "TODO list is empty."
 msgstr "TODO-lijst is leeg."
 
-msgid "TODO list was updated."
-msgstr "TODO-liijst is geüpdatet."
+msgid "TODO list is updated"
+msgstr "TODO-liijst is geüpdatet"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "Neem een korte pauze (3-5 minuten)"

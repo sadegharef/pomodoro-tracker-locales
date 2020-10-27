@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-19 16:33+0300\n"
+"POT-Creation-Date: 2020-10-27 13:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -47,6 +47,9 @@ msgstr "Se elegirá un mensaje aleatorio si hay varios."
 
 msgid "Activities"
 msgstr "Actividades"
+
+msgid "Activities list is updated"
+msgstr "La lista de actividades se actualiza"
 
 msgid "Activity by days"
 msgstr "Actividad por días"
@@ -147,6 +150,9 @@ msgstr "¡Felicidades!"
 
 msgid "Connect"
 msgstr "Conectar"
+
+msgid "Copy to %1$s"
+msgstr "Copiar a %1$s"
 
 msgid "Create"
 msgstr "Crear"
@@ -576,7 +582,7 @@ msgstr "TODO"
 msgid "TODO list is empty."
 msgstr "La lista TODO está vacía"
 
-msgid "TODO list was updated."
+msgid "TODO list is updated"
 msgstr "Se actualizó la lista TODO"
 
 msgid "Take a short break (3-5 minutes)"

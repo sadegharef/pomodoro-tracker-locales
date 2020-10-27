@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-19 16:34+0300\n"
+"POT-Creation-Date: 2020-10-27 13:20+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -47,6 +47,9 @@ msgstr "如果有多个，将选择一个随机消息。"
 
 msgid "Activities"
 msgstr "活动"
+
+msgid "Activities list is updated"
+msgstr "活动清单已更新"
 
 msgid "Activity by days"
 msgstr "按天统计的活动"
@@ -145,6 +148,9 @@ msgstr "恭喜!"
 
 msgid "Connect"
 msgstr "绑定"
+
+msgid "Copy to %1$s"
+msgstr "复制到%1$s"
 
 msgid "Create"
 msgstr "新建"
@@ -563,7 +569,7 @@ msgstr "待办"
 msgid "TODO list is empty."
 msgstr "TODO列表为空"
 
-msgid "TODO list was updated."
+msgid "TODO list is updated"
 msgstr "待办列表已经更新"
 
 msgid "Take a short break (3-5 minutes)"
