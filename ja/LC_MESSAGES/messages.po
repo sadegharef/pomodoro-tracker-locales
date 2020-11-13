@@ -49,7 +49,7 @@ msgid "Activities"
 msgstr "アクティビティ"
 
 msgid "Activities list is updated"
-msgstr "活動リストを更新"
+msgstr "アクティビティリストを更新"
 
 msgid "Activity by days"
 msgstr "アクティビティ / 日ごと"
@@ -219,7 +219,7 @@ msgid "Global shortcut to open Pomodoro-Tracker"
 msgstr "Pomodoro-Trackerを開くためのグローバルショートカット"
 
 msgid "Great work!"
-msgstr "すごい仕事！"
+msgstr "よくやった！"
 
 msgid "Help"
 msgstr "ヘルプ"
@@ -231,7 +231,7 @@ msgid "History"
 msgstr "履歴"
 
 msgid "How to fix?"
-msgstr "直し方？"
+msgstr "直し方"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "1つのタスクが5-7ポモドーロ以上の場合は、タスクをもっと細かくしましょう"
@@ -608,7 +608,7 @@ msgstr "ポモドーロ・テクニックは、（あなた自身と他のチー
 msgid ""
 "The Pomodoro Tracker — A useful tool for time management based on "
 "Pomodoro Technique."
-msgstr ""
+msgstr "The Pomodoro Tracker - ポモドーロ・テクニックに基づいたタイムマネジメントツール"
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
@@ -617,7 +617,7 @@ msgid ""
 msgstr "ポモドーロ・テクニックを使うことで、やりたいことをやりたいように達成することができます。そして、仕事や勉強の仕方を絶え間なく改善することが可能になります。"
 
 msgid "The integration is outdated. Please reconnect."
-msgstr ""
+msgstr "連携情報が古いです。連携しなおしてください。"
 
 msgid "The list is empty"
 msgstr "リストは空です。"
@@ -662,7 +662,7 @@ msgid "Title"
 msgstr "タイトル"
 
 msgid "Toggle eye keeper"
-msgstr ""
+msgstr "Eye Keeperの有効/無効を切り替える"
 
 msgid "Toggle fullscreen"
 msgstr "フルスクリーン切り替え"
@@ -820,7 +820,7 @@ msgstr[0] "時"
 msgstr[1] "時間"
 
 msgid "if you must exit now"
-msgstr ""
+msgstr "今すぐ終了する必要がある場合"
 
 msgid "in 10 seconds"
 msgstr "10秒"
@@ -873,7 +873,7 @@ msgid "messages"
 msgstr "メッセージ"
 
 msgid "minimize"
-msgstr ""
+msgstr "最小化"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -889,7 +889,7 @@ msgstr[0] "月"
 msgstr[1] "月"
 
 msgid "never"
-msgstr ""
+msgstr "決して"
 
 msgid "next page"
 msgstr "次のページ"
@@ -898,7 +898,7 @@ msgid "no description"
 msgstr "説明無し"
 
 msgid "no information available"
-msgstr ""
+msgstr "情報はありません"
 
 msgid "number"
 msgstr "単位"
@@ -920,8 +920,8 @@ msgstr "個人"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ポモドーロ"
+msgstr[1] "ポモドーロ"
 
 msgid "pomodoros"
 msgstr "ポモドーロ"
@@ -966,7 +966,7 @@ msgid "skip"
 msgstr "スキップ"
 
 msgid "split"
-msgstr "裂ける"
+msgstr "分割する"
 
 msgid "start"
 msgstr "開始"
@@ -995,7 +995,7 @@ msgstr "時間"
 msgid ""
 "to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr "あなたの電報に `/reg`と打ち込んでボットのコードを以下のフィールドに入力してください"
+msgstr "telegramに `/reg`と打ち込んでボットのコードを以下のフィールドに入力してください"
 
 msgid "today"
 msgstr "今日"
@@ -1056,7 +1056,7 @@ msgstr[1] "年"
 #~ msgstr "12月"
 
 #~ msgid "Enable Telegram Notifications"
-#~ msgstr "テレグラム通知を有効にする"
+#~ msgstr "Telegram通知を有効にする"
 
 #~ msgid "Favorites"
 #~ msgstr "お気に入り"
@@ -1068,7 +1068,7 @@ msgstr[1] "年"
 #~ msgstr "CSVからレコードをインポートする"
 
 #~ msgid "Import/Export tasks"
-#~ msgstr ""
+#~ msgstr "タスクのインポート/エクスポート"
 
 #~ msgid "January"
 #~ msgstr "1月"
@@ -1086,7 +1086,7 @@ msgstr[1] "年"
 #~ msgstr "ログインして統計情報を表示する"
 
 #~ msgid "Look away at something that is 6 metres away for 20 seconds"
-#~ msgstr ""
+#~ msgstr "6メートル離れたところにあるものを20秒間見つめましょう"
 
 #~ msgid "March"
 #~ msgstr "3月"
