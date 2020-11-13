@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-10-30 17:58+0300\n"
+"POT-Creation-Date: 2020-11-13 15:07+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -483,6 +483,9 @@ msgstr "Wybierz daty"
 
 msgid "Select a calendar to import tasks"
 msgstr "Wybierz kalendarz aby zaimportować zadania"
+
+msgid "Select a project to import tasks"
+msgstr "Wybierz projekt aby zaimportować zadania"
 
 msgid "Send daily reports"
 msgstr "Wysyłaj codzienne raporty"

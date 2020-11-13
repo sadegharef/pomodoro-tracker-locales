@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-30 17:57+0300\n"
+"POT-Creation-Date: 2020-11-13 15:06+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -485,6 +485,9 @@ msgstr "Выбрать даты"
 
 msgid "Select a calendar to import tasks"
 msgstr "Выберите календарь для импорта задач"
+
+msgid "Select a project to import tasks"
+msgstr "Выберите проект для импорта задач"
 
 msgid "Send daily reports"
 msgstr "Отправлять ежедневные отчеты"

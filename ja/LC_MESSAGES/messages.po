@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-30 17:58+0300\n"
+"POT-Creation-Date: 2020-11-13 15:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -476,6 +476,9 @@ msgstr "日付を選択"
 
 msgid "Select a calendar to import tasks"
 msgstr "タスクをインポートするカレンダーを選択してください"
+
+msgid "Select a project to import tasks"
+msgstr "タスクをインポートするプロジェクトを選択します"
 
 msgid "Send daily reports"
 msgstr "日報を送る"

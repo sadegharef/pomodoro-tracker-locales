@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-30 17:57+0300\n"
+"POT-Creation-Date: 2020-11-13 15:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -490,6 +490,9 @@ msgstr "Επιλέξτε Ημερομηνίες"
 
 msgid "Select a calendar to import tasks"
 msgstr "Επιλέξτε ένα ημερολόγιο για εισαγωγή εργασιών"
+
+msgid "Select a project to import tasks"
+msgstr "Επιλέξτε ένα έργο για εισαγωγή εργασιών"
 
 msgid "Send daily reports"
 msgstr "Αποστολή ημερήσιων αναφορών"
