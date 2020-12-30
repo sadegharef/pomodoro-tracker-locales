@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.12.4\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-11-13 15:07+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: cs\n"
@@ -88,9 +88,6 @@ msgstr ""
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
-msgstr ""
-
-msgid "At time"
 msgstr ""
 
 msgid "Auto start breaks"
@@ -620,9 +617,6 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr ""
 
-msgid "The integration is outdated. Please reconnect."
-msgstr ""
-
 msgid "The list is empty"
 msgstr ""
 
@@ -730,6 +724,9 @@ msgid ""
 msgstr ""
 
 msgid "You have finished all your tasks."
+msgstr ""
+
+msgid "You need to connect the integration"
 msgstr ""
 
 msgid "You spent"
@@ -1039,4 +1036,3 @@ msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-

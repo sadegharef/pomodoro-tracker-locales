@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-11-13 15:07+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -89,9 +89,6 @@ msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr "Zacznij dzień od wybrania zadań i umieść je na liście."
-
-msgid "At time"
-msgstr "Z rzędu"
 
 msgid "Auto start breaks"
 msgstr "Automatycznie zacznij przerwę"
@@ -645,9 +642,6 @@ msgstr ""
 " Technika ta pozwala nieustannie usprawniać sposób w jaki uczymy się i "
 "pracujemy."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "Integracja jest przestarzała. Połącz się ponownie."
-
 msgid "The list is empty"
 msgstr "Ta lista jest pusta"
 
@@ -760,6 +754,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Ukończyłeś/aś wszystkie zadania."
+
+msgid "You need to connect the integration"
+msgstr "Musisz połączyć integrację"
 
 msgid "You spent"
 msgstr "Spędziłeś/aś"
@@ -1083,6 +1080,9 @@ msgstr[2] "lat"
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Czy na pewno usunąć?"
 
+#~ msgid "At time"
+#~ msgstr "Z rzędu"
+
 #~ msgid "August"
 #~ msgstr "Sierpień"
 
@@ -1181,6 +1181,9 @@ msgstr[2] "lat"
 
 #~ msgid "Sync with Google Tasks"
 #~ msgstr "Synchronizuj z Google Tasks"
+
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "Integracja jest przestarzała. Połącz się ponownie."
 
 # | msgid "pomodoro"
 # | msgid_plural "pomodoros"

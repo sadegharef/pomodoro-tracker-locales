@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-11-13 15:07+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -90,9 +90,6 @@ msgid ""
 msgstr ""
 "En début de journée, énumérez vos tâches et ajoutez-les dans la liste "
 "TODO (« Choses à faire »)."
-
-msgid "At time"
-msgstr "durée"
 
 msgid "Auto start breaks"
 msgstr "Lancer automatiquement les pauses"
@@ -637,9 +634,6 @@ msgstr ""
 " faire ce que nous voulons comme nous le voulons, tout en continuant "
 "d'améliorer notre façon de travailler ou d'étudier."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "L'intégration est obsolète. S'il vous plaît reconnecter."
-
 msgid "The list is empty"
 msgstr "La liste est vide"
 
@@ -752,6 +746,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Vous avez terminé toutes vos tâches."
+
+msgid "You need to connect the integration"
+msgstr "Vous devez connecter l'intégration"
 
 msgid "You spent"
 msgstr "Vous avez passé"
@@ -1069,6 +1066,9 @@ msgstr[1] "ans"
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Êtes-vous sûr de vouloir supprimer"
 
+#~ msgid "At time"
+#~ msgstr "durée"
+
 #~ msgid "August"
 #~ msgstr "août"
 
@@ -1161,6 +1161,9 @@ msgstr[1] "ans"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Le pomodoro est lancé."
+
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "L'intégration est obsolète. S'il vous plaît reconnecter."
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Essayez de terminer quelques pomodoros ci-dessus"

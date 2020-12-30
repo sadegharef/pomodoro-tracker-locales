@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-11-13 15:08+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -91,9 +91,6 @@ msgid ""
 msgstr ""
 "На початку кожного дня вибирайте завдання й заносьте їх у список "
 "планування вище"
-
-msgid "At time"
-msgstr "на час"
 
 msgid "Auto start breaks"
 msgstr "Автостарт перерв"
@@ -641,9 +638,6 @@ msgstr ""
 " дати нам можливість постійно вдосконалювати те, як ми працюємо чи "
 "навчаємося."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "Термін інтеграції сплив. Будь ласка, підключіться заново."
-
 msgid "The list is empty"
 msgstr "Список пустий"
 
@@ -754,6 +748,9 @@ msgstr "Ви намагаєтесь зайти за допомогою %1$s, а�
 
 msgid "You have finished all your tasks."
 msgstr "Ви завершили всі свої завдання."
+
+msgid "You need to connect the integration"
+msgstr "Потрібно підключити інтеграцію"
 
 msgid "You spent"
 msgstr "Ви витратили"
@@ -1067,6 +1064,9 @@ msgstr[2] "років"
 #~ msgid "Add Activity"
 #~ msgstr "Додати у вибране"
 
+#~ msgid "At time"
+#~ msgstr "на час"
+
 #~ msgid "Daily Task"
 #~ msgstr "Повторювати щоденно"
 
@@ -1105,6 +1105,9 @@ msgstr[2] "років"
 
 #~ msgid "Sync with Google Tasks"
 #~ msgstr "Синхронізація з Google Tasks"
+
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "Термін інтеграції сплив. Будь ласка, підключіться заново."
 
 #~ msgid "Try to mark TODO as activity or use the form above"
 #~ msgstr "Спробуйте додати завдання у Вибране або використайте форму вище"

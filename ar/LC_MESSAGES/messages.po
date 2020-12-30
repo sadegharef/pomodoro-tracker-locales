@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-11-13 15:07+0300\n"
+"POT-Creation-Date: 2020-12-30 12:29+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -89,9 +89,6 @@ msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr "مع بداية كل يوم حدد المهام المراد انجازها و .ضعهم فى قائمة المهام التالية."
-
-msgid "At time"
-msgstr "في الوقت"
 
 msgid "Auto start breaks"
 msgstr "شغل الإستراحة تلقائيا"
@@ -635,9 +632,6 @@ msgstr ""
 "انجازه بالطريقة التى نريدها لنا، و لإتاحة الفرصة لنا للتحسن فى طريقة "
 "عملنا او دراستنا."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "تسجيل دخولك قديم. من فضلك اعد تسجيل الدخول"
-
 msgid "The list is empty"
 msgstr "القائمة فارغة"
 
@@ -746,6 +740,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "لقد انهيت جميع مهامك."
+
+msgid "You need to connect the integration"
+msgstr "تحتاج إلى ربط التكامل"
 
 msgid "You spent"
 msgstr "قضيت"
@@ -1091,6 +1088,9 @@ msgstr[5] ""
 #~ msgid "Are you sure want to delete"
 #~ msgstr "هل أنت متأكد انك تريد المسح"
 
+#~ msgid "At time"
+#~ msgstr "في الوقت"
+
 #~ msgid "August"
 #~ msgstr "اغسطس"
 
@@ -1231,6 +1231,9 @@ msgstr[5] ""
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "مؤقت البمودورو يعمل"
+
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "تسجيل دخولك قديم. من فضلك اعد تسجيل الدخول"
 
 #~ msgid "Time"
 #~ msgstr "الوقت"

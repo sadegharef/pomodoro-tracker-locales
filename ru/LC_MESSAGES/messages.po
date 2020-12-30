@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-11-13 15:06+0300\n"
+"POT-Creation-Date: 2020-12-30 12:29+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -91,9 +91,6 @@ msgid ""
 msgstr ""
 "В начале каждого дня выбирайте задачи для выполнения и заносите их в "
 "список планирования выше."
-
-msgid "At time"
-msgstr "на время"
 
 msgid "Auto start breaks"
 msgstr "Автостарт для перерыва"
@@ -642,9 +639,6 @@ msgstr ""
 "достижении того, что мы хотим сделать и как мы хотим это сделать. Она "
 "даёт нам возможность постоянно улучшать то, как мы работаем или учимся."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "Интеграция просрочена. Пожалуйста переподключитесь."
-
 msgid "The list is empty"
 msgstr "Список пуст"
 
@@ -757,6 +751,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Вы выполнили все свои задачи."
+
+msgid "You need to connect the integration"
+msgstr "Требуется подключить интеграцию"
 
 msgid "You spent"
 msgstr "Вы потратили"
@@ -1069,6 +1066,9 @@ msgstr[2] "лет"
 #~ msgid "Add Activity"
 #~ msgstr "Добавить в избранное"
 
+#~ msgid "At time"
+#~ msgstr "на время"
+
 #~ msgid "Daily Task"
 #~ msgstr "Повторять ежедневно"
 
@@ -1092,6 +1092,9 @@ msgstr[2] "лет"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Отчеты и оповещения"
+
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "Интеграция просрочена. Пожалуйста переподключитесь."
 
 #~ msgid "Try to mark TODO as activity or use the form above"
 #~ msgstr "Попробуйте добавить задачу в избраное или используйте форму выше."

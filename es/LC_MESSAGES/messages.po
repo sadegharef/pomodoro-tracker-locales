@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-11-13 15:07+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -90,9 +90,6 @@ msgid ""
 msgstr ""
 "Al comienzo de cada día, selecciona las tareas que necesitas completar y "
 "colócalas en la lista TODO de arriba."
-
-msgid "At time"
-msgstr ""
 
 msgid "Auto start breaks"
 msgstr "Inicio automático de descansos"
@@ -646,9 +643,6 @@ msgstr ""
 "hacer, y permitirnos mejorar continuamente la forma en que trabajamos o "
 "estudiamos."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "La integración está desactualizada. Por favor, vuelva a conectar."
-
 msgid "The list is empty"
 msgstr "La lista está vacía"
 
@@ -761,6 +755,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Has terminado todas tus tareas."
+
+msgid "You need to connect the integration"
+msgstr "Necesitas conectar la integración"
 
 msgid "You spent"
 msgstr "Empleaste"
@@ -1076,6 +1073,9 @@ msgstr[1] "años"
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Seguro que quieres borrar"
 
+#~ msgid "At time"
+#~ msgstr ""
+
 #~ msgid "August"
 #~ msgstr "Agosto"
 
@@ -1168,6 +1168,9 @@ msgstr[1] "años"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "El Pomodoro está en marcha"
+
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "La integración está desactualizada. Por favor, vuelva a conectar."
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Intenta completar algunos pomodoros de arriba"

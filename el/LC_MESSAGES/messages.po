@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-11-13 15:07+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -92,9 +92,6 @@ msgid ""
 msgstr ""
 "Στην αρχή καθε μέρας διάλεξε της ασχολίες που χρειάζεται να ολοκληρώσης "
 "και βάλτες στην λίστα TODO παραπάνω."
-
-msgid "At time"
-msgstr "Στην ώρα"
 
 msgid "Auto start breaks"
 msgstr "Αυτόματο ξεκίνημα διάλειμματων"
@@ -651,9 +648,6 @@ msgstr ""
 "τρόπο που θέλουμε να το κάνουμε, και να μας επιτρέψει να καλυτερέψουμε "
 "συνεχώς των τρόπο που δουλεύουμε η διαβάζουμε."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "Η ολοκλήρωση είναι ξεπερασμένη. Επανασυνδεθείτε."
-
 msgid "The list is empty"
 msgstr "Η λίστα είιναι άδεια"
 
@@ -762,6 +756,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Έχεις τελείωση ολες της ασχολίες σου."
+
+msgid "You need to connect the integration"
+msgstr "Πρέπει να συνδέσετε την ενσωμάτωση"
 
 msgid "You spent"
 msgstr "Ξόδεψες"
@@ -1068,6 +1065,9 @@ msgstr[1] "χρόνια"
 #~ msgid "Add Activity"
 #~ msgstr "Πρόσθεσε Δραστηριότητα"
 
+#~ msgid "At time"
+#~ msgstr "Στην ώρα"
+
 #~ msgid "Daily Task"
 #~ msgstr "Καθημερίνη Ασχολία"
 
@@ -1106,6 +1106,9 @@ msgstr[1] "χρόνια"
 
 #~ msgid "Sync with Google Tasks"
 #~ msgstr "Κανε συγχρονισμό με το Google Tasks"
+
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "Η ολοκλήρωση είναι ξεπερασμένη. Επανασυνδεθείτε."
 
 #~ msgid "Try to mark TODO as activity or use the form above"
 #~ msgstr ""

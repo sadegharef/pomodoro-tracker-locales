@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-11-13 15:08+0300\n"
+"POT-Creation-Date: 2020-12-30 12:31+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -88,9 +88,6 @@ msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr "在每天开始时选择您需要完成的任务，并将其放在上面的待办列表中。"
-
-msgid "At time"
-msgstr "时间"
 
 msgid "Auto start breaks"
 msgstr "自动启动休息"
@@ -619,9 +616,6 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr "番茄工作法的目的是把时间作为一个有价值的盟友，以我们想要的方式完成我们想要做的事情，并使我们能够不断地改进我们的工作或学习方式。"
 
-msgid "The integration is outdated. Please reconnect."
-msgstr ""
-
 msgid "The list is empty"
 msgstr "这个列表为空"
 
@@ -730,6 +724,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "你已经完成你的所有任务。"
+
+msgid "You need to connect the integration"
+msgstr "您需要连接集成"
 
 msgid "You spent"
 msgstr "您花费"
@@ -1035,6 +1032,9 @@ msgstr[0] "年"
 #~ msgid "Are you sure want to delete"
 #~ msgstr "确认希望删除吗"
 
+#~ msgid "At time"
+#~ msgstr "时间"
+
 #~ msgid "August"
 #~ msgstr "八月"
 
@@ -1127,6 +1127,9 @@ msgstr[0] "年"
 
 #~ msgid "The Pomodoro is running"
 #~ msgstr "番茄钟正在运行"
+
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr ""
 
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "尝试完成上面的一些番茄钟"
