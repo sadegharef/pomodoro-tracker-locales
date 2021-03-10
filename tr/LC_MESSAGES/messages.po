@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:03+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -48,6 +48,9 @@ msgstr "Birden fazla varsa rastgele bir mesaj seçilecektir."
 msgid "Activities"
 msgstr "Aktiviteler"
 
+msgid "Activities list is updated"
+msgstr "Aktivite listesi güncellenir"
+
 msgid "Activity by days"
 msgstr "Günlere göre etkinlik"
 
@@ -78,15 +81,15 @@ msgstr "Hedeflerinizle bağlantılı olan kaygılarınızı hafifletin"
 msgid "Application"
 msgstr "Uygulama"
 
+msgid "Ask for the permission"
+msgstr "İzin isteyin"
+
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
 "Her günün başlangıcında tamamlamanız gereken görevleri seçin ve "
 "yukarıdaki yapılacaklar listesine ekleyin."
-
-msgid "At time"
-msgstr "zaman"
 
 msgid "Auto start breaks"
 msgstr "Molaları otomatik başlat"
@@ -145,6 +148,9 @@ msgstr "Tebrikler!"
 msgid "Connect"
 msgstr "Bağlayın"
 
+msgid "Copy to %1$s"
+msgstr "%1$s'e kopyala"
+
 msgid "Create"
 msgstr "Oluştur"
 
@@ -180,11 +186,11 @@ msgstr "Düzenlemek"
 msgid "Enable Browser Alerts"
 msgstr "Tarayıcı Uyarılarını Etkinleştir"
 
+msgid "Enable Desktop Notifications"
+msgstr "Desktop Bildirimlerini Etkinleştir"
+
 msgid "Enable Notifications"
 msgstr "Bildirimlerini Etkinleştir"
-
-msgid "Enable Web Notifications"
-msgstr "Web Bildirimlerini Etkinleştir"
 
 msgid "Ends on"
 msgstr "Bitiş tarihi"
@@ -224,6 +230,9 @@ msgstr "Bildirimleri gizle"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "Nasıl düzeltilir?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "İşiniz 5-7 Pomodoro'dan fazla sürüyorsa abartıya kaçmayın"
@@ -362,9 +371,6 @@ msgstr "Pomodoro bir kere başladıktan sonra bitmek zorundadır"
 msgid "One minute left"
 msgstr "bir dakika kaldı"
 
-msgid "Operation is complete"
-msgstr ""
-
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
@@ -377,13 +383,11 @@ msgstr "Tıkırtı sesi çal"
 msgid "Play ticking sound while breaks"
 msgstr "Mola esnasında tiz ses çalın"
 
+msgid "Please allow notifications in your browser"
+msgstr "Lütfen tarayıcınızda bildirimlere izin verin"
+
 msgid "Please don't send me these awesome daily reports"
 msgstr ""
-
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr ""
-"Lütfen farklı bir yöntem kullanarak giriş yapın ve daha sonra %1$s'a "
-"bağlanın"
 
 msgid "Please reload the application."
 msgstr "Uygulamayı tekrar yükle"
@@ -480,6 +484,9 @@ msgstr "Tarihler'i seçin"
 msgid "Select a calendar to import tasks"
 msgstr "Görevleri içe aktarmak için bir takvim seçin"
 
+msgid "Select a project to import tasks"
+msgstr "Görevleri içe aktarmak için bir proje seçin"
+
 msgid "Send daily reports"
 msgstr "Günlük raporlar gönderme"
 
@@ -572,7 +579,7 @@ msgstr "Yapılacaklar"
 msgid "TODO list is empty."
 msgstr "Yapılacaklar listesi boş"
 
-msgid "TODO list was updated."
+msgid "TODO list is updated"
 msgstr "TODO listesi güncellendi"
 
 msgid "Take a short break (3-5 minutes)"
@@ -633,9 +640,6 @@ msgstr ""
 "alınması ve çalışma veya öğrenme sürecimizi sürekli olarak geliştirmemize"
 " imkan sağlamasıdır."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "Bütünleşme modası geçmiş. Lütfen tekrar bağlanın."
-
 msgid "The list is empty"
 msgstr "Liste boş"
 
@@ -659,6 +663,9 @@ msgstr "Bu Hafta"
 
 msgid "This Year"
 msgstr "Bu yıl"
+
+msgid "Time Scheme has been changed"
+msgstr "Zaman Şeması değiştirildi"
 
 msgid "Time format"
 msgstr "Saat biçimi"
@@ -730,8 +737,15 @@ msgid "You are not signed."
 msgstr "Sen imzalanmadın"
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+"Bir %1$s hesabına bağlanmaya çalışıyorsunuz, ancak bu zaten başka bir "
+"kullanıcıya bağlı"
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr ""
 "%1$s ile oturum açmaya çalışıyorsunuz, ancak e-postaya sahip bir "
 "kullanıcı zaten kayıtlı"
@@ -739,8 +753,11 @@ msgstr ""
 msgid "You have finished all your tasks."
 msgstr "Tüm görevlerinizi bitirdiniz."
 
+msgid "You need to connect the integration"
+msgstr "Entegrasyonu bağlamanız gerekiyor"
+
 msgid "You spent"
-msgstr ""
+msgstr "Harcadın"
 
 msgid "and"
 msgstr "ve"
@@ -903,7 +920,7 @@ msgid "never"
 msgstr ""
 
 msgid "next page"
-msgstr ""
+msgstr "sonraki sayfa"
 
 msgid "no description"
 msgstr "açıklama yok"
@@ -919,6 +936,9 @@ msgstr ""
 
 msgid "one message per line"
 msgstr "her satıra bir mesaj"
+
+msgid "page"
+msgstr "sayfa"
 
 msgid "pause"
 msgstr "duraklat"
@@ -938,7 +958,7 @@ msgid "preview"
 msgstr "önizle"
 
 msgid "previous page"
-msgstr ""
+msgstr "önceki sayfa"
 
 msgid "prolong time"
 msgstr "uzatma süresi"
@@ -956,9 +976,6 @@ msgid "registered users spend on completing pomodoros today."
 msgstr ""
 "kayıtlı kullanıcıların bugün pomodorolarını tamamlamak için harcadıkları "
 "vakit"
-
-msgid "remove categories"
-msgstr "kategorileri kaldır"
 
 msgid "resume"
 msgstr "devam et"
@@ -1053,6 +1070,9 @@ msgstr[1] "yil"
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Silmek istediğine emin misin"
 
+#~ msgid "At time"
+#~ msgstr "zaman"
+
 #~ msgid "August"
 #~ msgstr "Ağustos"
 
@@ -1116,6 +1136,12 @@ msgstr[1] "yil"
 #~ msgid "Pin to activities"
 #~ msgstr "Favorilere ekle"
 
+#~ msgid "Please log in using a different method and connect the %1$s after"
+#~ msgstr ""
+#~ "Lütfen farklı bir yöntem kullanarak "
+#~ "giriş yapın ve daha sonra %1$s'a "
+#~ "bağlanın"
+
 #~ msgid "Privacy Policy"
 #~ msgstr "Gizlilik Politikası"
 
@@ -1143,6 +1169,9 @@ msgstr[1] "yil"
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Pomodoro devam ediyor"
 
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "Bütünleşme modası geçmiş. Lütfen tekrar bağlanın."
+
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Yukarıdaki pomodorolardan bazılarını tamamlamayı deneyin"
 
@@ -1157,6 +1186,9 @@ msgstr[1] "yil"
 
 #~ msgid "record"
 #~ msgstr "rekor"
+
+#~ msgid "remove categories"
+#~ msgstr "kategorileri kaldır"
 
 #~ msgid "version"
 #~ msgstr "sürüm"

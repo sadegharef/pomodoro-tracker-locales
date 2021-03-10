@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:03+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -49,6 +49,9 @@ msgstr "Вибрано випадкове повідомлення, якщо ї�
 msgid "Activities"
 msgstr "Вибране"
 
+msgid "Activities list is updated"
+msgstr "Список заходів оновлюється"
+
 msgid "Activity by days"
 msgstr "Активність за днями"
 
@@ -79,15 +82,15 @@ msgstr "Полегшити бентежність перед початком р
 msgid "Application"
 msgstr "Додаток"
 
+msgid "Ask for the permission"
+msgstr "Попросіть дозволу"
+
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
 "На початку кожного дня вибирайте завдання й заносьте їх у список "
 "планування вище"
-
-msgid "At time"
-msgstr "на час"
 
 msgid "Auto start breaks"
 msgstr "Автостарт перерв"
@@ -146,6 +149,9 @@ msgstr "Вітання!"
 msgid "Connect"
 msgstr "Підключити"
 
+msgid "Copy to %1$s"
+msgstr "Скопіюйте на %1$s"
+
 msgid "Create"
 msgstr "Створити"
 
@@ -179,11 +185,11 @@ msgstr "Редагувати"
 msgid "Enable Browser Alerts"
 msgstr "Увімкнути спливні вікна"
 
+msgid "Enable Desktop Notifications"
+msgstr "Увімкнути сповіщення в системі"
+
 msgid "Enable Notifications"
 msgstr "Увімкнути сповіщення"
-
-msgid "Enable Web Notifications"
-msgstr "Увімкнути сповіщення в браузері"
 
 msgid "Ends on"
 msgstr "Закінчується далі"
@@ -223,6 +229,9 @@ msgstr "Ховати сповіщення"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "Як виправити?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Якщо завдання потребує більше 5-7 Помідорів, розбийте її на менші"
@@ -359,9 +368,6 @@ msgstr "Якщо ви почали Помідор – ви маєте його �
 msgid "One minute left"
 msgstr "Залишилася хвилина"
 
-msgid "Operation is complete"
-msgstr ""
-
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Зупиняти таймер, коли компьютер іде в режим сну"
 
@@ -374,11 +380,11 @@ msgstr "Грати звук цокання"
 msgid "Play ticking sound while breaks"
 msgstr "Грати звук цокання під час перерви"
 
+msgid "Please allow notifications in your browser"
+msgstr "Будь ласка, дозвольте сповіщення у вашому браузері"
+
 msgid "Please don't send me these awesome daily reports"
 msgstr "Будь ласка, не присилайте мені ці чудові щоденні звіти"
-
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr "Зверніться до іншого методу та підключіть %1$s після"
 
 msgid "Please reload the application."
 msgstr "Будь ласка, перезавантажте застосунок"
@@ -475,6 +481,9 @@ msgstr "Вибрати дати"
 msgid "Select a calendar to import tasks"
 msgstr "Виберіть календар для імпорту завдань"
 
+msgid "Select a project to import tasks"
+msgstr "Виберіть проект для імпорту завдань"
+
 msgid "Send daily reports"
 msgstr "Надсилайте щоденні звіти"
 
@@ -567,8 +576,8 @@ msgstr "Заплановано"
 msgid "TODO list is empty."
 msgstr "Список запланованого пустий."
 
-msgid "TODO list was updated."
-msgstr "Список запланованого оновлено."
+msgid "TODO list is updated"
+msgstr "Список запланованого оновлено"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "Зробіть коротку перерву (3-5 хвилин)"
@@ -629,9 +638,6 @@ msgstr ""
 " дати нам можливість постійно вдосконалювати те, як ми працюємо чи "
 "навчаємося."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "Термін інтеграції сплив. Будь ласка, підключіться заново."
-
 msgid "The list is empty"
 msgstr "Список пустий"
 
@@ -655,6 +661,9 @@ msgstr "Цей тиждень"
 
 msgid "This Year"
 msgstr "Цей рік"
+
+msgid "Time Scheme has been changed"
+msgstr "Була змінена схема"
 
 msgid "Time format"
 msgstr "Формат часу"
@@ -726,12 +735,22 @@ msgid "You are not signed."
 msgstr "Ви не увійшли."
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+"Ви намагаєтесь підключити запис Google, але він уже підключений до іншого"
+" користувача"
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr "Ви намагаєтесь зайти за допомогою %1$s, але користувач вже має такий email"
 
 msgid "You have finished all your tasks."
 msgstr "Ви завершили всі свої завдання."
+
+msgid "You need to connect the integration"
+msgstr "Потрібно підключити інтеграцію"
 
 msgid "You spent"
 msgstr "Ви витратили"
@@ -919,6 +938,9 @@ msgstr "на"
 msgid "one message per line"
 msgstr "одне повідомлення на рядок"
 
+msgid "page"
+msgstr "сторінка"
+
 msgid "pause"
 msgstr "пауза"
 
@@ -954,9 +976,6 @@ msgstr "зареєстровані користувачі витратили н�
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "зареєстровані користувачі витратили на завдання сьогодні."
-
-msgid "remove categories"
-msgstr "видалити категорії"
 
 msgid "resume"
 msgstr "відновити"
@@ -1045,6 +1064,9 @@ msgstr[2] "років"
 #~ msgid "Add Activity"
 #~ msgstr "Додати у вибране"
 
+#~ msgid "At time"
+#~ msgstr "на час"
+
 #~ msgid "Daily Task"
 #~ msgstr "Повторювати щоденно"
 
@@ -1066,6 +1088,9 @@ msgstr[2] "років"
 #~ msgid "Pin to activities"
 #~ msgstr "Додати у вибране"
 
+#~ msgid "Please log in using a different method and connect the %1$s after"
+#~ msgstr "Зверніться до іншого методу та підключіть %1$s після"
+
 #~ msgid "Repeating Task"
 #~ msgstr "Завдання, що повторюється"
 
@@ -1081,6 +1106,9 @@ msgstr[2] "років"
 #~ msgid "Sync with Google Tasks"
 #~ msgstr "Синхронізація з Google Tasks"
 
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "Термін інтеграції сплив. Будь ласка, підключіться заново."
+
 #~ msgid "Try to mark TODO as activity or use the form above"
 #~ msgstr "Спробуйте додати завдання у Вибране або використайте форму вище"
 
@@ -1089,4 +1117,7 @@ msgstr[2] "років"
 
 #~ msgid "quarter"
 #~ msgstr "квартал"
+
+#~ msgid "remove categories"
+#~ msgstr "видалити категорії"
 

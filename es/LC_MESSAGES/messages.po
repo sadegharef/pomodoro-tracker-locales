@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:02+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Pablo Markaide <pablo.markaide@gmail.com>\n"
 "Language: es\n"
@@ -48,6 +48,9 @@ msgstr "Se elegirá un mensaje aleatorio si hay varios."
 msgid "Activities"
 msgstr "Actividades"
 
+msgid "Activities list is updated"
+msgstr "La lista de actividades se actualiza"
+
 msgid "Activity by days"
 msgstr "Actividad por días"
 
@@ -78,15 +81,15 @@ msgstr "Alivia la ansiedad vinculada a comenzar"
 msgid "Application"
 msgstr "Aplicación"
 
+msgid "Ask for the permission"
+msgstr "Pide el permiso"
+
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
 "Al comienzo de cada día, selecciona las tareas que necesitas completar y "
 "colócalas en la lista TODO de arriba."
-
-msgid "At time"
-msgstr ""
 
 msgid "Auto start breaks"
 msgstr "Inicio automático de descansos"
@@ -145,6 +148,9 @@ msgstr "¡Felicidades!"
 msgid "Connect"
 msgstr "Conectar"
 
+msgid "Copy to %1$s"
+msgstr "Copiar a %1$s"
+
 msgid "Create"
 msgstr "Crear"
 
@@ -178,11 +184,11 @@ msgstr "Editar"
 msgid "Enable Browser Alerts"
 msgstr "Activar Alertas de Navegador"
 
+msgid "Enable Desktop Notifications"
+msgstr "Activar Notificaciones Desktop"
+
 msgid "Enable Notifications"
 msgstr "Activar Notificaciones"
-
-msgid "Enable Web Notifications"
-msgstr "Activar Notificaciones Web"
 
 msgid "Ends on"
 msgstr "Termina en"
@@ -222,6 +228,9 @@ msgstr "Ocultar notificaciones"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "¿Como arreglar?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr ""
@@ -363,9 +372,6 @@ msgstr "Una vez que comienza un Pomodoro, tiene que llegar a sonar"
 msgid "One minute left"
 msgstr "Queda un minuto"
 
-msgid "Operation is complete"
-msgstr ""
-
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Pausa el temporizador cuando la computadora entra en reposo"
 
@@ -378,11 +384,11 @@ msgstr "Haz sonar un tictac"
 msgid "Play ticking sound while breaks"
 msgstr "Haz sonar un tictac durante los descansos"
 
+msgid "Please allow notifications in your browser"
+msgstr "Permita las notificaciones en su navegador"
+
 msgid "Please don't send me these awesome daily reports"
 msgstr "Por favor no me envíes estos increíbles informes diarios"
-
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr "Inicie sesión con un método diferente y conecte el %1$s después"
 
 msgid "Please reload the application."
 msgstr "Por favor recarga la aplicación."
@@ -479,6 +485,9 @@ msgstr "Seleccionar fechas"
 msgid "Select a calendar to import tasks"
 msgstr "Seleccione un calendario para importar tareas"
 
+msgid "Select a project to import tasks"
+msgstr "Seleccione un proyecto para importar tareas"
+
 msgid "Send daily reports"
 msgstr "Enviar informes diarios"
 
@@ -573,7 +582,7 @@ msgstr "TODO"
 msgid "TODO list is empty."
 msgstr "La lista TODO está vacía"
 
-msgid "TODO list was updated."
+msgid "TODO list is updated"
 msgstr "Se actualizó la lista TODO"
 
 msgid "Take a short break (3-5 minutes)"
@@ -634,9 +643,6 @@ msgstr ""
 "hacer, y permitirnos mejorar continuamente la forma en que trabajamos o "
 "estudiamos."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "La integración está desactualizada. Por favor, vuelva a conectar."
-
 msgid "The list is empty"
 msgstr "La lista está vacía"
 
@@ -660,6 +666,9 @@ msgstr "Esta Semana"
 
 msgid "This Year"
 msgstr "Este año"
+
+msgid "Time Scheme has been changed"
+msgstr "Se ha cambiado el esquema de tiempo"
 
 msgid "Time format"
 msgstr "Formato de Hora"
@@ -731,14 +740,24 @@ msgid "You are not signed."
 msgstr "No estás identificado."
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+"Está intentando conectar una cuenta de %1$s, pero ya está conectada a "
+"otro usuario"
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr ""
 "Estás intentando iniciar sesión con %1$s, pero un usuario con el correo "
 "electrónico ya está registrado"
 
 msgid "You have finished all your tasks."
 msgstr "Has terminado todas tus tareas."
+
+msgid "You need to connect the integration"
+msgstr "Necesitas conectar la integración"
 
 msgid "You spent"
 msgstr "Empleaste"
@@ -921,6 +940,9 @@ msgstr "en"
 msgid "one message per line"
 msgstr "un mensaje por línea"
 
+msgid "page"
+msgstr "página"
+
 msgid "pause"
 msgstr "pausa"
 
@@ -955,9 +977,6 @@ msgstr "han empleado usuarios registrados en completar pomodoros"
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "han empleado hoy usuarios registrados en completar pomodoros."
-
-msgid "remove categories"
-msgstr "eliminar categorías"
 
 msgid "resume"
 msgstr "continuar"
@@ -1054,6 +1073,9 @@ msgstr[1] "años"
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Seguro que quieres borrar"
 
+#~ msgid "At time"
+#~ msgstr ""
+
 #~ msgid "August"
 #~ msgstr "Agosto"
 
@@ -1117,6 +1139,9 @@ msgstr[1] "años"
 #~ msgid "Pin to activities"
 #~ msgstr "Marcar como favorito"
 
+#~ msgid "Please log in using a different method and connect the %1$s after"
+#~ msgstr "Inicie sesión con un método diferente y conecte el %1$s después"
+
 #~ msgid "Privacy Policy"
 #~ msgstr "Política de privacidad"
 
@@ -1144,6 +1169,9 @@ msgstr[1] "años"
 #~ msgid "The Pomodoro is running"
 #~ msgstr "El Pomodoro está en marcha"
 
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "La integración está desactualizada. Por favor, vuelva a conectar."
+
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Intenta completar algunos pomodoros de arriba"
 
@@ -1158,6 +1186,9 @@ msgstr[1] "años"
 
 #~ msgid "record"
 #~ msgstr "registrar"
+
+#~ msgid "remove categories"
+#~ msgstr "eliminar categorías"
 
 #~ msgid "version"
 #~ msgstr "versión"

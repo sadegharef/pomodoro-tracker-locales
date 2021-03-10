@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:02+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -50,6 +50,9 @@ msgstr "Ένα τυχαίο μήνυμα θα επιλεγεί εάν υπάρχ
 msgid "Activities"
 msgstr "Δραστηριότητες"
 
+msgid "Activities list is updated"
+msgstr "Η λίστα δραστηριοτήτων ενημερώνεται"
+
 msgid "Activity by days"
 msgstr "Δραστηριότητα ανα μέρες"
 
@@ -80,15 +83,15 @@ msgstr "Ανακούφιση άγχους συνδεδεμένο με το ξε�
 msgid "Application"
 msgstr "Εφαρμογή"
 
+msgid "Ask for the permission"
+msgstr "ζητήστε την άδεια"
+
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
 "Στην αρχή καθε μέρας διάλεξε της ασχολίες που χρειάζεται να ολοκληρώσης "
 "και βάλτες στην λίστα TODO παραπάνω."
-
-msgid "At time"
-msgstr "Στην ώρα"
 
 msgid "Auto start breaks"
 msgstr "Αυτόματο ξεκίνημα διάλειμματων"
@@ -147,6 +150,9 @@ msgstr "Συγχαρητήρια!"
 msgid "Connect"
 msgstr "Συνδέσου"
 
+msgid "Copy to %1$s"
+msgstr "Αντιγραφή στο %1$s"
+
 msgid "Create"
 msgstr "Δημιούργησε"
 
@@ -180,11 +186,11 @@ msgstr "Επεξεργασία"
 msgid "Enable Browser Alerts"
 msgstr "Ενεργοποίησε Ειδοποιήσεις Λογισμικού Πλοήγησης"
 
+msgid "Enable Desktop Notifications"
+msgstr "Ενεργοποίησε Ειδοποιήσεις Ιστοσελιδας"
+
 msgid "Enable Notifications"
 msgstr "Ενεργοποίηση ειδοποιήσεων"
-
-msgid "Enable Web Notifications"
-msgstr "Ενεργοποίησε Ειδοποιήσεις Ιστοσελιδας"
 
 msgid "Ends on"
 msgstr "Τελειώνει"
@@ -224,6 +230,9 @@ msgstr "κρύψε της ειδοποιήσεις"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "Πώς να φτιάξεις?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Αμα μια ασχολία παίρνει παραπάνω απο 5-7 Πομοντόρος, σπάστο"
@@ -362,9 +371,6 @@ msgstr "Οταν η Πομοντόρο ξεκίνα, πρέπει να κουδ�
 msgid "One minute left"
 msgstr "Απέμεινε ενα λέπτο"
 
-msgid "Operation is complete"
-msgstr ""
-
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
@@ -377,11 +383,11 @@ msgstr "Παίξε ήχο τικαρίσματος"
 msgid "Play ticking sound while breaks"
 msgstr "Παίξε ήχο τικαρίσματος στα διαλείματα"
 
+msgid "Please allow notifications in your browser"
+msgstr "Επιτρέψτε τις ειδοποιήσεις στο πρόγραμμα περιήγησής σας"
+
 msgid "Please don't send me these awesome daily reports"
 msgstr "Παρακαλώ μην μου στέλνετε αυτες της φοβερές καθημερινές αναφορές"
-
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr ""
 
 msgid "Please reload the application."
 msgstr "Παρακαλώ ξανά φορτώστε το πρόγραμμα"
@@ -482,6 +488,9 @@ msgstr "Επιλέξτε Ημερομηνίες"
 msgid "Select a calendar to import tasks"
 msgstr "Επιλέξτε ένα ημερολόγιο για εισαγωγή εργασιών"
 
+msgid "Select a project to import tasks"
+msgstr "Επιλέξτε ένα έργο για εισαγωγή εργασιών"
+
 msgid "Send daily reports"
 msgstr "Αποστολή ημερήσιων αναφορών"
 
@@ -576,8 +585,8 @@ msgstr "TODO"
 msgid "TODO list is empty."
 msgstr "TODO λίστα είναι άδεια."
 
-msgid "TODO list was updated."
-msgstr "Η TODO λίστα έχει ενημερωθεί."
+msgid "TODO list is updated"
+msgstr "Η TODO λίστα έχει ενημερωθεί"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "Κανε ενα μικρό διάλειμμα (3-5 λεπτά)"
@@ -639,9 +648,6 @@ msgstr ""
 "τρόπο που θέλουμε να το κάνουμε, και να μας επιτρέψει να καλυτερέψουμε "
 "συνεχώς των τρόπο που δουλεύουμε η διαβάζουμε."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "Η ολοκλήρωση είναι ξεπερασμένη. Επανασυνδεθείτε."
-
 msgid "The list is empty"
 msgstr "Η λίστα είιναι άδεια"
 
@@ -665,6 +671,9 @@ msgstr "Αυτή την εβδομαδα"
 
 msgid "This Year"
 msgstr "Αυτή την χρονιά"
+
+msgid "Time Scheme has been changed"
+msgstr "Το χρονοδιάγραμμα έχει αλλάξει"
 
 msgid "Time format"
 msgstr "Μορφή Χρόνου"
@@ -736,12 +745,20 @@ msgid "You are not signed."
 msgstr "Δεν έκανες είσοδο."
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Έχεις τελείωση ολες της ασχολίες σου."
+
+msgid "You need to connect the integration"
+msgstr "Πρέπει να συνδέσετε την ενσωμάτωση"
 
 msgid "You spent"
 msgstr "Ξόδεψες"
@@ -924,6 +941,9 @@ msgstr "στο"
 msgid "one message per line"
 msgstr "ένα μήνυμα ανά γραμμή"
 
+msgid "page"
+msgstr "σελίδα"
+
 msgid "pause"
 msgstr "παύση"
 
@@ -958,9 +978,6 @@ msgstr "Εγγεγραμμένη χρήστες ξόδεψαν στο να ολ�
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "Εγγεγραμμεένη χρήστες ξοδέψαν στο να ολοκληρώνουν πομοντόρος σημερα."
-
-msgid "remove categories"
-msgstr "αφαίρεσε κατηγοριές"
 
 msgid "resume"
 msgstr "ξανάρχισε"
@@ -1048,6 +1065,9 @@ msgstr[1] "χρόνια"
 #~ msgid "Add Activity"
 #~ msgstr "Πρόσθεσε Δραστηριότητα"
 
+#~ msgid "At time"
+#~ msgstr "Στην ώρα"
+
 #~ msgid "Daily Task"
 #~ msgstr "Καθημερίνη Ασχολία"
 
@@ -1087,6 +1107,9 @@ msgstr[1] "χρόνια"
 #~ msgid "Sync with Google Tasks"
 #~ msgstr "Κανε συγχρονισμό με το Google Tasks"
 
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "Η ολοκλήρωση είναι ξεπερασμένη. Επανασυνδεθείτε."
+
 #~ msgid "Try to mark TODO as activity or use the form above"
 #~ msgstr ""
 #~ "Προσπάθησε να μαρκάρεις το TODO σαν "
@@ -1098,6 +1121,9 @@ msgstr[1] "χρόνια"
 
 #~ msgid "quarter"
 #~ msgstr "τριμηνία"
+
+#~ msgid "remove categories"
+#~ msgstr "αφαίρεσε κατηγοριές"
 
 #~ msgid "version"
 #~ msgstr "έκδοση"

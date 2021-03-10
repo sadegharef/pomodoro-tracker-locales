@@ -33,6 +33,7 @@ Current status (languages are supported):
 * [Hebrew](https://github.com/klen/pomodoro-tracker-locales/tree/master/he/LC_MESSAGES/messages.po) (not started yet)
 * [Norwegian](https://github.com/klen/pomodoro-tracker-locales/tree/master/no/LC_MESSAGES/messages.po) (not started yet)
 * [Romanian](https://github.com/klen/pomodoro-tracker-locales/tree/master/ro/LC_MESSAGES/messages.po) (not started yet)
+* [Breton](https://github.com/klen/pomodoro-tracker-locales/tree/master/br/LC_MESSAGES/messages.po) (not started yet)
 
 If you want to add a new language to Pomodoro-tracker please [open an
 issue](https://github.com/klen/pomodoro-tracker-locales/issues/new). 

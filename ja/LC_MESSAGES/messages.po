@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:02+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: aliyome <aliyome+github@gmail.com>\n"
 "Language: ja\n"
@@ -48,6 +48,9 @@ msgstr "複数ある場合、ランダムなメッセージが選択されます
 msgid "Activities"
 msgstr "アクティビティ"
 
+msgid "Activities list is updated"
+msgstr "アクティビティリストを更新"
+
 msgid "Activity by days"
 msgstr "アクティビティ / 日ごと"
 
@@ -78,13 +81,13 @@ msgstr "迫りくる不安を和らげます"
 msgid "Application"
 msgstr "基本設定"
 
+msgid "Ask for the permission"
+msgstr "許可を求める"
+
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr "その日に完了させたいタスクを選択し、上部のTODOリストに移動してください。"
-
-msgid "At time"
-msgstr "時間数"
 
 msgid "Auto start breaks"
 msgstr "休憩時間を自動的に開始する"
@@ -143,6 +146,9 @@ msgstr "おめでとうございます！"
 msgid "Connect"
 msgstr "連携"
 
+msgid "Copy to %1$s"
+msgstr "%1$sにコピー"
+
 msgid "Create"
 msgstr "作成"
 
@@ -176,11 +182,11 @@ msgstr "編集"
 msgid "Enable Browser Alerts"
 msgstr "ブラウザーアラートを有効にする"
 
+msgid "Enable Desktop Notifications"
+msgstr "Desktop通知機能を有効にする"
+
 msgid "Enable Notifications"
 msgstr "通知機能を有効にする"
-
-msgid "Enable Web Notifications"
-msgstr "Web通知機能を有効にする"
 
 msgid "Ends on"
 msgstr "で終わる"
@@ -210,7 +216,7 @@ msgid "Global shortcut to open Pomodoro-Tracker"
 msgstr "Pomodoro-Trackerを開くためのグローバルショートカット"
 
 msgid "Great work!"
-msgstr "すごい仕事！"
+msgstr "よくやった！"
 
 msgid "Help"
 msgstr "ヘルプ"
@@ -220,6 +226,9 @@ msgstr "通知が隠れるまで"
 
 msgid "History"
 msgstr "履歴"
+
+msgid "How to fix?"
+msgstr "直し方"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "1つのタスクが5-7ポモドーロ以上の場合は、タスクをもっと細かくしましょう"
@@ -354,9 +363,6 @@ msgstr "開始したポモドーロは、タイマーが鳴るまで集中して
 msgid "One minute left"
 msgstr "残り1分です"
 
-msgid "Operation is complete"
-msgstr ""
-
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "コンピューターがスリープ/アイドル状態のときに一時停止/再開されます"
 
@@ -369,11 +375,11 @@ msgstr "チクタク音を再生する"
 msgid "Play ticking sound while breaks"
 msgstr "休憩中に音を立てて再生する"
 
+msgid "Please allow notifications in your browser"
+msgstr "ブラウザで通知を許可してください"
+
 msgid "Please don't send me these awesome daily reports"
 msgstr "これらのすばらしい日報を私に送らないでください"
-
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr "別の方法でログインし、%1$sを接続してください"
 
 msgid "Please reload the application."
 msgstr "アプリケーションを再読み込みする"
@@ -468,6 +474,9 @@ msgstr "日付を選択"
 msgid "Select a calendar to import tasks"
 msgstr "タスクをインポートするカレンダーを選択してください"
 
+msgid "Select a project to import tasks"
+msgstr "タスクをインポートするプロジェクトを選択します"
+
 msgid "Send daily reports"
 msgstr "日報を送る"
 
@@ -560,7 +569,7 @@ msgstr "TODO"
 msgid "TODO list is empty."
 msgstr "TODOリストが空です"
 
-msgid "TODO list was updated."
+msgid "TODO list is updated"
 msgstr "TODOリストが更新されました"
 
 msgid "Take a short break (3-5 minutes)"
@@ -599,16 +608,13 @@ msgstr "ポモドーロ・テクニックは、（あなた自身と他のチー
 msgid ""
 "The Pomodoro Tracker — A useful tool for time management based on "
 "Pomodoro Technique."
-msgstr ""
+msgstr "The Pomodoro Tracker - ポモドーロ・テクニックに基づいたタイムマネジメントツール"
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr "ポモドーロ・テクニックを使うことで、やりたいことをやりたいように達成することができます。そして、仕事や勉強の仕方を絶え間なく改善することが可能になります。"
-
-msgid "The integration is outdated. Please reconnect."
-msgstr ""
 
 msgid "The list is empty"
 msgstr "リストは空です。"
@@ -634,6 +640,9 @@ msgstr "今週"
 msgid "This Year"
 msgstr "今年"
 
+msgid "Time Scheme has been changed"
+msgstr "タイムスキームが変更されました"
+
 msgid "Time format"
 msgstr "時間の表示形式"
 
@@ -650,7 +659,7 @@ msgid "Title"
 msgstr "タイトル"
 
 msgid "Toggle eye keeper"
-msgstr ""
+msgstr "Eye Keeperの有効/無効を切り替える"
 
 msgid "Toggle fullscreen"
 msgstr "フルスクリーン切り替え"
@@ -704,12 +713,20 @@ msgid "You are not signed."
 msgstr "あなたは署名されていません。"
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr "%1$sアカウントに接続しようとしていますが、すでに別のユーザーに接続されています"
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr "%1$sでログインしようとしているが、そのメールのユーザーはすでに登録されている"
 
 msgid "You have finished all your tasks."
 msgstr "すべてのタスクを完了しました。"
+
+msgid "You need to connect the integration"
+msgstr "統合を接続する必要があります"
 
 msgid "You spent"
 msgstr "あなたが過ごした"
@@ -803,7 +820,7 @@ msgstr[0] "時"
 msgstr[1] "時間"
 
 msgid "if you must exit now"
-msgstr ""
+msgstr "今すぐ終了する必要がある場合"
 
 msgid "in 10 seconds"
 msgstr "10秒"
@@ -856,7 +873,7 @@ msgid "messages"
 msgstr "メッセージ"
 
 msgid "minimize"
-msgstr ""
+msgstr "最小化"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -872,7 +889,7 @@ msgstr[0] "月"
 msgstr[1] "月"
 
 msgid "never"
-msgstr ""
+msgstr "決して"
 
 msgid "next page"
 msgstr "次のページ"
@@ -881,7 +898,7 @@ msgid "no description"
 msgstr "説明無し"
 
 msgid "no information available"
-msgstr ""
+msgstr "情報はありません"
 
 msgid "number"
 msgstr "単位"
@@ -892,6 +909,9 @@ msgstr "に"
 msgid "one message per line"
 msgstr "1行に1メッセージ"
 
+msgid "page"
+msgstr "ページ"
+
 msgid "pause"
 msgstr "一時停止"
 
@@ -900,8 +920,8 @@ msgstr "個人"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ポモドーロ"
+msgstr[1] "ポモドーロ"
 
 msgid "pomodoros"
 msgstr "ポモドーロ"
@@ -927,9 +947,6 @@ msgstr " / 登録ユーザの今日のポモドーロの合計"
 msgid "registered users spend on completing pomodoros today."
 msgstr " / 登録ユーザの今日のポモドーロの合計"
 
-msgid "remove categories"
-msgstr "カテゴリーを削除する"
-
 msgid "resume"
 msgstr "再開"
 
@@ -949,7 +966,7 @@ msgid "skip"
 msgstr "スキップ"
 
 msgid "split"
-msgstr "裂ける"
+msgstr "分割する"
 
 msgid "start"
 msgstr "開始"
@@ -978,7 +995,7 @@ msgstr "時間"
 msgid ""
 "to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr "あなたの電報に `/reg`と打ち込んでボットのコードを以下のフィールドに入力してください"
+msgstr "telegramに `/reg`と打ち込んでボットのコードを以下のフィールドに入力してください"
 
 msgid "today"
 msgstr "今日"
@@ -1023,6 +1040,9 @@ msgstr[1] "年"
 #~ msgid "Are you sure want to delete"
 #~ msgstr "削除してよろしいですか？"
 
+#~ msgid "At time"
+#~ msgstr "時間数"
+
 #~ msgid "August"
 #~ msgstr "8月"
 
@@ -1039,7 +1059,7 @@ msgstr[1] "年"
 #~ msgstr "12月"
 
 #~ msgid "Enable Telegram Notifications"
-#~ msgstr "テレグラム通知を有効にする"
+#~ msgstr "Telegram通知を有効にする"
 
 #~ msgid "Favorites"
 #~ msgstr "お気に入り"
@@ -1051,7 +1071,7 @@ msgstr[1] "年"
 #~ msgstr "CSVからレコードをインポートする"
 
 #~ msgid "Import/Export tasks"
-#~ msgstr ""
+#~ msgstr "タスクのインポート/エクスポート"
 
 #~ msgid "January"
 #~ msgstr "1月"
@@ -1069,7 +1089,7 @@ msgstr[1] "年"
 #~ msgstr "ログインして統計情報を表示する"
 
 #~ msgid "Look away at something that is 6 metres away for 20 seconds"
-#~ msgstr ""
+#~ msgstr "6メートル離れたところにあるものを20秒間見つめましょう"
 
 #~ msgid "March"
 #~ msgstr "3月"
@@ -1085,6 +1105,9 @@ msgstr[1] "年"
 
 #~ msgid "Pin to activities"
 #~ msgstr "お気に入りに追加"
+
+#~ msgid "Please log in using a different method and connect the %1$s after"
+#~ msgstr "別の方法でログインし、%1$sを接続してください"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Privacy Policy"
@@ -1113,6 +1136,9 @@ msgstr[1] "年"
 #~ msgid "The Pomodoro is running"
 #~ msgstr "ポモドーロ中"
 
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "連携情報が古いです。連携しなおしてください。"
+
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "上記のポモドーロを完了してください"
 
@@ -1127,6 +1153,9 @@ msgstr[1] "年"
 
 #~ msgid "record"
 #~ msgstr "記録"
+
+#~ msgid "remove categories"
+#~ msgstr "カテゴリーを削除する"
 
 #~ msgid "version"
 #~ msgstr "version"

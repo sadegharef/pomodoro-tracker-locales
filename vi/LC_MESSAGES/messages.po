@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:03+0300\n"
+"POT-Creation-Date: 2020-12-30 12:31+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -48,6 +48,9 @@ msgstr "Một tin nhắn ngẫu nhiên sẽ được chọn nếu có nhiều."
 msgid "Activities"
 msgstr "Hoạt động"
 
+msgid "Activities list is updated"
+msgstr "Danh sách hoạt động được cập nhật"
+
 msgid "Activity by days"
 msgstr "Hoạt động theo ngày"
 
@@ -78,15 +81,15 @@ msgstr ""
 msgid "Application"
 msgstr "Ứng dụng"
 
+msgid "Ask for the permission"
+msgstr "Yêu cầu sự cho phép"
+
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
 "Vào thời điểm bắt đầu của mỗi ngày, hãy chọn những việc bạn cần hoàn "
 "thành và thêm chúng vào danh sách TODO bên trên."
-
-msgid "At time"
-msgstr "Lúc"
 
 msgid "Auto start breaks"
 msgstr "Tự động bắt đầu thời gian nghỉ"
@@ -145,6 +148,9 @@ msgstr "Chúc mừng!"
 msgid "Connect"
 msgstr "Kết nối"
 
+msgid "Copy to %1$s"
+msgstr "Sao chép vào %1$s"
+
 msgid "Create"
 msgstr "Tạo"
 
@@ -178,11 +184,11 @@ msgstr "Chỉnh sửa"
 msgid "Enable Browser Alerts"
 msgstr "Bật Thông báo Trình duyệt"
 
+msgid "Enable Desktop Notifications"
+msgstr "Bật Thông báo Desktop"
+
 msgid "Enable Notifications"
 msgstr "Bật Thông báo"
-
-msgid "Enable Web Notifications"
-msgstr "Bật Thông báo Web"
 
 msgid "Ends on"
 msgstr "Kết thúc vào"
@@ -222,6 +228,9 @@ msgstr "Ẩn Thông báo"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "Làm thế nào để khắc phục?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Nếu một công việc cần nhiều hơn 5-7 pomodoros, hãy chia nhỏ nó"
@@ -359,9 +368,6 @@ msgstr "Khi một Pomodoro bắt đầu, nó sẽ reng"
 msgid "One minute left"
 msgstr "Còn một phút"
 
-msgid "Operation is complete"
-msgstr ""
-
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
@@ -374,11 +380,11 @@ msgstr "Mở tiếng tích tắc"
 msgid "Play ticking sound while breaks"
 msgstr "Mở tiếng tích tắc trong lúc nghỉ"
 
+msgid "Please allow notifications in your browser"
+msgstr "Vui lòng cho phép thông báo trong trình duyệt của bạn"
+
 msgid "Please don't send me these awesome daily reports"
 msgstr "Đừng gửi cho tôi những bản báo cáo hằng ngày tuyệt vời này "
-
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr ""
 
 msgid "Please reload the application."
 msgstr "Hãy chạy lại ứng dụng"
@@ -473,6 +479,9 @@ msgstr ""
 msgid "Select a calendar to import tasks"
 msgstr ""
 
+msgid "Select a project to import tasks"
+msgstr ""
+
 msgid "Send daily reports"
 msgstr "Gửi báo cáo hàng ngày"
 
@@ -565,8 +574,8 @@ msgstr "TODO"
 msgid "TODO list is empty."
 msgstr "Danh sách DOTO trống."
 
-msgid "TODO list was updated."
-msgstr "Danh sách TODO đã được cập nhật."
+msgid "TODO list is updated"
+msgstr "Danh sách TODO đã được cập nhật"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "Nghỉ một chút (3-5 phút)"
@@ -612,9 +621,6 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr ""
 
-msgid "The integration is outdated. Please reconnect."
-msgstr ""
-
 msgid "The list is empty"
 msgstr "Danh sách trống"
 
@@ -638,6 +644,9 @@ msgstr "Tuần này"
 
 msgid "This Year"
 msgstr "Năm nay"
+
+msgid "Time Scheme has been changed"
+msgstr "Lược đồ thời gian đã được thay đổi"
 
 msgid "Time format"
 msgstr "Định dạng thời gian"
@@ -709,12 +718,20 @@ msgid "You are not signed."
 msgstr "Bạn chưa đăng nhập."
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Bạn đã hoàn thành tất cả công việc cần làm."
+
+msgid "You need to connect the integration"
+msgstr "Bạn cần kết nối tích hợp"
 
 msgid "You spent"
 msgstr "Bạn đã dành"
@@ -892,6 +909,9 @@ msgstr ""
 msgid "one message per line"
 msgstr "một tin nhắn trên mỗi dòng"
 
+msgid "page"
+msgstr "trang"
+
 msgid "pause"
 msgstr "tạm dừng"
 
@@ -925,9 +945,6 @@ msgstr ""
 
 msgid "registered users spend on completing pomodoros today."
 msgstr ""
-
-msgid "remove categories"
-msgstr "xóa danh mục"
 
 msgid "resume"
 msgstr "tiếp tục"
@@ -1023,6 +1040,9 @@ msgstr[0] ""
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Bạn có chắc muốn xoá đi?"
 
+#~ msgid "At time"
+#~ msgstr "Lúc"
+
 #~ msgid "August"
 #~ msgstr "Tháng 8"
 
@@ -1116,6 +1136,9 @@ msgstr[0] ""
 #~ msgid "The Pomodoro is running"
 #~ msgstr "The Pomodoro đang chạy"
 
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr ""
+
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Hãy thử hoàn thành vài pomodoros ở trên"
 
@@ -1127,6 +1150,9 @@ msgstr[0] ""
 
 #~ msgid "quarter"
 #~ msgstr "quý"
+
+#~ msgid "remove categories"
+#~ msgstr "xóa danh mục"
 
 #~ msgid "version"
 #~ msgstr "phiên bản"

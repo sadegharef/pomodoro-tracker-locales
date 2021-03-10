@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:03+0300\n"
+"POT-Creation-Date: 2020-12-30 12:31+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -48,6 +48,9 @@ msgstr "如果有多个，将选择一个随机消息。"
 msgid "Activities"
 msgstr "活动"
 
+msgid "Activities list is updated"
+msgstr "活动清单已更新"
+
 msgid "Activity by days"
 msgstr "按天统计的活动"
 
@@ -78,13 +81,13 @@ msgstr "减轻开始工作时的焦虑"
 msgid "Application"
 msgstr "应用"
 
+msgid "Ask for the permission"
+msgstr "寻求许可"
+
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
-msgstr "在每天开始时选择您需要完成的任务，并将其放在上面的代办列表中。"
-
-msgid "At time"
-msgstr "时间"
+msgstr "在每天开始时选择您需要完成的任务，并将其放在上面的待办列表中。"
 
 msgid "Auto start breaks"
 msgstr "自动启动休息"
@@ -143,6 +146,9 @@ msgstr "恭喜!"
 msgid "Connect"
 msgstr "绑定"
 
+msgid "Copy to %1$s"
+msgstr "复制到%1$s"
+
 msgid "Create"
 msgstr "新建"
 
@@ -162,7 +168,7 @@ msgid "Disconnect"
 msgstr "解除绑定"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr "当代办是空的时候不开启下一个番茄钟"
+msgstr "当待办是空的时候不开启下一个番茄钟"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "拖动来排序"
@@ -176,11 +182,11 @@ msgstr "编辑"
 msgid "Enable Browser Alerts"
 msgstr "启用浏览器弹窗"
 
+msgid "Enable Desktop Notifications"
+msgstr "启用网页通知"
+
 msgid "Enable Notifications"
 msgstr "启用通知"
-
-msgid "Enable Web Notifications"
-msgstr "启用网页通知"
 
 msgid "Ends on"
 msgstr "结束于"
@@ -220,6 +226,9 @@ msgstr "隐藏通知"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "怎么修？"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "如果一项任务需要超过5-7个番茄钟，请将其分解"
@@ -354,9 +363,6 @@ msgstr "一旦番茄钟开始了，必须持续到番茄钟响起"
 msgid "One minute left"
 msgstr "剩余一分钟"
 
-msgid "Operation is complete"
-msgstr ""
-
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
@@ -369,11 +375,11 @@ msgstr "播放滴答声音"
 msgid "Play ticking sound while breaks"
 msgstr "休息的时候播放滴答声音"
 
+msgid "Please allow notifications in your browser"
+msgstr "请允许浏览器中的通知"
+
 msgid "Please don't send me these awesome daily reports"
 msgstr "请不要将这些精彩的每日报道寄给我"
-
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr ""
 
 msgid "Please reload the application."
 msgstr "重新加载应用程序"
@@ -468,6 +474,9 @@ msgstr ""
 msgid "Select a calendar to import tasks"
 msgstr "选择日历以导入任务"
 
+msgid "Select a project to import tasks"
+msgstr "选择一个项目以导入任务"
+
 msgid "Send daily reports"
 msgstr "发送每日报告"
 
@@ -555,13 +564,13 @@ msgid "Sync my tasks only"
 msgstr "仅同步我的任务"
 
 msgid "TODO"
-msgstr "代办"
+msgstr "待办"
 
 msgid "TODO list is empty."
 msgstr "TODO列表为空"
 
-msgid "TODO list was updated."
-msgstr "代办列表已经更新"
+msgid "TODO list is updated"
+msgstr "待办列表已经更新"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "开始一段短暂的休息（3到5分钟）"
@@ -607,9 +616,6 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr "番茄工作法的目的是把时间作为一个有价值的盟友，以我们想要的方式完成我们想要做的事情，并使我们能够不断地改进我们的工作或学习方式。"
 
-msgid "The integration is outdated. Please reconnect."
-msgstr ""
-
 msgid "The list is empty"
 msgstr "这个列表为空"
 
@@ -633,6 +639,9 @@ msgstr "本周"
 
 msgid "This Year"
 msgstr "今年"
+
+msgid "Time Scheme has been changed"
+msgstr "时间方案已更改"
 
 msgid "Time format"
 msgstr "时间格式"
@@ -704,12 +713,20 @@ msgid "You are not signed."
 msgstr "你没有登陆"
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "你已经完成你的所有任务。"
+
+msgid "You need to connect the integration"
+msgstr "您需要连接集成"
 
 msgid "You spent"
 msgstr "您花费"
@@ -887,6 +904,9 @@ msgstr "在"
 msgid "one message per line"
 msgstr "每行一条消息"
 
+msgid "page"
+msgstr "页"
+
 msgid "pause"
 msgstr "暂停"
 
@@ -920,9 +940,6 @@ msgstr "已注册用户在番茄钟花费的总时间"
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "已注册用户今天在番茄钟花费的时间"
-
-msgid "remove categories"
-msgstr ""
 
 msgid "resume"
 msgstr "继续"
@@ -1014,6 +1031,9 @@ msgstr[0] "年"
 
 #~ msgid "Are you sure want to delete"
 #~ msgstr "确认希望删除吗"
+
+#~ msgid "At time"
+#~ msgstr "时间"
 
 #~ msgid "August"
 #~ msgstr "八月"
@@ -1108,11 +1128,14 @@ msgstr[0] "年"
 #~ msgid "The Pomodoro is running"
 #~ msgstr "番茄钟正在运行"
 
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr ""
+
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "尝试完成上面的一些番茄钟"
 
 #~ msgid "Try to mark TODO as activity or use the form above"
-#~ msgstr "尝试将代办标记为活动或者使用上面的表格"
+#~ msgstr "尝试将待办标记为活动或者使用上面的表格"
 
 #~ msgid "duplicate"
 #~ msgstr "重复"
@@ -1122,6 +1145,9 @@ msgstr[0] "年"
 
 #~ msgid "record"
 #~ msgstr "记录"
+
+#~ msgid "remove categories"
+#~ msgstr ""
 
 #~ msgid "version"
 #~ msgstr "版本"

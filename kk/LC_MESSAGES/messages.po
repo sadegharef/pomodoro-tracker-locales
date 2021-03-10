@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:02+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -48,6 +48,9 @@ msgstr "Кездейсоқ хабар бірнеше болса таңдалад
 msgid "Activities"
 msgstr "іС"
 
+msgid "Activities list is updated"
+msgstr "Іс-шаралар тізімі жаңартылды"
+
 msgid "Activity by days"
 msgstr "Күндер бойынша іСтер"
 
@@ -78,15 +81,15 @@ msgstr "Жұмыс бастауды жеңілдету"
 msgid "Application"
 msgstr "Қосымша іші"
 
+msgid "Ask for the permission"
+msgstr "Рұқсат сұраңыз"
+
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
 "Әр күн басында мінлетті түрде керек іСтерді таңдап алып,жоғарыдағы TODO "
 "тізіміне қосып қойыңыз "
-
-msgid "At time"
-msgstr "осы уақытта"
 
 msgid "Auto start breaks"
 msgstr "Авто-үзіліс"
@@ -145,6 +148,9 @@ msgstr "Бәрекелді!"
 msgid "Connect"
 msgstr "Қосылу"
 
+msgid "Copy to %1$s"
+msgstr "%1$s-ге көшіру"
+
 msgid "Create"
 msgstr "Қосу"
 
@@ -178,11 +184,11 @@ msgstr "Өңдеу"
 msgid "Enable Browser Alerts"
 msgstr "Шағын терезе күйінде"
 
+msgid "Enable Desktop Notifications"
+msgstr "Desktop-хабарлама"
+
 msgid "Enable Notifications"
 msgstr "Хабарландыруларды қосыңыз"
-
-msgid "Enable Web Notifications"
-msgstr "Web-хабарлама"
 
 msgid "Ends on"
 msgstr "Аяқталады"
@@ -222,6 +228,9 @@ msgstr "Хабарламаларды жасыру"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "Қалай түзетуге болады?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Егер жұмысыңыз 5-7 қызанақ алса, оны бөліп тастаңыз"
@@ -360,9 +369,6 @@ msgstr "Қызанақ бастасаңыз, міндетті түрде аяқ�
 msgid "One minute left"
 msgstr "Бір минут қалды"
 
-msgid "Operation is complete"
-msgstr ""
-
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
@@ -375,11 +381,11 @@ msgstr "Сағат дыбысы"
 msgid "Play ticking sound while breaks"
 msgstr "Үзілісте сағат дыбысы"
 
+msgid "Please allow notifications in your browser"
+msgstr "Браузерде хабарламаларға рұқсат етіңіз"
+
 msgid "Please don't send me these awesome daily reports"
 msgstr "Осы керемет, әп-әдемі репорттарды маған жібермеңізші!"
-
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr ""
 
 msgid "Please reload the application."
 msgstr "Қосымшаны қайта қосыңыз"
@@ -474,6 +480,9 @@ msgstr "Күндерді таңдаңыз"
 msgid "Select a calendar to import tasks"
 msgstr "Тапсырмаларды импорттау үшін күнтізбені таңдаңыз"
 
+msgid "Select a project to import tasks"
+msgstr "Тапсырмаларды импорттау үшін жобаны таңдаңыз"
+
 msgid "Send daily reports"
 msgstr "Күнделікті есептер жіберу"
 
@@ -566,7 +575,7 @@ msgstr "TODO"
 msgid "TODO list is empty."
 msgstr "TODO тізімі бос"
 
-msgid "TODO list was updated."
+msgid "TODO list is updated"
 msgstr "TODO тізімі жаңарды"
 
 msgid "Take a short break (3-5 minutes)"
@@ -623,9 +632,6 @@ msgstr ""
 " қылып алуға көмектеседі, сәйкесінше оқу не жұмыс істеутәсілдерін дамыту "
 "үшін көп септігі бар"
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "Интеграция ескірген. Қайта қосыңыз."
-
 msgid "The list is empty"
 msgstr "Тізім бос"
 
@@ -649,6 +655,9 @@ msgstr "Осы апта"
 
 msgid "This Year"
 msgstr "Бұл жылы"
+
+msgid "Time Scheme has been changed"
+msgstr "Уақыт схемасы өзгертілді"
 
 msgid "Time format"
 msgstr "Уақыт форматы"
@@ -720,12 +729,20 @@ msgid "You are not signed."
 msgstr "Әзір кірмепсіз"
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Бар жұмыстарды аяқтадыңыз!"
+
+msgid "You need to connect the integration"
+msgstr "Сізге интеграцияны қосу керек"
 
 msgid "You spent"
 msgstr "Жұмсалды"
@@ -908,6 +925,9 @@ msgstr ""
 msgid "one message per line"
 msgstr "бір жолға бір хабарлама"
 
+msgid "page"
+msgstr "бет"
+
 msgid "pause"
 msgstr "пауза"
 
@@ -942,9 +962,6 @@ msgstr "- қызанақ орындау кезінде осындай уақыт
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "- бүгінгі қолданушылар жұмсаған уақыт"
-
-msgid "remove categories"
-msgstr "санаттарды жою"
 
 msgid "resume"
 msgstr "жалғастыру"
@@ -1039,6 +1056,9 @@ msgstr[1] "жыл"
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Шынымен өшіресіз бе?"
 
+#~ msgid "At time"
+#~ msgstr "осы уақытта"
+
 #~ msgid "August"
 #~ msgstr "Тамыз"
 
@@ -1129,6 +1149,9 @@ msgstr[1] "жыл"
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Қызанақ кетті"
 
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "Интеграция ескірген. Қайта қосыңыз."
+
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Жоғарыдағы қей қызанақтарды аяқтау"
 
@@ -1143,6 +1166,9 @@ msgstr[1] "жыл"
 
 #~ msgid "record"
 #~ msgstr "баспа"
+
+#~ msgid "remove categories"
+#~ msgstr "санаттарды жою"
 
 #~ msgid "version"
 #~ msgstr "нұсқасы"

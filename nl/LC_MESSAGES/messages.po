@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2020-09-04 14:02+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -47,6 +47,9 @@ msgstr "Een willekeurig bericht wordt gekozen als er meerdere zijn."
 msgid "Activities"
 msgstr "Activiteiten"
 
+msgid "Activities list is updated"
+msgstr "De activiteitenlijst wordt bijgewerkt"
+
 msgid "Activity by days"
 msgstr "Activiteit per dag"
 
@@ -77,15 +80,15 @@ msgstr "Onrust die te maken heeft met „beginnen” verlichten"
 msgid "Application"
 msgstr "Applicatie"
 
+msgid "Ask for the permission"
+msgstr "Vraag toestemming"
+
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
 "Aan het begin van elke dag selecteert u de taken die nodig zijn om af te "
 "ronden, en zet u ze op de TODO-lijst hierboven."
-
-msgid "At time"
-msgstr "Op tijdstip"
 
 msgid "Auto start breaks"
 msgstr "Start pauzes automatisch"
@@ -144,6 +147,9 @@ msgstr "Gefeliciteerd!"
 msgid "Connect"
 msgstr "Verbinden"
 
+msgid "Copy to %1$s"
+msgstr "Kopieer naar %1$s"
+
 msgid "Create"
 msgstr "Maak"
 
@@ -177,11 +183,11 @@ msgstr "Bewerken"
 msgid "Enable Browser Alerts"
 msgstr "Activeer browser-alerts"
 
+msgid "Enable Desktop Notifications"
+msgstr "Activeer Desktop-notificaties"
+
 msgid "Enable Notifications"
 msgstr "Activeer notificaties"
-
-msgid "Enable Web Notifications"
-msgstr "Activeer web-notificaties"
 
 msgid "Ends on"
 msgstr "Eindigt op"
@@ -221,6 +227,9 @@ msgstr "Verberg notificaties"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "Hoe te repareren?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Als een taak meer dan 5-7 pomodori neemt, breek hem in subtaken"
@@ -310,7 +319,7 @@ msgid "Long break"
 msgstr "Lange pauze"
 
 msgid "Long break delay"
-msgstr "Lange pazue na"
+msgstr "Lange pauze na"
 
 msgid "Long break duration"
 msgstr "Lange-pauzeduur"
@@ -357,9 +366,6 @@ msgstr "Als een pomodoro begint, moet hij rinkelen"
 msgid "One minute left"
 msgstr "Eén minuut over"
 
-msgid "Operation is complete"
-msgstr ""
-
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
@@ -372,11 +378,11 @@ msgstr "Speel tikkend geluid"
 msgid "Play ticking sound while breaks"
 msgstr "Speel tikkend geluid tijdens pauzes"
 
+msgid "Please allow notifications in your browser"
+msgstr "Sta meldingen in uw browser toe"
+
 msgid "Please don't send me these awesome daily reports"
 msgstr "Stuur me a.u.b. deze awesome dagelijkse rapportages niet meer"
-
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr ""
 
 msgid "Please reload the application."
 msgstr "Laad de applicatie opnieuw, a.u.b."
@@ -473,6 +479,9 @@ msgstr "Selecteer Datums"
 msgid "Select a calendar to import tasks"
 msgstr "Selecteer een kalender om taken te importeren"
 
+msgid "Select a project to import tasks"
+msgstr "Selecteer een project om taken te importeren"
+
 msgid "Send daily reports"
 msgstr "Stuur dagelijkse rapporten"
 
@@ -567,8 +576,8 @@ msgstr "TODO"
 msgid "TODO list is empty."
 msgstr "TODO-lijst is leeg."
 
-msgid "TODO list was updated."
-msgstr "TODO-liijst is geüpdatet."
+msgid "TODO list is updated"
+msgstr "TODO-liijst is geüpdatet"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "Neem een korte pauze (3-5 minuten)"
@@ -628,9 +637,6 @@ msgstr ""
 "manier waarop we dat willen doen, en om ons in staat te stellen continu "
 "te manier waarop we werken of studeren te verbeteren."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "De integratie is verouderd. Maak opnieuw verbinding."
-
 msgid "The list is empty"
 msgstr "De lijst is leeg"
 
@@ -654,6 +660,9 @@ msgstr "Deze week"
 
 msgid "This Year"
 msgstr "Dit jaar"
+
+msgid "Time Scheme has been changed"
+msgstr "Tijdschema is gewijzigd"
 
 msgid "Time format"
 msgstr "Tijdformaat"
@@ -725,12 +734,20 @@ msgid "You are not signed."
 msgstr "U bent niet ingelogd."
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "U heeft al uw taken afgerond."
+
+msgid "You need to connect the integration"
+msgstr "U moet de integratie verbinden"
 
 msgid "You spent"
 msgstr "U heeft besteed"
@@ -913,6 +930,9 @@ msgstr "aan"
 msgid "one message per line"
 msgstr "één bericht per regel"
 
+msgid "page"
+msgstr "pagina"
+
 msgid "pause"
 msgstr "pauze"
 
@@ -947,9 +967,6 @@ msgstr "hebben geregistreerde gebruikers besteed oon pomodori"
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "hebben geregistreerde gebruikers besteed aan pomodori vandaag."
-
-msgid "remove categories"
-msgstr "verwijder categorieën"
 
 msgid "resume"
 msgstr "verdergaan"
@@ -1046,6 +1063,9 @@ msgstr[1] "jaren"
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Weet u zeker dat u dit wilt verwijderen"
 
+#~ msgid "At time"
+#~ msgstr "Op tijdstip"
+
 #~ msgid "August"
 #~ msgstr "augustus"
 
@@ -1136,6 +1156,9 @@ msgstr[1] "jaren"
 #~ msgid "The Pomodoro is running"
 #~ msgstr "De pomodoro loopt"
 
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "De integratie is verouderd. Maak opnieuw verbinding."
+
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Probeer wat pomodori hierboven af te ronden"
 
@@ -1152,6 +1175,9 @@ msgstr[1] "jaren"
 
 #~ msgid "record"
 #~ msgstr "record"
+
+#~ msgid "remove categories"
+#~ msgstr "verwijder categorieën"
 
 #~ msgid "version"
 #~ msgstr "versie"

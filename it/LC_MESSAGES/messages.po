@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:02+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -48,6 +48,9 @@ msgstr "Un messaggio casuale verrà scelto se ce ne sono più."
 msgid "Activities"
 msgstr "Attività"
 
+msgid "Activities list is updated"
+msgstr "L'elenco delle attività viene aggiornato"
+
 msgid "Activity by days"
 msgstr "Attività per giorni"
 
@@ -78,15 +81,15 @@ msgstr "Allevia l'ansia legata all'iniziare"
 msgid "Application"
 msgstr "Applicazione"
 
+msgid "Ask for the permission"
+msgstr "Chiedi il permesso"
+
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
 "All'inizio di ogni giorno seleziona le attività che hai bisogno di "
 "completare e mettile nell'elenco TODO soprastante"
-
-msgid "At time"
-msgstr "tempo"
 
 msgid "Auto start breaks"
 msgstr "Avvio automatico delle pause"
@@ -145,6 +148,9 @@ msgstr "Congratulazioni!"
 msgid "Connect"
 msgstr "Connetti"
 
+msgid "Copy to %1$s"
+msgstr "Copia in %1$s"
+
 msgid "Create"
 msgstr "Crea"
 
@@ -178,11 +184,11 @@ msgstr "Modifica"
 msgid "Enable Browser Alerts"
 msgstr "Attiva gli avvisi del browser"
 
+msgid "Enable Desktop Notifications"
+msgstr "Attiva le notifiche Desktop"
+
 msgid "Enable Notifications"
 msgstr "Attiva le notifiche"
-
-msgid "Enable Web Notifications"
-msgstr "Attiva le notifiche web"
 
 msgid "Ends on"
 msgstr "Finisce"
@@ -222,6 +228,9 @@ msgstr "Nascondi le notifiche"
 
 msgid "History"
 msgstr ""
+
+msgid "How to fix?"
+msgstr "Come risolvere?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Se un'attività dura più di 5-6 Pomodori, scomponila"
@@ -359,9 +368,6 @@ msgstr "Una volta che il pomodoro inizia, deve suonare"
 msgid "One minute left"
 msgstr "Un minuto rimasto"
 
-msgid "Operation is complete"
-msgstr ""
-
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Ferma/Parti quando il computer è inattivo"
 
@@ -374,11 +380,11 @@ msgstr "Riproduci ticchettio"
 msgid "Play ticking sound while breaks"
 msgstr "Riproduci il ticchettio durante le pause"
 
+msgid "Please allow notifications in your browser"
+msgstr "Consenti le notifiche nel tuo browser"
+
 msgid "Please don't send me these awesome daily reports"
 msgstr "Per favore non inviarmi questi fantastici report giornalieri"
-
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr ""
 
 msgid "Please reload the application."
 msgstr "Si prega di ricaricare l'applicazione."
@@ -477,6 +483,9 @@ msgstr "Seleziona date"
 msgid "Select a calendar to import tasks"
 msgstr "Seleziona un calendario per importare le attività"
 
+msgid "Select a project to import tasks"
+msgstr "Seleziona un progetto per importare le attività"
+
 msgid "Send daily reports"
 msgstr "Invia rapporti giornalieri"
 
@@ -571,7 +580,7 @@ msgstr "TODO"
 msgid "TODO list is empty."
 msgstr "L'elenco TODO è vuoto"
 
-msgid "TODO list was updated."
+msgid "TODO list is updated"
 msgstr "L'elenco TODO è stato aggiornato"
 
 msgid "Take a short break (3-5 minutes)"
@@ -629,9 +638,6 @@ msgstr ""
 "per permetterci di migliorare continuamente nel nostro modo di lavorare e"
 " studiare."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "L'integrazione è obsoleta. Per favore riconnetti."
-
 msgid "The list is empty"
 msgstr "La lista è vuota"
 
@@ -655,6 +661,9 @@ msgstr "Questa settimana"
 
 msgid "This Year"
 msgstr "Quest'anno"
+
+msgid "Time Scheme has been changed"
+msgstr "Lo schema temporale è stato modificato"
 
 msgid "Time format"
 msgstr "Formato Orario"
@@ -726,12 +735,20 @@ msgid "You are not signed."
 msgstr "Non sei registrato"
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Hai finito tutti i tuoi compiti."
+
+msgid "You need to connect the integration"
+msgstr "Devi connettere l'integrazione"
 
 msgid "You spent"
 msgstr "Hai speso"
@@ -914,6 +931,9 @@ msgstr "su"
 msgid "one message per line"
 msgstr "un messaggio per riga"
 
+msgid "page"
+msgstr "pagina"
+
 msgid "pause"
 msgstr "pausa"
 
@@ -948,9 +968,6 @@ msgstr "gli utenti registrati spendono sul completamento dei pomodori"
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "gli utenti registrati spendono oggi sul completamento dei pomodori."
-
-msgid "remove categories"
-msgstr "rimuovere categorie"
 
 msgid "resume"
 msgstr "riprendi"
@@ -1047,6 +1064,9 @@ msgstr[1] "anni"
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Sei sicuro di volere eliminare"
 
+#~ msgid "At time"
+#~ msgstr "tempo"
+
 #~ msgid "August"
 #~ msgstr "Agosto"
 
@@ -1137,6 +1157,9 @@ msgstr[1] "anni"
 #~ msgid "The Pomodoro is running"
 #~ msgstr "Il Pomodoro è in esecuzione"
 
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "L'integrazione è obsoleta. Per favore riconnetti."
+
 #~ msgid "Try to complete some pomodoros above"
 #~ msgstr "Prova a completare alcuni pomodori sopra"
 
@@ -1151,6 +1174,9 @@ msgstr[1] "anni"
 
 #~ msgid "record"
 #~ msgstr "record"
+
+#~ msgid "remove categories"
+#~ msgstr "rimuovere categorie"
 
 #~ msgid "version"
 #~ msgstr "versione"

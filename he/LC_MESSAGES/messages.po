@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.17.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:02+0300\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: he\n"
@@ -48,6 +48,9 @@ msgstr ""
 msgid "Activities"
 msgstr ""
 
+msgid "Activities list is updated"
+msgstr ""
+
 msgid "Activity by days"
 msgstr ""
 
@@ -78,12 +81,12 @@ msgstr ""
 msgid "Application"
 msgstr ""
 
+msgid "Ask for the permission"
+msgstr ""
+
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
-msgstr ""
-
-msgid "At time"
 msgstr ""
 
 msgid "Auto start breaks"
@@ -143,6 +146,9 @@ msgstr ""
 msgid "Connect"
 msgstr ""
 
+msgid "Copy to %1$s"
+msgstr ""
+
 msgid "Create"
 msgstr ""
 
@@ -176,10 +182,10 @@ msgstr ""
 msgid "Enable Browser Alerts"
 msgstr ""
 
-msgid "Enable Notifications"
+msgid "Enable Desktop Notifications"
 msgstr ""
 
-msgid "Enable Web Notifications"
+msgid "Enable Notifications"
 msgstr ""
 
 msgid "Ends on"
@@ -219,6 +225,9 @@ msgid "Hide notificaions"
 msgstr ""
 
 msgid "History"
+msgstr ""
+
+msgid "How to fix?"
 msgstr ""
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
@@ -354,9 +363,6 @@ msgstr ""
 msgid "One minute left"
 msgstr ""
 
-msgid "Operation is complete"
-msgstr ""
-
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr ""
 
@@ -369,10 +375,10 @@ msgstr ""
 msgid "Play ticking sound while breaks"
 msgstr ""
 
-msgid "Please don't send me these awesome daily reports"
+msgid "Please allow notifications in your browser"
 msgstr ""
 
-msgid "Please log in using a different method and connect the %1$s after"
+msgid "Please don't send me these awesome daily reports"
 msgstr ""
 
 msgid "Please reload the application."
@@ -468,6 +474,9 @@ msgstr ""
 msgid "Select a calendar to import tasks"
 msgstr ""
 
+msgid "Select a project to import tasks"
+msgstr ""
+
 msgid "Send daily reports"
 msgstr ""
 
@@ -560,7 +569,7 @@ msgstr ""
 msgid "TODO list is empty."
 msgstr ""
 
-msgid "TODO list was updated."
+msgid "TODO list is updated"
 msgstr ""
 
 msgid "Take a short break (3-5 minutes)"
@@ -607,9 +616,6 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr ""
 
-msgid "The integration is outdated. Please reconnect."
-msgstr ""
-
 msgid "The list is empty"
 msgstr ""
 
@@ -632,6 +638,9 @@ msgid "This Week"
 msgstr ""
 
 msgid "This Year"
+msgstr ""
+
+msgid "Time Scheme has been changed"
 msgstr ""
 
 msgid "Time format"
@@ -704,11 +713,19 @@ msgid "You are not signed."
 msgstr ""
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
 msgstr ""
 
 msgid "You have finished all your tasks."
+msgstr ""
+
+msgid "You need to connect the integration"
 msgstr ""
 
 msgid "You spent"
@@ -892,6 +909,9 @@ msgstr ""
 msgid "one message per line"
 msgstr ""
 
+msgid "page"
+msgstr ""
+
 msgid "pause"
 msgstr ""
 
@@ -925,9 +945,6 @@ msgid "registered users spend on completing pomodoros"
 msgstr ""
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
-
-msgid "remove categories"
 msgstr ""
 
 msgid "resume"
@@ -1010,4 +1027,3 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] ""
 msgstr[1] ""
-

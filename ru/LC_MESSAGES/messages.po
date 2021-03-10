@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-09-04 14:02+0300\n"
+"POT-Creation-Date: 2020-12-30 12:29+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -49,6 +49,9 @@ msgstr "Случайное сообщение будет выбрано если
 msgid "Activities"
 msgstr "Избранное"
 
+msgid "Activities list is updated"
+msgstr "Избранное обновлено"
+
 msgid "Activity by days"
 msgstr "Активность по дням"
 
@@ -79,15 +82,15 @@ msgstr "Облегчения начала работы"
 msgid "Application"
 msgstr "Приложение"
 
+msgid "Ask for the permission"
+msgstr "Запросить разрешение"
+
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
 "В начале каждого дня выбирайте задачи для выполнения и заносите их в "
 "список планирования выше."
-
-msgid "At time"
-msgstr "на время"
 
 msgid "Auto start breaks"
 msgstr "Автостарт для перерыва"
@@ -146,6 +149,9 @@ msgstr "Поздравляем!"
 msgid "Connect"
 msgstr "Подключить"
 
+msgid "Copy to %1$s"
+msgstr "Скопировать на %1$s"
+
 msgid "Create"
 msgstr "Добавить"
 
@@ -179,11 +185,11 @@ msgstr "Редактировать"
 msgid "Enable Browser Alerts"
 msgstr "Включить всплывающие окна"
 
+msgid "Enable Desktop Notifications"
+msgstr "Включить системные оповещения"
+
 msgid "Enable Notifications"
 msgstr "Включить оповещения"
-
-msgid "Enable Web Notifications"
-msgstr "Включить оповещения в браузере"
 
 msgid "Ends on"
 msgstr "Заканчивается"
@@ -223,6 +229,9 @@ msgstr "Прятать оповещения"
 
 msgid "History"
 msgstr "История"
+
+msgid "How to fix?"
+msgstr "Как исправить"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Если задача требует более 5-7 «помидоров» — разбейте её на подзадачи"
@@ -326,7 +335,7 @@ msgid "Mark as done"
 msgstr "Отметить как выполненное"
 
 msgid "Median per day"
-msgstr "Медиана/день"
+msgstr "Медиана (день)"
 
 msgid "Move to Inbox"
 msgstr "Отложить во входящие"
@@ -361,9 +370,6 @@ msgstr "Если вы начали «помидор» — вы должны ег
 msgid "One minute left"
 msgstr "Осталась одна минута"
 
-msgid "Operation is complete"
-msgstr "Операция выполнена"
-
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Останавливать таймер когда комьютер уходит в спящий режим"
 
@@ -376,11 +382,11 @@ msgstr "Проигрывать тикающий звук"
 msgid "Play ticking sound while breaks"
 msgstr "Проигрывать тикающий звук во время перерыва"
 
+msgid "Please allow notifications in your browser"
+msgstr "Пожалуйста разрешите оповещения в системе"
+
 msgid "Please don't send me these awesome daily reports"
 msgstr "Пожалуйста, не присылайте мне эти замечательные отчеты"
-
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr "Пожалуйста войдите используя другой метод и подключите %1$s после"
 
 msgid "Please reload the application."
 msgstr "Пожалуйста, перезагрузите приложение."
@@ -477,6 +483,9 @@ msgstr "Выбрать даты"
 msgid "Select a calendar to import tasks"
 msgstr "Выберите календарь для импорта задач"
 
+msgid "Select a project to import tasks"
+msgstr "Выберите проект для импорта задач"
+
 msgid "Send daily reports"
 msgstr "Отправлять ежедневные отчеты"
 
@@ -569,8 +578,8 @@ msgstr "Запланировано"
 msgid "TODO list is empty."
 msgstr "Список планирования пуст."
 
-msgid "TODO list was updated."
-msgstr "Список планирования был обновлен."
+msgid "TODO list is updated"
+msgstr "Список планирования обновлен"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "Сделайте короткий перерыв (3-5 минут)"
@@ -630,9 +639,6 @@ msgstr ""
 "достижении того, что мы хотим сделать и как мы хотим это сделать. Она "
 "даёт нам возможность постоянно улучшать то, как мы работаем или учимся."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "Интеграция просрочена. Пожалуйста переподключитесь."
-
 msgid "The list is empty"
 msgstr "Список пуст"
 
@@ -656,6 +662,9 @@ msgstr "Эта неделя"
 
 msgid "This Year"
 msgstr "Этот год"
+
+msgid "Time Scheme has been changed"
+msgstr "Была применена схема"
 
 msgid "Time format"
 msgstr "Формат времени"
@@ -727,14 +736,24 @@ msgid "You are not signed."
 msgstr "Вы не авторизированы."
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
 msgstr ""
-"Вы пытаетесь войти с использованием %1$s, но уже существует пользователь "
-"с таким email"
+"Вы попытались подключить %1$s, но этот аккаунт уже подключен к другому "
+"пользователю"
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
+msgstr ""
+"Вы попытались войти с использованием %1$s, но пользователь с таким email "
+"уже существует"
 
 msgid "You have finished all your tasks."
 msgstr "Вы выполнили все свои задачи."
+
+msgid "You need to connect the integration"
+msgstr "Требуется подключить интеграцию"
 
 msgid "You spent"
 msgstr "Вы потратили"
@@ -922,6 +941,9 @@ msgstr "на"
 msgid "one message per line"
 msgstr "одно сообщение на строку"
 
+msgid "page"
+msgstr "страница"
+
 msgid "pause"
 msgstr "пауза"
 
@@ -957,9 +979,6 @@ msgstr "пользователи сервиса потратили на зада
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "пользователи сервиса работали сегодня"
-
-msgid "remove categories"
-msgstr "удалить категории"
 
 msgid "resume"
 msgstr "продолжить"
@@ -1047,6 +1066,9 @@ msgstr[2] "лет"
 #~ msgid "Add Activity"
 #~ msgstr "Добавить в избранное"
 
+#~ msgid "At time"
+#~ msgstr "на время"
+
 #~ msgid "Daily Task"
 #~ msgstr "Повторять ежедневно"
 
@@ -1056,8 +1078,14 @@ msgstr[2] "лет"
 #~ msgid "Import/Export tasks"
 #~ msgstr ""
 
+#~ msgid "Operation is complete"
+#~ msgstr "Операция выполнена"
+
 #~ msgid "Pin to activities"
 #~ msgstr "Добавить в избранное"
+
+#~ msgid "Please log in using a different method and connect the %1$s after"
+#~ msgstr "Пожалуйста войдите используя другой метод и подключите %1$s после"
 
 #~ msgid "Repeating Task"
 #~ msgstr "Повторяющаяся задача"
@@ -1065,9 +1093,15 @@ msgstr[2] "лет"
 #~ msgid "Reports and notifications"
 #~ msgstr "Отчеты и оповещения"
 
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "Интеграция просрочена. Пожалуйста переподключитесь."
+
 #~ msgid "Try to mark TODO as activity or use the form above"
 #~ msgstr "Попробуйте добавить задачу в избраное или используйте форму выше."
 
 #~ msgid "duplicate"
 #~ msgstr "скопировать"
+
+#~ msgid "remove categories"
+#~ msgstr "удалить категории"
 

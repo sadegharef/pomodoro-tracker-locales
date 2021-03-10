@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-09-07 16:20+0100\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -49,6 +49,9 @@ msgstr "Pokażemy tylko jedną, losową wiadomość."
 msgid "Activities"
 msgstr "Aktywność"
 
+msgid "Activities list is updated"
+msgstr "Lista działań zostanie zaktualizowana"
+
 msgid "Activity by days"
 msgstr "Aktywność według dnia"
 
@@ -79,13 +82,13 @@ msgstr "Złagodzić uczucie niepokoju towarzyszące rozpoczynaniu nowego zadania
 msgid "Application"
 msgstr "Aplikacja"
 
+msgid "Ask for the permission"
+msgstr "Poproś o pozwolenie"
+
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr "Zacznij dzień od wybrania zadań i umieść je na liście."
-
-msgid "At time"
-msgstr "Z rzędu"
 
 msgid "Auto start breaks"
 msgstr "Automatycznie zacznij przerwę"
@@ -144,6 +147,9 @@ msgstr "Gratulacje! "
 msgid "Connect"
 msgstr "Połącz"
 
+msgid "Copy to %1$s"
+msgstr "Skopiuj do %1$s"
+
 msgid "Create"
 msgstr "Stwórz"
 
@@ -177,11 +183,11 @@ msgstr "Edytuj"
 msgid "Enable Browser Alerts"
 msgstr "Włącz powiadomienia przeglądarki"
 
+msgid "Enable Desktop Notifications"
+msgstr "Włącz powiadomienia systemowe"
+
 msgid "Enable Notifications"
 msgstr "Włącz powiadomienia"
-
-msgid "Enable Web Notifications"
-msgstr "Włącz powiadomienia systemowe"
 
 msgid "Ends on"
 msgstr "Kończy się"
@@ -221,6 +227,9 @@ msgstr "Ukryj powiadomienia"
 
 msgid "History"
 msgstr "Historia"
+
+msgid "How to fix?"
+msgstr "Jak naprawić?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr ""
@@ -359,9 +368,6 @@ msgstr "Tracker musi wydać dźwięk gdy zaczyna się nowe Pomodoro"
 msgid "One minute left"
 msgstr "Została minuta do końca Pomodoro"
 
-msgid "Operation is complete"
-msgstr ""
-
 msgid "Pause/unpause when computer goes to sleep/idle"
 msgstr "Wstrzymaj/wznów Pomodoro gdy komputer przechodzi w stan uśpienia"
 
@@ -374,11 +380,11 @@ msgstr "Odtwarzaj dźwięk tykania"
 msgid "Play ticking sound while breaks"
 msgstr "Odtwarzaj dźwięk tykania podczas przerw"
 
+msgid "Please allow notifications in your browser"
+msgstr "Zezwól na powiadomienia w przeglądarce"
+
 msgid "Please don't send me these awesome daily reports"
 msgstr "Proszę nie wysyłać mi tych wspaniałych, codziennych raportów"
-
-msgid "Please log in using a different method and connect the %1$s after"
-msgstr "Proszę zalogować się używając innej metody logowania i połączyć z się z %1$s później"
 
 msgid "Please reload the application."
 msgstr "Proszę przeładować aplikację."
@@ -475,6 +481,9 @@ msgstr "Wybierz daty"
 msgid "Select a calendar to import tasks"
 msgstr "Wybierz kalendarz aby zaimportować zadania"
 
+msgid "Select a project to import tasks"
+msgstr "Wybierz projekt aby zaimportować zadania"
+
 msgid "Send daily reports"
 msgstr "Wysyłaj codzienne raporty"
 
@@ -569,7 +578,7 @@ msgstr "zadania"
 msgid "TODO list is empty."
 msgstr "Lista zadań jest pusta"
 
-msgid "TODO list was updated."
+msgid "TODO list is updated"
 msgstr "Lista zadań została zaktualizowana"
 
 msgid "Take a short break (3-5 minutes)"
@@ -633,9 +642,6 @@ msgstr ""
 " Technika ta pozwala nieustannie usprawniać sposób w jaki uczymy się i "
 "pracujemy."
 
-msgid "The integration is outdated. Please reconnect."
-msgstr "Integracja jest przestarzała. Połącz się ponownie."
-
 msgid "The list is empty"
 msgstr "Ta lista jest pusta"
 
@@ -659,6 +665,9 @@ msgstr "Ten tydzień"
 
 msgid "This Year"
 msgstr "Ten rok"
+
+msgid "Time Scheme has been changed"
+msgstr "Schemat czasowy został zmieniony"
 
 msgid "Time format"
 msgstr "Format godziny"
@@ -730,13 +739,24 @@ msgid "You are not signed."
 msgstr "Nie jesteś zalogowany/a"
 
 msgid ""
-"You are trying to log in with %1$s, but a user with the email is already "
-"registered"
-msgstr "Próbujesz zalogować się za pomocą %1$s, ale ktoś już korzysta z "
-"tego adresu email"
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+"Próbujesz połączyć konto %1$s, ale jest już połączone z innym "
+"użytkownikiem"
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
+msgstr ""
+"Próbujesz zalogować się za pomocą %1$s, ale ktoś już korzysta z tego "
+"adresu email"
 
 msgid "You have finished all your tasks."
 msgstr "Ukończyłeś/aś wszystkie zadania."
+
+msgid "You need to connect the integration"
+msgstr "Musisz połączyć integrację"
 
 msgid "You spent"
 msgstr "Spędziłeś/aś"
@@ -924,6 +944,9 @@ msgstr "na"
 msgid "one message per line"
 msgstr "jedna wiadomość na linię"
 
+msgid "page"
+msgstr "strona"
+
 msgid "pause"
 msgstr "pauza"
 
@@ -959,9 +982,6 @@ msgstr "spędzili zarejestrowani użytkownicy korzystając z Pomodoro"
 
 msgid "registered users spend on completing pomodoros today."
 msgstr "spędzili zarejestrowani użytkownicy korzystając dzisiaj z Pomodoro."
-
-msgid "remove categories"
-msgstr "usuń kategorie"
 
 msgid "resume"
 msgstr "wznów"
@@ -1060,6 +1080,9 @@ msgstr[2] "lat"
 #~ msgid "Are you sure want to delete"
 #~ msgstr "Czy na pewno usunąć?"
 
+#~ msgid "At time"
+#~ msgstr "Z rzędu"
+
 #~ msgid "August"
 #~ msgstr "Sierpień"
 
@@ -1117,6 +1140,12 @@ msgstr[2] "lat"
 #~ msgid "Pin to activities"
 #~ msgstr "Przypnij do ulubionych"
 
+#~ msgid "Please log in using a different method and connect the %1$s after"
+#~ msgstr ""
+#~ "Proszę zalogować się używając innej "
+#~ "metody logowania i połączyć z się "
+#~ "z %1$s później"
+
 #~ msgid "Please, login to view your stats"
 #~ msgstr "Zaloguj się aby zobaczyć swoje statystyki"
 
@@ -1153,6 +1182,9 @@ msgstr[2] "lat"
 #~ msgid "Sync with Google Tasks"
 #~ msgstr "Synchronizuj z Google Tasks"
 
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "Integracja jest przestarzała. Połącz się ponownie."
+
 # | msgid "pomodoro"
 # | msgid_plural "pomodoros"
 #~ msgid "Tomorrow"
@@ -1175,6 +1207,9 @@ msgstr[2] "lat"
 
 #~ msgid "record"
 #~ msgstr "rekord"
+
+#~ msgid "remove categories"
+#~ msgstr "usuń kategorie"
 
 #~ msgid "version"
 #~ msgstr "wersja"

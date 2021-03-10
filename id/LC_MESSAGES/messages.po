@@ -1,0 +1,1076 @@
+# Indonesian translations for pomodoro.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the pomodoro project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pomodoro 16.12.7\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Dafiul Haq <dafiulhaq97@gmail.com>\n"
+"Language: id\n"
+"Language-Team: id <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr " Login menggunakan %(provider)s "
+
+msgid "%1$s left"
+msgstr "%1$s tersisa"
+
+msgid "%1$s paused."
+msgstr "%1$s dijeda."
+
+msgid "%1$s started:"
+msgstr "%1$s dimulai:"
+
+msgid "%1$s stopped:"
+msgstr "%1$s dihentikan:"
+
+msgid "%1$s tasks were imported"
+msgstr "%1$s tugas diimpor"
+
+#, python-format
+msgid "%s here's your Daily report for %s"
+msgstr "%s berikut laporan harian anda untuk %s"
+
+msgid "A random message will be chosen if there are multiple."
+msgstr "Pesan acak akan dipilih jika terdapat lebih dari satu pesan."
+
+msgid "Activities"
+msgstr "Aktivitas"
+
+msgid "Activities list is updated"
+msgstr "Daftar aktivitas diperbarui"
+
+msgid "Activity by days"
+msgstr "Aktivitas berdasarkan hari"
+
+msgid "Activity by months"
+msgstr "Aktivitas berdasarkan bulan"
+
+msgid "Activity by weeks"
+msgstr "Aktivitas berdasarkan pekan"
+
+msgid "Add"
+msgstr "Tambah"
+
+msgid "Add TODO"
+msgstr "Tambah TODO"
+
+msgid "Add category"
+msgstr "Tambah kategori"
+
+msgid "Add more"
+msgstr "Tambah lagi"
+
+msgid "Add new tasks to the top"
+msgstr "Tambahkan tugas baru ke atas"
+
+msgid "Alleviate anxiety linked to beginning"
+msgstr "Mengurangi kecemasan saat memulai tugas baru"
+
+msgid "Application"
+msgstr "Aplikasi"
+
+msgid "Ask for the permission"
+msgstr "Minta izin"
+
+msgid ""
+"At the beginning of each day select the tasks you need to complete and "
+"put them on the TODO list above."
+msgstr ""
+"Pilih tugas yang perlu untuk anda selesaikan sekarang, kemudian letakkan "
+"pada daftar TODO diatas."
+
+msgid "Auto start breaks"
+msgstr "Mulai istirahat secara otomatis"
+
+msgid "Auto start pomodoros"
+msgstr "Mulai pomodoro secara otomatis"
+
+msgid "Block screen on breaks"
+msgstr "Blokir layar ketika beristirahat"
+
+msgid "Bolster the determination to achieve your goals"
+msgstr "Mendukung tekad untuk mencapai tujuan anda"
+
+msgid "Boost motivation and keep it constant"
+msgstr "Mendorong motivasi dan menjaga agar tetap konstan"
+
+msgid "Break is over"
+msgstr "Istirahat telah usai"
+
+msgid "Categories"
+msgstr "Daftar kategori"
+
+msgid "Changes saved"
+msgstr "Perubahan disimpan"
+
+msgid "Clear DONE history once per day"
+msgstr "Bersihkan riwayat DONE sekali setiap hari"
+
+msgid "Clear the list"
+msgstr "Bersihkan"
+
+msgid "Click on a number to add more."
+msgstr "Klik pada angka untuk menambahkan lagi"
+
+msgid "Click to open menu"
+msgstr "Klik untuk membuka menu"
+
+msgid "Click/tap to edit items."
+msgstr "Klik/tekan untuk mengedit item"
+
+msgid "Close"
+msgstr "Tutup"
+
+msgid "Code"
+msgstr "Kode"
+
+msgid "Color Theme"
+msgstr "Tampilan warna"
+
+msgid "Configure"
+msgstr "Atur"
+
+msgid "Congratulations!"
+msgstr "Selamat!"
+
+msgid "Connect"
+msgstr "Hubungkan"
+
+msgid "Copy to %1$s"
+msgstr "Salin ke %1$s"
+
+msgid "Create"
+msgstr "Buat"
+
+msgid "Create a category"
+msgstr "Buat kategori"
+
+msgid "Daily Goal"
+msgstr "Tujuan Harian"
+
+msgid "Daily Goal Completed."
+msgstr "Tujuan Harian Diselesaikan."
+
+msgid "Date format"
+msgstr "Format tanggal"
+
+msgid "Disconnect"
+msgstr "Putus Hubungan"
+
+msgid "Don`t start next pomodoro if TODO is empty"
+msgstr "Jangan mulai pomodoro selanjutnya jika TODO kosong"
+
+msgid "Drag&Drop/Touch to sort items."
+msgstr "Drag & Drop atau Sentuh untuk mengurutkan item."
+
+msgid "Due"
+msgstr "Jatuh tempo"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Enable Browser Alerts"
+msgstr "Aktifkan Notifikasi Browser"
+
+msgid "Enable Desktop Notifications"
+msgstr "Aktifkan Notifikasi Desktop"
+
+msgid "Enable Notifications"
+msgstr "Aktifkan Notifikasi"
+
+msgid "Ends on"
+msgstr "Berakhir pada"
+
+msgid "Enhance focus and concentration by cutting down on interruptions"
+msgstr "Meningkatkan fokus dan konsentrasi dengan mengurangi gangguan"
+
+msgid "Enjoy your break"
+msgstr "Nikmati waktu istirahat anda"
+
+msgid "Export the records as CSV"
+msgstr "Expor catatan dalam file CSV"
+
+msgid "Eye Keeper is enabled"
+msgstr "Penjaga mata dinonaktifkan"
+
+msgid "Feedback"
+msgstr "Umpan Balik"
+
+msgid "File"
+msgstr "File"
+
+msgid "Fill blank entries"
+msgstr "Isi entri yang kosong"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Pintasan global untuk membuka Pomodoro-Tracker"
+
+msgid "Great work!"
+msgstr "Kerja bagus!"
+
+msgid "Help"
+msgstr "Bantuan"
+
+msgid "Hide notificaions"
+msgstr "Sembunyikan notifikasi"
+
+msgid "History"
+msgstr "Riwayat"
+
+msgid "How to fix?"
+msgstr "Bagaimana cara memperbaiki?"
+
+msgid "If a task takes more than 5–7 Pomodoros, break it down"
+msgstr ""
+"Jika sebuah tugas membutuhkan lebih dari 5-7 Pomodoro, bagi tugasnya "
+"menjadi beberapa bagian"
+
+msgid ""
+"If it takes less than one Pomodoro, add it up, and combine  it with "
+"another task"
+msgstr ""
+"Jika sebuah tugas membutuhkan kurang dari satu Pomodoro, gabungkan dengan"
+" tugas lainnya"
+
+msgid "Import tasks from CSV"
+msgstr "Impor tugas dari file CSV"
+
+msgid "Import was failed. Check your CSV and try again."
+msgstr "Impor gagal. Periksa file CSV anda lalu coba kembali."
+
+msgid "Imported from External Sources"
+msgstr "Diimpor dari Luar"
+
+msgid "Improve your work or study process"
+msgstr "Memperbaiki proses bekerja atau belajar anda"
+
+msgid "Inbox"
+msgstr "Inbox"
+
+msgid "Increase awareness of your decisions"
+msgstr "Meningkatkan kesadaran terhadap pilihan anda"
+
+msgid "Integration with %1$s"
+msgstr "Terintegrasi dengan %1$s"
+
+msgid "Integrations"
+msgstr "Integrasi"
+
+msgid "Interruption tracked"
+msgstr "Gangguan dilacak"
+
+msgid "Join the global rating"
+msgstr "Gabung ke penilaian global"
+
+msgid ""
+"Keep on working, Pomodoro after Pomodoro, until the task at hand is "
+"finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
+msgstr ""
+"Ulangi langkah diatas, Pomodoro demi Pomodoro, hingga seluruh tugas anda "
+"selesai. Ambil istirahat panjang (15-30 menit) setiap 4 Pomodoro."
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "Last 365 days"
+msgstr "365 hari terakhir"
+
+msgid "Last Month"
+msgstr "Bulan Lalu"
+
+msgid "Last Quarter"
+msgstr "Kuartal Terakhir"
+
+msgid "Last Week"
+msgstr "Pekan Lalu"
+
+msgid "Like"
+msgstr "Suka"
+
+msgid "Link copied"
+msgstr "Tautan disalin"
+
+msgid "Load daily tasks"
+msgstr "Muat tugas harian"
+
+msgid "Loading"
+msgstr "Memuat"
+
+msgid "Lock is enabled"
+msgstr "Penguncian diaktifkan"
+
+msgid "Login to the service and track your progress"
+msgstr "Login untuk lacak kemajuan anda"
+
+msgid "Login to the service using %1$s authentication."
+msgstr "Login menggunakan autentikasi %1$s"
+
+msgid "Logout"
+msgstr "Keluar"
+
+msgid "Long break"
+msgstr "Istirahat panjang"
+
+msgid "Long break delay"
+msgstr "Jarak setiap istirahat panjang"
+
+msgid "Long break duration"
+msgstr "Durasi istirahat panjang"
+
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr "Pandanglah sesuatu yang berjarak kurang lebih 6 meter selama %1$s detik"
+
+msgid "Mark as done"
+msgstr "Tandai telah selesai"
+
+msgid "Median per day"
+msgstr "Rata-rata perhari"
+
+msgid "Move to Inbox"
+msgstr "Pindahkan ke Inbox"
+
+msgid "Navigate Back"
+msgstr "Navigasi Kebelakang"
+
+msgid "Navigate Forward"
+msgstr "Navigasi Kedepan"
+
+msgid "New"
+msgstr "Baru"
+
+msgid "Next long break"
+msgstr "Istirahat panjang selanjutnya"
+
+msgid "Notification Test"
+msgstr "Coba Notifikasi"
+
+msgid "Notifications"
+msgstr "Notifikasi"
+
+msgid "Notify when there is one minute left"
+msgstr "Beritahu ketika waktu tersisa satu menit"
+
+msgid "Of those"
+msgstr "Dari itu semua"
+
+msgid "Once a Pomodoro begins, it has to ring"
+msgstr "Ketika Pomodoro dimulai, lonceng akan berdering"
+
+msgid "One minute left"
+msgstr "Satu menit tersisa"
+
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr "Jeda/batalkan jeda ketika komputer dalam keadaan sleep/diam"
+
+msgid "Play alarm sound"
+msgstr "Putar suara alarm"
+
+msgid "Play ticking sound"
+msgstr "Putar suara detakan"
+
+msgid "Play ticking sound while breaks"
+msgstr "Putar suara detakan ketika beristirahat"
+
+msgid "Please allow notifications in your browser"
+msgstr "Mohon izinkan pemberitahuan di browser Anda"
+
+msgid "Please don't send me these awesome daily reports"
+msgstr "Mohon untuk tidak mengirimkankan laporan harian itu ke saya"
+
+msgid "Please reload the application."
+msgstr "Mohon untuk memuat ulang aplikasi"
+
+msgid "Please select a value"
+msgstr "Silakan pilih nilai"
+
+msgid "Please unblock notifications in your browser"
+msgstr "Mohon untuk membuka blokir notifikasi di browser anda"
+
+msgid "Please, login to use the feature"
+msgstr "Silakan login untuk menggunakan fitur"
+
+msgid "Please, login to view your stats"
+msgstr "Silakan login untuk melihat statistik anda"
+
+msgid "Pomodoro Tracker is a productivity app designed for your work and study."
+msgstr ""
+"Pomodoro Tracker adalah aplikasi produktifitas didesain untuk bekerja dan"
+" belajar."
+
+msgid "Pomodoro duration"
+msgstr "Durasi pomodoro"
+
+msgid "Pomodoro is finished"
+msgstr "Pomodoro telah usai"
+
+msgid "Preferences"
+msgstr "Preferensi"
+
+msgid "Press"
+msgstr "Tekan"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Provide Feedback"
+msgstr "Berikan umpan balik"
+
+msgid "Quit"
+msgstr "Keluar"
+
+msgid "Raise browser alert when pomodoro/break is over"
+msgstr "Ditampilkan ketika pomodoro/istirahat telah usai"
+
+msgid "Rate the application"
+msgstr "Beri nilai aplikasi"
+
+msgid "Records are empty"
+msgstr "Catatan kosong"
+
+msgid "Refine the estimation process, both in qualitative and quantitative terms "
+msgstr "Menyempurnakan proses estimasi, baik secara kualitatif maupun kuantitatif"
+
+msgid "Register"
+msgstr "Daftar"
+
+msgid "Relax"
+msgstr "Bersantai"
+
+msgid "Release Notes"
+msgstr "Catatan Perilisan"
+
+msgid "Remove a task from TODO when Pomodoro is complete"
+msgstr "Hapus tugas dari TODO ketika Pomodoro telah selesai"
+
+msgid "Remove one"
+msgstr "Hapus satu"
+
+msgid "Repeat"
+msgstr "Ulangi"
+
+msgid "Repeat every"
+msgstr "Ulangi setiap"
+
+msgid "Reports Time"
+msgstr "Waktu Laporan"
+
+msgid "Rules & Tips"
+msgstr "Peraturan & Tips"
+
+msgid "Scheduler"
+msgstr "Penjadwalan"
+
+msgid "Schemes"
+msgstr "Skema"
+
+msgid "Select Category"
+msgstr "Pilih Kategori"
+
+msgid "Select Dates"
+msgstr "Pilih Tanggal"
+
+msgid "Select a calendar to import tasks"
+msgstr "Pilih kalender untuk mengimpor tugas"
+
+msgid "Select a project to import tasks"
+msgstr "Pilih proyek untuk mengimpor tugas"
+
+msgid "Send daily reports"
+msgstr "Kirim laporan harian"
+
+msgid "Send test notification"
+msgstr "Coba notifikasi"
+
+msgid "Server Error"
+msgstr "Server Error"
+
+msgid "Server has been updated."
+msgstr "Server telah diperbarui."
+
+msgid "Set Due"
+msgstr "Atur Jatuh Tempo"
+
+msgid "Set Recurrence"
+msgstr "Atur Perulangan"
+
+msgid "Set do not disturb"
+msgstr "Atur mode jangan ganggu"
+
+msgid "Set to Later"
+msgstr "Atur untuk Nanti"
+
+msgid "Set to Tomorrow"
+msgstr "Atur untuk Besok"
+
+msgid "Set to Week"
+msgstr "Atur untuk Pekan"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Share timer data"
+msgstr "Bagikan data pengatur waktu"
+
+msgid "Short break"
+msgstr "Istirahat pendek"
+
+msgid "Short break duration"
+msgstr "Durasi istirahat pendek"
+
+msgid "Short description"
+msgstr "Deskripsi singkat"
+
+msgid "Show window"
+msgstr "Tampilkan jendela"
+
+msgid "Sign Up / Login"
+msgstr "Daftar / Login"
+
+msgid "Sign in with %1$s"
+msgstr "Login menggunakan %1$s"
+
+msgid "Sleep Mode is enabled"
+msgstr "Mode tidur diaktifkan"
+
+msgid "Sort by"
+msgstr "Urutkan berdasarkan"
+
+msgid "Start the Pomodoro timer"
+msgstr "Mulai pengatur waktu Pomodoro"
+
+msgid "Start working:"
+msgstr "Ketika memulai tugas:"
+
+msgid "Starts on"
+msgstr "Dimulai pada"
+
+msgid "Stats"
+msgstr "Statistik"
+
+msgid "Stay focused and finish tasks effectively."
+msgstr "Tetap fokus dan selesaikan tugas secara efektif."
+
+msgid ""
+"Strengthen your resolve to keep on applying yourself in the face of "
+"complex situations"
+msgstr ""
+"Membulatkan tekad anda untuk terus memantapkan diri dalam menghadapi "
+"situasi yang kompleks"
+
+msgid "Support the Project"
+msgstr "Dukung proyek ini"
+
+msgid "Sync my tasks only"
+msgstr "Hanya mensinkronisasi tugas anda saja"
+
+msgid "TODO"
+msgstr "TODO"
+
+msgid "TODO list is empty."
+msgstr "Daftar TODO kosong"
+
+msgid "TODO list is updated"
+msgstr "Daftar TODO diperbarui"
+
+msgid "Take a short break (3-5 minutes)"
+msgstr "Ambil istirahat pendek (3-5 menit)"
+
+msgid "Take more time to your life."
+msgstr "Luangkan lebih banyak waktu untuk hidup anda."
+
+msgid "Thank you for the feedback! Your message is awaiting moderation."
+msgstr "Terima kasih untuk umpan baliknya! Pesan anda sedang menunggu moderasi."
+
+msgid "The Basics"
+msgstr "Penggunaan Dasar"
+
+msgid "The Goals"
+msgstr "Tujuan"
+
+msgid ""
+"The Pomodoro Technique is a time management method that can be used for "
+"any task. For many people, time is an enemy. The anxiety triggered by "
+"“the ticking clock”, especially when it involves a deadline, leads to "
+"ineffective work and study habits which in turn lead to procrastination."
+msgstr ""
+"Teknik Pomodoro adalah metode manajemen waktu yang dapat digunakan untuk "
+"menyelesaikan berbagai jenis tugas. Bagi banyak orang, waktu adalah "
+"musuh. Kegelisahan yang ditimbulkan dari efek “detakan jam“, khususnya "
+"ketika menyangkut tenggat waktu, menyebabkan kebiasaan kerja dan belajar "
+"yang tidak efektif yang pada akhirnya menyebabkan penundaan."
+
+msgid ""
+"The Pomodoro Technique shouldn’t be used for activities you do in your "
+"free time. Enjoy free time!"
+msgstr ""
+"Jangan gunakan teknik ini untuk aktivitas yang biasa anda lakukanpada "
+"waktu senggang, nikmati waktu senggang anda!"
+
+msgid ""
+"The Pomodoro Technique will provide a simple tool/process for improving "
+"productivity (your own and that of your team members) which can do the "
+"following:"
+msgstr ""
+"Teknik Pomodoro akan menyediakan sebuah proses sederhana untuk "
+"meningkatkan produktivitas anda dan anggota tim anda, yang mana "
+"memungkinkan hal-hal berikut ini:"
+
+msgid ""
+"The Pomodoro Tracker — A useful tool for time management based on "
+"Pomodoro Technique."
+msgstr ""
+"The Pomodoro Tracker — Alat manajemen waktu multifungsi berdasar pada "
+"Teknik Pomodoro."
+
+msgid ""
+"The aim of the Pomodoro Technique is to use time as a valuable ally in "
+"accomplishing what we want to do in the way we want to do it, and to "
+"enable us to improve continually the way we work or study."
+msgstr ""
+"Tujuan dari Teknik Pomodoro adalah untuk \"menjinakkan\" waktu sehingga "
+"kita dapat menyelesaikan seluruh pekerjaan dengan cara yang kita mau, dan"
+" memungkinkan kita untuk terus-menerus meningkatkan cara belajar dan "
+"bekerja yang efektif."
+
+msgid "The list is empty"
+msgstr "Daftar ini kosong"
+
+msgid "The next Pomodoro will go better"
+msgstr "Pomodoro selanjutnya akan menjadi lebih baik"
+
+msgid "The next pomodoro will go better!"
+msgstr "Pomodoro selanjutnya akan menjadi lebih baik!"
+
+msgid "There are completed tasks"
+msgstr "Ada tugas yang sudah diselesaikan"
+
+msgid "This Month"
+msgstr "Bulan Ini"
+
+msgid "This Quarter"
+msgstr "Kuartal Ini"
+
+msgid "This Week"
+msgstr "Pekan Ini"
+
+msgid "This Year"
+msgstr "Tahun Ini"
+
+msgid "Time Scheme has been changed"
+msgstr "Skema Waktu telah diubah"
+
+msgid "Time format"
+msgstr "Format waktu"
+
+msgid "Time spent"
+msgstr "Waktu dihabiskan"
+
+msgid "Time zone"
+msgstr "Zona waktu"
+
+msgid "Timer"
+msgstr "Pengatur waktu"
+
+msgid "Title"
+msgstr "Judul"
+
+msgid "Toggle eye keeper"
+msgstr "Aktifkan/nonaktifkan penjaga mata"
+
+msgid "Toggle fullscreen"
+msgstr "Aktifkan/nonaktifkan layar penuh"
+
+msgid "Toggle mini timer"
+msgstr "Alihkan pengatur waktu mini"
+
+msgid "Try to add some tasks use the form above"
+msgstr "Coba tambahkan beberapa tugas melalui formulir diatas"
+
+msgid "Try to complete some pomodoros or choose a different period"
+msgstr "Coba untuk menyelesaikan beberapa pomodoro atau pilih periode lainnya"
+
+msgid "Tune the timer"
+msgstr "Setel pengatur waktu"
+
+msgid "Unselect Category"
+msgstr "Batal Pilih Kategori"
+
+msgid "Update status"
+msgstr "Perbarui status"
+
+msgid "View"
+msgstr "Lihat"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "What is it?"
+msgstr "Apa maksudnya ini?"
+
+msgid "Window"
+msgstr "Jendela"
+
+msgid "Work days"
+msgstr "Hari bekerja"
+
+msgid "Work history won`t be saved."
+msgstr "Riwayat pekerjaan tidak akan tersimpan."
+
+msgid "Work until the Pomodoro rings"
+msgstr "Kerjakan hingga lonceng Pomodoro berdering"
+
+msgid "Write your ideas here"
+msgstr "Tulis ide anda disini"
+
+msgid "Yesterday"
+msgstr "Kemarin"
+
+msgid "You are not signed."
+msgstr "Anda belum login"
+
+msgid ""
+"You are trying to connect a %1$s account, but it is already connected to "
+"another user"
+msgstr ""
+"Anda mencoba untuk terhubung ke akun %1$s, namun akun tersebut telah "
+"terhubung ke pengguna lain"
+
+msgid ""
+"You are trying to log in with a %1$s account, but a user with the email "
+"is already registered"
+msgstr ""
+"Anda mencoba untuk login ke akun %1$s, namun pengguna dengan email "
+"tersebut telah terdaftar"
+
+msgid "You have finished all your tasks."
+msgstr "Anda telah menyelesaikan seluruh tugas."
+
+msgid "You need to connect the integration"
+msgstr "Anda perlu menghubungkan integrasi"
+
+msgid "You spent"
+msgstr "Anda menghabiskan "
+
+msgid "and"
+msgstr "dan"
+
+msgid "auto"
+msgstr "otomatis"
+
+msgid "average"
+msgstr "rata-rata"
+
+msgid "break"
+msgstr "istirahat"
+
+msgid "cancel"
+msgstr "batalkan"
+
+msgid "category"
+msgstr "kategori"
+
+msgid "close"
+msgstr "tutup"
+
+msgid "copy"
+msgstr "salin"
+
+msgid "created"
+msgstr "dibuat"
+
+msgid "custom"
+msgstr "custom"
+
+msgid "dark"
+msgstr "gelap"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "hari"
+msgstr[1] "hari"
+
+msgid "default"
+msgstr "default"
+
+msgid "delay"
+msgstr "penundaan"
+
+msgid "delays"
+msgstr "penundaan-penundaan"
+
+msgid "delete"
+msgstr "hapus"
+
+msgid "description"
+msgstr "deskripsi"
+
+msgid "disable"
+msgstr "nonaktifkan"
+
+msgid "done"
+msgstr "selesai"
+
+msgid "duration"
+msgstr "durasi"
+
+msgid "finish time"
+msgstr "waktu selesai"
+
+msgid "focus"
+msgstr "fokus"
+
+msgid "for all time"
+msgstr "sepanjang ini"
+
+msgid "forward"
+msgstr "selanjutnya"
+
+msgid "friday"
+msgstr "jumat"
+
+msgid "friends"
+msgstr "teman-teman"
+
+msgid "global"
+msgstr "global"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "jam"
+msgstr[1] "jam"
+
+msgid "if you must exit now"
+msgstr "jika anda harus keluar sekarang"
+
+msgid "in 10 seconds"
+msgstr "setelah 10 detik"
+
+msgid "in 2 seconds"
+msgstr "setelah 2 detik"
+
+msgid "in 3 seconds"
+msgstr "setelah 3 detik"
+
+msgid "in 5 seconds"
+msgstr "setelah 5 detik"
+
+msgid "in minutes"
+msgstr "dalam menit"
+
+msgid "in pomodoros"
+msgstr "dalam pomodoro"
+
+msgid "interruptions"
+msgstr "gangguan"
+
+msgid "later"
+msgstr "nanti"
+
+msgid "light"
+msgstr "terang"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "suka"
+msgstr[1] "suka"
+
+msgid "login"
+msgstr "login"
+
+msgid "maximize"
+msgstr "perbesar"
+
+msgid "median"
+msgstr "rata-rata"
+
+msgid "menu"
+msgstr "menu"
+
+msgid "merge"
+msgstr "gabungkan"
+
+msgid "messages"
+msgstr "pesan-pesan"
+
+msgid "minimize"
+msgstr "perkecil"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "menit"
+msgstr[1] "menit"
+
+msgid "monday"
+msgstr "senin"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "bulan"
+msgstr[1] "bulan"
+
+msgid "never"
+msgstr "tidak pernah"
+
+msgid "next page"
+msgstr "halaman selanjutnya"
+
+msgid "no description"
+msgstr "tidak ada deskripsi"
+
+msgid "no information available"
+msgstr "tidak ada informasi yang tersedia"
+
+msgid "number"
+msgstr "angka"
+
+msgid "on"
+msgstr "on"
+
+msgid "one message per line"
+msgstr "satu pesan setiap baris"
+
+msgid "page"
+msgstr "halaman"
+
+msgid "pause"
+msgstr "jeda"
+
+msgid "personal"
+msgstr "pribadi"
+
+msgid "pomodoro"
+msgid_plural "pomodoros"
+msgstr[0] "pomodoro"
+msgstr[1] "pomodoro"
+
+msgid "pomodoros"
+msgstr "pomodoro"
+
+msgid "preview"
+msgstr "pratinjau"
+
+msgid "previous page"
+msgstr "halaman sebelumnya"
+
+msgid "prolong time"
+msgstr "perpanjang waktu"
+
+msgid "rating"
+msgstr "peringkat"
+
+msgid "refresh"
+msgstr "muat ulang"
+
+msgid "registered users spend on completing pomodoros"
+msgstr "dihabiskan oleh pengguna terdaftar untuk menyelesaikan pomodoro"
+
+msgid "registered users spend on completing pomodoros today."
+msgstr "dihabiskan oleh pengguna terdaftar untuk menyelesaikan pomodoro hari ini."
+
+msgid "resume"
+msgstr "lanjutkan"
+
+msgid "saturday"
+msgstr "sabtu"
+
+msgid "save"
+msgstr "simpan"
+
+msgid "send password"
+msgstr "kirim kata sandi"
+
+msgid "series"
+msgstr "seri"
+
+msgid "skip"
+msgstr "lewati"
+
+msgid "split"
+msgstr "membagi"
+
+msgid "start"
+msgstr "mulai"
+
+msgid "stop"
+msgstr "berhenti"
+
+msgid "sunday"
+msgstr "minggu"
+
+msgid "system"
+msgstr "sistem"
+
+msgid "take a long break"
+msgstr "ambil istirahat panjang"
+
+msgid "take a short break"
+msgstr "ambil istirahat pendek"
+
+msgid "thursday"
+msgstr "kamis"
+
+msgid "time"
+msgstr "waktu"
+
+msgid ""
+"to your telegram, type `/reg` and enter a code from the bot to field "
+"bellow"
+msgstr ""
+"pada Telegram anda, ketik `/reg` kemudian masukkan kode yang didapat dari"
+" bot pada kolom dibawah"
+
+msgid "today"
+msgstr "hari ini"
+
+msgid "tomorrow"
+msgstr "besok"
+
+msgid "tuesday"
+msgstr "selasa"
+
+msgid "unknown"
+msgstr "tidak diketahui"
+
+msgid "user"
+msgstr "pengguna"
+
+msgid "wednesday"
+msgstr "rabu"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "pekan"
+msgstr[1] "pekan"
+
+msgid "were"
+msgstr "adalah"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "tahun"
+msgstr[1] "tahun"
+
+#~ msgid "At time"
+#~ msgstr "Pada waktu"
+
+#~ msgid "Operation is complete"
+#~ msgstr "Operasi selesai"
+
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "Integrasi sudah kedaluwarsa. Tolong sambungkan ulang."
+
+#~ msgid "remove categories"
+#~ msgstr "hapus kategori"
+
