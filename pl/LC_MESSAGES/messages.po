@@ -2,13 +2,13 @@
 # Copyright (C) 2018-2020 pomodoro-tracker.com
 # This file is distributed under the same license as the pomodoro project.
 # Jarosław Wiosna <EMAIL@ADDRESS>, 2018.
-# Roman Dąbal <dabalroman@gmail.com>, 2020.
+# Roman Dąbal <dabalroman@gmail.com>, 2021.
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.9.38\n"
 "Report-Msgid-Bugs-To: dabalroman@gmail.com\n"
-"POT-Creation-Date: 2020-12-30 12:30+0300\n"
+"POT-Creation-Date: 2021-03-11 00:00+0100\n"
 "PO-Revision-Date: 2019-02-02 00:19+0100\n"
 "Last-Translator: Roman Dąbal <dabalroman@gmail.com>\n"
 "Language: pl\n"
@@ -41,7 +41,7 @@ msgstr "Ilość zaimportowanych zadań: %1$s"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr "%s Twój dzienny raport dla %s"
+msgstr "%s, Twój dzienny raport dla %s"
 
 msgid "A random message will be chosen if there are multiple."
 msgstr "Pokażemy tylko jedną, losową wiadomość."
@@ -50,7 +50,7 @@ msgid "Activities"
 msgstr "Aktywność"
 
 msgid "Activities list is updated"
-msgstr "Lista działań zostanie zaktualizowana"
+msgstr "Lista działań została zaktualizowana"
 
 msgid "Activity by days"
 msgstr "Aktywność według dnia"
@@ -71,7 +71,7 @@ msgid "Add category"
 msgstr "Dodaj kategorię"
 
 msgid "Add more"
-msgstr "Dodaj kolejne Pomodoro"
+msgstr "Dodaj kolejne"
 
 msgid "Add new tasks to the top"
 msgstr "Umieść nowe zadania na górze listy"
@@ -83,7 +83,7 @@ msgid "Application"
 msgstr "Aplikacja"
 
 msgid "Ask for the permission"
-msgstr "Poproś o pozwolenie"
+msgstr "Poproś o dostęp"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
@@ -103,7 +103,7 @@ msgid "Bolster the determination to achieve your goals"
 msgstr "Podtrzymać determinację do osiągania wyznaczonych sobie celów"
 
 msgid "Boost motivation and keep it constant"
-msgstr "Poprawić motywację i utrzymywać ją"
+msgstr "Poprawić motywację i utrzymać ją"
 
 msgid "Break is over"
 msgstr "Koniec przerwy"
@@ -112,7 +112,7 @@ msgid "Categories"
 msgstr "Kategorie"
 
 msgid "Changes saved"
-msgstr "Zmiany zapisane"
+msgstr "Zmiany zostały zapisane"
 
 msgid "Clear DONE history once per day"
 msgstr "Wyczyść listę wykonanych zadań raz dziennie"
@@ -121,10 +121,10 @@ msgid "Clear the list"
 msgstr "Wyczyść listę"
 
 msgid "Click on a number to add more."
-msgstr "Naciśnij na numer by dodać więcej Pomodoro w ramach wybranego zadania."
+msgstr "Naciśnij na numer, by dodać kolejne."
 
 msgid "Click to open menu"
-msgstr "Otwórz menu"
+msgstr "Naciśnij, by otworzyć menu"
 
 msgid "Click/tap to edit items."
 msgstr "Naciśnij na zadanie by je edytować."
@@ -139,7 +139,7 @@ msgid "Color Theme"
 msgstr "Motyw"
 
 msgid "Configure"
-msgstr "Konfiguruj"
+msgstr "Konfiguracja"
 
 msgid "Congratulations!"
 msgstr "Gratulacje! "
@@ -148,7 +148,7 @@ msgid "Connect"
 msgstr "Połącz"
 
 msgid "Copy to %1$s"
-msgstr "Skopiuj do %1$s"
+msgstr "Kopiuj do %1$s"
 
 msgid "Create"
 msgstr "Stwórz"
@@ -157,7 +157,7 @@ msgid "Create a category"
 msgstr "Stwórz kategorię"
 
 msgid "Daily Goal"
-msgstr "Cel dnia (w pomodoro)"
+msgstr "Cel dnia"
 
 msgid "Daily Goal Completed."
 msgstr "Osiągnieto cel dnia."
@@ -169,7 +169,7 @@ msgid "Disconnect"
 msgstr "Rozłącz"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr "Nie zaczynaj kolejnego pomodoro jeżeli lista zadań jest pusta"
+msgstr "Nie zaczynaj kolejnego pomodoro, jeżeli lista zadań jest pusta"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr "Przeciągaj elementy by je układać."
@@ -196,7 +196,7 @@ msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Poprawić skupienie i koncentrację poprzez ograniczenie przerw w pracy"
 
 msgid "Enjoy your break"
-msgstr "Miłej przerwy"
+msgstr "Czas na przerwę"
 
 msgid "Export the records as CSV"
 msgstr "Eksportuj dane do pliku CSV"
@@ -229,17 +229,17 @@ msgid "History"
 msgstr "Historia"
 
 msgid "How to fix?"
-msgstr "Jak naprawić?"
+msgstr "Jak rozwiązać ten problem?"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr ""
-"Jeżeli zadanie zajmuje więcej niż 5 – 7 Pomodoro podziel je na mniejsze "
+"Jeżeli zadanie zajmuje więcej niż 5 – 7 Pomodoro, podziel je na mniejsze "
 "zadania"
 
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
-msgstr "Jeżeli zadanie zajmuje mniej niż jedno Pomodoro połącz je z innym zadaniem"
+msgstr "Jeżeli zadanie zajmuje mniej niż jedno Pomodoro, połącz je z innym zadaniem"
 
 msgid "Import tasks from CSV"
 msgstr "Importuj zadania z pliku CSV"
@@ -248,16 +248,16 @@ msgid "Import was failed. Check your CSV and try again."
 msgstr "Próba importu zakończyła się błędem. Sprawdź plik CSV i spróbuj ponownie."
 
 msgid "Imported from External Sources"
-msgstr "Importowano z zewnętrznego źródła"
+msgstr "Zaimportowano z zewnętrznego źródła"
 
 msgid "Improve your work or study process"
-msgstr "Poprawić jakość Twojej pracy lub nauki"
+msgstr "Poprawić jakość Twojej pracy i nauki"
 
 msgid "Inbox"
 msgstr "Skrzynka odbiorcza"
 
 msgid "Increase awareness of your decisions"
-msgstr "Zwiększyć świadomość znaczenia podejmowanych decyzji"
+msgstr "Zwiększyć świadomość skutków Twoich decyzji"
 
 msgid "Integration with %1$s"
 msgstr "Połącz z %1$s"
@@ -327,7 +327,7 @@ msgid "Long break duration"
 msgstr "Czas trwania długiej przerwy"
 
 msgid "Look away at something that is 6 metres away for %1$s seconds"
-msgstr "Popatrz na coś, co jest 6 metrów od ciebie, przez %1$s sekund"
+msgstr "Spójrz na coś, co jest 6 metrów od ciebie, przez %1$s sekund"
 
 msgid "Mark as done"
 msgstr "Oznacz jako wykonane"
@@ -396,13 +396,13 @@ msgid "Please unblock notifications in your browser"
 msgstr "Odblokuj powiadomienia w twojej przeglądarce"
 
 msgid "Please, login to use the feature"
-msgstr "Zaloguj się, aby użyć tej funkcji"
+msgstr "Zaloguj się, by użyć tej funkcji"
 
 msgid "Please, login to view your stats"
-msgstr "Zaloguj się, aby zobaczyć swoje statystyki"
+msgstr "Zaloguj się, by zobaczyć swoje statystyki"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
-msgstr "Pomodoro Tracker to aplikacja stworzona by pomóc w Twojej pracy i nauce"
+msgstr "Pomodoro Tracker to aplikacja stworzona, by pomóc w Twojej pracy i nauce"
 
 msgid "Pomodoro duration"
 msgstr "Czas trwania Pomodoro"
@@ -449,7 +449,7 @@ msgid "Release Notes"
 msgstr "Nota wydania"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
-msgstr "Usuń zadanie z listy gdy Pomodoro zostało ukończone"
+msgstr "Usuń zadanie z listy, gdy Pomodoro zostało ukończone"
 
 msgid "Remove one"
 msgstr "Usuń jedno Pomodoro"
@@ -482,13 +482,13 @@ msgid "Select a calendar to import tasks"
 msgstr "Wybierz kalendarz aby zaimportować zadania"
 
 msgid "Select a project to import tasks"
-msgstr "Wybierz projekt aby zaimportować zadania"
+msgstr "Wybierz projekt, by zaimportować zadania"
 
 msgid "Send daily reports"
-msgstr "Wysyłaj codzienne raporty"
+msgstr "Wysyłaj codzienne raporty aktywności"
 
 msgid "Send test notification"
-msgstr "Test powiadomienia"
+msgstr "Wyślij powiadomienie testowe"
 
 msgid "Server Error"
 msgstr "Błąd serwera"
@@ -503,16 +503,16 @@ msgid "Set Recurrence"
 msgstr "Ustaw powtarzalność"
 
 msgid "Set do not disturb"
-msgstr "Nie przeszkadzać"
+msgstr "Ustaw 'Nie przeszkadzać'"
 
 msgid "Set to Later"
-msgstr "Ustaw na później"
+msgstr "Przenieś na później"
 
 msgid "Set to Tomorrow"
-msgstr "Ustaw na jutro"
+msgstr "Przenieś na jutro"
 
 msgid "Set to Week"
-msgstr "Ustaw na za tydzień"
+msgstr "Przenieś na za tydzień"
 
 msgid "Settings"
 msgstr "Ustawienia"
@@ -539,7 +539,7 @@ msgid "Sign in with %1$s"
 msgstr "Zaloguj się za pomocą %1$s"
 
 msgid "Sleep Mode is enabled"
-msgstr "Uśpiono"
+msgstr "Tryb uśpienia jest włączony"
 
 msgid "Sort by"
 msgstr "Sortuj według"
@@ -551,32 +551,31 @@ msgid "Start working:"
 msgstr "Rozpocznij pracę:"
 
 msgid "Starts on"
-msgstr "Zaczyna się"
+msgstr "Zaczyna się o"
 
 msgid "Stats"
 msgstr "Statystyki"
 
 msgid "Stay focused and finish tasks effectively."
-msgstr "Utrzymaj skupienie i efektywnie zakończ zadanie."
+msgstr "Utrzymaj skupienie i efektywnie wypełniaj zadania."
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
 msgstr ""
-"Wzmocnić swoją determinację do stawania twarzą w twarz z trudnymi "
-"sytuacjami"
+"Wzmocnić determinację do stawania twarzą w twarz z trudnymi sytuacjami"
 
 msgid "Support the Project"
 msgstr "Wspomóż projekt"
 
 msgid "Sync my tasks only"
-msgstr "Synchronizuj tylko moje zadania"
+msgstr "Synchronizuj tylko Moje zadania"
 
 msgid "TODO"
 msgstr "zadania"
 
 msgid "TODO list is empty."
-msgstr "Lista zadań jest pusta"
+msgstr "Lista zadań jest pusta."
 
 msgid "TODO list is updated"
 msgstr "Lista zadań została zaktualizowana"
@@ -588,7 +587,7 @@ msgid "Take more time to your life."
 msgstr "Odzykaj swój czas, żyj więcej!"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr "Dziękujemy za Twoją opinie! Twoja wiadomość oczekuje na potwierdzenie."
+msgstr "Dziękujemy za Twoją opinię! Twoja wiadomość oczekuje na potwierdzenie."
 
 msgid "The Basics"
 msgstr "W skrócie"
@@ -643,7 +642,7 @@ msgstr ""
 "pracujemy."
 
 msgid "The list is empty"
-msgstr "Ta lista jest pusta"
+msgstr "Lista jest pusta"
 
 msgid "The next Pomodoro will go better"
 msgstr "Następne Pomodoro będzie lepsze"
@@ -756,7 +755,7 @@ msgid "You have finished all your tasks."
 msgstr "Ukończyłeś/aś wszystkie zadania."
 
 msgid "You need to connect the integration"
-msgstr "Musisz połączyć integrację"
+msgstr "Musisz podłączyć integrację"
 
 msgid "You spent"
 msgstr "Spędziłeś/aś"
@@ -810,7 +809,7 @@ msgid "delays"
 msgstr "opóźnienia"
 
 msgid "delete"
-msgstr "Usuń"
+msgstr "usuń"
 
 msgid "description"
 msgstr "opis"
@@ -879,7 +878,7 @@ msgid "later"
 msgstr "później"
 
 msgid "light"
-msgstr "Jasny"
+msgstr "jasny"
 
 msgid "like"
 msgid_plural "likes"
@@ -906,7 +905,7 @@ msgid "messages"
 msgstr "wiadomości"
 
 msgid "minimize"
-msgstr "minimalizuj"
+msgstr "zminimalizuj"
 
 msgid "minute"
 msgid_plural "minutes"
