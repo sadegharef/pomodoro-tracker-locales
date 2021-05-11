@@ -329,7 +329,7 @@ msgid "Long break duration"
 msgstr "Продолжительность длинного перерыва"
 
 msgid "Look away at something that is 6 metres away for %1$s seconds"
-msgstr "Смотрите вдаль (от 6 метров) в течении %1$s секунд"
+msgstr "Смотрите вдаль (от 6 метров) в течение %1$s секунд"
 
 msgid "Mark as done"
 msgstr "Отметить как выполненное"
