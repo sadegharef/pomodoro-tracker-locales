@@ -40,7 +40,7 @@ msgstr "%1$s개의 작업을 가져왔습니다"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr "%s %s(을)를 위한 일일 보고서입니다"
+msgstr "%s님 %s 일일 보고서입니다"
 
 msgid "A random message will be chosen if there are multiple."
 msgstr "여러 메시지가 있는 경우, 임의의 메시지가 선택됩니다."
