@@ -1,0 +1,1146 @@
+# Korean translations for pomodoro.
+# Copyright (C) 2016 ORGANIZATION
+# This file is distributed under the same license as the pomodoro project.
+# Junseong Jang <junseong.jang+github@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pomodoro 0.7.16\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-12-30 12:30+0300\n"
+"PO-Revision-Date: 2021-07-18 12:22+0900\n"
+"Last-Translator: Junseong Jang <junseong.jang+github@gmail.com>\n"
+"Language: ko\n"
+"Language-Team: ko <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+"X-Generator: Poedit 2.4.3\n"
+
+#, python-format
+msgid " Sign in with %(provider)s "
+msgstr " %(provider)s(으)로 로그인 "
+
+msgid "%1$s left"
+msgstr "%s$s 남음"
+
+msgid "%1$s paused."
+msgstr "%1$s 일시멈춤."
+
+msgid "%1$s started:"
+msgstr "%1$s 시작:"
+
+msgid "%1$s stopped:"
+msgstr "%1$s 중지:"
+
+msgid "%1$s tasks were imported"
+msgstr "%1$s개의 작업을 가져왔습니다"
+
+#, python-format
+msgid "%s here's your Daily report for %s"
+msgstr "%s %s(을)를 위한 일일 보고서입니다"
+
+msgid "A random message will be chosen if there are multiple."
+msgstr "여러 메시지가 있는 경우, 임의의 메시지가 선택됩니다."
+
+msgid "Activities"
+msgstr "활동"
+
+msgid "Activities list is updated"
+msgstr "활동 목록이 업데이트되었습니다"
+
+msgid "Activity by days"
+msgstr "일별 활동"
+
+msgid "Activity by months"
+msgstr "월별 활동"
+
+msgid "Activity by weeks"
+msgstr "주별 활동"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Add TODO"
+msgstr "TODO 추가"
+
+msgid "Add category"
+msgstr "카테고리 추가"
+
+msgid "Add more"
+msgstr "증가"
+
+msgid "Add new tasks to the top"
+msgstr "새 작업을 위쪽에 추가"
+
+msgid "Alleviate anxiety linked to beginning"
+msgstr "시각과 관련된 불안 낮춰줍니다"
+
+msgid "Application"
+msgstr "애플리케이션"
+
+msgid "Ask for the permission"
+msgstr "허가 요청하기"
+
+msgid "At the beginning of each day select the tasks you need to complete and put them on the TODO list above."
+msgstr "하루 일과를 시작할 때 완료해야하는 작업을 선정하여 위 쪽의 TODO 목록에 넣습니다."
+
+msgid "Auto start breaks"
+msgstr "휴식 시간을 자동으로 시작"
+
+msgid "Auto start pomodoros"
+msgstr "뽀모도로를 자동으로 시작"
+
+msgid "Block screen on breaks"
+msgstr "휴식 시간에 화면을 막습니다"
+
+msgid "Bolster the determination to achieve your goals"
+msgstr "목표를 달성하기 위한 결단력을 강화합니다"
+
+msgid "Boost motivation and keep it constant"
+msgstr "동기를 높이고 그 상태를 유지합니다"
+
+msgid "Break is over"
+msgstr "휴식이 끝난 경우"
+
+msgid "Categories"
+msgstr "카테고리"
+
+msgid "Changes saved"
+msgstr "변경 사항이 저장되었습니다"
+
+msgid "Clear DONE history once per day"
+msgstr "하루에 한 번 DONE 기록 지우기"
+
+msgid "Clear the list"
+msgstr "목록 비우기"
+
+msgid "Click on a number to add more."
+msgstr "뽀모도로를 추가하려면 번호를 클릭하세요."
+
+msgid "Click to open menu"
+msgstr "메뉴를 열려면 클릭하세요"
+
+msgid "Click/tap to edit items."
+msgstr "항목을 편집하려면 클릭/탭하세요."
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "Code"
+msgstr "코드"
+
+msgid "Color Theme"
+msgstr "테마"
+
+msgid "Configure"
+msgstr "설정"
+
+msgid "Congratulations!"
+msgstr "축하합니다!"
+
+msgid "Connect"
+msgstr "연결"
+
+msgid "Copy to %1$s"
+msgstr "%1$s(으)로 복사"
+
+msgid "Create"
+msgstr "생성"
+
+msgid "Create a category"
+msgstr "카테고리를 생성하세요"
+
+msgid "Daily Goal"
+msgstr "일일 목표"
+
+msgid "Daily Goal Completed."
+msgstr "일일 목표 달성."
+
+msgid "Date format"
+msgstr "날짜 표시 형식"
+
+msgid "Disconnect"
+msgstr "연결 해제"
+
+msgid "Don`t start next pomodoro if TODO is empty"
+msgstr "TODO가 비어있는 경우, 다음 뽀모도로 시작하지 않기"
+
+msgid "Drag&Drop/Touch to sort items."
+msgstr "항목을 정렬하기 위해서는 트래그 앤 드롭/터치를 사용하세요."
+
+msgid "Due"
+msgstr "기한"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Enable Browser Alerts"
+msgstr "웹브라우저 알림 활성화"
+
+msgid "Enable Desktop Notifications"
+msgstr "데스크탑 알림 활성화"
+
+msgid "Enable Notifications"
+msgstr "알림 활성화"
+
+msgid "Ends on"
+msgstr "끝"
+
+msgid "Enhance focus and concentration by cutting down on interruptions"
+msgstr "작업 중단을 줄임으로써 집중을 높입니다"
+
+msgid "Enjoy your break"
+msgstr "휴식 시간을 즐기세요"
+
+msgid "Export the records as CSV"
+msgstr "CSV로 기록 내보내기"
+
+msgid "Eye Keeper is enabled"
+msgstr "Eye Keeper가 활성화되었습니다"
+
+msgid "Feedback"
+msgstr "피드백"
+
+msgid "File"
+msgstr "파일"
+
+msgid "Fill blank entries"
+msgstr "빈 항목을 채우세요"
+
+msgid "Global shortcut to open Pomodoro-Tracker"
+msgstr "Pomodoro-Tracker 실행을 위한 전역 단축키"
+
+msgid "Great work!"
+msgstr "잘 했어요!"
+
+msgid "Help"
+msgstr "도움말"
+
+msgid "Hide notificaions"
+msgstr "알림 숨기기"
+
+msgid "History"
+msgstr "기록"
+
+msgid "How to fix?"
+msgstr "어떻게 고치나요?"
+
+msgid "If a task takes more than 5–7 Pomodoros, break it down"
+msgstr "하나의 작업이 5-7 뽀모도로보다 길어진다면, 작업을 나눕니다"
+
+msgid "If it takes less than one Pomodoro, add it up, and combine  it with another task"
+msgstr "작업이 한 뽀모도로보다 짧다면, 추가한 후 다른 작업과 합칩니다"
+
+msgid "Import tasks from CSV"
+msgstr "CSV에서 작업 가져오기"
+
+msgid "Import was failed. Check your CSV and try again."
+msgstr "가져오기에 실패했습니다. CSV를 확인하고 다시 시도하십시오."
+
+msgid "Imported from External Sources"
+msgstr "외부 소스에서 가져온 항목"
+
+msgid "Improve your work or study process"
+msgstr "일이나 공부의 과정을 개선합니다"
+
+msgid "Inbox"
+msgstr "수신함"
+
+msgid "Increase awareness of your decisions"
+msgstr "결정 사항에 인식을 높입니다"
+
+msgid "Integration with %1$s"
+msgstr "%1$s 연동"
+
+msgid "Integrations"
+msgstr "연동"
+
+msgid "Interruption tracked"
+msgstr "추적된 중단"
+
+msgid "Join the global rating"
+msgstr "글로벌 등급에 참여"
+
+msgid "Keep on working, Pomodoro after Pomodoro, until the task at hand is finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
+msgstr "작업이 완료될 때까지, 뽀모도로를 반복하며 작업을 진행합니다. 4번의 뽀모도로를 진행한 후 15-30분의 긴 휴식을 가집니다."
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Last 365 days"
+msgstr "지난 365일"
+
+msgid "Last Month"
+msgstr "지난 달"
+
+msgid "Last Quarter"
+msgstr "지난 분기"
+
+msgid "Last Week"
+msgstr "지난 주"
+
+msgid "Like"
+msgstr "좋아요"
+
+msgid "Link copied"
+msgstr "복사된 링크"
+
+msgid "Load daily tasks"
+msgstr "일일 작업 로드"
+
+msgid "Loading"
+msgstr "로드 중"
+
+msgid "Lock is enabled"
+msgstr "잠금이 활성화되었습니다"
+
+msgid "Login to the service and track your progress"
+msgstr "서비스에 로그인하여 진행 상황 기록합니다"
+
+msgid "Login to the service using %1$s authentication."
+msgstr "%1$s 계정으로 로그인."
+
+msgid "Logout"
+msgstr "로그아웃"
+
+msgid "Long break"
+msgstr "긴 휴식"
+
+msgid "Long break delay"
+msgstr "긴 휴식까지의 횟수"
+
+msgid "Long break duration"
+msgstr "긴 휴식 시간"
+
+msgid "Look away at something that is 6 metres away for %1$s seconds"
+msgstr "6미터 떨어진 무언가에 %1$s 초간 시선을 돌리세요"
+
+msgid "Mark as done"
+msgstr "완료로 표시"
+
+msgid "Median per day"
+msgstr "1일 중앙값"
+
+msgid "Move to Inbox"
+msgstr "수신함으로 이동"
+
+msgid "Navigate Back"
+msgstr "뒤로"
+
+msgid "Navigate Forward"
+msgstr "앞으로"
+
+msgid "New"
+msgstr "신규"
+
+msgid "Next long break"
+msgstr "다음 긴 휴식"
+
+msgid "Notification Test"
+msgstr "알림 테스트"
+
+msgid "Notifications"
+msgstr "알림"
+
+msgid "Notify when there is one minute left"
+msgstr "1분 남았을 때 알림"
+
+msgid "Of those"
+msgstr "Of those"
+
+msgid "Once a Pomodoro begins, it has to ring"
+msgstr "뽀모도로가 시작되면, 타이머가 울릴 때까지 지속합니다"
+
+msgid "One minute left"
+msgstr "1분 남음"
+
+msgid "Pause/unpause when computer goes to sleep/idle"
+msgstr "컴퓨터가 절전/유휴 상태일 때 일시 중지 / 일시 중지 해제"
+
+msgid "Play alarm sound"
+msgstr "알람 소리 재생"
+
+msgid "Play ticking sound"
+msgstr "똑딱 소리 재생"
+
+msgid "Play ticking sound while breaks"
+msgstr "휴식 중 똑딱 소리 재생"
+
+msgid "Please allow notifications in your browser"
+msgstr "브라우저에서 알림을 허용하십시오"
+
+msgid "Please don't send me these awesome daily reports"
+msgstr "이러한 멋진 일일 보고서를 보내지 마십시오"
+
+msgid "Please reload the application."
+msgstr "애플리케이션을 다시 시작하세요."
+
+msgid "Please select a value"
+msgstr "값을 선택하십시오"
+
+msgid "Please unblock notifications in your browser"
+msgstr "브라우저에서 알림 차단을 해제하십시오"
+
+msgid "Please, login to use the feature"
+msgstr "기능을 사용하려면 로그인하십시오"
+
+msgid "Please, login to view your stats"
+msgstr "로그인하여 통계 확인"
+
+msgid "Pomodoro Tracker is a productivity app designed for your work and study."
+msgstr "Pomodoro Tracker는 일이나 공부를 위한 생산성 앱입니다."
+
+msgid "Pomodoro duration"
+msgstr "뽀모도로 기간"
+
+msgid "Pomodoro is finished"
+msgstr "뽀모도로가 끝난 경우"
+
+msgid "Preferences"
+msgstr "설정"
+
+msgid "Press"
+msgstr "누르세요"
+
+msgid "Profile"
+msgstr "프로필"
+
+msgid "Provide Feedback"
+msgstr "피드백을 제공합니다"
+
+msgid "Quit"
+msgstr "종료"
+
+msgid "Raise browser alert when pomodoro/break is over"
+msgstr "뽀모도로/휴식이 끝나면 브라우저 경고를 표시합니다"
+
+msgid "Rate the application"
+msgstr "애플리케이션 평가하기"
+
+msgid "Records are empty"
+msgstr "기록이 비었습니다"
+
+msgid "Refine the estimation process, both in qualitative and quantitative terms "
+msgstr "질적 및 양적 측면에서 예측 과정을 개선합니다 "
+
+msgid "Register"
+msgstr "등록"
+
+msgid "Relax"
+msgstr "휴식"
+
+msgid "Release Notes"
+msgstr "Release Notes"
+
+msgid "Remove a task from TODO when Pomodoro is complete"
+msgstr "뽀모도로가 완료됐을 때 TODO에서 작업 제거"
+
+msgid "Remove one"
+msgstr "감소"
+
+msgid "Repeat"
+msgstr "반복"
+
+msgid "Repeat every"
+msgstr "반복하기"
+
+msgid "Reports Time"
+msgstr "보고 시간"
+
+msgid "Rules & Tips"
+msgstr "규칙 및 팁"
+
+msgid "Scheduler"
+msgstr "스케쥴러"
+
+msgid "Schemes"
+msgstr "계획"
+
+msgid "Select Category"
+msgstr "카테고리 선택"
+
+msgid "Select Dates"
+msgstr "날짜 선택"
+
+msgid "Select a calendar to import tasks"
+msgstr "작업을 가져올 캘린더를 선택합니다"
+
+msgid "Select a project to import tasks"
+msgstr "작업을 가져올 프로젝트를 선택합니다"
+
+msgid "Send daily reports"
+msgstr "일일 보고서 보내기"
+
+msgid "Send test notification"
+msgstr "테스트 알림 보내기"
+
+msgid "Server Error"
+msgstr "서버 오류"
+
+msgid "Server has been updated."
+msgstr "서버가 업데이트되었습니다."
+
+msgid "Set Due"
+msgstr "기한 설정"
+
+msgid "Set Recurrence"
+msgstr "반복 설정"
+
+msgid "Set do not disturb"
+msgstr "방해 금지 설정"
+
+msgid "Set to Later"
+msgstr "이후로 설정"
+
+msgid "Set to Tomorrow"
+msgstr "내일로 설정"
+
+msgid "Set to Week"
+msgstr "주간으로 설정"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Share timer data"
+msgstr "타이머 데이터 공유"
+
+msgid "Short break"
+msgstr "짧은 휴식"
+
+msgid "Short break duration"
+msgstr "짧은 휴식 시간"
+
+msgid "Short description"
+msgstr "간략한 설명"
+
+msgid "Show window"
+msgstr "윈도우 보여주기"
+
+msgid "Sign Up / Login"
+msgstr "사용자 등록 / 로그인"
+
+msgid "Sign in with %1$s"
+msgstr "%1$s(으)로 로그인"
+
+msgid "Sleep Mode is enabled"
+msgstr "절전 모드가 활성화되었습니다"
+
+msgid "Sort by"
+msgstr "정렬"
+
+msgid "Start the Pomodoro timer"
+msgstr "뽀모도로 타이머를 시작합니다"
+
+msgid "Start working:"
+msgstr "작업의 진행 방식:"
+
+msgid "Starts on"
+msgstr "시작하기"
+
+msgid "Stats"
+msgstr "통계"
+
+msgid "Stay focused and finish tasks effectively."
+msgstr "집중을 유지하고 작업을 효과적으로 마무리하십시오."
+
+msgid "Strengthen your resolve to keep on applying yourself in the face of complex situations"
+msgstr "복잡한 상황에서도 계속 노력할 수 있는 결심을 강화합니다"
+
+msgid "Support the Project"
+msgstr "프로젝트 지원하기"
+
+msgid "Sync my tasks only"
+msgstr "내 작업만 동기화"
+
+msgid "TODO"
+msgstr "TODO"
+
+msgid "TODO list is empty."
+msgstr "TODO 목록이 비어 있습니다."
+
+msgid "TODO list is updated"
+msgstr "TODO 목록이 업데이트되었습니다"
+
+msgid "Take a short break (3-5 minutes)"
+msgstr "3-5 분의 짧은 휴식을 가집니다"
+
+msgid "Take more time to your life."
+msgstr "당신 인생에 더 많은 시간을 가져가세요."
+
+msgid "Thank you for the feedback! Your message is awaiting moderation."
+msgstr "의견을 주셔서 감사합니다! 당신의 메시지는 승인을 기다리고 있습니다."
+
+msgid "The Basics"
+msgstr "기초"
+
+msgid "The Goals"
+msgstr "목적"
+
+msgid ""
+"The Pomodoro Technique is a time management method that can be used for any task. For many people, time is an enemy. The anxiety triggered "
+"by “the ticking clock”, especially when it involves a deadline, leads to ineffective work and study habits which in turn lead to "
+"procrastination."
+msgstr ""
+"뽀모도로 테크닉은 모든 작업에 적용할 수 있는 시간 관리 기술입니다. 많은 사람들에게 시간은 적입니다. 특히 마감이 입박하면 시계 바늘 도는 소"
+"리는 우리는 불안하게 합니다. 이 불안은 일이나 공부를 비효율적으로 만들고 결국 늑장을 부리게 됩니다."
+
+msgid "The Pomodoro Technique shouldn’t be used for activities you do in your free time. Enjoy free time!"
+msgstr "뽀모도록 테크닉은 여가 시간의 활동에 사용하면 안 됩니다. 그 시간은 즐기세요!"
+
+msgid ""
+"The Pomodoro Technique will provide a simple tool/process for improving productivity (your own and that of your team members) which can do "
+"the following:"
+msgstr ""
+"뽀모도록 테크닉은 자신은 물론 같이 일하는 팀 멤버의 생성성을 향상시키는 간단한 도구와 프로세스를 제공합니다.\n"
+"다음 효과를 얻을 수 있습니다:"
+
+msgid "The Pomodoro Tracker — A useful tool for time management based on Pomodoro Technique."
+msgstr "The Pomodoro Tracker - 뽀모도록 테크닉을 기반으로 하는 시간 관리 도구."
+
+msgid ""
+"The aim of the Pomodoro Technique is to use time as a valuable ally in accomplishing what we want to do in the way we want to do it, and "
+"to enable us to improve continually the way we work or study."
+msgstr ""
+"뽀모도록 테크닉은 우리가 이루고자 하는 바를 원하는 방식대로 이루는데 시간을 활용할 수 있도록 합니다. 또한 우리가 일이나 공부하는 방법을 끊"
+"임없이 개선할 수 있도록 합니다."
+
+msgid "The list is empty"
+msgstr "목록이 비어 있습니다"
+
+msgid "The next Pomodoro will go better"
+msgstr "다음 뽀모도로는 더 나아질 겁니다"
+
+msgid "The next pomodoro will go better!"
+msgstr "다음 뽀모도로는 더 나아질 겁니다!"
+
+msgid "There are completed tasks"
+msgstr "완료된 작업이 있습니다"
+
+msgid "This Month"
+msgstr "이번 달"
+
+msgid "This Quarter"
+msgstr "이번 분기"
+
+msgid "This Week"
+msgstr "이번 주"
+
+msgid "This Year"
+msgstr "이번 연도"
+
+msgid "Time Scheme has been changed"
+msgstr "시간표가 변경되었습니다"
+
+msgid "Time format"
+msgstr "시간 표시 형식"
+
+msgid "Time spent"
+msgstr "보낸 시간"
+
+msgid "Time zone"
+msgstr "시간대"
+
+msgid "Timer"
+msgstr "타이머"
+
+msgid "Title"
+msgstr "제목"
+
+msgid "Toggle eye keeper"
+msgstr "Eye Keeper의 활성화/비활성화"
+
+msgid "Toggle fullscreen"
+msgstr "전체 화면 전환"
+
+msgid "Toggle mini timer"
+msgstr "미니 타이머 전환"
+
+msgid "Try to add some tasks use the form above"
+msgstr "위쪽의 양식에 따라 작업을 추가해 보세요"
+
+msgid "Try to complete some pomodoros or choose a different period"
+msgstr "뽀모도로를 완료하거나 다린 기간을 선택합니다"
+
+msgid "Tune the timer"
+msgstr "타이머 조정"
+
+msgid "Unselect Category"
+msgstr "카테고리 선택 해제"
+
+msgid "Update status"
+msgstr "상태 업데이트"
+
+msgid "View"
+msgstr "보기"
+
+msgid "Volume"
+msgstr "음량"
+
+msgid "What is it?"
+msgstr "Pomodoro Tracker란?"
+
+msgid "Window"
+msgstr "창"
+
+msgid "Work days"
+msgstr "활동 일수"
+
+msgid "Work history won`t be saved."
+msgstr "작업 기록이 저장되지 않습니다."
+
+msgid "Work until the Pomodoro rings"
+msgstr "뽀모도로 타이머가 울릴 때까지 작업합니다"
+
+msgid "Write your ideas here"
+msgstr "당신의 아이디어를 적어주세요"
+
+msgid "Yesterday"
+msgstr "어제"
+
+msgid "You are not signed."
+msgstr "You are not signed."
+
+msgid "You are trying to connect a %1$s account, but it is already connected to another user"
+msgstr "%1$s 계정은 이미 다른 사용자에게 연결되어 있습니다"
+
+msgid "You are trying to log in with a %1$s account, but a user with the email is already registered"
+msgstr "%1$s 이메일을 사용하는 사용자는 이미 등록되어 있습니다"
+
+msgid "You have finished all your tasks."
+msgstr "모든 작업을 완료했습니다."
+
+msgid "You need to connect the integration"
+msgstr "연동 서비스에 연결해야 합니다"
+
+msgid "You spent"
+msgstr "You spent"
+
+msgid "and"
+msgstr "and"
+
+msgid "auto"
+msgstr "자동"
+
+msgid "average"
+msgstr "평균"
+
+msgid "break"
+msgstr "휴식"
+
+msgid "cancel"
+msgstr "취소"
+
+msgid "category"
+msgstr "카테고리"
+
+msgid "close"
+msgstr "닫기"
+
+msgid "copy"
+msgstr "복사"
+
+msgid "created"
+msgstr "생성됨"
+
+msgid "custom"
+msgstr "사용자 정의"
+
+msgid "dark"
+msgstr "dark"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "일"
+msgstr[1] "일"
+
+msgid "default"
+msgstr "기본"
+
+msgid "delay"
+msgstr "지연"
+
+msgid "delays"
+msgstr "지연"
+
+msgid "delete"
+msgstr "삭제"
+
+msgid "description"
+msgstr "설명"
+
+msgid "disable"
+msgstr "사용 안 함"
+
+msgid "done"
+msgstr "완료"
+
+msgid "duration"
+msgstr "기간"
+
+msgid "finish time"
+msgstr "완료 시간"
+
+msgid "focus"
+msgstr "집중도"
+
+msgid "for all time"
+msgstr "for all time"
+
+msgid "forward"
+msgstr "forward"
+
+msgid "friday"
+msgstr "금요일"
+
+msgid "friends"
+msgstr "친구"
+
+msgid "global"
+msgstr "글로벌"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "시간"
+msgstr[1] "시간"
+
+msgid "if you must exit now"
+msgstr "if you must exit now"
+
+msgid "in 10 seconds"
+msgstr "10초"
+
+msgid "in 2 seconds"
+msgstr "2초"
+
+msgid "in 3 seconds"
+msgstr "3초"
+
+msgid "in 5 seconds"
+msgstr "5초"
+
+msgid "in minutes"
+msgstr "분 단위"
+
+msgid "in pomodoros"
+msgstr "뽀모도로 단위"
+
+msgid "interruptions"
+msgstr "중단"
+
+msgid "later"
+msgstr "이후"
+
+msgid "light"
+msgstr "light"
+
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "좋아요"
+msgstr[1] "좋아요"
+
+msgid "login"
+msgstr "로그인"
+
+msgid "maximize"
+msgstr "최대화"
+
+msgid "median"
+msgstr "중앙값"
+
+msgid "menu"
+msgstr "메뉴"
+
+msgid "merge"
+msgstr "병합"
+
+msgid "messages"
+msgstr "메시지"
+
+msgid "minimize"
+msgstr "최소화"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "분"
+msgstr[1] "분"
+
+msgid "monday"
+msgstr "월요일"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "월"
+msgstr[1] "월"
+
+msgid "never"
+msgstr "never"
+
+msgid "next page"
+msgstr "다음 페이지"
+
+msgid "no description"
+msgstr "설명 없음"
+
+msgid "no information available"
+msgstr "정보가 없습니다"
+
+msgid "number"
+msgstr "단위"
+
+msgid "on"
+msgstr "on"
+
+msgid "one message per line"
+msgstr "한 줄에 하나의 메시지"
+
+msgid "page"
+msgstr "페이지"
+
+msgid "pause"
+msgstr "일시중지"
+
+msgid "personal"
+msgstr "개인"
+
+msgid "pomodoro"
+msgid_plural "pomodoros"
+msgstr[0] "뽀모도로"
+msgstr[1] "뽀모도로"
+
+msgid "pomodoros"
+msgstr "뽀모도로"
+
+msgid "preview"
+msgstr "프리뷰"
+
+msgid "previous page"
+msgstr "이전 페이지"
+
+msgid "prolong time"
+msgstr "시간 연장"
+
+msgid "rating"
+msgstr "평가순"
+
+msgid "refresh"
+msgstr "다시 읽기"
+
+msgid "registered users spend on completing pomodoros"
+msgstr "등록 사용자가 뽀모도록 완료에 사용"
+
+msgid "registered users spend on completing pomodoros today."
+msgstr "등록 사용자가 오늘 뽀모도록 완료에 사용."
+
+msgid "resume"
+msgstr "재개"
+
+msgid "saturday"
+msgstr "토요일"
+
+msgid "save"
+msgstr "저장"
+
+msgid "send password"
+msgstr "패스워드 보내기"
+
+msgid "series"
+msgstr "반복 작업"
+
+msgid "skip"
+msgstr "건너뛰기"
+
+msgid "split"
+msgstr "분할"
+
+msgid "start"
+msgstr "시작"
+
+msgid "stop"
+msgstr "중지"
+
+msgid "sunday"
+msgstr "일요일"
+
+msgid "system"
+msgstr "시스템"
+
+msgid "take a long break"
+msgstr "긴 휴식을 가지세요"
+
+msgid "take a short break"
+msgstr "짧은 휴식을 가지세요"
+
+msgid "thursday"
+msgstr "목요일"
+
+msgid "time"
+msgstr "시간"
+
+msgid "to your telegram, type `/reg` and enter a code from the bot to field bellow"
+msgstr "to your telegram, type `/reg` and enter a code from the bot to field bellow"
+
+msgid "today"
+msgstr "오늘"
+
+msgid "tomorrow"
+msgstr "내일"
+
+msgid "tuesday"
+msgstr "화요일"
+
+msgid "unknown"
+msgstr "unknown"
+
+msgid "user"
+msgstr "유저"
+
+msgid "wednesday"
+msgstr "수요일"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "주간"
+msgstr[1] "주간"
+
+msgid "were"
+msgstr "were"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "연도"
+msgstr[1] "연도"
+
+#~ msgid "Add Activity"
+#~ msgstr "アクティビティの追加"
+
+#~ msgid "Apply"
+#~ msgstr "適用"
+
+#~ msgid "April"
+#~ msgstr "4月"
+
+#~ msgid "Are you sure want to delete"
+#~ msgstr "削除してよろしいですか？"
+
+#~ msgid "At time"
+#~ msgstr "時間数"
+
+#~ msgid "August"
+#~ msgstr "8月"
+
+#~ msgid "Daily Task"
+#~ msgstr "毎日のタスクとして登録する"
+
+#~ msgid "Daily history"
+#~ msgstr "毎日の歴史"
+
+#~ msgid "Date"
+#~ msgstr "日付"
+
+#~ msgid "December"
+#~ msgstr "12月"
+
+#~ msgid "Enable Telegram Notifications"
+#~ msgstr "Telegram通知を有効にする"
+
+#~ msgid "Favorites"
+#~ msgstr "お気に入り"
+
+#~ msgid "February"
+#~ msgstr "2月"
+
+#~ msgid "Import records from CSV"
+#~ msgstr "CSVからレコードをインポートする"
+
+#~ msgid "Import/Export tasks"
+#~ msgstr "タスクのインポート/エクスポート"
+
+#~ msgid "January"
+#~ msgstr "1月"
+
+#~ msgid "July"
+#~ msgstr "7月"
+
+#~ msgid "June"
+#~ msgstr "6月"
+
+#~ msgid "Load daily tasks from Google Calendar"
+#~ msgstr "Googleカレンダーから毎日のタスクを読み込む"
+
+#~ msgid "Login to view your stats"
+#~ msgstr "ログインして統計情報を表示する"
+
+#~ msgid "Look away at something that is 6 metres away for 20 seconds"
+#~ msgstr "6メートル離れたところにあるものを20秒間見つめましょう"
+
+#~ msgid "March"
+#~ msgstr "3月"
+
+#~ msgid "May"
+#~ msgstr "5月"
+
+#~ msgid "November"
+#~ msgstr "11月"
+
+#~ msgid "October"
+#~ msgstr "10月"
+
+#~ msgid "Pin to activities"
+#~ msgstr "お気に入りに追加"
+
+#~ msgid "Please log in using a different method and connect the %1$s after"
+#~ msgstr "別の方法でログインし、%1$sを接続してください"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "Privacy Policy"
+
+#~ msgid "Repeating Task"
+#~ msgstr "繰り返しタスク"
+
+#~ msgid "Reports and notifications"
+#~ msgstr "レポートと通知"
+
+#~ msgid "Send Daily Reports"
+#~ msgstr "日報を送る"
+
+#~ msgid "Send reports on email: "
+#~ msgstr "電子メールでレポートを送信する"
+
+#~ msgid "Send reports on telegram"
+#~ msgstr "電報に関するレポートを送信する"
+
+#~ msgid "September"
+#~ msgstr "9月"
+
+#~ msgid "Sync with Google Tasks"
+#~ msgstr "Google Tasksに同期する"
+
+#~ msgid "The Pomodoro is running"
+#~ msgstr "ポモドーロ中"
+
+#~ msgid "The integration is outdated. Please reconnect."
+#~ msgstr "連携情報が古いです。連携しなおしてください。"
+
+#~ msgid "Try to complete some pomodoros above"
+#~ msgstr "上記のポモドーロを完了してください"
+
+#~ msgid "Try to mark TODO as activity or use the form above"
+#~ msgstr "TODOをアクティビティとしてマークするか、上記のフォームを使用してください。"
+
+#~ msgid "duplicate"
+#~ msgstr "複製する"
+
+#~ msgid "quarter"
+#~ msgstr "四半期"
+
+#~ msgid "record"
+#~ msgstr "記録"
+
+#~ msgid "remove categories"
+#~ msgstr "カテゴリーを削除する"
+
+#~ msgid "version"
+#~ msgstr "version"
