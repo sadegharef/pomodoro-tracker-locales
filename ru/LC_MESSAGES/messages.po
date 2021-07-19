@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-12-30 12:29+0300\n"
+"POT-Creation-Date: 2021-07-19 13:28+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -480,11 +480,8 @@ msgstr "Выбрать категорию"
 msgid "Select Dates"
 msgstr "Выбрать даты"
 
-msgid "Select a calendar to import tasks"
-msgstr "Выберите календарь для импорта задач"
-
-msgid "Select a project to import tasks"
-msgstr "Выберите проект для импорта задач"
+msgid "Select a source to import tasks"
+msgstr "Выберите источник для импорта задач"
 
 msgid "Send daily reports"
 msgstr "Отправлять ежедневные отчеты"
@@ -1092,6 +1089,9 @@ msgstr[2] "лет"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Отчеты и оповещения"
+
+#~ msgid "Select a calendar to import tasks"
+#~ msgstr "Выберите календарь для импорта задач"
 
 #~ msgid "The integration is outdated. Please reconnect."
 #~ msgstr "Интеграция просрочена. Пожалуйста переподключитесь."

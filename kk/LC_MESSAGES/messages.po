@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-12-30 12:30+0300\n"
+"POT-Creation-Date: 2021-07-19 13:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #, python-format
 msgid " Sign in with %(provider)s "
@@ -477,10 +477,7 @@ msgstr "Санатты таңдаңыз"
 msgid "Select Dates"
 msgstr "Күндерді таңдаңыз"
 
-msgid "Select a calendar to import tasks"
-msgstr "Тапсырмаларды импорттау үшін күнтізбені таңдаңыз"
-
-msgid "Select a project to import tasks"
+msgid "Select a source to import tasks"
 msgstr "Тапсырмаларды импорттау үшін жобаны таңдаңыз"
 
 msgid "Send daily reports"
@@ -1130,6 +1127,9 @@ msgstr[1] "жыл"
 
 #~ msgid "Reports and notifications"
 #~ msgstr "Есептер мен хабарландырулар"
+
+#~ msgid "Select a calendar to import tasks"
+#~ msgstr "Тапсырмаларды импорттау үшін күнтізбені таңдаңыз"
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "Күнделікті есеп жіберу"
