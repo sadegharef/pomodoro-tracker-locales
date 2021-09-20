@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-19 13:29+0300\n"
+"POT-Creation-Date: 2021-09-20 12:25+0300\n"
 "PO-Revision-Date: 2018-05-30 11:54+0800\n"
 "Last-Translator: junmo1215 <junmo1215@gmail.com>\n"
 "Language: zh\n"
@@ -81,6 +81,9 @@ msgstr "减轻开始工作时的焦虑"
 msgid "Application"
 msgstr "应用"
 
+msgid "Are you sure?"
+msgstr "你确定吗？"
+
 msgid "Ask for the permission"
 msgstr "寻求许可"
 
@@ -113,6 +116,9 @@ msgstr "类别"
 msgid "Changes saved"
 msgstr "保存更改"
 
+msgid "Clear All Data"
+msgstr "清除所有数据"
+
 msgid "Clear DONE history once per day"
 msgstr "每天清除一次已完成的记录"
 
@@ -140,6 +146,9 @@ msgstr "主题"
 msgid "Configure"
 msgstr "配置"
 
+msgid "Confirm"
+msgstr "确认"
+
 msgid "Congratulations!"
 msgstr "恭喜!"
 
@@ -160,6 +169,9 @@ msgstr "每日目标"
 
 msgid "Daily Goal Completed."
 msgstr "每日目标完成"
+
+msgid "Danger Zone"
+msgstr "危险区"
 
 msgid "Date format"
 msgstr "日期格式"
@@ -426,6 +438,9 @@ msgstr "当番茄钟/休息结束的时候发送浏览器弹窗"
 msgid "Rate the application"
 msgstr "评价申请"
 
+msgid "Reconnect"
+msgstr "重新连接"
+
 msgid "Records are empty"
 msgstr "记录为空"
 
@@ -440,6 +455,9 @@ msgstr ""
 
 msgid "Release Notes"
 msgstr "发布记录"
+
+msgid "Remove Account"
+msgstr "删除帐户"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr ""
@@ -721,6 +739,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "你已经完成你的所有任务。"
+
+msgid "You have to reconnect the integration"
+msgstr "您需要连接集成"
 
 msgid "You need to connect the integration"
 msgstr "您需要连接集成"

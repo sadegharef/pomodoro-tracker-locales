@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-19 13:28+0300\n"
+"POT-Creation-Date: 2021-09-20 12:24+0300\n"
 "PO-Revision-Date: 2017-06-21 13:06+0300\n"
 "Last-Translator: Kirill Klenov <horneds@gmail.com>\n"
 "Language: ru\n"
@@ -82,6 +82,9 @@ msgstr "Облегчения начала работы"
 msgid "Application"
 msgstr "Приложение"
 
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
 msgid "Ask for the permission"
 msgstr "Запросить разрешение"
 
@@ -116,6 +119,9 @@ msgstr "Категории"
 msgid "Changes saved"
 msgstr "Изменения сохранены"
 
+msgid "Clear All Data"
+msgstr "Удалить все данные"
+
 msgid "Clear DONE history once per day"
 msgstr "Раз в день очищать историю задач"
 
@@ -143,6 +149,9 @@ msgstr "Цветовая схема"
 msgid "Configure"
 msgstr "Настроить"
 
+msgid "Confirm"
+msgstr "Подтвердить"
+
 msgid "Congratulations!"
 msgstr "Поздравляем!"
 
@@ -163,6 +172,9 @@ msgstr "Цель на день"
 
 msgid "Daily Goal Completed."
 msgstr "Цель на день выполнена."
+
+msgid "Danger Zone"
+msgstr "Опасная зона"
 
 msgid "Date format"
 msgstr "Формат даты"
@@ -435,6 +447,9 @@ msgstr "Вызывать всплывающее окно с предупрежд
 msgid "Rate the application"
 msgstr "Оценить приложение"
 
+msgid "Reconnect"
+msgstr "Переподключить"
+
 msgid "Records are empty"
 msgstr "Записей не найдено"
 
@@ -449,6 +464,9 @@ msgstr "Пора отдохнуть"
 
 msgid "Release Notes"
 msgstr "Новости проекта"
+
+msgid "Remove Account"
+msgstr "Удалить аккаунт"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "После окончания помидора отмечать задачу выполненной"
@@ -748,6 +766,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Вы выполнили все свои задачи."
+
+msgid "You have to reconnect the integration"
+msgstr "Требуется переподключить интеграцию"
 
 msgid "You need to connect the integration"
 msgstr "Требуется подключить интеграцию"

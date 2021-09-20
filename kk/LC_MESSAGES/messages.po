@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.4.3\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-19 13:29+0300\n"
+"POT-Creation-Date: 2021-09-20 12:24+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: kk\n"
@@ -81,6 +81,9 @@ msgstr "Жұмыс бастауды жеңілдету"
 msgid "Application"
 msgstr "Қосымша іші"
 
+msgid "Are you sure?"
+msgstr "Сіз сенімдісіз бе?"
+
 msgid "Ask for the permission"
 msgstr "Рұқсат сұраңыз"
 
@@ -115,6 +118,9 @@ msgstr "Категория"
 msgid "Changes saved"
 msgstr "Сақталды"
 
+msgid "Clear All Data"
+msgstr "Барлық деректерді өшіру"
+
 msgid "Clear DONE history once per day"
 msgstr "Күніне бір рет тазарту"
 
@@ -142,6 +148,9 @@ msgstr "Безендіру"
 msgid "Configure"
 msgstr "Шұқылау"
 
+msgid "Confirm"
+msgstr "Растаңыз"
+
 msgid "Congratulations!"
 msgstr "Бәрекелді!"
 
@@ -162,6 +171,9 @@ msgstr "Күн мақсаты"
 
 msgid "Daily Goal Completed."
 msgstr "Күн мақсаты орындалды"
+
+msgid "Danger Zone"
+msgstr "Қауіпті аймақ"
 
 msgid "Date format"
 msgstr "Күн форматы"
@@ -432,6 +444,9 @@ msgstr "Қызанақ біткенде терезені шақыру"
 msgid "Rate the application"
 msgstr "Бағдарламаны бағалаңыз"
 
+msgid "Reconnect"
+msgstr "Қайта қосылыңыз"
+
 msgid "Records are empty"
 msgstr "Жазбаларыңыз жоқ"
 
@@ -446,6 +461,9 @@ msgstr ""
 
 msgid "Release Notes"
 msgstr "Жаңалықтар"
+
+msgid "Remove Account"
+msgstr "Есептік жазбаны жою"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Pomodoro аяқталған кезде TODO-ден тапсырманы алып тастаңыз"
@@ -737,6 +755,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Бар жұмыстарды аяқтадыңыз!"
+
+msgid "You have to reconnect the integration"
+msgstr "Сізге интеграцияны қосу керек"
 
 msgid "You need to connect the integration"
 msgstr "Сізге интеграцияны қосу керек"

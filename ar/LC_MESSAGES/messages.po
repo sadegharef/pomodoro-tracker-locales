@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 2.2.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-19 13:28+0300\n"
+"POT-Creation-Date: 2021-09-20 12:24+0300\n"
 "PO-Revision-Date: 2018-07-05 04:48+0200\n"
 "Last-Translator: Omar Rashad <od.freelancerr@gmail.com>\n"
 "Language: ar\n"
@@ -82,6 +82,9 @@ msgstr "تخفيف القليل المرتبط بالبدايات"
 msgid "Application"
 msgstr "تطبيق"
 
+msgid "Are you sure?"
+msgstr "هل أنت متأكد؟"
+
 msgid "Ask for the permission"
 msgstr "اطلب الإذن"
 
@@ -114,6 +117,9 @@ msgstr "التصنيفات"
 msgid "Changes saved"
 msgstr "تم حفظ التغيرات"
 
+msgid "Clear All Data"
+msgstr "مسح كافة البيانات"
+
 msgid "Clear DONE history once per day"
 msgstr "امسح السجل المنتهي مرة يوميا"
 
@@ -141,6 +147,9 @@ msgstr "لون الهيئة"
 msgid "Configure"
 msgstr "تهيئة"
 
+msgid "Confirm"
+msgstr "يتأكد"
+
 msgid "Congratulations!"
 msgstr "تهانينا!"
 
@@ -161,6 +170,9 @@ msgstr "الهدف اليومي"
 
 msgid "Daily Goal Completed."
 msgstr "تم الإنتهاء من الهدف اليومي."
+
+msgid "Danger Zone"
+msgstr "منطقة الخطر"
 
 msgid "Date format"
 msgstr "شكل التاريخ"
@@ -429,6 +441,9 @@ msgstr "إرفع صوت منبه الويب عندما يكون مؤقت الب�
 msgid "Rate the application"
 msgstr "قيم التطبيق"
 
+msgid "Reconnect"
+msgstr "أعد الاتصال"
+
 msgid "Records are empty"
 msgstr "التسجيلات فارفة"
 
@@ -443,6 +458,9 @@ msgstr "استرخ"
 
 msgid "Release Notes"
 msgstr "ملاحظات الإصدار"
+
+msgid "Remove Account"
+msgstr "إزالة الحساب"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "ازل المهمة من القائمة بعد اكتمال البومودورو"
@@ -737,6 +755,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "لقد انهيت جميع مهامك."
+
+msgid "You have to reconnect the integration"
+msgstr "تحتاج إلى ربط التكامل"
 
 msgid "You need to connect the integration"
 msgstr "تحتاج إلى ربط التكامل"

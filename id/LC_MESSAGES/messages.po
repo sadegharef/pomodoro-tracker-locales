@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 16.12.7\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-19 13:29+0300\n"
+"POT-Creation-Date: 2021-09-20 12:24+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Dafiul Haq <dafiulhaq97@gmail.com>\n"
 "Language: id\n"
@@ -81,6 +81,9 @@ msgstr "Mengurangi kecemasan saat memulai tugas baru"
 msgid "Application"
 msgstr "Aplikasi"
 
+msgid "Are you sure?"
+msgstr "Apa kamu yakin?"
+
 msgid "Ask for the permission"
 msgstr "Minta izin"
 
@@ -115,6 +118,9 @@ msgstr "Daftar kategori"
 msgid "Changes saved"
 msgstr "Perubahan disimpan"
 
+msgid "Clear All Data"
+msgstr "Hapus Semua Data"
+
 msgid "Clear DONE history once per day"
 msgstr "Bersihkan riwayat DONE sekali setiap hari"
 
@@ -142,6 +148,9 @@ msgstr "Tampilan warna"
 msgid "Configure"
 msgstr "Atur"
 
+msgid "Confirm"
+msgstr "Mengonfirmasi"
+
 msgid "Congratulations!"
 msgstr "Selamat!"
 
@@ -162,6 +171,9 @@ msgstr "Tujuan Harian"
 
 msgid "Daily Goal Completed."
 msgstr "Tujuan Harian Diselesaikan."
+
+msgid "Danger Zone"
+msgstr "Zona Bahaya"
 
 msgid "Date format"
 msgstr "Format tanggal"
@@ -436,6 +448,9 @@ msgstr "Ditampilkan ketika pomodoro/istirahat telah usai"
 msgid "Rate the application"
 msgstr "Beri nilai aplikasi"
 
+msgid "Reconnect"
+msgstr "Hubungkan kembali"
+
 msgid "Records are empty"
 msgstr "Catatan kosong"
 
@@ -450,6 +465,9 @@ msgstr "Bersantai"
 
 msgid "Release Notes"
 msgstr "Catatan Perilisan"
+
+msgid "Remove Account"
+msgstr "Menghapus akun"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Hapus tugas dari TODO ketika Pomodoro telah selesai"
@@ -753,6 +771,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Anda telah menyelesaikan seluruh tugas."
+
+msgid "You have to reconnect the integration"
+msgstr "Anda perlu menghubungkan integrasi"
 
 msgid "You need to connect the integration"
 msgstr "Anda perlu menghubungkan integrasi"

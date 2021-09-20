@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2021-07-19 13:28+0300\n"
+"POT-Creation-Date: 2021-09-20 12:24+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Antonius Golly <antonius.golly@gmail.com>\n"
 "Language: de\n"
@@ -81,6 +81,9 @@ msgstr "Angstzustände vermeiden"
 msgid "Application"
 msgstr "Anwendung"
 
+msgid "Are you sure?"
+msgstr "Bist du sicher?"
+
 msgid "Ask for the permission"
 msgstr "Bitte um Erlaubnis"
 
@@ -113,6 +116,9 @@ msgstr "Kategorien"
 msgid "Changes saved"
 msgstr "Änderungen gespeichert"
 
+msgid "Clear All Data"
+msgstr "Alle Daten löschen"
+
 msgid "Clear DONE history once per day"
 msgstr "Löschen Sie die DONE-Historie einmal am Tag"
 
@@ -140,6 +146,9 @@ msgstr "Farbthema"
 msgid "Configure"
 msgstr "Konfigurieren"
 
+msgid "Confirm"
+msgstr "Bestätigen Sie"
+
 msgid "Congratulations!"
 msgstr "Herzliche Glückwünsche!"
 
@@ -160,6 +169,9 @@ msgstr "Tagesziel"
 
 msgid "Daily Goal Completed."
 msgstr "Tagesziel abgeschlossen."
+
+msgid "Danger Zone"
+msgstr "Gefahrenzone"
 
 msgid "Date format"
 msgstr "Datumsformat"
@@ -434,6 +446,9 @@ msgstr "Führe eine Browser-Benachrichtigungen aus, wenn Pomodoro/Pause vorbei"
 msgid "Rate the application"
 msgstr "Bewerten Sie die Anwendung"
 
+msgid "Reconnect"
+msgstr "Erneut verbinden"
+
 msgid "Records are empty"
 msgstr "Einträge sind leer"
 
@@ -448,6 +463,9 @@ msgstr "Entspannen Sie Sich"
 
 msgid "Release Notes"
 msgstr "Versionshinweise"
+
+msgid "Remove Account"
+msgstr "Konto entfernen"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Entfernen Sie eine Aufgabe aus TODO, wenn Pomodoro abgeschlossen ist"
@@ -747,6 +765,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Sie haben alle Ihre Aufgaben abgeschlossen."
+
+msgid "You have to reconnect the integration"
+msgstr "Sie müssen die Integration verbinden"
 
 msgid "You need to connect the integration"
 msgstr "Sie müssen die Integration verbinden"

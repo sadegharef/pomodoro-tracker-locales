@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-19 13:29+0300\n"
+"POT-Creation-Date: 2021-09-20 12:24+0300\n"
 "PO-Revision-Date: 2017-09-05 21:51+0100\n"
 "Last-Translator: Nicolas Endredi <nicolas.endredi@gmail.com>\n"
 "Language: fr\n"
@@ -81,6 +81,9 @@ msgstr "Soulager l'angoisse de la page blanche"
 msgid "Application"
 msgstr "Application"
 
+msgid "Are you sure?"
+msgstr "Es-tu sûr?"
+
 msgid "Ask for the permission"
 msgstr "Demandez la permission"
 
@@ -115,6 +118,9 @@ msgstr "Catégories"
 msgid "Changes saved"
 msgstr "Les modifications ont été enregistrées"
 
+msgid "Clear All Data"
+msgstr "Effacer toutes les données"
+
 msgid "Clear DONE history once per day"
 msgstr "Effacer l'historique TERMINÉ une fois par jour"
 
@@ -142,6 +148,9 @@ msgstr "Thème de couleur"
 msgid "Configure"
 msgstr "Configurer"
 
+msgid "Confirm"
+msgstr "Confirmer"
+
 msgid "Congratulations!"
 msgstr "Félicitations!"
 
@@ -162,6 +171,9 @@ msgstr "Objectif Quotidien"
 
 msgid "Daily Goal Completed."
 msgstr "Objectif quotidien complété."
+
+msgid "Danger Zone"
+msgstr "Zone dangereuse"
 
 msgid "Date format"
 msgstr "Format de date"
@@ -431,6 +443,9 @@ msgstr "Affiche une alerte dans le navigateur à la fin du pomodoro ou de la pau
 msgid "Rate the application"
 msgstr "Évaluez l'application"
 
+msgid "Reconnect"
+msgstr "Se reconnecter"
+
 msgid "Records are empty"
 msgstr "Pas d'enregistrements"
 
@@ -445,6 +460,9 @@ msgstr "Se détendre"
 
 msgid "Release Notes"
 msgstr "Notes de version"
+
+msgid "Remove Account"
+msgstr "Supprimer le compte"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Supprimer une tâche de TODO lorsque Pomodoro est terminée"
@@ -743,6 +761,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Vous avez terminé toutes vos tâches."
+
+msgid "You have to reconnect the integration"
+msgstr "Vous devez connecter l'intégration"
 
 msgid "You need to connect the integration"
 msgstr "Vous devez connecter l'intégration"

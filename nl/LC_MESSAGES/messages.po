@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: antonius.goly@gmail.com\n"
-"POT-Creation-Date: 2021-07-19 13:29+0300\n"
+"POT-Creation-Date: 2021-09-20 12:24+0300\n"
 "PO-Revision-Date: 2018-10-09 07:24+0200\n"
 "Last-Translator: joranvar <bart.post@gmail.com>\n"
 "Language: nl\n"
@@ -80,6 +80,9 @@ msgstr "Onrust die te maken heeft met „beginnen” verlichten"
 msgid "Application"
 msgstr "Applicatie"
 
+msgid "Are you sure?"
+msgstr "Weet je zeker dat?"
+
 msgid "Ask for the permission"
 msgstr "Vraag toestemming"
 
@@ -114,6 +117,9 @@ msgstr "Categorieën"
 msgid "Changes saved"
 msgstr "Wijzigingen opgeslagen"
 
+msgid "Clear All Data"
+msgstr "Alle gegevens wissen"
+
 msgid "Clear DONE history once per day"
 msgstr "Verwijder DONE-geschiedenis eenmaal per dag"
 
@@ -141,6 +147,9 @@ msgstr "Thema"
 msgid "Configure"
 msgstr "Instellingen"
 
+msgid "Confirm"
+msgstr "Bevestigen"
+
 msgid "Congratulations!"
 msgstr "Gefeliciteerd!"
 
@@ -161,6 +170,9 @@ msgstr "Dagelijks doel"
 
 msgid "Daily Goal Completed."
 msgstr "Dagelijks doel behaald."
+
+msgid "Danger Zone"
+msgstr "Gevarenzone"
 
 msgid "Date format"
 msgstr "Datumformaat"
@@ -429,6 +441,9 @@ msgstr "Toon browser-alert wanneer pomodoro/pauze voobij is"
 msgid "Rate the application"
 msgstr "Beoordeel de applicatie"
 
+msgid "Reconnect"
+msgstr "Opnieuw verbinden"
+
 msgid "Records are empty"
 msgstr "records zijn leeg"
 
@@ -445,6 +460,9 @@ msgstr ""
 
 msgid "Release Notes"
 msgstr "Release Notes"
+
+msgid "Remove Account"
+msgstr "Verwijder account"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Verwijder een taak uit TODO als Pomodoro klaar is"
@@ -742,6 +760,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "U heeft al uw taken afgerond."
+
+msgid "You have to reconnect the integration"
+msgstr "U moet de integratie verbinden"
 
 msgid "You need to connect the integration"
 msgstr "U moet de integratie verbinden"

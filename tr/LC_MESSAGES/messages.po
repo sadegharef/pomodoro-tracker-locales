@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.4.6\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-19 13:29+0300\n"
+"POT-Creation-Date: 2021-09-20 12:25+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
 "Language: tr\n"
@@ -81,6 +81,9 @@ msgstr "Hedeflerinizle bağlantılı olan kaygılarınızı hafifletin"
 msgid "Application"
 msgstr "Uygulama"
 
+msgid "Are you sure?"
+msgstr "Emin misin?"
+
 msgid "Ask for the permission"
 msgstr "İzin isteyin"
 
@@ -115,6 +118,9 @@ msgstr "Kategoriler"
 msgid "Changes saved"
 msgstr "Kaydedilen değişiklikler"
 
+msgid "Clear All Data"
+msgstr "Tüm Verileri Temizle"
+
 msgid "Clear DONE history once per day"
 msgstr "DONE geçmişi günde bir kez temizle"
 
@@ -142,6 +148,9 @@ msgstr "Tema"
 msgid "Configure"
 msgstr "Yapılandır"
 
+msgid "Confirm"
+msgstr "Onaylamak"
+
 msgid "Congratulations!"
 msgstr "Tebrikler!"
 
@@ -162,6 +171,9 @@ msgstr "Günlük Gol"
 
 msgid "Daily Goal Completed."
 msgstr "Günlük gol tamamlandı."
+
+msgid "Danger Zone"
+msgstr "Tehlikeli bölge"
 
 msgid "Date format"
 msgstr "Tarih biçimi"
@@ -436,6 +448,9 @@ msgstr "Pomodoro/Mola bittiğinde tarayıcıdan uyarı ver"
 msgid "Rate the application"
 msgstr "Uygulamayı derecelendirin"
 
+msgid "Reconnect"
+msgstr "Yeniden bağlan"
+
 msgid "Records are empty"
 msgstr "Kayıtlar boş"
 
@@ -450,6 +465,9 @@ msgstr ""
 
 msgid "Release Notes"
 msgstr "Sürüm notları"
+
+msgid "Remove Account"
+msgstr "Hesabı kaldır"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Pomodoro tamamlandığında bir görevi TODO'dan kaldırma"
@@ -749,6 +767,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Tüm görevlerinizi bitirdiniz."
+
+msgid "You have to reconnect the integration"
+msgstr "Entegrasyonu bağlamanız gerekiyor"
 
 msgid "You need to connect the integration"
 msgstr "Entegrasyonu bağlamanız gerekiyor"

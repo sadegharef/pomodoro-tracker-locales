@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.1.18\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-19 13:29+0300\n"
+"POT-Creation-Date: 2021-09-20 12:24+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -83,6 +83,9 @@ msgstr "Ανακούφιση άγχους συνδεδεμένο με το ξε�
 msgid "Application"
 msgstr "Εφαρμογή"
 
+msgid "Are you sure?"
+msgstr "Είσαι σίγουρος?"
+
 msgid "Ask for the permission"
 msgstr "ζητήστε την άδεια"
 
@@ -117,6 +120,9 @@ msgstr "Κατηγορίες"
 msgid "Changes saved"
 msgstr "Η Αλλαγές αποθηκεύτηκαν"
 
+msgid "Clear All Data"
+msgstr "Εκκαθάριση όλων των δεδομένων"
+
 msgid "Clear DONE history once per day"
 msgstr "Καθάρισε την ολοκληρωμένη ιστορία μια φορά την ημέρα"
 
@@ -144,6 +150,9 @@ msgstr "Χρώμα Θέματος"
 msgid "Configure"
 msgstr ""
 
+msgid "Confirm"
+msgstr "Επιβεβαιώνω"
+
 msgid "Congratulations!"
 msgstr "Συγχαρητήρια!"
 
@@ -164,6 +173,9 @@ msgstr "Καθημερινός Στόχος"
 
 msgid "Daily Goal Completed."
 msgstr "Καθημερινός Στόχος Επιτευχθεί"
+
+msgid "Danger Zone"
+msgstr "Επικίνδυνη ζώνη"
 
 msgid "Date format"
 msgstr "Μορφή Ημερομηνίας"
@@ -438,6 +450,9 @@ msgstr ""
 msgid "Rate the application"
 msgstr "Αξιολογήστε την εφαρμογή"
 
+msgid "Reconnect"
+msgstr "Επανασύνδεση"
+
 msgid "Records are empty"
 msgstr "Τα έγγραφα ειναι άδεια"
 
@@ -454,6 +469,9 @@ msgstr "Χαλαρώστε"
 
 msgid "Release Notes"
 msgstr ""
+
+msgid "Remove Account"
+msgstr "Κατάργηση λογαριασμού"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Αφαίρεσε μια ασχολία απο το TODO οταν το Πομοντόρο έχει ολοκληρωθεί"
@@ -753,6 +771,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Έχεις τελείωση ολες της ασχολίες σου."
+
+msgid "You have to reconnect the integration"
+msgstr "Πρέπει να συνδέσετε την ενσωμάτωση"
 
 msgid "You need to connect the integration"
 msgstr "Πρέπει να συνδέσετε την ενσωμάτωση"

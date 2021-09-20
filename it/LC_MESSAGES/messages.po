@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-19 13:29+0300\n"
+"POT-Creation-Date: 2021-09-20 12:24+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -81,6 +81,9 @@ msgstr "Allevia l'ansia legata all'iniziare"
 msgid "Application"
 msgstr "Applicazione"
 
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
 msgid "Ask for the permission"
 msgstr "Chiedi il permesso"
 
@@ -115,6 +118,9 @@ msgstr "Categorie"
 msgid "Changes saved"
 msgstr "Modifiche salvate"
 
+msgid "Clear All Data"
+msgstr "Cancella tutti i dati"
+
 msgid "Clear DONE history once per day"
 msgstr "Cancellare lo storico FATTO una volta al giorno"
 
@@ -142,6 +148,9 @@ msgstr "Tema del colore"
 msgid "Configure"
 msgstr "Configura"
 
+msgid "Confirm"
+msgstr "Confermare"
+
 msgid "Congratulations!"
 msgstr "Congratulazioni!"
 
@@ -162,6 +171,9 @@ msgstr "Obiettivo Quotidiano"
 
 msgid "Daily Goal Completed."
 msgstr "Obiettivo giornaliero completato."
+
+msgid "Danger Zone"
+msgstr "Zona pericolosa"
 
 msgid "Date format"
 msgstr "Formato Data"
@@ -433,6 +445,9 @@ msgstr "Avvisa tramite un alert del browser quando termina un pomodoro o una pau
 msgid "Rate the application"
 msgstr "Valuta l'applicazione"
 
+msgid "Reconnect"
+msgstr "Riconnetti"
+
 msgid "Records are empty"
 msgstr "I record sono vuoti"
 
@@ -449,6 +464,9 @@ msgstr "Rilassati"
 
 msgid "Release Notes"
 msgstr "Note di rilascio"
+
+msgid "Remove Account"
+msgstr "Rimuovi l'account"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Rimuovere un'attività da TODO quando Pomodoro è completo"
@@ -743,6 +761,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Hai finito tutti i tuoi compiti."
+
+msgid "You have to reconnect the integration"
+msgstr "Devi connettere l'integrazione"
 
 msgid "You need to connect the integration"
 msgstr "Devi connettere l'integrazione"

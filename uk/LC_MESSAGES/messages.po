@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.3.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-19 13:29+0300\n"
+"POT-Creation-Date: 2021-09-20 12:25+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -82,6 +82,9 @@ msgstr "Полегшити бентежність перед початком р
 msgid "Application"
 msgstr "Додаток"
 
+msgid "Are you sure?"
+msgstr "Ти впевнений?"
+
 msgid "Ask for the permission"
 msgstr "Попросіть дозволу"
 
@@ -116,6 +119,9 @@ msgstr "Категорії"
 msgid "Changes saved"
 msgstr "Зміни збережено"
 
+msgid "Clear All Data"
+msgstr "Очистити всі дані"
+
 msgid "Clear DONE history once per day"
 msgstr "Очищувати історію завдань раз на день"
 
@@ -143,6 +149,9 @@ msgstr "Колірна схема"
 msgid "Configure"
 msgstr "Налаштувати"
 
+msgid "Confirm"
+msgstr "Підтвердити"
+
 msgid "Congratulations!"
 msgstr "Вітання!"
 
@@ -163,6 +172,9 @@ msgstr "Ціль на день"
 
 msgid "Daily Goal Completed."
 msgstr "Ціль на день виконано."
+
+msgid "Danger Zone"
+msgstr "Небезпечна зона"
 
 msgid "Date format"
 msgstr "Формат дати"
@@ -433,6 +445,9 @@ msgstr "Викликати спливне вікно з попередження
 msgid "Rate the application"
 msgstr "Оцініть додаток"
 
+msgid "Reconnect"
+msgstr "Підключити"
+
 msgid "Records are empty"
 msgstr "Записів не знайдено"
 
@@ -447,6 +462,9 @@ msgstr "Час відпочити"
 
 msgid "Release Notes"
 msgstr "Новини проекту"
+
+msgid "Remove Account"
+msgstr "Видалити обліковий запис"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Видалити завдання зі списку, коли Помідор закінчено"
@@ -745,6 +763,9 @@ msgstr "Ви намагаєтесь зайти за допомогою %1$s, а�
 
 msgid "You have finished all your tasks."
 msgstr "Ви завершили всі свої завдання."
+
+msgid "You have to reconnect the integration"
+msgstr "Потрібно підключити інтеграцію"
 
 msgid "You need to connect the integration"
 msgstr "Потрібно підключити інтеграцію"

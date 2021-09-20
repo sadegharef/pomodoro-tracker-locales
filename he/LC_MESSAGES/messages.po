@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 5.17.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-19 13:29+0300\n"
+"POT-Creation-Date: 2021-09-20 12:24+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: he\n"
@@ -81,6 +81,9 @@ msgstr ""
 msgid "Application"
 msgstr ""
 
+msgid "Are you sure?"
+msgstr ""
+
 msgid "Ask for the permission"
 msgstr ""
 
@@ -113,6 +116,9 @@ msgstr ""
 msgid "Changes saved"
 msgstr ""
 
+msgid "Clear All Data"
+msgstr ""
+
 msgid "Clear DONE history once per day"
 msgstr ""
 
@@ -140,6 +146,9 @@ msgstr ""
 msgid "Configure"
 msgstr ""
 
+msgid "Confirm"
+msgstr ""
+
 msgid "Congratulations!"
 msgstr ""
 
@@ -159,6 +168,9 @@ msgid "Daily Goal"
 msgstr ""
 
 msgid "Daily Goal Completed."
+msgstr ""
+
+msgid "Danger Zone"
 msgstr ""
 
 msgid "Date format"
@@ -426,6 +438,9 @@ msgstr ""
 msgid "Rate the application"
 msgstr ""
 
+msgid "Reconnect"
+msgstr ""
+
 msgid "Records are empty"
 msgstr ""
 
@@ -439,6 +454,9 @@ msgid "Relax"
 msgstr ""
 
 msgid "Release Notes"
+msgstr ""
+
+msgid "Remove Account"
 msgstr ""
 
 msgid "Remove a task from TODO when Pomodoro is complete"
@@ -720,6 +738,9 @@ msgid ""
 msgstr ""
 
 msgid "You have finished all your tasks."
+msgstr ""
+
+msgid "You have to reconnect the integration"
 msgstr ""
 
 msgid "You need to connect the integration"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 1.9.5\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-07-19 13:29+0300\n"
+"POT-Creation-Date: 2021-09-20 12:25+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -81,6 +81,9 @@ msgstr ""
 msgid "Application"
 msgstr "Ứng dụng"
 
+msgid "Are you sure?"
+msgstr "Bạn có chắc không?"
+
 msgid "Ask for the permission"
 msgstr "Yêu cầu sự cho phép"
 
@@ -115,6 +118,9 @@ msgstr "Các danh mục"
 msgid "Changes saved"
 msgstr "Thay đổi đã được lưu"
 
+msgid "Clear All Data"
+msgstr "Xóa tất cả dữ liệu"
+
 msgid "Clear DONE history once per day"
 msgstr "Xoá lịch sử HOÀN THÀNH một lần mỗi ngày"
 
@@ -142,6 +148,9 @@ msgstr ""
 msgid "Configure"
 msgstr "Cấu hình"
 
+msgid "Confirm"
+msgstr "Xác nhận"
+
 msgid "Congratulations!"
 msgstr "Chúc mừng!"
 
@@ -162,6 +171,9 @@ msgstr "Mục tiêu hằng ngày"
 
 msgid "Daily Goal Completed."
 msgstr "Mục tiêu hằng ngày đã hoàn thành."
+
+msgid "Danger Zone"
+msgstr "Khu vực nguy hiểm"
 
 msgid "Date format"
 msgstr "Định dạng ngày"
@@ -431,6 +443,9 @@ msgstr ""
 msgid "Rate the application"
 msgstr "Đánh giá ứng dụng"
 
+msgid "Reconnect"
+msgstr "Kết nối lại"
+
 msgid "Records are empty"
 msgstr ""
 
@@ -445,6 +460,9 @@ msgstr ""
 
 msgid "Release Notes"
 msgstr ""
+
+msgid "Remove Account"
+msgstr "Xoá tài khoản"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
 msgstr "Xóa tác vụ khỏi TODO khi Pomodoro hoàn tất"
@@ -726,6 +744,9 @@ msgstr ""
 
 msgid "You have finished all your tasks."
 msgstr "Bạn đã hoàn thành tất cả công việc cần làm."
+
+msgid "You have to reconnect the integration"
+msgstr "Bạn cần kết nối tích hợp"
 
 msgid "You need to connect the integration"
 msgstr "Bạn cần kết nối tích hợp"
