@@ -64,7 +64,7 @@ msgid "Add"
 msgstr "Añadir"
 
 msgid "Add TODO"
-msgstr "Añadir a TODO"
+msgstr "Añadir TODO"
 
 msgid "Add category"
 msgstr "Añadir categoría"
@@ -82,7 +82,7 @@ msgid "Application"
 msgstr "Aplicación"
 
 msgid "Are you sure?"
-msgstr "¿Está seguro?"
+msgstr "¿Estás seguro?"
 
 msgid "Ask for the permission"
 msgstr "Pide el permiso"
@@ -128,13 +128,13 @@ msgid "Clear the list"
 msgstr "Limpiar la lista"
 
 msgid "Click on a number to add more."
-msgstr "Click en un número para agregar más"
+msgstr "Clica en un número para agregar más"
 
 msgid "Click to open menu"
 msgstr "Menú abierto"
 
 msgid "Click/tap to edit items."
-msgstr "Click/toca para editar elementos."
+msgstr "Clica/toca para editar elementos."
 
 msgid "Close"
 msgstr "Cerrar"
@@ -170,7 +170,7 @@ msgid "Daily Goal"
 msgstr "Objetivo Diario"
 
 msgid "Daily Goal Completed."
-msgstr "Obiettivo giornaliero completato."
+msgstr "Objetivo diario completado."
 
 msgid "Danger Zone"
 msgstr "Zona peligrosa"
@@ -188,7 +188,7 @@ msgid "Drag&Drop/Touch to sort items."
 msgstr "Arrastra&Suelta/Toca para ordenar elementos."
 
 msgid "Due"
-msgstr ""
+msgstr "Vencido"
 
 msgid "Edit"
 msgstr "Editar"
@@ -221,7 +221,7 @@ msgid "Feedback"
 msgstr "Sugerencias"
 
 msgid "File"
-msgstr ""
+msgstr "Fichero"
 
 msgid "Fill blank entries"
 msgstr "Rellenar entradas en blanco"
@@ -233,13 +233,13 @@ msgid "Great work!"
 msgstr "¡Buen trabajo!"
 
 msgid "Help"
-msgstr ""
+msgstr "Ayuda"
 
 msgid "Hide notificaions"
 msgstr "Ocultar notificaciones"
 
 msgid "History"
-msgstr ""
+msgstr "Historial"
 
 msgid "How to fix?"
 msgstr "¿Como arreglar?"
@@ -355,10 +355,10 @@ msgid "Move to Inbox"
 msgstr "Mover a la bandeja de entrada"
 
 msgid "Navigate Back"
-msgstr ""
+msgstr "Volver atrás"
 
 msgid "Navigate Forward"
-msgstr ""
+msgstr "Ir hacia adelante"
 
 msgid "New"
 msgstr "Nuevo"
@@ -409,7 +409,7 @@ msgid "Please select a value"
 msgstr "Por favor seleccione un valor"
 
 msgid "Please unblock notifications in your browser"
-msgstr ""
+msgstr "Por favor, desbloquea las notificaciones en tu navegador"
 
 msgid "Please, login to use the feature"
 msgstr "Por favor, inicie sesión para usar la función"
@@ -418,7 +418,7 @@ msgid "Please, login to view your stats"
 msgstr "Inicia sesión para ver tus estadísticas"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
-msgstr ""
+msgstr "Pomodoro Tracker es una aplicación de productividad diseñada para tu trabajo y estudio."
 
 msgid "Pomodoro duration"
 msgstr "Duración del Pomodoro"
@@ -433,13 +433,13 @@ msgid "Press"
 msgstr "Presione"
 
 msgid "Profile"
-msgstr ""
+msgstr "Perfil"
 
 msgid "Provide Feedback"
 msgstr "Suministre realimentación"
 
 msgid "Quit"
-msgstr "Dejar"
+msgstr "Salir"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Destacar alertas del navegador cuando termina pomodoro/descanso"
@@ -510,10 +510,10 @@ msgid "Send test notification"
 msgstr "Enviar notificación de prueba"
 
 msgid "Server Error"
-msgstr ""
+msgstr "Error de Servidor"
 
 msgid "Server has been updated."
-msgstr "Servidor ha sido actualizado."
+msgstr "El servidor ha sido actualizado."
 
 msgid "Set Due"
 msgstr "Establecer vencimiento"
@@ -558,7 +558,7 @@ msgid "Sign in with %1$s"
 msgstr "Iniciar sesión con %1$s"
 
 msgid "Sleep Mode is enabled"
-msgstr "el modo de suspensión está habilitado"
+msgstr "El modo de suspensión está habilitado"
 
 msgid "Sort by"
 msgstr "Ordenar por"
@@ -576,7 +576,7 @@ msgid "Stats"
 msgstr "Estadísticas"
 
 msgid "Stay focused and finish tasks effectively."
-msgstr ""
+msgstr "Mantente concentrado y termine las tareas de manera efectiva."
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -604,10 +604,10 @@ msgid "Take a short break (3-5 minutes)"
 msgstr "Haz un breve descanso (3-5 minutos)"
 
 msgid "Take more time to your life."
-msgstr ""
+msgstr "Toma mas tiempo para tu vida."
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr "Gracias por los comentarios! Su mensaje está en espera de la moderación."
+msgstr "Gracias por los comentarios! Su mensaje está en espera de moderación."
 
 msgid "The Basics"
 msgstr "Los Principios"
@@ -622,7 +622,7 @@ msgid ""
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
 "La Técnica Pomodoro es un método de gestión de tiempo que se puede usar "
-"para cualquier tarea. Para muchos, el tiempo es un enemigo. La anxiedad "
+"para cualquier tarea. Para muchos, el tiempo es un enemigo. La ansiedad "
 "producida por los “ticks del reloj”, sobre todo si se tiene una fecha "
 "límite, conduce a hábitos de trabajo y estudio ineficaces que a su vez "
 "conducen a la procrastinación."
@@ -701,13 +701,13 @@ msgid "Title"
 msgstr "Título"
 
 msgid "Toggle eye keeper"
-msgstr ""
+msgstr "Cambiar ojo guardián "
 
 msgid "Toggle fullscreen"
-msgstr "Alternar a pantalla completa"
+msgstr "Cambiar pantalla completa"
 
 msgid "Toggle mini timer"
-msgstr "Cambia el Mini-Timer"
+msgstr "Cambiar Mini-Timer"
 
 msgid "Try to add some tasks use the form above"
 msgstr "Intenta añadir algunas tareas usando el formulario de arriba"
@@ -725,7 +725,7 @@ msgid "Update status"
 msgstr "Estado de actualización"
 
 msgid "View"
-msgstr ""
+msgstr "Vista"
 
 msgid "Volume"
 msgstr "Volumen"
@@ -734,7 +734,7 @@ msgid "What is it?"
 msgstr "¿En qué consiste?"
 
 msgid "Window"
-msgstr ""
+msgstr "Ventana"
 
 msgid "Work days"
 msgstr "Días de trabajo"
@@ -852,7 +852,7 @@ msgid "for all time"
 msgstr "para todo el tiempo"
 
 msgid "forward"
-msgstr ""
+msgstr "adelante"
 
 msgid "friday"
 msgstr "viernes"
@@ -861,7 +861,7 @@ msgid "friends"
 msgstr "amigos"
 
 msgid "global"
-msgstr ""
+msgstr "global"
 
 msgid "hour"
 msgid_plural "hours"
@@ -907,13 +907,13 @@ msgid "login"
 msgstr "iniciar sesión"
 
 msgid "maximize"
-msgstr ""
+msgstr maximizar""
 
 msgid "median"
 msgstr "mediana"
 
 msgid "menu"
-msgstr ""
+msgstr "menú"
 
 msgid "merge"
 msgstr "unir"
@@ -922,7 +922,7 @@ msgid "messages"
 msgstr "mensajes"
 
 msgid "minimize"
-msgstr ""
+msgstr "minimizar"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -965,7 +965,7 @@ msgid "pause"
 msgstr "pausa"
 
 msgid "personal"
-msgstr ""
+msgstr "personal"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
@@ -1092,7 +1092,7 @@ msgstr[1] "años"
 #~ msgstr "Seguro que quieres borrar"
 
 #~ msgid "At time"
-#~ msgstr ""
+#~ msgstr "A tiempo"
 
 #~ msgid "August"
 #~ msgstr "Agosto"
@@ -1125,7 +1125,7 @@ msgstr[1] "años"
 #~ msgstr "Importar registros de CSV"
 
 #~ msgid "Import/Export tasks"
-#~ msgstr ""
+#~ msgstr "Importar/Exportar tareas"
 
 #~ msgid "January"
 #~ msgstr "Enero"
