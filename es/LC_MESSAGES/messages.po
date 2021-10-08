@@ -36,7 +36,7 @@ msgid "%1$s stopped:"
 msgstr "%1$s detenido:"
 
 msgid "%1$s tasks were imported"
-msgstr "%1$s tareas fueron importados"
+msgstr "se han importado %1$s tareas"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -92,7 +92,7 @@ msgid ""
 "put them on the TODO list above."
 msgstr ""
 "Al comienzo de cada día, selecciona las tareas que necesitas completar y "
-"colócalas en la lista TODO de arriba."
+"colócalas en la lista PENDIENTES de arriba."
 
 msgid "Auto start breaks"
 msgstr "Inicio automático de descansos"
@@ -131,7 +131,7 @@ msgid "Click on a number to add more."
 msgstr "Clica en un número para agregar más"
 
 msgid "Click to open menu"
-msgstr "Menú abierto"
+msgstr "Hacer clic para abrir menú"
 
 msgid "Click/tap to edit items."
 msgstr "Clica/toca para editar elementos."
@@ -170,7 +170,7 @@ msgid "Daily Goal"
 msgstr "Objetivo Diario"
 
 msgid "Daily Goal Completed."
-msgstr "Objetivo diario completado."
+msgstr "Objetivo Diario cumplido."
 
 msgid "Danger Zone"
 msgstr "Zona peligrosa"
@@ -182,10 +182,10 @@ msgid "Disconnect"
 msgstr "Desconectar"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr "No comience el pomodoro siguiente si TODO está vacío"
+msgstr "No comience el pomodoro siguiente si PENDIENTES está vacío"
 
 msgid "Drag&Drop/Touch to sort items."
-msgstr "Arrastra&Suelta/Toca para ordenar elementos."
+msgstr "Arrastrar&Colocar/Tocar para ordenar elementos."
 
 msgid "Due"
 msgstr "Vencido"
@@ -326,7 +326,7 @@ msgid "Login to the service and track your progress"
 msgstr "Inicia sesión en el servicio y haz seguimiento de tu progreso"
 
 msgid "Login to the service using %1$s authentication."
-msgstr "Inicie sesión en el servicio utilizando la autenticación de %1$s."
+msgstr "Iniciar sesión en el servicio utilizando la autenticación de %1$s."
 
 msgid "Logout"
 msgstr "Salir"
@@ -342,7 +342,7 @@ msgstr "Duración del descanso largo"
 
 msgid "Look away at something that is 6 metres away for %1$s seconds"
 msgstr ""
-"Mira hacia otro lado a algo que está a 6 metros de distancia durante %1$s"
+"Mira hacia otro lado a algo que esté a 6 metros de distancia durante %1$s"
 " segundos"
 
 msgid "Mark as done"
@@ -355,10 +355,10 @@ msgid "Move to Inbox"
 msgstr "Mover a la bandeja de entrada"
 
 msgid "Navigate Back"
-msgstr "Volver atrás"
+msgstr "Retroceder"
 
 msgid "Navigate Forward"
-msgstr "Ir hacia adelante"
+msgstr "Avanzar"
 
 msgid "New"
 msgstr "Nuevo"
@@ -385,40 +385,40 @@ msgid "One minute left"
 msgstr "Queda un minuto"
 
 msgid "Pause/unpause when computer goes to sleep/idle"
-msgstr "Pausa el temporizador cuando la computadora entra en reposo"
+msgstr "Pausar/reanudar el temporizador cuando la computadora entra en reposo"
 
 msgid "Play alarm sound"
-msgstr "Sonar alarma"
+msgstr "Emitir sonido de alarma"
 
 msgid "Play ticking sound"
-msgstr "Haz sonar un tictac"
+msgstr "Hacer sonar un tictac"
 
 msgid "Play ticking sound while breaks"
-msgstr "Haz sonar un tictac durante los descansos"
+msgstr "Hacer sonar un tictac durante los descansos"
 
 msgid "Please allow notifications in your browser"
-msgstr "Permita las notificaciones en su navegador"
+msgstr "Por favor, permita las notificaciones en su navegador"
 
 msgid "Please don't send me these awesome daily reports"
-msgstr "Por favor no me envíes estos increíbles informes diarios"
+msgstr "Por favor, no me envíes estos increíbles informes diarios"
 
 msgid "Please reload the application."
-msgstr "Por favor recarga la aplicación."
+msgstr "Por favor, recargue la aplicación."
 
 msgid "Please select a value"
-msgstr "Por favor seleccione un valor"
+msgstr "Por favor, seleccione un valor"
 
 msgid "Please unblock notifications in your browser"
-msgstr "Por favor, desbloquea las notificaciones en tu navegador"
+msgstr "Por favor, desbloquee las notificaciones en su navegador"
 
 msgid "Please, login to use the feature"
 msgstr "Por favor, inicie sesión para usar la función"
 
 msgid "Please, login to view your stats"
-msgstr "Inicia sesión para ver tus estadísticas"
+msgstr "Por favor, inicie sesión para ver sus estadísticas"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
-msgstr "Pomodoro Tracker es una aplicación de productividad diseñada para tu trabajo y estudio."
+msgstr "Pomodoro Tracker es una aplicación diseñada para el trabajo y el estudio"
 
 msgid "Pomodoro duration"
 msgstr "Duración del Pomodoro"
@@ -430,7 +430,7 @@ msgid "Preferences"
 msgstr "Preferencias"
 
 msgid "Press"
-msgstr "Presione"
+msgstr "Pulse"
 
 msgid "Profile"
 msgstr "Perfil"
@@ -442,7 +442,7 @@ msgid "Quit"
 msgstr "Salir"
 
 msgid "Raise browser alert when pomodoro/break is over"
-msgstr "Destacar alertas del navegador cuando termina pomodoro/descanso"
+msgstr "Avisar en el navegador cuando termina pomodoro/descanso"
 
 msgid "Rate the application"
 msgstr "Califica la aplicación"
@@ -510,10 +510,10 @@ msgid "Send test notification"
 msgstr "Enviar notificación de prueba"
 
 msgid "Server Error"
-msgstr "Error de Servidor"
+msgstr "Error de servidor"
 
 msgid "Server has been updated."
-msgstr "El servidor ha sido actualizado."
+msgstr "Se ha actualizado el servidor."
 
 msgid "Set Due"
 msgstr "Establecer vencimiento"
@@ -528,7 +528,7 @@ msgid "Set to Later"
 msgstr "Establecer para más tarde"
 
 msgid "Set to Tomorrow"
-msgstr "Listo para mañana"
+msgstr "Establecer para mañana"
 
 msgid "Set to Week"
 msgstr "Establecer a la semana"
@@ -576,13 +576,13 @@ msgid "Stats"
 msgstr "Estadísticas"
 
 msgid "Stay focused and finish tasks effectively."
-msgstr "Mantente concentrado y termine las tareas de manera efectiva."
+msgstr "Mantén la concentración y completa las tareas con eficacia."
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
 msgstr ""
-"Fortalece tu resolución para seguir aplicándote al frente de situaciones "
+"Fortalece tu resolución para seguir aplicándote ante situaciones "
 "complejas"
 
 msgid "Support the Project"
@@ -592,22 +592,22 @@ msgid "Sync my tasks only"
 msgstr "Sincronizar solo mis tareas"
 
 msgid "TODO"
-msgstr "TODO"
+msgstr "PENDIENTES"
 
 msgid "TODO list is empty."
-msgstr "La lista TODO está vacía"
+msgstr "La lista PENDIENTES está vacía"
 
 msgid "TODO list is updated"
-msgstr "Se actualizó la lista TODO"
+msgstr "Se actualizó la lista PENDIENTES"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "Haz un breve descanso (3-5 minutos)"
 
 msgid "Take more time to your life."
-msgstr "Toma mas tiempo para tu vida."
+msgstr "Aproveche mejor el tiempo para disfrutar más de la vida."
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr "Gracias por los comentarios! Su mensaje está en espera de moderación."
+msgstr "¡Gracias por los comentarios! Su mensaje está en espera de la moderación."
 
 msgid "The Basics"
 msgstr "Los Principios"
@@ -665,19 +665,19 @@ msgid "The next Pomodoro will go better"
 msgstr "El siguiente Pomodoro será mejor"
 
 msgid "The next pomodoro will go better!"
-msgstr "El siguiente Pomodoro será mejor"
+msgstr "¡El siguiente Pomodoro será mejor!"
 
 msgid "There are completed tasks"
 msgstr "Hay tareas completadas"
 
 msgid "This Month"
-msgstr "Este Mes"
+msgstr "Este mes"
 
 msgid "This Quarter"
 msgstr "Este trimestre"
 
 msgid "This Week"
-msgstr "Esta Semana"
+msgstr "Esta semana"
 
 msgid "This Year"
 msgstr "Este año"
@@ -686,7 +686,7 @@ msgid "Time Scheme has been changed"
 msgstr "Se ha cambiado el esquema de tiempo"
 
 msgid "Time format"
-msgstr "Formato de Hora"
+msgstr "Formato de hora"
 
 msgid "Time spent"
 msgstr "Tiempo empleado"
@@ -758,7 +758,7 @@ msgid ""
 "You are trying to connect a %1$s account, but it is already connected to "
 "another user"
 msgstr ""
-"Está intentando conectar una cuenta de %1$s, pero ya está conectada a "
+"Estás intentando conectar una cuenta de %1$s, pero ya está conectada a "
 "otro usuario"
 
 msgid ""
@@ -772,7 +772,7 @@ msgid "You have finished all your tasks."
 msgstr "Has terminado todas tus tareas."
 
 msgid "You have to reconnect the integration"
-msgstr "Necesitas conectar la integración"
+msgstr "Necesitas reconectar la integración"
 
 msgid "You need to connect the integration"
 msgstr "Necesitas conectar la integración"
@@ -846,13 +846,13 @@ msgid "finish time"
 msgstr "tiempo de finalización"
 
 msgid "focus"
-msgstr "focus"
+msgstr "concentración"
 
 msgid "for all time"
 msgstr "para todo el tiempo"
 
 msgid "forward"
-msgstr "adelante"
+msgstr "avanzar"
 
 msgid "friday"
 msgstr "viernes"
@@ -901,13 +901,13 @@ msgstr "ligero"
 msgid "like"
 msgid_plural "likes"
 msgstr[0] "me gusta"
-msgstr[1] "me gustas"
+msgstr[1] "me gusta"
 
 msgid "login"
 msgstr "iniciar sesión"
 
 msgid "maximize"
-msgstr maximizar""
+msgstr "maximizar"
 
 msgid "median"
 msgstr "mediana"
@@ -979,7 +979,7 @@ msgid "preview"
 msgstr "avance"
 
 msgid "previous page"
-msgstr "pagina anterior"
+msgstr "página anterior"
 
 msgid "prolong time"
 msgstr "prolongar el tiempo"
@@ -1137,7 +1137,7 @@ msgstr[1] "años"
 #~ msgstr "Junio"
 
 #~ msgid "Load daily tasks from Google Calendar"
-#~ msgstr "Carga las tareas diarias desde Google Calendar"
+#~ msgstr "Cargar las tareas diarias desde Google Calendar"
 
 #~ msgid "Login to view your stats"
 #~ msgstr "Inicia sesión para ver tus estadísticas"
@@ -1170,7 +1170,7 @@ msgstr[1] "años"
 #~ msgstr "Informes y notificaciones"
 
 #~ msgid "Select a calendar to import tasks"
-#~ msgstr "Seleccione un calendario para importar tareas"
+#~ msgstr "Seleccionar un calendario para importar tareas"
 
 #~ msgid "Send Daily Reports"
 #~ msgstr "Enviar informes diarios"
@@ -1197,7 +1197,7 @@ msgstr[1] "años"
 #~ msgstr "Intenta completar algunos pomodoros de arriba"
 
 #~ msgid "Try to mark TODO as activity or use the form above"
-#~ msgstr "Intenta marcar TODO como actividad o usa el formulario de arriba"
+#~ msgstr "Intenta marcar PENDIENTES como actividad o usa el formulario de arriba"
 
 #~ msgid "duplicate"
 #~ msgstr "duplicar"
