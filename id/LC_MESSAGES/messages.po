@@ -82,7 +82,7 @@ msgid "Application"
 msgstr "Aplikasi"
 
 msgid "Are you sure?"
-msgstr "Apa kamu yakin?"
+msgstr "Apakah anda yakin?"
 
 msgid "Ask for the permission"
 msgstr "Minta izin"
@@ -104,7 +104,7 @@ msgid "Block screen on breaks"
 msgstr "Blokir layar ketika beristirahat"
 
 msgid "Bolster the determination to achieve your goals"
-msgstr "Mendukung tekad untuk mencapai tujuan anda"
+msgstr "Mendukung tekad untuk mencapai target anda"
 
 msgid "Boost motivation and keep it constant"
 msgstr "Mendorong motivasi dan menjaga agar tetap konstan"
@@ -167,10 +167,10 @@ msgid "Create a category"
 msgstr "Buat kategori"
 
 msgid "Daily Goal"
-msgstr "Tujuan Harian"
+msgstr "Target Harian"
 
 msgid "Daily Goal Completed."
-msgstr "Tujuan Harian Diselesaikan."
+msgstr "Target Harian Diselesaikan."
 
 msgid "Danger Zone"
 msgstr "Zona Bahaya"
@@ -612,7 +612,7 @@ msgid "The Basics"
 msgstr "Penggunaan Dasar"
 
 msgid "The Goals"
-msgstr "Tujuan"
+msgstr "Target"
 
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
@@ -630,7 +630,7 @@ msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
 msgstr ""
-"Jangan gunakan teknik ini untuk aktivitas yang biasa anda lakukanpada "
+"Jangan gunakan teknik ini untuk aktivitas yang biasa anda lakukan pada "
 "waktu senggang, nikmati waktu senggang anda!"
 
 msgid ""
@@ -738,7 +738,7 @@ msgid "Window"
 msgstr "Jendela"
 
 msgid "Work days"
-msgstr "Hari bekerja"
+msgstr "Hari kerja"
 
 msgid "Work history won`t be saved."
 msgstr "Riwayat pekerjaan tidak akan tersimpan."
@@ -773,7 +773,7 @@ msgid "You have finished all your tasks."
 msgstr "Anda telah menyelesaikan seluruh tugas."
 
 msgid "You have to reconnect the integration"
-msgstr "Anda perlu menghubungkan integrasi"
+msgstr "Anda harus menghubungkan kembali integrasi"
 
 msgid "You need to connect the integration"
 msgstr "Anda perlu menghubungkan integrasi"
@@ -873,16 +873,16 @@ msgid "if you must exit now"
 msgstr "jika anda harus keluar sekarang"
 
 msgid "in 10 seconds"
-msgstr "setelah 10 detik"
+msgstr "dalam 10 detik"
 
 msgid "in 2 seconds"
-msgstr "setelah 2 detik"
+msgstr "dalam 2 detik"
 
 msgid "in 3 seconds"
-msgstr "setelah 3 detik"
+msgstr "dalam 3 detik"
 
 msgid "in 5 seconds"
-msgstr "setelah 5 detik"
+msgstr "dalam 5 detik"
 
 msgid "in minutes"
 msgstr "dalam menit"
@@ -1090,7 +1090,7 @@ msgstr[1] "tahun"
 #~ msgstr "Pilih kalender untuk mengimpor tugas"
 
 #~ msgid "The integration is outdated. Please reconnect."
-#~ msgstr "Integrasi sudah kedaluwarsa. Tolong sambungkan ulang."
+#~ msgstr "Integrasi sudah kedaluwarsa. Tolong sambungkan kembali."
 
 #~ msgid "remove categories"
 #~ msgstr "hapus kategori"
