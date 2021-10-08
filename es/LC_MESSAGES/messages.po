@@ -64,7 +64,7 @@ msgid "Add"
 msgstr "Añadir"
 
 msgid "Add TODO"
-msgstr "Añadir a TODO"
+msgstr "Añadir TODO"
 
 msgid "Add category"
 msgstr "Añadir categoría"
@@ -82,7 +82,7 @@ msgid "Application"
 msgstr "Aplicación"
 
 msgid "Are you sure?"
-msgstr "¿Está seguro?"
+msgstr "¿Estás seguro?"
 
 msgid "Ask for the permission"
 msgstr "Pide el permiso"
@@ -128,13 +128,13 @@ msgid "Clear the list"
 msgstr "Limpiar la lista"
 
 msgid "Click on a number to add more."
-msgstr "Hacer clic en un número para agregar más"
+msgstr "Clica en un número para agregar más"
 
 msgid "Click to open menu"
 msgstr "Hacer clic para abrir menú"
 
 msgid "Click/tap to edit items."
-msgstr "Hacer clic/tocar para editar elementos."
+msgstr "Clica/toca para editar elementos."
 
 msgid "Close"
 msgstr "Cerrar"
@@ -188,7 +188,7 @@ msgid "Drag&Drop/Touch to sort items."
 msgstr "Arrastrar&Colocar/Tocar para ordenar elementos."
 
 msgid "Due"
-msgstr "Fecha de vencimiento"
+msgstr "Vencido"
 
 msgid "Edit"
 msgstr "Editar"
@@ -221,7 +221,7 @@ msgid "Feedback"
 msgstr "Sugerencias"
 
 msgid "File"
-msgstr "Archivo"
+msgstr "Fichero"
 
 msgid "Fill blank entries"
 msgstr "Rellenar entradas en blanco"
@@ -576,7 +576,7 @@ msgid "Stats"
 msgstr "Estadísticas"
 
 msgid "Stay focused and finish tasks effectively."
-msgstr "Mantén la concentración y completa las tareas con eficacia"
+msgstr "Mantén la concentración y completa las tareas con eficacia."
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -622,7 +622,7 @@ msgid ""
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
 "La Técnica Pomodoro es un método de gestión de tiempo que se puede usar "
-"para cualquier tarea. Para muchos, el tiempo es un enemigo. La anxiedad "
+"para cualquier tarea. Para muchos, el tiempo es un enemigo. La ansiedad "
 "producida por los “ticks del reloj”, sobre todo si se tiene una fecha "
 "límite, conduce a hábitos de trabajo y estudio ineficaces que a su vez "
 "conducen a la procrastinación."
@@ -701,13 +701,13 @@ msgid "Title"
 msgstr "Título"
 
 msgid "Toggle eye keeper"
-msgstr "Activar o desactivar el guardián de ojos"
+msgstr "Cambiar ojo guardián "
 
 msgid "Toggle fullscreen"
-msgstr "Alternar a pantalla completa"
+msgstr "Cambiar pantalla completa"
 
 msgid "Toggle mini timer"
-msgstr "Cambiar el mini cronómetro"
+msgstr "Cambiar Mini-Timer"
 
 msgid "Try to add some tasks use the form above"
 msgstr "Intenta añadir algunas tareas usando el formulario de arriba"
@@ -725,7 +725,7 @@ msgid "Update status"
 msgstr "Estado de actualización"
 
 msgid "View"
-msgstr "Ver"
+msgstr "Vista"
 
 msgid "Volume"
 msgstr "Volumen"
@@ -1092,7 +1092,7 @@ msgstr[1] "años"
 #~ msgstr "Seguro que quieres borrar"
 
 #~ msgid "At time"
-#~ msgstr "A la hora"
+#~ msgstr "A tiempo"
 
 #~ msgid "August"
 #~ msgstr "Agosto"
