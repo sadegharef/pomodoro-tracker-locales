@@ -30,13 +30,13 @@ msgid "%1$s paused."
 msgstr "%1$s pausado."
 
 msgid "%1$s started:"
-msgstr "%1$s começado:"
+msgstr "%1$s iniciado:"
 
 msgid "%1$s stopped:"
 msgstr "%1$s parado:"
 
 msgid "%1$s tasks were imported"
-msgstr "Foram importados %1$s tarefas"
+msgstr "Foram importadas %1$s tarefas"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
@@ -49,7 +49,7 @@ msgid "Activities"
 msgstr "Atividades"
 
 msgid "Activities list is updated"
-msgstr "A lista de atividades é atualizada"
+msgstr "A lista de atividades está atualizada"
 
 msgid "Activity by days"
 msgstr "Atividade por dias"
@@ -76,7 +76,7 @@ msgid "Add new tasks to the top"
 msgstr "Adicione novas tarefas ao topo"
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr "Alivío da ansiedade ligada a algo que está por vir"
+msgstr "Aliviar a ansiedade ligada a algo que está por vir"
 
 msgid "Application"
 msgstr "Aplicação"
@@ -91,7 +91,7 @@ msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
-"A cada inicío de dia, selecione as tarefas que você precisa completar e "
+"No início de cada dia, selecione as tarefas que você precisa completar e "
 "as coloque na lista de TAREFAS, logo abaixo:"
 
 msgid "Auto start breaks"
@@ -125,13 +125,13 @@ msgid "Clear DONE history once per day"
 msgstr "Excluir o histórico feito uma vez por dia"
 
 msgid "Clear the list"
-msgstr "Limpe a lista"
+msgstr "Limpar a lista"
 
 msgid "Click on a number to add more."
 msgstr "Clique em um número para adicionar mais."
 
 msgid "Click to open menu"
-msgstr "Menu aberto"
+msgstr "Clique para abir o menu"
 
 msgid "Click/tap to edit items."
 msgstr "Clique duplo para editar os itens."
@@ -149,7 +149,7 @@ msgid "Configure"
 msgstr "Configurar"
 
 msgid "Confirm"
-msgstr "Confirme"
+msgstr "Confirmar"
 
 msgid "Congratulations!"
 msgstr "Parabéns!"
@@ -188,7 +188,7 @@ msgid "Drag&Drop/Touch to sort items."
 msgstr "Arraste e Solte para ordená-los."
 
 msgid "Due"
-msgstr ""
+msgstr "Vencido"
 
 msgid "Edit"
 msgstr "Editar"
@@ -221,7 +221,7 @@ msgid "Feedback"
 msgstr "Comentários"
 
 msgid "File"
-msgstr ""
+msgstr "Arquivo"
 
 msgid "Fill blank entries"
 msgstr "Preencher entradas em branco"
@@ -233,13 +233,13 @@ msgid "Great work!"
 msgstr "Bom trabalho!"
 
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 msgid "Hide notificaions"
 msgstr "Esconder notificações"
 
 msgid "History"
-msgstr ""
+msgstr "Histórico"
 
 msgid "How to fix?"
 msgstr "Como consertar?"
@@ -352,10 +352,10 @@ msgid "Move to Inbox"
 msgstr "Mova para a caixa de entrada"
 
 msgid "Navigate Back"
-msgstr ""
+msgstr "Voltar"
 
 msgid "Navigate Forward"
-msgstr ""
+msgstr "Avançar"
 
 msgid "New"
 msgstr "Novo"
@@ -406,7 +406,7 @@ msgid "Please select a value"
 msgstr "Por favor selecione um valor"
 
 msgid "Please unblock notifications in your browser"
-msgstr ""
+msgstr "Favor desbloquear notificaçoes em seu navegador"
 
 msgid "Please, login to use the feature"
 msgstr "Por favor, faça o login para usar o recurso"
@@ -415,13 +415,13 @@ msgid "Please, login to view your stats"
 msgstr "Por favor, faça login para ver suas estatísticas"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
-msgstr ""
+msgstr "O Pomodoro Tracker é um aplicativo de produtividade projetado para seu trabalho e estudo"
 
 msgid "Pomodoro duration"
 msgstr "Duração do pomodoro"
 
 msgid "Pomodoro is finished"
-msgstr "O pomodoro terminou"
+msgstr "O Pomodoro terminou"
 
 msgid "Preferences"
 msgstr "Preferências"
@@ -430,7 +430,7 @@ msgid "Press"
 msgstr "Pressione"
 
 msgid "Profile"
-msgstr ""
+msgstr "Perfil"
 
 msgid "Provide Feedback"
 msgstr "Dar uma resposta"
