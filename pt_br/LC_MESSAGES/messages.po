@@ -480,7 +480,7 @@ msgid "Repeat every"
 msgstr "Repita cada"
 
 msgid "Reports Time"
-msgstr ""
+msgstr "Tempo de relatórios"
 
 msgid "Rules & Tips"
 msgstr "Regras e dicas"
@@ -507,7 +507,7 @@ msgid "Send test notification"
 msgstr "Enviar notificação de teste"
 
 msgid "Server Error"
-msgstr ""
+msgstr "Erro no servidor"
 
 msgid "Server has been updated."
 msgstr "Servidor foi atualizado"
@@ -519,7 +519,7 @@ msgid "Set Recurrence"
 msgstr "Definir recorrência"
 
 msgid "Set do not disturb"
-msgstr "Conjunto não perturbe"
+msgstr "Definir não perturbe"
 
 msgid "Set to Later"
 msgstr "Definir para mais tarde"
@@ -573,7 +573,7 @@ msgid "Stats"
 msgstr "Estatísticas"
 
 msgid "Stay focused and finish tasks effectively."
-msgstr ""
+msgstr "Mantenha-se concentrado e termine as tarefas de forma eficaz."
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -599,7 +599,7 @@ msgid "Take a short break (3-5 minutes)"
 msgstr "Faça uma pausa curta (3-5 minutos)"
 
 msgid "Take more time to your life."
-msgstr ""
+msgstr "Dedique mais tempo para sua vida."
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Obrigado pelo feedback! Sua mensagem está aguardando por moderação."
@@ -642,6 +642,8 @@ msgid ""
 "The Pomodoro Tracker — A useful tool for time management based on "
 "Pomodoro Technique."
 msgstr ""
+"O Pomodoro Tracker - Uma ferramenta útil para a gestão do tempo baseada na "
+"Técnica Pomodoro."
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
@@ -729,7 +731,7 @@ msgid "What is it?"
 msgstr "O que é isso?"
 
 msgid "Window"
-msgstr ""
+msgstr "Janela"
 
 msgid "Work days"
 msgstr "Dias trabalhados"
@@ -847,7 +849,7 @@ msgid "for all time"
 msgstr "por todos os tempos"
 
 msgid "forward"
-msgstr ""
+msgstr "avançar"
 
 msgid "friday"
 msgstr "sexta-feira"
@@ -856,7 +858,7 @@ msgid "friends"
 msgstr "amigos"
 
 msgid "global"
-msgstr ""
+msgstr "global"
 
 msgid "hour"
 msgid_plural "hours"
@@ -908,7 +910,7 @@ msgid "median"
 msgstr "mediana"
 
 msgid "menu"
-msgstr ""
+msgstr "menu"
 
 msgid "merge"
 msgstr "fundir"
@@ -917,7 +919,7 @@ msgid "messages"
 msgstr "mensagens"
 
 msgid "minimize"
-msgstr ""
+msgstr "minimizar"
 
 msgid "minute"
 msgid_plural "minutes"
